@@ -242,8 +242,8 @@
     },
     {
       "file": "results/EXP-P3-GEOMETRY-CENTERED-SHRINKAGE-CONTROL-DEV-20261029.json",
-      "bytes": 315622,
-      "sha256": "320603c1caca32ffd3bbb153261550be677fb8f5f4612557ceb774dbb6521b30"
+      "bytes": 315164,
+      "sha256": "1ba1f4b3cee74598226349850c42891ff69478a348459ac0c3474f8d6c6ced2f"
     },
     {
       "file": "results/EXP-P3-RESPONSE-EXISTING-RGB-SEEDS-CPU-20261028.json",
@@ -262,13 +262,13 @@
     },
     {
       "file": "results/paper_evidence/calibration_OOF_reconstruction_20261101.json",
-      "bytes": 1685,
-      "sha256": "2fabf7de826958ca1c310885fcdcc99ed8515df06991cbb47ab7e9c2b2c83768"
+      "bytes": 1696,
+      "sha256": "0c14cf5b9cafc3e957d5524732a27fc6dd9244e8f7f40b3a6792c34fb8ec56cb"
     },
     {
       "file": "results/paper_evidence/component_effects_and_CI_tables_20261031.json",
-      "bytes": 7056,
-      "sha256": "a19bb423eae024a083038a63fcad2945088eabbf080fccd680de4a42a8ce86cd"
+      "bytes": 7089,
+      "sha256": "592c6468845b799a171eadffec376ce0a92fc87abb4f4ee0e0a4a76f1fca28f2"
     },
     {
       "file": "results/paper_evidence/EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030__ALL_SELECTED_HEADS_BEFORE_V.json",
@@ -282,8 +282,8 @@
     },
     {
       "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__ALL9_C_HEADS_BEFORE_V.json",
-      "bytes": 124804,
-      "sha256": "a8c5bafafc7f11b07a882acf515e8caffd27b10890e0525bbe10228ef551ee39"
+      "bytes": 126253,
+      "sha256": "b5bb53a12e557bb4a4e0c5f692dbc96604185ff513a8b8caa37f79d513e24af3"
     },
     {
       "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__C_SCORES.npz",
@@ -292,8 +292,8 @@
     },
     {
       "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__NORMAL_HOLD_MECHANISM_RESULTS.json",
-      "bytes": 24282,
-      "sha256": "0643f4255aaee8e20269edb45fd2995e9a0057cd03f07f9484d68f7300752f95"
+      "bytes": 24285,
+      "sha256": "15c31a230646879a22ab0d4b866db10d563f6cb41c0b9c512e031f2c53825bde"
     },
     {
       "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__PAIRED_BOOTSTRAP_IMPLEMENTATION_PREFLIGHT.json",
@@ -312,13 +312,13 @@
     },
     {
       "file": "results/paper_evidence/EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030__ALL_MATCHED_C_HEADS_BEFORE_NEW_V.json",
-      "bytes": 593257,
-      "sha256": "a250ac43cccbdf7b2eaf65fca5d9928c2634a1f56d853b4b1e9ee041f43f5319"
+      "bytes": 586579,
+      "sha256": "b58222213e53637e70cde5c40c61521255d0257ee9c70e7403be31afbafc7059"
     },
     {
       "file": "results/paper_evidence/EXP-P3-EXISTING-SEED-PAIRED-EFFECTS-DEV-20261029__results.json",
-      "bytes": 380159,
-      "sha256": "57fb27870c033ac3ba80f1a97245d810bdcc7781868087a6e4870308e3ca8edc"
+      "bytes": 380206,
+      "sha256": "64073a58231e35f97f3fe98bf835c7614d537d50ea9d65152d8a34f843ff32a2"
     },
     {
       "file": "results/paper_evidence/EXP-P3-FIXED-GEOMETRY-RGB-RESIDUAL-C63-DEV-20261029__GLOBAL_CONTROL_RESULTS.json",
@@ -337,13 +337,13 @@
     },
     {
       "file": "results/paper_evidence/EXP-P3-GEOMETRY-CENTERED-SHRINKAGE-CONTROL-DEV-20261029__results.json",
-      "bytes": 314893,
-      "sha256": "fee11fe29ff585baf1c904a8cc9f0824d8cf8a19ef0c6795373df0349573dc3d"
+      "bytes": 315164,
+      "sha256": "1ba1f4b3cee74598226349850c42891ff69478a348459ac0c3474f8d6c6ced2f"
     },
     {
       "file": "results/paper_evidence/EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__ALL_C_SELECTED_HEADS_BEFORE_V.json",
-      "bytes": 1893147,
-      "sha256": "d721f291b624a918579ea3d285ca63f1d2e0d10a7b5477edca124f1397eeb1d7"
+      "bytes": 1893367,
+      "sha256": "fbb8e2476bb0fc10087450b07a7ac8e78739800c7e849d2f58fcdc1ee79dfea6"
     },
     {
       "file": "results/paper_evidence/EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__METRIC_AND_FIXED_HEAD_REPLAY.json",
@@ -372,28 +372,28 @@
     },
     {
       "file": "results/paper_evidence/Figure7_release_roi_20261101.json",
-      "bytes": 9144,
-      "sha256": "096187fcdda266f8c8d97bedfecd52ac42c24506c1d8b98981e49527a40e6345"
+      "bytes": 8855,
+      "sha256": "0880b93a84493d193138da6ed45fca5b982411d7a460a0d95d9b7f75cc5b0d13"
     },
     {
       "file": "results/paper_evidence/frozen_spatial_examples_20261101.json",
-      "bytes": 2431,
-      "sha256": "66a99614b6f17fb9a07562285ce1850a3f3344719459fbfe0088b4b43924b377"
+      "bytes": 2399,
+      "sha256": "5832533c6b12fa5777249182652be2838c3f3ad60a78ca156813a84c46955036"
     },
     {
       "file": "results/paper_evidence/INDEX.json",
       "bytes": 17392,
-      "sha256": "cc7a8e2a353bea3d12c01a8ca927c63a7101806af26544ca05646f17067fa0c8"
+      "sha256": "eff0a62655e3022eb487e2602cf1517f4f746202c93c79e0e30d5af77e0afaeb"
     },
     {
       "file": "results/paper_evidence/score_correlation_analysis_20261031.json",
-      "bytes": 20032,
-      "sha256": "7cbd97a9c08729fe288e8525ead26c12c3f10e76ea03cc400d151bbf287ecd33"
+      "bytes": 20054,
+      "sha256": "eedabded8682da8e72feaccb8f998d0a28813bf1da5be7985c71ac1fb6db2200"
     },
     {
       "file": "results/paper_evidence/topk_support_audit_20261101.json",
-      "bytes": 2105,
-      "sha256": "dbf7c815dc7413a806b1ce77e9b2e943e13503b62f1c642a7cb70f8caa9b1d67"
+      "bytes": 2149,
+      "sha256": "ea93a13e6f9214bec12cf6870f323f5bfeb98a0594d3ac5716fdac947fa58c83"
     },
     {
       "file": "results/pdreal_fixed_replication_results.json",
@@ -432,5 +432,5 @@
     }
   ],
   "total_files": 86,
-  "total_bytes": 19397775
+  "total_bytes": 19392418
 }
