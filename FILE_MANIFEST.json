@@ -17,8 +17,8 @@
     },
     {
       "file": "docs/DATA.md",
-      "bytes": 1071,
-      "sha256": "a7fc0012dd97ee7254db904718fe845f1b9ede7829e6837f6e943a2c180a35d6"
+      "bytes": 2841,
+      "sha256": "a556dc40abc4566ce4ecd4e71b88648f499ecccf6f93835f46a6e91bef9c8f4d"
     },
     {
       "file": "docs/PAPER_ASSET_COVERAGE.md",
@@ -27,8 +27,8 @@
     },
     {
       "file": "README.md",
-      "bytes": 1383,
-      "sha256": "3577bcfbc8e2311f0c5f72c86fc61b6362d8aa739f8a5e88fe1f5e21347e639b"
+      "bytes": 3407,
+      "sha256": "951be7379c81e1da169f22b5f9d6489b384f3f9cc02594bf817e9ff4926a6bbd"
     },
     {
       "file": "reproducibility/external_effect_records.json",
@@ -432,5 +432,5 @@
     }
   ],
   "total_files": 86,
-  "total_bytes": 19393981
+  "total_bytes": 19397775
 }
