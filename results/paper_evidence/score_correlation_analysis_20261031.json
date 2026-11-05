@@ -54,8 +54,8 @@
   "robustness": "Leave-one-observation-out rho for everypair; simultaneous removal of ceil(5%n) highest individual LOO-influence points is descriptive stress test; all original points retained in main statistics.",
   "scope": "Fixed fitted predictors, one record per registered group; physical identities remain unverified. Normal-only association measures score ordering, not detection gain, causal contribution or statistical independence.",
   "sources_sha256": {
-    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030/attempt001/ALL_MATCHED_LOGITS.npz": "2e728f966b670c1bc0e6ff0ca305a739c5a2777b1119fd0d6861b99d5111c2ce",
-    "${DRIVE_D}/论文三/论文三交付/行文绘图/研究依据/图表数据/normal_reference_pairs.csv": "5d6adde5c3ca189653140c93dbe059cfd99b2db9207d65e0c1c6848aef423956"
+    "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030/attempt001/ALL_MATCHED_LOGITS.npz": "2e728f966b670c1bc0e6ff0ca305a739c5a2777b1119fd0d6861b99d5111c2ce",
+    "${DRIVE_D}/paper3/paper3_delivery/manuscript_and_figures/research_evidence/figure_data/normal_reference_pairs.csv": "5d6adde5c3ca189653140c93dbe059cfd99b2db9207d65e0c1c6848aef423956"
   },
   "results": [
     {

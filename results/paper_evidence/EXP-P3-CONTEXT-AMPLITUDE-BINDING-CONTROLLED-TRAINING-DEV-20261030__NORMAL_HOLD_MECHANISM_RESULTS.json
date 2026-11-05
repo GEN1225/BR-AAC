@@ -638,7 +638,7 @@
   "probability_fits": 0,
   "real_anomaly_array_reads": 0,
   "device": "CPU_float32",
-  "code": "${DRIVE_F}/论文一~五/03_代码/analysis/p3_context_amplitude_binding_mechanism_cpu_20261030.py",
+  "code": "${DRIVE_F}/research_workspace/03_code/analysis/p3_context_amplitude_binding_mechanism_cpu_20261030.py",
   "code_sha256": "0be7dd577c0ff1e5839272afc2479e467b954f8815de90e1c14fc3fd821ef1e7",
   "scope": "Predeclared diagnostics of all3arms/2seeds/2stages; fixed132normalgroups/twoCPU replicas, not independent confirmation or newtaskscore"
 }

@@ -11977,22 +11977,22 @@
       "published_defect_type": "hole",
       "mask_compatible": false,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0017/audio_jack_socket_0017_NG_hole_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0017/audio_jack_socket_0017_NG_hole_RGBL01_00000000000000.jpg",
         "sha256": "004194732c3bc1f79488ee6c7f1f90688cb0f03874849e6fdd4dd9123e82a63b",
         "bytes": 441895,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0017/audio_jack_socket_0017_NG_hole_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0017/audio_jack_socket_0017_NG_hole_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0017/audio_jack_socket_0017_NG_hole_XYZ_00000000000000.tiff",
         "sha256": "2e26c97197d3d2e1cc8c4d27695ab4fd52b5f62beebee4ea2846bd14e0acaf9f",
         "bytes": 31609836,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0017/audio_jack_socket_0017_NG_hole_XYZ_00000000000000.tiff"
       },
       "source_record_index": 16,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/00288caed56ac900a307b93deaab3d7a3639220f224d08db10d73be51b588d02.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/00288caed56ac900a307b93deaab3d7a3639220f224d08db10d73be51b588d02.npz",
         "sha256": "d538b0e6eae621968ae5c87fea99916394c25dbbc640a2b91bf867ebdb783b1c"
       },
       "normal_subrole": "NONE",
@@ -12008,22 +12008,22 @@
       "published_defect_type": "porosity",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0014/audio_jack_socket_0014_NG_porosity_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0014/audio_jack_socket_0014_NG_porosity_RGBL01_00000000000000.jpg",
         "sha256": "1dbb04d9a625c7124879aef2f4327651c5fd83772b769fce063a6411eef14ad1",
         "bytes": 451880,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0014/audio_jack_socket_0014_NG_porosity_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0014/audio_jack_socket_0014_NG_porosity_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0014/audio_jack_socket_0014_NG_porosity_XYZ_00000000000000.tiff",
         "sha256": "fd9a0f4f4470ddbcc6983363f1884b19ded15500692ed33d37298b8a281cdc06",
         "bytes": 30070956,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0014/audio_jack_socket_0014_NG_porosity_XYZ_00000000000000.tiff"
       },
       "source_record_index": 88,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/0294247576a5ca0a313c09caec740b9696200e15936f4d072e2059f43013fcc7.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/0294247576a5ca0a313c09caec740b9696200e15936f4d072e2059f43013fcc7.npz",
         "sha256": "db3e2fca3ce8b384fe5f8855015373e82d2861bd8e13eeb9091dd31aa626c53a"
       },
       "normal_subrole": "NONE",
@@ -12039,22 +12039,22 @@
       "published_defect_type": "porosity",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0008/audio_jack_socket_0008_NG_porosity_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0008/audio_jack_socket_0008_NG_porosity_RGBL01_00000000000000.jpg",
         "sha256": "2506f7b6fa1739007fb1ce0037673d0856aefd662186e2897800cca945714dd4",
         "bytes": 440869,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0008/audio_jack_socket_0008_NG_porosity_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0008/audio_jack_socket_0008_NG_porosity_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0008/audio_jack_socket_0008_NG_porosity_XYZ_00000000000000.tiff",
         "sha256": "d45645f7acc230c0169b5a501a1b733cdc6e00b38b3bb0bd6f3ea1e7e03db6e1",
         "bytes": 29203488,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0008/audio_jack_socket_0008_NG_porosity_XYZ_00000000000000.tiff"
       },
       "source_record_index": 82,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/0726ceac2169f3bd9e861404f4cbb046718477da3279a819a921485adb70de03.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/0726ceac2169f3bd9e861404f4cbb046718477da3279a819a921485adb70de03.npz",
         "sha256": "0e64cff270db76f07cfeba365b3a176019a675e8774be5d7f44526f2d56d46ca"
       },
       "normal_subrole": "NONE",
@@ -12070,22 +12070,22 @@
       "published_defect_type": "porosity",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0018/audio_jack_socket_0018_NG_porosity_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0018/audio_jack_socket_0018_NG_porosity_RGBL01_00000000000000.jpg",
         "sha256": "3f2ede6abaa8d66d28b37b3a2e2f3dcf2969b42cac32d9d41c9867b893b4af2d",
         "bytes": 433792,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0018/audio_jack_socket_0018_NG_porosity_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0018/audio_jack_socket_0018_NG_porosity_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0018/audio_jack_socket_0018_NG_porosity_XYZ_00000000000000.tiff",
         "sha256": "276c1089deb377c871ab99fc870edc60ac1b582649d018d8c8b4718d0b472e43",
         "bytes": 29240940,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0018/audio_jack_socket_0018_NG_porosity_XYZ_00000000000000.tiff"
       },
       "source_record_index": 92,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/099a7833e90cba1d80491f96cfc91fd40e0d8bbfa6fd3372109cc7938f7359bb.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/099a7833e90cba1d80491f96cfc91fd40e0d8bbfa6fd3372109cc7938f7359bb.npz",
         "sha256": "7c658215400455aa1001615115d864ec8a1a6af1795de6fbdf910f48df2e19dc"
       },
       "normal_subrole": "NONE",
@@ -12101,22 +12101,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0009/humidity_sensor_0009_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0009/humidity_sensor_0009_OK_RGBL01_00000000000000.jpg",
         "sha256": "1b2aa6fc45713dabe799511c98d6d46158fe69abe78c4ce94f2433b062955607",
         "bytes": 518958,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0009/humidity_sensor_0009_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0009/humidity_sensor_0009_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0009/humidity_sensor_0009_OK_XYZ_00000000000000.tiff",
         "sha256": "2d9950b54ffd140b1e3f71857e2ad8497199a22530f53764baf7ee725691983b",
         "bytes": 56924496,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0009/humidity_sensor_0009_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 258,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/18c1eea8ba74b4d13dbec7b7c438ac9be28e64c003ba6526ea803199952a14f1.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/18c1eea8ba74b4d13dbec7b7c438ac9be28e64c003ba6526ea803199952a14f1.npz",
         "sha256": "aa3f1827a9346b6dc8c920e89e9ab7b7aa5861cf2cfb438ae135f49bafc1f2de"
       },
       "normal_subrole": "NONE",
@@ -12132,22 +12132,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0006/lego_propeller_0006_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0006/lego_propeller_0006_OK_RGBL01_00000000000000.jpg",
         "sha256": "1df714c9e4e6580f820c5bf7cedb6562eb5e818a919b0eac9f7c88fefc270d7a",
         "bytes": 710558,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0006/lego_propeller_0006_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0006/lego_propeller_0006_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0006/lego_propeller_0006_OK_XYZ_00000000000000.tiff",
         "sha256": "4d4316ee2e94a117131990a576d5021c2bf77b0fcf9c073100a82c58c3012149",
         "bytes": 73686096,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0006/lego_propeller_0006_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 355,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/2fd1513ec6bf79d7169826879d894572eca3b82d64b3034d6f9cc0f90bd624f2.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/2fd1513ec6bf79d7169826879d894572eca3b82d64b3034d6f9cc0f90bd624f2.npz",
         "sha256": "042acd451fb845fb83bc3be65ddd7cd639f72c1cfad8918931bfea3035ca6d2a"
       },
       "normal_subrole": "NONE",
@@ -12163,22 +12163,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0022/lego_propeller_0022_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0022/lego_propeller_0022_OK_RGBL01_00000000000000.jpg",
         "sha256": "bd0f52a93b1af86c0850d1401890f270751f6c807ce6a4bb6919bdd75ef42803",
         "bytes": 728574,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0022/lego_propeller_0022_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0022/lego_propeller_0022_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0022/lego_propeller_0022_OK_XYZ_00000000000000.tiff",
         "sha256": "411b2b779d1c27fa7f75f25599048be75da3b94dc766c0c186aa23cebd96719d",
         "bytes": 72796716,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0022/lego_propeller_0022_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 371,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/3171a219de007115a797676e1dfcbd0d0083714cb0c29d350e01e60454ec24f7.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/3171a219de007115a797676e1dfcbd0d0083714cb0c29d350e01e60454ec24f7.npz",
         "sha256": "5b0752896200180e6dfeb6f4d2b5ea90ee34880d111534a3f3c019a06065f296"
       },
       "normal_subrole": "NONE",
@@ -12194,22 +12194,22 @@
       "published_defect_type": "oil_stain",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0010/humidity_sensor_0010_NG_oil_stain_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0010/humidity_sensor_0010_NG_oil_stain_RGBL01_00000000000000.jpg",
         "sha256": "f364fe5dcb5f3faa91fbfd3c12244aac5f1029bee7a9f9b854578df9165757a5",
         "bytes": 524961,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0010/humidity_sensor_0010_NG_oil_stain_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0010/humidity_sensor_0010_NG_oil_stain_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0010/humidity_sensor_0010_NG_oil_stain_XYZ_00000000000000.tiff",
         "sha256": "5652031c2329b074fa4c5d41ecc9f2d80aa5dd7b0a642e8ce3e9f1953940c282",
         "bytes": 55676880,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0010/humidity_sensor_0010_NG_oil_stain_XYZ_00000000000000.tiff"
       },
       "source_record_index": 184,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/3527a18782254f006f7bf13cd6271371d179963566f2cb1a55b527a1798d94d3.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/3527a18782254f006f7bf13cd6271371d179963566f2cb1a55b527a1798d94d3.npz",
         "sha256": "29b795292b8f3afc347684439b66f939e870bfaaf8ef193d4794f6bd02e3ec7b"
       },
       "normal_subrole": "NONE",
@@ -12225,22 +12225,22 @@
       "published_defect_type": "oil_stain",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0021/humidity_sensor_0021_NG_oil_stain_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0021/humidity_sensor_0021_NG_oil_stain_RGBL01_00000000000000.jpg",
         "sha256": "8832c741dc1e835634ad55d8d8df8897fcfda3ef1d2ddbff9501a8a7663be88d",
         "bytes": 574473,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0021/humidity_sensor_0021_NG_oil_stain_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0021/humidity_sensor_0021_NG_oil_stain_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0021/humidity_sensor_0021_NG_oil_stain_XYZ_00000000000000.tiff",
         "sha256": "aacf69d52e54f119f99d387e6ba630af5f95c640ac1dac71e5a2eb2f06fc91a7",
         "bytes": 56976780,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0021/humidity_sensor_0021_NG_oil_stain_XYZ_00000000000000.tiff"
       },
       "source_record_index": 195,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/3f69fde13acd923d8472b4f1aabc19319c69b26b75eb8daaa198ca51a8d68e9e.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/3f69fde13acd923d8472b4f1aabc19319c69b26b75eb8daaa198ca51a8d68e9e.npz",
         "sha256": "e21e250b80043dd3452e70f97a0163ab54b7317a6764a310d369402d382a5128"
       },
       "normal_subrole": "NONE",
@@ -12256,22 +12256,22 @@
       "published_defect_type": "hole",
       "mask_compatible": false,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0014/audio_jack_socket_0014_NG_hole_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0014/audio_jack_socket_0014_NG_hole_RGBL01_00000000000000.jpg",
         "sha256": "7e55465336b4b94a8d9d1c849d4ba958cfaa99fdc4c6e9302d4e6cb6a7e228b4",
         "bytes": 443518,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0014/audio_jack_socket_0014_NG_hole_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0014/audio_jack_socket_0014_NG_hole_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0014/audio_jack_socket_0014_NG_hole_XYZ_00000000000000.tiff",
         "sha256": "e1968df0466fd61f162339ae8cd9d450a74902692abc3b79e464243e82838a57",
         "bytes": 31648800,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0014/audio_jack_socket_0014_NG_hole_XYZ_00000000000000.tiff"
       },
       "source_record_index": 13,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/402af5cf4e2664efe61d87b7a81f36e555c03774241389619050b1b2efefb730.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/402af5cf4e2664efe61d87b7a81f36e555c03774241389619050b1b2efefb730.npz",
         "sha256": "d9e0366b5be719529e28f396f67565d674e81974bae03dcb0a93ff91009c0459"
       },
       "normal_subrole": "NONE",
@@ -12287,22 +12287,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0004/humidity_sensor_0004_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0004/humidity_sensor_0004_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "f4cc861493ee2cd64339d8b67a029ed2838fdc08013f9e9e819ffae95dfda0a1",
         "bytes": 515585,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0004/humidity_sensor_0004_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0004/humidity_sensor_0004_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0004/humidity_sensor_0004_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "6c8cb41caf45369e8946b25c86895494b4dcd155a39c8b1840cb698f4ce30d5d",
         "bytes": 53678988,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0004/humidity_sensor_0004_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 228,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/47a72bdc592ca8788892b568ee3341574fb510d597536e82d69779119d97731d.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/47a72bdc592ca8788892b568ee3341574fb510d597536e82d69779119d97731d.npz",
         "sha256": "5ec4941090e732fefe5f19f8db6d70a044d4f4b2ecd1a7550df56e0add966108"
       },
       "normal_subrole": "NONE",
@@ -12318,22 +12318,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0020/lego_propeller_0020_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0020/lego_propeller_0020_OK_RGBL01_00000000000000.jpg",
         "sha256": "8c2a56709ff19b082dd2031625473868975a012fb94ab0cde8268775a744e7be",
         "bytes": 727124,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0020/lego_propeller_0020_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0020/lego_propeller_0020_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0020/lego_propeller_0020_OK_XYZ_00000000000000.tiff",
         "sha256": "b4d9f93d14048e212a00ed9c4da3caacac62282e6b4af7892f549e73a9c5e0f4",
         "bytes": 71971500,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0020/lego_propeller_0020_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 369,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/4c8377b61ce655393dd5ead6ce01d2557397945a27ee7f8bdf6e8a522a61d416.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/4c8377b61ce655393dd5ead6ce01d2557397945a27ee7f8bdf6e8a522a61d416.npz",
         "sha256": "5d4a31bc188e9ac409b3a7989e1cd4a8e95efe77dd347c845e18d33d52f2f4de"
       },
       "normal_subrole": "NONE",
@@ -12349,22 +12349,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0025/humidity_sensor_0025_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0025/humidity_sensor_0025_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "d54397ccc9b6c8b0bc30d7cde3282c239d33478f54dc26c2bf861a53752bc9b1",
         "bytes": 525388,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0025/humidity_sensor_0025_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0025/humidity_sensor_0025_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0025/humidity_sensor_0025_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "37648bac24c227c9335eeade25ae85f5f954adf2ebb407f99ebd87be29df88e3",
         "bytes": 54289836,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0025/humidity_sensor_0025_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 249,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/4da1b0d994b05918efa84291cd431eb51764611853853e874acef2d4ebb00179.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/4da1b0d994b05918efa84291cd431eb51764611853853e874acef2d4ebb00179.npz",
         "sha256": "b0ac8b6a2538e00f6a69bb25496b22e29c7880bd54dd2de022c6b96eb23f255d"
       },
       "normal_subrole": "NONE",
@@ -12380,22 +12380,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0016/audio_jack_socket_0016_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0016/audio_jack_socket_0016_OK_RGBL01_00000000000000.jpg",
         "sha256": "1d3ac5121a538b6e532c007e88642f6212a354eae0552c2d981463ff17988ac7",
         "bytes": 437647,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0016/audio_jack_socket_0016_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0016/audio_jack_socket_0016_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0016/audio_jack_socket_0016_OK_XYZ_00000000000000.tiff",
         "sha256": "9807b3da7bedc866b0ea57b25397f31872a3b313c07c0114ff893f1d8ec5b96c",
         "bytes": 28496460,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0016/audio_jack_socket_0016_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 140,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/530156bd3cbc7ffbc477b5b8e5b979bc3141c610db958ad0957eadffb398769a.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/530156bd3cbc7ffbc477b5b8e5b979bc3141c610db958ad0957eadffb398769a.npz",
         "sha256": "35602a236315a44c165c937d70013e5163681fdeee06fd4851328bc6e8d2d5a0"
       },
       "normal_subrole": "NONE",
@@ -12411,22 +12411,22 @@
       "published_defect_type": "oil_stain",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0007/humidity_sensor_0007_NG_oil_stain_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0007/humidity_sensor_0007_NG_oil_stain_RGBL01_00000000000000.jpg",
         "sha256": "ee5893646778026527e7879cf50d9bab3df521ec250ac605f46c32ebae651633",
         "bytes": 579700,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0007/humidity_sensor_0007_NG_oil_stain_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0007/humidity_sensor_0007_NG_oil_stain_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0007/humidity_sensor_0007_NG_oil_stain_XYZ_00000000000000.tiff",
         "sha256": "7bac459d8074937e5781ec93fbe2c2fba8925c120d0ca1e712ab3b29792a113f",
         "bytes": 59782176,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0007/humidity_sensor_0007_NG_oil_stain_XYZ_00000000000000.tiff"
       },
       "source_record_index": 181,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5379c88d29c5c3545f29ac7fe1fe7fa4d42318b092377b68311c86974c52ec47.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5379c88d29c5c3545f29ac7fe1fe7fa4d42318b092377b68311c86974c52ec47.npz",
         "sha256": "dae3015ccaba1d5644c5523fdde17f5c0dc1a30dc115f6dbd25120e363f52d83"
       },
       "normal_subrole": "NONE",
@@ -12442,22 +12442,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0009/humidity_sensor_0009_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0009/humidity_sensor_0009_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "cd15a1580952597e0f4e3e9e868b3d76719ec0dd75839fb6530b9efbe142d408",
         "bytes": 532010,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0009/humidity_sensor_0009_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0009/humidity_sensor_0009_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0009/humidity_sensor_0009_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "c5fef68cd573e66aef99901342843773a39b6042323dff8e20276267ed9b99e2",
         "bytes": 53223120,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0009/humidity_sensor_0009_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 233,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5446ed4618551ea53758c2496d926c29e4448a18aa45f7de69bd1d4cc3bbb3fb.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5446ed4618551ea53758c2496d926c29e4448a18aa45f7de69bd1d4cc3bbb3fb.npz",
         "sha256": "7c5b28b40949d27e038d709739239656f365e15d60d0251d0b241601e370ebb0"
       },
       "normal_subrole": "NONE",
@@ -12473,22 +12473,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0001/humidity_sensor_0001_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0001/humidity_sensor_0001_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "f8531730c0385d31a110d1768d66c20f7e5c544cb46a32daa99f3caf19387a9f",
         "bytes": 536061,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0001/humidity_sensor_0001_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0001/humidity_sensor_0001_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0001/humidity_sensor_0001_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "debed962561bcdc58854c415960231e7d699a8172fdf5d43b6cac98a188d0c0b",
         "bytes": 54698988,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0001/humidity_sensor_0001_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 225,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5568ad8dd71f42db0f198c0581100a22cb50bb83451ff1d80857ad4e146db292.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5568ad8dd71f42db0f198c0581100a22cb50bb83451ff1d80857ad4e146db292.npz",
         "sha256": "7b957d9ac44e4a43a7e94bdbcd9bb82843fe88b783ae2637060c2a8a38be5e0d"
       },
       "normal_subrole": "NONE",
@@ -12504,22 +12504,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0017/audio_jack_socket_0017_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0017/audio_jack_socket_0017_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "758bb7721a433dab2025aabbd7f09ac003646345c0d1618af7dda68cec4c3e8e",
         "bytes": 409036,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0017/audio_jack_socket_0017_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0017/audio_jack_socket_0017_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0017/audio_jack_socket_0017_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "4beb2a99a60be4b2257f518dcec114f7e17acd936873dcb640a5e9bb055f2803",
         "bytes": 27688620,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0017/audio_jack_socket_0017_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 116,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/5674093b380e0c8332da0bc14fc724efbcb57b80710fc53a72eac2ec2be74e24.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/5674093b380e0c8332da0bc14fc724efbcb57b80710fc53a72eac2ec2be74e24.npz",
         "sha256": "be6d34ac684ceb6d1fa1571a633aacf4ffd420bb47a7bdab475a004c79eb3ff1"
       },
       "normal_subrole": "NONE",
@@ -12535,22 +12535,22 @@
       "published_defect_type": "oil_stain",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0003/humidity_sensor_0003_NG_oil_stain_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0003/humidity_sensor_0003_NG_oil_stain_RGBL01_00000000000000.jpg",
         "sha256": "41673ba2ae1a8d51134cb9eb9bb28893aad05cfb3b9633a0c03d7b9959d23190",
         "bytes": 551036,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0003/humidity_sensor_0003_NG_oil_stain_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0003/humidity_sensor_0003_NG_oil_stain_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0003/humidity_sensor_0003_NG_oil_stain_XYZ_00000000000000.tiff",
         "sha256": "289b13abcdc83c567b70e3e40cbe64e39107d04cedaa4f36d39cc0b536733bea",
         "bytes": 54698988,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0003/humidity_sensor_0003_NG_oil_stain_XYZ_00000000000000.tiff"
       },
       "source_record_index": 177,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/56eb8b10713b6af55185805c496164a84c1123f7b7088d006e07166d2a7f20a7.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/56eb8b10713b6af55185805c496164a84c1123f7b7088d006e07166d2a7f20a7.npz",
         "sha256": "116ee158f187cdc54e7d84ecaf2657bac323a8ef14c3c5b7f30e0808b245c897"
       },
       "normal_subrole": "NONE",
@@ -12566,22 +12566,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0007/humidity_sensor_0007_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0007/humidity_sensor_0007_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "984650f02141ed9d42c32ea41ee80bfcd02978d0b7c99f37522141ba6d0e9f12",
         "bytes": 533570,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0007/humidity_sensor_0007_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0007/humidity_sensor_0007_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0007/humidity_sensor_0007_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "ee22e8e88a31df233f903701d083b47cb066b412323dbfff39e5725ba69709f9",
         "bytes": 52718880,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0007/humidity_sensor_0007_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 231,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5755dee9a9ca638355f959ec495b7ebdd072fa9591f23e7f282292f55bbb3328.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/5755dee9a9ca638355f959ec495b7ebdd072fa9591f23e7f282292f55bbb3328.npz",
         "sha256": "41027c54a959a0b619a8ddb0115375b39c85e80be532e92c1a4fd159b91aaa00"
       },
       "normal_subrole": "NONE",
@@ -12597,22 +12597,22 @@
       "published_defect_type": "hole",
       "mask_compatible": false,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0021/audio_jack_socket_0021_NG_hole_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0021/audio_jack_socket_0021_NG_hole_RGBL01_00000000000000.jpg",
         "sha256": "057204a87159f37cbc2223ae2e559c607fd77ce3de6f032db04dffdf85c98fcd",
         "bytes": 437260,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0021/audio_jack_socket_0021_NG_hole_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0021/audio_jack_socket_0021_NG_hole_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0021/audio_jack_socket_0021_NG_hole_XYZ_00000000000000.tiff",
         "sha256": "98f02b4a90e977e00aec69e55c3184c973840d9ed19c387e3d766988091aa60c",
         "bytes": 31687788,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0021/audio_jack_socket_0021_NG_hole_XYZ_00000000000000.tiff"
       },
       "source_record_index": 20,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/58f41af0b728a249c48dabf865f6fbfff733533d95cf9f182970d6911a9d5130.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/58f41af0b728a249c48dabf865f6fbfff733533d95cf9f182970d6911a9d5130.npz",
         "sha256": "ced9338c36b09e2ab0bacad9b89810adbde371a7455535c01903685a7894979e"
       },
       "normal_subrole": "NONE",
@@ -12628,22 +12628,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0009/audio_jack_socket_0009_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0009/audio_jack_socket_0009_OK_RGBL01_00000000000000.jpg",
         "sha256": "0fc0a86d0dd291aabdbf19f15e253e27a25193fbc0c47ec309f7548e6949f0d8",
         "bytes": 446804,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0009/audio_jack_socket_0009_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0009/audio_jack_socket_0009_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0009/audio_jack_socket_0009_OK_XYZ_00000000000000.tiff",
         "sha256": "fc847edd4f787e7ca6e28b38338ab64115b96346e6a89b12b7e1f303cb75028e",
         "bytes": 27798096,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0009/audio_jack_socket_0009_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 133,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/5a0caf5ba6792d63ee2621850b622b162adad59bf84b48868756d1170287a50d.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/5a0caf5ba6792d63ee2621850b622b162adad59bf84b48868756d1170287a50d.npz",
         "sha256": "ee1d6d7e19b2b4ce8ffc8e354e07ecc0f9914edf9aee35860031424d8671b445"
       },
       "normal_subrole": "NONE",
@@ -12659,22 +12659,22 @@
       "published_defect_type": "hole",
       "mask_compatible": false,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0003/audio_jack_socket_0003_NG_hole_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0003/audio_jack_socket_0003_NG_hole_RGBL01_00000000000000.jpg",
         "sha256": "da570c8c0b529ffb7ffddd96dc7bd1f958c431b120e79dabccb56067d22e2c82",
         "bytes": 522534,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0003/audio_jack_socket_0003_NG_hole_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0003/audio_jack_socket_0003_NG_hole_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0003/audio_jack_socket_0003_NG_hole_XYZ_00000000000000.tiff",
         "sha256": "0de6b947b00cec42c066c3092090cd2658650b379fe81b80885bd7b00e962391",
         "bytes": 88416288,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0003/audio_jack_socket_0003_NG_hole_XYZ_00000000000000.tiff"
       },
       "source_record_index": 2,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/62590e703d06f4667a723a94398cc5520aee5350fb6e4a5bfe9d07d6d5fdd866.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/62590e703d06f4667a723a94398cc5520aee5350fb6e4a5bfe9d07d6d5fdd866.npz",
         "sha256": "ed3e6b529528922f5c05765dc25995819424c7e939ec5adac217de67d3d117af"
       },
       "normal_subrole": "NONE",
@@ -12690,22 +12690,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0008/lego_propeller_0008_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0008/lego_propeller_0008_OK_RGBL01_00000000000000.jpg",
         "sha256": "be635cd68a7b4a07a4054302b948b8dc097bcf2d492a7208979a090371cd07e8",
         "bytes": 721894,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0008/lego_propeller_0008_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0008/lego_propeller_0008_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0008/lego_propeller_0008_OK_XYZ_00000000000000.tiff",
         "sha256": "299254ea36a99148978ab42d54b086f7b02d79b29cabcf7aab4a74b5bc0bc673",
         "bytes": 73745580,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0008/lego_propeller_0008_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 357,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/644e6e852ceb7999fedf0bdd43b918755f178573cad0917832ea731d3f7f6073.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/644e6e852ceb7999fedf0bdd43b918755f178573cad0917832ea731d3f7f6073.npz",
         "sha256": "ae4bff825682963e706a11a01410e85acf2eee70bcb2ed5d30d587d0c1d9c2de"
       },
       "normal_subrole": "NONE",
@@ -12721,22 +12721,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0017/humidity_sensor_0017_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0017/humidity_sensor_0017_OK_RGBL01_00000000000000.jpg",
         "sha256": "1e745b3d885436618e7766f391e27f61a2c079e0b15c1c4e87504ea269e9a9f9",
         "bytes": 523731,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0017/humidity_sensor_0017_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0017/humidity_sensor_0017_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0017/humidity_sensor_0017_OK_XYZ_00000000000000.tiff",
         "sha256": "324a263e670e5b8a8c5117de1b9493f0b4f18f0e57accf7689d899c6d44a1d1a",
         "bytes": 53780556,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0017/humidity_sensor_0017_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 266,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/666b763b2e2c7f09abec59af6e813f46125245ad8a246594dad4896360ccccab.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/666b763b2e2c7f09abec59af6e813f46125245ad8a246594dad4896360ccccab.npz",
         "sha256": "d2222cdc17d7bc27a84def25e0ea919eb5d78dd12b97d9989fdceb1ed6eac256"
       },
       "normal_subrole": "NONE",
@@ -12752,22 +12752,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0001/lego_propeller_0001_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0001/lego_propeller_0001_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "979b89da356da8102524ae2ca462062478d0b5bf5813314fe79ae758449490ac",
         "bytes": 542429,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0001/lego_propeller_0001_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0001/lego_propeller_0001_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0001/lego_propeller_0001_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "4bfc435aed544bff5578f5307daf4b69b887c321a41a6ffc444ae35f35b5b760",
         "bytes": 73805088,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0001/lego_propeller_0001_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 325,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/6e44df60321b5135a69a156a250d588d99b866dfc1feb655219c89b3d3839c72.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/6e44df60321b5135a69a156a250d588d99b866dfc1feb655219c89b3d3839c72.npz",
         "sha256": "fa5d64fbd86b4815780dc0a885f4c6366f6f749227e2e18ea1e2ec454caedda4"
       },
       "normal_subrole": "NONE",
@@ -12783,22 +12783,22 @@
       "published_defect_type": "oil_stain",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0015/humidity_sensor_0015_NG_oil_stain_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0015/humidity_sensor_0015_NG_oil_stain_RGBL01_00000000000000.jpg",
         "sha256": "77348447585271308043240547a5b175a6a64313267e976fb89b79b069f47918",
         "bytes": 532516,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0015/humidity_sensor_0015_NG_oil_stain_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0015/humidity_sensor_0015_NG_oil_stain_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0015/humidity_sensor_0015_NG_oil_stain_XYZ_00000000000000.tiff",
         "sha256": "aae75b556ef5427843e079fb65a8f04ad010ff0d616f510b29acf1858eee6bb9",
         "bytes": 53780556,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0015/humidity_sensor_0015_NG_oil_stain_XYZ_00000000000000.tiff"
       },
       "source_record_index": 189,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/73ab72ec0628d4f0638ddd4f7c6621b546ac313ecb63580f167e8ceaa72cbaae.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/73ab72ec0628d4f0638ddd4f7c6621b546ac313ecb63580f167e8ceaa72cbaae.npz",
         "sha256": "cd55be057b9bb10568ce20464435a4ab3088a972e50cca6ddd48436d80a107dd"
       },
       "normal_subrole": "NONE",
@@ -12814,22 +12814,22 @@
       "published_defect_type": "porosity",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0010/audio_jack_socket_0010_NG_porosity_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0010/audio_jack_socket_0010_NG_porosity_RGBL01_00000000000000.jpg",
         "sha256": "c95a2fb974dcfc14d47d80a6b16fa31b9e6d5787f4ce67fe39772d39f11390a3",
         "bytes": 439707,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0010/audio_jack_socket_0010_NG_porosity_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0010/audio_jack_socket_0010_NG_porosity_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0010/audio_jack_socket_0010_NG_porosity_XYZ_00000000000000.tiff",
         "sha256": "750b49f7335943ddfa7f39f36c0ba026e5df6c7f652b78b90d99b08d051981d7",
         "bytes": 28348716,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0010/audio_jack_socket_0010_NG_porosity_XYZ_00000000000000.tiff"
       },
       "source_record_index": 84,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/73da6641ff85936a983736941ca4949fdc40762fd9b9cb4a53b7de6c33a12156.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/73da6641ff85936a983736941ca4949fdc40762fd9b9cb4a53b7de6c33a12156.npz",
         "sha256": "88abe597af9b841917e1801293c75a1ff69f5269793e5bcf820c34c47d758ac0"
       },
       "normal_subrole": "NONE",
@@ -12845,22 +12845,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0018/audio_jack_socket_0018_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0018/audio_jack_socket_0018_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "df0577af198de41dfd47ab23c20448511bc54f75fee956582e67ed6d310294cf",
         "bytes": 429073,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0018/audio_jack_socket_0018_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0018/audio_jack_socket_0018_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0018/audio_jack_socket_0018_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "71a9c22a6987384810beaa0714cf4d548e36d015aea066b20ab13cee5a08e024",
         "bytes": 27216720,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0018/audio_jack_socket_0018_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 117,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/75385fb3ffae9e5962f0d821a8a8cd035e2b4c7f5c264108540bf40ed9c87254.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/75385fb3ffae9e5962f0d821a8a8cd035e2b4c7f5c264108540bf40ed9c87254.npz",
         "sha256": "ae2445f7055a52ed2b9c4f9c6aa4fdf25b3d2319dcbebdc16c6b12d8c0cad40b"
       },
       "normal_subrole": "NONE",
@@ -12876,22 +12876,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0002/lego_propeller_0002_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0002/lego_propeller_0002_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "345725b6f2643fb92bd5a2d568bcc69e532638124b6019088f9ac6835b03919a",
         "bytes": 527354,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0002/lego_propeller_0002_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0002/lego_propeller_0002_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0002/lego_propeller_0002_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "0ea3c630a92ec489aa6f1a9617fd04a218b45779f0c6fcc82a69272e03b3342a",
         "bytes": 72560460,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0002/lego_propeller_0002_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 326,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/756c6d351c9358e5511f2fb4f32f43cbe33aa5dc9eab7ac6db05d9f77e88d9c4.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/756c6d351c9358e5511f2fb4f32f43cbe33aa5dc9eab7ac6db05d9f77e88d9c4.npz",
         "sha256": "c9e106f87b088aa14436b7ce216d17775f72158fc25fffcfcd9876cfcaad4a0b"
       },
       "normal_subrole": "NONE",
@@ -12907,22 +12907,22 @@
       "published_defect_type": "porosity",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0013/audio_jack_socket_0013_NG_porosity_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0013/audio_jack_socket_0013_NG_porosity_RGBL01_00000000000000.jpg",
         "sha256": "21bdc30a66c0302c61a5688f51957938b1c934f8f4e4a42a61f99d2bda32b220",
         "bytes": 448248,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0013/audio_jack_socket_0013_NG_porosity_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0013/audio_jack_socket_0013_NG_porosity_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0013/audio_jack_socket_0013_NG_porosity_XYZ_00000000000000.tiff",
         "sha256": "eba10b223ee98e875beed101d6ff843e369d5426c31dd78afcda2a76ebe584f5",
         "bytes": 28718796,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0013/audio_jack_socket_0013_NG_porosity_XYZ_00000000000000.tiff"
       },
       "source_record_index": 87,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/78ad78245f83c3b3258cbe79c3275d30346145a5e190747f5b080d8ca6b144a0.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/78ad78245f83c3b3258cbe79c3275d30346145a5e190747f5b080d8ca6b144a0.npz",
         "sha256": "f5f3ce1ca45a84d6d7cbab62bec877ff843a6e6b530ebb167e156210ee93fd69"
       },
       "normal_subrole": "NONE",
@@ -12938,22 +12938,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0005/humidity_sensor_0005_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0005/humidity_sensor_0005_OK_RGBL01_00000000000000.jpg",
         "sha256": "0e4838c1773567ded3db0011ac3209f5cfc27de5b122de23ed92d578b757d3b2",
         "bytes": 530472,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0005/humidity_sensor_0005_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0005/humidity_sensor_0005_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0005/humidity_sensor_0005_OK_XYZ_00000000000000.tiff",
         "sha256": "74506acba288a0fd1f84cec1adf98f3b04f055174b9b416fb58e5a19d8c4b13d",
         "bytes": 56091216,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0005/humidity_sensor_0005_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 254,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/79c37b88d304e250c1ce47115491727d58ebdcfb1cd7056131eac89744bfed81.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/79c37b88d304e250c1ce47115491727d58ebdcfb1cd7056131eac89744bfed81.npz",
         "sha256": "7c9260700e93f25f26c480efc3241b0118f16cf96288a2c6e5e5e71ed9b86d2a"
       },
       "normal_subrole": "NONE",
@@ -12969,22 +12969,22 @@
       "published_defect_type": "hole",
       "mask_compatible": false,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0006/audio_jack_socket_0006_NG_hole_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0006/audio_jack_socket_0006_NG_hole_RGBL01_00000000000000.jpg",
         "sha256": "be89d90534922e19471ffbffc4dd9275c710c561bbfd41888733329c96e06646",
         "bytes": 439167,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0006/audio_jack_socket_0006_NG_hole_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0006/audio_jack_socket_0006_NG_hole_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0006/audio_jack_socket_0006_NG_hole_XYZ_00000000000000.tiff",
         "sha256": "bbc411b76a65cd7bb9687391dba6313f3adc1cdef5c806343f82f9db5fbe3cf7",
         "bytes": 32078988,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0006/audio_jack_socket_0006_NG_hole_XYZ_00000000000000.tiff"
       },
       "source_record_index": 5,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/7a4350bb7a857e541d48d56fdd465b1168087369884b8123fa1bd9371d0e2596.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/7a4350bb7a857e541d48d56fdd465b1168087369884b8123fa1bd9371d0e2596.npz",
         "sha256": "0a2e74e6562cdd0cbe579af013c9e188b5fd7351b0716bf57b2dfab692477a97"
       },
       "normal_subrole": "NONE",
@@ -13000,22 +13000,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0005/lego_propeller_0005_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0005/lego_propeller_0005_OK_RGBL01_00000000000000.jpg",
         "sha256": "ab95081fc0ee93187522edac5beb15990beb5af59995671836f87c1b33fb8349",
         "bytes": 713923,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0005/lego_propeller_0005_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0005/lego_propeller_0005_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0005/lego_propeller_0005_OK_XYZ_00000000000000.tiff",
         "sha256": "387bdaf0025dd17dfcc09e001cd7a37fe700c81f6562c39ea0b0b2ee9d4597a3",
         "bytes": 73448400,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0005/lego_propeller_0005_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 354,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/89216480d3b7f7f908631b4e81936a08ce960856a4c920af56a14fe0b7d27913.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/89216480d3b7f7f908631b4e81936a08ce960856a4c920af56a14fe0b7d27913.npz",
         "sha256": "a350df9b51bc3ed807f1c728515bfb6e8b2c014ba6d05c829ec53ac63425d6fc"
       },
       "normal_subrole": "NONE",
@@ -13031,22 +13031,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0021/humidity_sensor_0021_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0021/humidity_sensor_0021_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "45b8209d6fe5709448e765cd599fa3a5ad6ab89ad99295ee2dee8ff4e43bef15",
         "bytes": 566856,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0021/humidity_sensor_0021_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0021/humidity_sensor_0021_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0021/humidity_sensor_0021_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "bb1663f486ee7fb5a1b384ab2248fe8bb7c55e30d4e74e2772ee5707043583bd",
         "bytes": 56715600,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0021/humidity_sensor_0021_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 245,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/8a933e469177e7a9e704d851b2c7d776cbf7c797d543ed2a213a07cad92c1ab9.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/8a933e469177e7a9e704d851b2c7d776cbf7c797d543ed2a213a07cad92c1ab9.npz",
         "sha256": "d4ac960fa729381194bf3e44436fe3bd07ac4d4598f4041ae9da08a9a11e3f34"
       },
       "normal_subrole": "NONE",
@@ -13062,22 +13062,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0021/audio_jack_socket_0021_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0021/audio_jack_socket_0021_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "cdc02206e7bd9c20532f7b5295f5395d0dd8c0fbb70ea999cc5a81eaf513a7fc",
         "bytes": 421735,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0021/audio_jack_socket_0021_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0021/audio_jack_socket_0021_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0021/audio_jack_socket_0021_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "5395b6d122cedb7a3a3dab196040d0170f9e69344b16b768fd9b157f63b30d09",
         "bytes": 28496460,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0021/audio_jack_socket_0021_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 120,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/8c1e3fcea76e3c8659000c5e6006fb563a0861ec3b2d38c6ba2c47ad25bac191.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/8c1e3fcea76e3c8659000c5e6006fb563a0861ec3b2d38c6ba2c47ad25bac191.npz",
         "sha256": "448db37290918086f4c97a904156ceacd760be145d022376ee649b5c55e5cec9"
       },
       "normal_subrole": "NONE",
@@ -13093,22 +13093,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0003/humidity_sensor_0003_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0003/humidity_sensor_0003_OK_RGBL01_00000000000000.jpg",
         "sha256": "f0c3d83082b0a77201e5c681e411eee20833b66704790ec7144135137c5b26bc",
         "bytes": 529665,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0003/humidity_sensor_0003_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0003/humidity_sensor_0003_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0003/humidity_sensor_0003_OK_XYZ_00000000000000.tiff",
         "sha256": "1da2ea9b31c132ef6ce19bc669ed8294712c57da42629e02982461e287b17d02",
         "bytes": 55109676,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0003/humidity_sensor_0003_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 252,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/8dee37d7ceedd7b3ceb18afed591b37a12c064a9f2817c970455e96087ea85a0.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/8dee37d7ceedd7b3ceb18afed591b37a12c064a9f2817c970455e96087ea85a0.npz",
         "sha256": "0c784131946985f479f1efa6b713c32382a32d71a01b154591023bc883f11b91"
       },
       "normal_subrole": "NONE",
@@ -13124,22 +13124,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0020/lego_propeller_0020_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0020/lego_propeller_0020_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "f2e0a7589ad6cdae3e835ad7a07030e154c94173746b050ed04cfdfc9bbb9089",
         "bytes": 532110,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0020/lego_propeller_0020_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0020/lego_propeller_0020_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0020/lego_propeller_0020_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "4f7f9699e92c400664a9bfa83a373a56c7efa5eacb780533a213ead8477c5b58",
         "bytes": 75000288,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0020/lego_propeller_0020_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 344,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/8e2123fad60ed1b02e71f7de5f72fb8a9978732b39da7d9a7aa556390345bbce.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/8e2123fad60ed1b02e71f7de5f72fb8a9978732b39da7d9a7aa556390345bbce.npz",
         "sha256": "bdcafd8064d790189f955e9a9c8c0c703b25d68aecc19cd872989352e8beb1a7"
       },
       "normal_subrole": "NONE",
@@ -13155,22 +13155,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0003/audio_jack_socket_0003_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0003/audio_jack_socket_0003_OK_RGBL01_00000000000000.jpg",
         "sha256": "9c7e5d0af3ebba0fe38c5056823dab5115bb5eb84e078f6b644457b519b5fb14",
         "bytes": 422056,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0003/audio_jack_socket_0003_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0003/audio_jack_socket_0003_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0003/audio_jack_socket_0003_OK_XYZ_00000000000000.tiff",
         "sha256": "2555207aa3580914d5feedabf203702bfe2e4c00b6e8640705ae85d82ae6ae4a",
         "bytes": 28127820,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0003/audio_jack_socket_0003_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 127,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/9af362d8babd8da2e49b7aca9d6b87270a10a5be58c8fd83e6f83e1c87f1a875.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/9af362d8babd8da2e49b7aca9d6b87270a10a5be58c8fd83e6f83e1c87f1a875.npz",
         "sha256": "c31b67005b5321650e946ac4c750d629a9168fd50f806a2dffc4706bf86f6efb"
       },
       "normal_subrole": "NONE",
@@ -13186,22 +13186,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0016/lego_propeller_0016_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0016/lego_propeller_0016_OK_RGBL01_00000000000000.jpg",
         "sha256": "544b74d78cc2565b9856f3a256b78f1ffc6abba15815522c5dd01c41112be05b",
         "bytes": 713985,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0016/lego_propeller_0016_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0016/lego_propeller_0016_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0016/lego_propeller_0016_OK_XYZ_00000000000000.tiff",
         "sha256": "436440343923036fffd59abc19cfac61126503de2148c59fd23c3cf40cae2cd4",
         "bytes": 72560460,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0016/lego_propeller_0016_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 365,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/a073824602c3d650a84dfa1234648fc120cb94483e250d5ffd4f852e5c9e1538.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/a073824602c3d650a84dfa1234648fc120cb94483e250d5ffd4f852e5c9e1538.npz",
         "sha256": "055aa13152462eec429af3f6ce23bb8dc07ce759e106acfa19ba525c64e2573f"
       },
       "normal_subrole": "NONE",
@@ -13217,22 +13217,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0020/audio_jack_socket_0020_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0020/audio_jack_socket_0020_OK_RGBL01_00000000000000.jpg",
         "sha256": "635683a496fa2f1c7116e8edff0a9a1964eae5e86835ce4d208cd5d4222c4fff",
         "bytes": 444181,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0020/audio_jack_socket_0020_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0020/audio_jack_socket_0020_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0020/audio_jack_socket_0020_OK_XYZ_00000000000000.tiff",
         "sha256": "f9bd3a59199ba0770ac875501571c4a468f3bb9baf4e61687cf8a7a222454b54",
         "bytes": 29428560,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0020/audio_jack_socket_0020_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 144,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/a6194dd5a7d19943e695a4062fc5d23d7dcda70230e8649f3743e5c94a5f6b46.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/a6194dd5a7d19943e695a4062fc5d23d7dcda70230e8649f3743e5c94a5f6b46.npz",
         "sha256": "ae3656e3e5f243a64c3f23ac096dcfd914c534f90f3150e520728afd5bfe5bf8"
       },
       "normal_subrole": "NONE",
@@ -13248,22 +13248,22 @@
       "published_defect_type": "porosity",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0016/audio_jack_socket_0016_NG_porosity_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0016/audio_jack_socket_0016_NG_porosity_RGBL01_00000000000000.jpg",
         "sha256": "6ca63b696bf7a6f60ef66bf3d4d67560bed8c44cb30b7d95bb3f2b963275de79",
         "bytes": 431298,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0016/audio_jack_socket_0016_NG_porosity_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0016/audio_jack_socket_0016_NG_porosity_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0016/audio_jack_socket_0016_NG_porosity_XYZ_00000000000000.tiff",
         "sha256": "1264b6a9c5f07f6c8bbbcc1a927ff4594d5249d062a330479f53180611874099",
         "bytes": 28867500,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0016/audio_jack_socket_0016_NG_porosity_XYZ_00000000000000.tiff"
       },
       "source_record_index": 90,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/a76d2394da3627aab682c1c8683e61e8500be53816c2adf8cc7e6035d1dc1f6e.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/a76d2394da3627aab682c1c8683e61e8500be53816c2adf8cc7e6035d1dc1f6e.npz",
         "sha256": "6d1d4bcdada248c7b4aeda470c88cc9e191e7cbd38aea71e6dee93d81c3c1c52"
       },
       "normal_subrole": "NONE",
@@ -13279,22 +13279,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0008/humidity_sensor_0008_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0008/humidity_sensor_0008_OK_RGBL01_00000000000000.jpg",
         "sha256": "9f54fdf78d86ad83cfc065295aef5d206a3fafecc044cdd37d1f4b31e2364a41",
         "bytes": 506693,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0008/humidity_sensor_0008_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0008/humidity_sensor_0008_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0008/humidity_sensor_0008_OK_XYZ_00000000000000.tiff",
         "sha256": "e10dade7e464a92d09e942daed79a620d0977a699f2b6fdecb7657500e5eb6c5",
         "bytes": 53324256,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0008/humidity_sensor_0008_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 257,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/ab5916b6c2b5fab6beee6fa37a032e408d38e9593a28b954dac35f93f01c7cd4.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/ab5916b6c2b5fab6beee6fa37a032e408d38e9593a28b954dac35f93f01c7cd4.npz",
         "sha256": "e6ce0ef1a6abbaf50d3853177ec7188eedf8d1f00660413aafd878eb25d82f41"
       },
       "normal_subrole": "NONE",
@@ -13310,22 +13310,22 @@
       "published_defect_type": "hole",
       "mask_compatible": false,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0011/audio_jack_socket_0011_NG_hole_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0011/audio_jack_socket_0011_NG_hole_RGBL01_00000000000000.jpg",
         "sha256": "d285f2fe9142c4a45ff2be996a674d73c83c14c75336e05a5c177b83ca96d354",
         "bytes": 435787,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0011/audio_jack_socket_0011_NG_hole_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0011/audio_jack_socket_0011_NG_hole_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0011/audio_jack_socket_0011_NG_hole_XYZ_00000000000000.tiff",
         "sha256": "4731599e8daa214242b9dd27d8e0268692a2a28e5f85f88d10483cd1c22dcd7c",
         "bytes": 31105488,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0011/audio_jack_socket_0011_NG_hole_XYZ_00000000000000.tiff"
       },
       "source_record_index": 10,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/ae7f9937c5bda9908d66b656da62d8dae75c72e06092320e246b95f6cbdf9da7.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/ae7f9937c5bda9908d66b656da62d8dae75c72e06092320e246b95f6cbdf9da7.npz",
         "sha256": "a9355a3145b94d7e2cc65992712587c5feeb0c6afdefc38cc0ab9cd9cb9a5491"
       },
       "normal_subrole": "NONE",
@@ -13341,22 +13341,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0025/lego_propeller_0025_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0025/lego_propeller_0025_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "1fcaa8fc473647a4b4396517700934f201b6901bc266dfc5cbc009e018b86323",
         "bytes": 566010,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0025/lego_propeller_0025_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0025/lego_propeller_0025_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0025/lego_propeller_0025_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "4d1b15d71940c2d7ae8489b85fec1b444b57d68151f0847355134c0231ff9d00",
         "bytes": 73033356,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0025/lego_propeller_0025_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 349,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/bd9bb994e89cf99bdff85becab7bed1a6ef475dac4af25e01f2c2719c7ba54fd.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/bd9bb994e89cf99bdff85becab7bed1a6ef475dac4af25e01f2c2719c7ba54fd.npz",
         "sha256": "83e06ebdd0045e024fab230257a589c5436d10d82e9a99cd841ac0e4bc15341b"
       },
       "normal_subrole": "NONE",
@@ -13372,22 +13372,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0016/lego_propeller_0016_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0016/lego_propeller_0016_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "0d19f7f78bbaabfb8d1eac1c48d7063573fae49e5b31c9faf5c77cd978f7aa1b",
         "bytes": 539045,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0016/lego_propeller_0016_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0016/lego_propeller_0016_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0016/lego_propeller_0016_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "04a58640c6b12c2b025af1d74c06ba39731726ff6fae8205775f45318b090a17",
         "bytes": 73745580,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0016/lego_propeller_0016_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 340,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/c2ae33fc698108909cea9614e02f4c22635356efec5a7f61f8c2ca6e181c4326.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/c2ae33fc698108909cea9614e02f4c22635356efec5a7f61f8c2ca6e181c4326.npz",
         "sha256": "4d1b70d813581efc5401d5a0c9119429283dc3ae0fbfcb67b432940ca368395a"
       },
       "normal_subrole": "NONE",
@@ -13403,22 +13403,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0017/lego_propeller_0017_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0017/lego_propeller_0017_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "e5eba1af967a540b61ec53be458f97ac8d84593082305611730e2f06c7c25734",
         "bytes": 537481,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0017/lego_propeller_0017_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0017/lego_propeller_0017_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0017/lego_propeller_0017_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "fc27c7931e1c53b9906c1d0359d5bb3b836c92a12cfa1215fc9aa6fc92558262",
         "bytes": 74102988,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0017/lego_propeller_0017_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 341,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/ca8d54207d21044005aa466d9eebd16e37fca62020cc54b227cbd503f3e9cedd.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/ca8d54207d21044005aa466d9eebd16e37fca62020cc54b227cbd503f3e9cedd.npz",
         "sha256": "ad619afe7cedc119b810bfe03bf7980a3facdc278e3f66cd1209f17850e164ca"
       },
       "normal_subrole": "NONE",
@@ -13434,22 +13434,22 @@
       "published_defect_type": "porosity",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0001/audio_jack_socket_0001_NG_porosity_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0001/audio_jack_socket_0001_NG_porosity_RGBL01_00000000000000.jpg",
         "sha256": "fa710e61f7f92e9a5c73219d67d80e17e6613adda2d6d9f6dcecd5a77e55897e",
         "bytes": 439383,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0001/audio_jack_socket_0001_NG_porosity_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0001/audio_jack_socket_0001_NG_porosity_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/porosity/S0001/audio_jack_socket_0001_NG_porosity_XYZ_00000000000000.tiff",
         "sha256": "4d78059c2a44770c3d02a3b287b47e00c6be012cea2d07dfb29325c6b421a415",
         "bytes": 28718796,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/porosity/S0001/audio_jack_socket_0001_NG_porosity_XYZ_00000000000000.tiff"
       },
       "source_record_index": 75,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/cb76b5c3480404228a4e3b38ab3fc29b9b129e22b72c687ab265222b4000bfd4.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/cb76b5c3480404228a4e3b38ab3fc29b9b129e22b72c687ab265222b4000bfd4.npz",
         "sha256": "ee0532b3834d749bc88fc27fb2c0a3cfe9092602b421ee2578144c7307bc3d4a"
       },
       "normal_subrole": "NONE",
@@ -13465,22 +13465,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0010/humidity_sensor_0010_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0010/humidity_sensor_0010_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "38f723747c0e2384d0a02725f0c1bdb3414a2d214aa2952d65104db890a78ac3",
         "bytes": 530800,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0010/humidity_sensor_0010_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0010/humidity_sensor_0010_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/scratch/S0010/humidity_sensor_0010_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "10c607a9f61ee814b9427f4f1af10fb2cdfaa6f743a5b3af32a3a21785241f77",
         "bytes": 53831376,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/scratch/S0010/humidity_sensor_0010_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 234,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/ccf21ead6782901144aee42efa5a1ca7142d55c96323c175940407576ed6b75a.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/ccf21ead6782901144aee42efa5a1ca7142d55c96323c175940407576ed6b75a.npz",
         "sha256": "3809f1fa2233bd5b08006cda1b073c9a76e67549293e32519b7a4cba2d5e828f"
       },
       "normal_subrole": "NONE",
@@ -13496,22 +13496,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0023/humidity_sensor_0023_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0023/humidity_sensor_0023_OK_RGBL01_00000000000000.jpg",
         "sha256": "e8fabff89082cdfd85bed1ff875913b2feffeb0edd184ce2aeade75fb431fffb",
         "bytes": 537457,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0023/humidity_sensor_0023_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0023/humidity_sensor_0023_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0023/humidity_sensor_0023_OK_XYZ_00000000000000.tiff",
         "sha256": "63904c026a871404c448837994d0d57e4464999aa1eca56df30336075108fa42",
         "bytes": 53324256,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0023/humidity_sensor_0023_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 272,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/d171b7a706771c75ae904f2797da007ecfa854c29dd47027d167638742439502.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/d171b7a706771c75ae904f2797da007ecfa854c29dd47027d167638742439502.npz",
         "sha256": "76d36be43406e7783333bca10eef11b8405ab22cfed776af4f1f3ac26d1fd0fa"
       },
       "normal_subrole": "NONE",
@@ -13527,22 +13527,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0007/lego_propeller_0007_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0007/lego_propeller_0007_OK_RGBL01_00000000000000.jpg",
         "sha256": "e93acd25398aa10adffe840986877c1d4537d8aa405e5e1906d2902022ef62a6",
         "bytes": 719033,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0007/lego_propeller_0007_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0007/lego_propeller_0007_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/OK/S0007/lego_propeller_0007_OK_XYZ_00000000000000.tiff",
         "sha256": "ff7a633be51b1b0171aa09c9db20076d75ab4f20bba6303ed21c87f0b1f1412e",
         "bytes": 71677920,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/OK/S0007/lego_propeller_0007_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 356,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/d26e15cd973922c23fdbef21fef6accbbc5ecdf67849cf7e19307241c2d543db.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/d26e15cd973922c23fdbef21fef6accbbc5ecdf67849cf7e19307241c2d543db.npz",
         "sha256": "41722a0a4baa80b271a6e423ac05b565e48e9ce88179241127490fe478b78c7c"
       },
       "normal_subrole": "NONE",
@@ -13558,22 +13558,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0019/audio_jack_socket_0019_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0019/audio_jack_socket_0019_OK_RGBL01_00000000000000.jpg",
         "sha256": "e7dd47c7f0663b5f81cf20272abc2b67edab5eed7d698a432d8691ebd77ed08c",
         "bytes": 436991,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0019/audio_jack_socket_0019_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0019/audio_jack_socket_0019_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0019/audio_jack_socket_0019_OK_XYZ_00000000000000.tiff",
         "sha256": "fd6c0ace66ad0b5a0f80550bfe408944031031e174cffba9b48edc35a86a9955",
         "bytes": 27470316,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0019/audio_jack_socket_0019_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 143,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/d59f560a7f001ed250e9573220ab8490ba3fb917ece4ca0a6f69041dcc1a361c.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/d59f560a7f001ed250e9573220ab8490ba3fb917ece4ca0a6f69041dcc1a361c.npz",
         "sha256": "bdd2389bf97d38176d20ff6404a0b209787286340d81ae7a5c9f61debf1e6790"
       },
       "normal_subrole": "NONE",
@@ -13589,22 +13589,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0004/audio_jack_socket_0004_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0004/audio_jack_socket_0004_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "f6686dc61ab0c691f4e41202593ce53006f236c4538847eddc08cf9b997b85e9",
         "bytes": 421469,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0004/audio_jack_socket_0004_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0004/audio_jack_socket_0004_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0004/audio_jack_socket_0004_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "cb09d11f780109e96760afda618f41e98f69330a88e40cbfd5d3e5778db8101a",
         "bytes": 27470316,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0004/audio_jack_socket_0004_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 103,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/d77c555046b25aa9eb1bc206bf65f78adc24301940b2e11f1d4a904039a1c0eb.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/d77c555046b25aa9eb1bc206bf65f78adc24301940b2e11f1d4a904039a1c0eb.npz",
         "sha256": "231ebf8c53194eaec72249ad37ea162ac2dd5e6421fdd787f371687cbd83b76e"
       },
       "normal_subrole": "NONE",
@@ -13620,22 +13620,22 @@
       "published_defect_type": "oil_stain",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0024/humidity_sensor_0024_NG_oil_stain_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0024/humidity_sensor_0024_NG_oil_stain_RGBL01_00000000000000.jpg",
         "sha256": "2fc74ccd735680371ae3eecfb9ccd05ace35f5057fb692092fb96ad4c16cd269",
         "bytes": 561735,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0024/humidity_sensor_0024_NG_oil_stain_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0024/humidity_sensor_0024_NG_oil_stain_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0024/humidity_sensor_0024_NG_oil_stain_XYZ_00000000000000.tiff",
         "sha256": "bf1dc77033d837b4fa10f2d94de2c68af9217878133c5058a8a1fb4fa2aa3743",
         "bytes": 54289836,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0024/humidity_sensor_0024_NG_oil_stain_XYZ_00000000000000.tiff"
       },
       "source_record_index": 198,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/d8d6ea0221876f3395553be9b7088878f0ec37e8ec7ef5470d9cd481224b9f58.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/d8d6ea0221876f3395553be9b7088878f0ec37e8ec7ef5470d9cd481224b9f58.npz",
         "sha256": "f7c8fd8e37b457b2196329ee6fb899be20e954e69a27a5ca78c7e41322261117"
       },
       "normal_subrole": "NONE",
@@ -13651,22 +13651,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0002/humidity_sensor_0002_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0002/humidity_sensor_0002_OK_RGBL01_00000000000000.jpg",
         "sha256": "9bd36235ebe9d3a4fbd2a8e1729c400233157b4bfe4666c2cf3a2d5e0536d894",
         "bytes": 520087,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0002/humidity_sensor_0002_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0002/humidity_sensor_0002_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/OK/S0002/humidity_sensor_0002_OK_XYZ_00000000000000.tiff",
         "sha256": "3d25292d634f64410a11a5e0a37828ba76fa504a1199e48c11483f295db8afc7",
         "bytes": 54750240,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/OK/S0002/humidity_sensor_0002_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 251,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/dbff782fc6d6399a5d8be63e47bc5d5b4cc10e36fe6d6549932e964492d12e80.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/dbff782fc6d6399a5d8be63e47bc5d5b4cc10e36fe6d6549932e964492d12e80.npz",
         "sha256": "090b428dca8d7f51b8fb17b8af7726a87204fd47d7cb399e2b2105b1e2d27f5e"
       },
       "normal_subrole": "NONE",
@@ -13682,22 +13682,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0010/audio_jack_socket_0010_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0010/audio_jack_socket_0010_OK_RGBL01_00000000000000.jpg",
         "sha256": "ffb3dd08cb21d6b7bd1ffb04a39991f787bc254aa18c8ca45b8b684a43ce4b6d",
         "bytes": 428238,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0010/audio_jack_socket_0010_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0010/audio_jack_socket_0010_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0010/audio_jack_socket_0010_OK_XYZ_00000000000000.tiff",
         "sha256": "d8921a83d4cc7071329e7830f48ec8eb69dfd73cfa8947557890ca3bd72b5cf3",
         "bytes": 28830288,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0010/audio_jack_socket_0010_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 134,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/dd2f3bc7ccecd4145a93a76881abee30fcdf857d5a205413e74b8f255747c119.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/dd2f3bc7ccecd4145a93a76881abee30fcdf857d5a205413e74b8f255747c119.npz",
         "sha256": "28d355f317f9447fb779999026ad7d68ecbb84ba1f4be80e03ea2fda1d9797eb"
       },
       "normal_subrole": "NONE",
@@ -13713,22 +13713,22 @@
       "published_defect_type": "good",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0012/audio_jack_socket_0012_OK_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0012/audio_jack_socket_0012_OK_RGBL01_00000000000000.jpg",
         "sha256": "3c9a58c249a716f03fd469f46cdf7e64c3cee164dd55cc8bb054de6c2c2ed0d0",
         "bytes": 432149,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0012/audio_jack_socket_0012_OK_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0012/audio_jack_socket_0012_OK_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/OK/S0012/audio_jack_socket_0012_OK_XYZ_00000000000000.tiff",
         "sha256": "070948344fa81cd8d5b8cd74f50baee9c00538be0478cc0b82c3fa011dfa8052",
         "bytes": 28459488,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/OK/S0012/audio_jack_socket_0012_OK_XYZ_00000000000000.tiff"
       },
       "source_record_index": 136,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/ea59b73461fc8d2f6babb702f00be117fd2b1f0c76385fac245c895100242714.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/ea59b73461fc8d2f6babb702f00be117fd2b1f0c76385fac245c895100242714.npz",
         "sha256": "32d8b19bb6a91ee54fb54ff505e32c060c6abd9f72f5fd2d1350ea9cd87d8432"
       },
       "normal_subrole": "NONE",
@@ -13744,22 +13744,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0012/lego_propeller_0012_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0012/lego_propeller_0012_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "cf3cd5202a70e6c8324f622fef085e3b73925cc57b5224bb9f833c5aa3927cb3",
         "bytes": 549774,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0012/lego_propeller_0012_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0012/lego_propeller_0012_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/lego_propeller/NG/scratch/S0012/lego_propeller_0012_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "84b7d27ff88bae08119bb2cf63c6ecad6efa72e8709c071d04c0132679efd227",
         "bytes": 73507788,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/lego_propeller.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/lego_propeller.zip",
         "archive_member": "lego_propeller/NG/scratch/S0012/lego_propeller_0012_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 336,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/ee80e0f3c3cca798d281de1bef2215ee8aab18276fd49fd3f9f48fd4bed7ecd9.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/lego_propeller/ee80e0f3c3cca798d281de1bef2215ee8aab18276fd49fd3f9f48fd4bed7ecd9.npz",
         "sha256": "e525d6dbb09efd3326beda4f62dd745e23b7470262517f8b1830bce55a5a1973"
       },
       "normal_subrole": "NONE",
@@ -13775,22 +13775,22 @@
       "published_defect_type": "oil_stain",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0025/humidity_sensor_0025_NG_oil_stain_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0025/humidity_sensor_0025_NG_oil_stain_RGBL01_00000000000000.jpg",
         "sha256": "ecb260cb951f293ae240815c441faf117d45796a3b5f029c8a84823f14e707d4",
         "bytes": 526720,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0025/humidity_sensor_0025_NG_oil_stain_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0025/humidity_sensor_0025_NG_oil_stain_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/oil_stain/S0025/humidity_sensor_0025_NG_oil_stain_XYZ_00000000000000.tiff",
         "sha256": "4806d7cff530034f94eea94f5f820898ab60671e1921c5768bfddc9af0786078",
         "bytes": 55935660,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/humidity_sensor.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/humidity_sensor.zip",
         "archive_member": "humidity_sensor/NG/oil_stain/S0025/humidity_sensor_0025_NG_oil_stain_XYZ_00000000000000.tiff"
       },
       "source_record_index": 199,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/f6597069223f6de28a3a428fd637f74b0efdc41330378beddfad0520c978da99.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/humidity_sensor/f6597069223f6de28a3a428fd637f74b0efdc41330378beddfad0520c978da99.npz",
         "sha256": "1490daff40c0b03a59b13426ff9bf667e2c77be1b4baf8b690e9fc8512094380"
       },
       "normal_subrole": "NONE",
@@ -13806,22 +13806,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0022/audio_jack_socket_0022_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0022/audio_jack_socket_0022_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "2ac8ee091596c5028499e225346f11f3231ec39358873b4f2c97e45193646a0d",
         "bytes": 434407,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0022/audio_jack_socket_0022_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0022/audio_jack_socket_0022_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0022/audio_jack_socket_0022_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "5f60cf4a4bcb4d5ae23929521a379b8f8594d8a1fbe8309dd90612f1d68a0817",
         "bytes": 27397740,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0022/audio_jack_socket_0022_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 121,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/f971be5508186d50cf4d5bd0e37064c82fd4046520376a10e0deb9808527ce5a.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/f971be5508186d50cf4d5bd0e37064c82fd4046520376a10e0deb9808527ce5a.npz",
         "sha256": "9591763676429c1bc681fd158104689c1286a462f74af63677c082b6886de2ec"
       },
       "normal_subrole": "NONE",
@@ -13837,22 +13837,22 @@
       "published_defect_type": "hole",
       "mask_compatible": false,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0015/audio_jack_socket_0015_NG_hole_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0015/audio_jack_socket_0015_NG_hole_RGBL01_00000000000000.jpg",
         "sha256": "72cadb5c0fa618936d30153e26b2b98041901436f1857f737f32ba13b8af8726",
         "bytes": 448256,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0015/audio_jack_socket_0015_NG_hole_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0015/audio_jack_socket_0015_NG_hole_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/hole/S0015/audio_jack_socket_0015_NG_hole_XYZ_00000000000000.tiff",
         "sha256": "5b0f773080f6ae10ce20a30deb4464c63953505d1acb1b3e227ee71d990d905e",
         "bytes": 31144140,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/hole/S0015/audio_jack_socket_0015_NG_hole_XYZ_00000000000000.tiff"
       },
       "source_record_index": 14,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/fa937ad1f5dd29d282439ddba323b50c22015c0a43a64feb68a365447b159996.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/fa937ad1f5dd29d282439ddba323b50c22015c0a43a64feb68a365447b159996.npz",
         "sha256": "94b3bececec5b982fa31b98da257c141a14c9caf3b010893bc8028c0be9c60fa"
       },
       "normal_subrole": "NONE",
@@ -13868,22 +13868,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0001/audio_jack_socket_0001_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0001/audio_jack_socket_0001_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "7f2c5fc6e94a26cebbcfb05957e5d68e9aa9736bbd38a6c7f75d83bca55926b5",
         "bytes": 437229,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0001/audio_jack_socket_0001_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0001/audio_jack_socket_0001_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0001/audio_jack_socket_0001_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "fa30aab76bb68076a20b2034fc2d46540ca2decc900c7e45fe02ad058be198ba",
         "bytes": 27907788,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0001/audio_jack_socket_0001_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 100,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/faef2418f42249352f21ccb4e389a8eaf355e2f458d276856d4fd8cdb3f8b849.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/faef2418f42249352f21ccb4e389a8eaf355e2f458d276856d4fd8cdb3f8b849.npz",
         "sha256": "a2ddddbe55cb606e3c6f2d46808e1762cf5032f13696b189ef7c5c344f84ce5a"
       },
       "normal_subrole": "NONE",
@@ -13899,22 +13899,22 @@
       "published_defect_type": "scratch",
       "mask_compatible": true,
       "RGB": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0020/audio_jack_socket_0020_NG_scratch_RGBL01_00000000000000.jpg",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0020/audio_jack_socket_0020_NG_scratch_RGBL01_00000000000000.jpg",
         "sha256": "ca6ae5715c0800cd70aded54e33d0f5ed72f9421c20d30c4cb4b00e1794aaa08",
         "bytes": 429698,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0020/audio_jack_socket_0020_NG_scratch_RGBL01_00000000000000.jpg"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0020/audio_jack_socket_0020_NG_scratch_XYZ_00000000000000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/scratch/S0020/audio_jack_socket_0020_NG_scratch_XYZ_00000000000000.tiff",
         "sha256": "2f97cd314514afc311eb4d02e6ddf540311249a18d78e35a062786450fce6de8",
         "bytes": 27434016,
-        "archive": "${DRIVE_E}/\u6570\u636e/\u538b\u7f29\u5305\u5f52\u6863/Real-IAD_D3/\u7c7b\u522b\u6570\u636e/audio_jack_socket.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/Real-IAD_D3/category_archives/audio_jack_socket.zip",
         "archive_member": "audio_jack_socket/NG/scratch/S0020/audio_jack_socket_0020_NG_scratch_XYZ_00000000000000.tiff"
       },
       "source_record_index": 119,
       "feature": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/ff757824c667851e1bc3a2d09067c42b0f276d902d32e7d4d5126e0fce0389d6.npz",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-NEW-DOMAIN-ORDINARY-BASELINE-DEV-20261017/attempt001/features/audio_jack_socket/ff757824c667851e1bc3a2d09067c42b0f276d902d32e7d4d5126e0fce0389d6.npz",
         "sha256": "b653aca474814c6063c8a70113dcb636b48f66a99974b3f65fd4dbc77bd06fd0"
       },
       "normal_subrole": "NONE",

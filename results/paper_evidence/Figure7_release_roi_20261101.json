@@ -8,7 +8,7 @@
     {
       "sample_key": "humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_00000000000000",
       "label": 1,
-      "mask_path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL05_00000000000000.png",
+      "mask_path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL05_00000000000000.png",
       "original_shape_yx": [
         2152,
         2152
@@ -59,7 +59,7 @@
     {
       "sample_key": "humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_00000000000000",
       "label": 1,
-      "mask_path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL05_00000000000000.png",
+      "mask_path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL05_00000000000000.png",
       "original_shape_yx": [
         2135,
         2135
@@ -110,7 +110,7 @@
     {
       "sample_key": "audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_00000000000000",
       "label": 1,
-      "mask_path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL05_00000000000000.png",
+      "mask_path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL05_00000000000000.png",
       "original_shape_yx": [
         1523,
         1523
@@ -165,20 +165,20 @@
     }
   ],
   "sources_sha256": {
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/03_\u4ee3\u7801/config/p3_realiad_frozen_350_confirmation_20261018.json": "d08c24c5e49a6e30617831b59a7b64b7c2ff50aba34a3424947873b7d00a8b4d",
-    "${DRIVE_D}/\u8bba\u6587\u4e09/\u8bba\u6587\u4e09\u4ea4\u4ed8/\u884c\u6587\u7ed8\u56fe/\u7814\u7a76\u4f9d\u636e/\u56fe\u8868\u6570\u636e/frozen_spatial_examples_20261101.npz": "b8f499baa5e0637c1fb94f8246d1a3382db07df3cd58e66c20fee588169a6370",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL01_00000000000000.jpg": "eddd151c44abb6bd3317e9088c092b5e30576d70dfa8faa415104f9257b57662",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL05_00000000000000.jpg": "8ac1b7c01d02267b30d93bf3c6c63797c6be087f1ed540ea5210f76c4c824c5f",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL05_00000000000000.png": "f19ef983c9287ddc4fa513a5a1a878d37f8b26cd91be88ddff352e26942e9729",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_XYZ_00000000000000.tiff": "09a0dcfed2dc108bbd4ecbf4914754e6ed5523e29b0131ee5b3814cb46288f0e",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL01_00000000000000.jpg": "797a32d75f94f5534f77656953d9a840a6dd0b5437ed0fb7ef682eeb5f362d22",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL05_00000000000000.jpg": "0a4044d52176c16e350aac4c0d9982341f85cc3141f321e2ccae003c2738a5ff",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL05_00000000000000.png": "acfe23ebfccc90cfb6559f820feaa2891c156e8b72b7afe84d812d015939f4a3",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_XYZ_00000000000000.tiff": "c3897154f96a11c40e280a4f2f210e5524f51d45b462f769d26bff10f16e64f0",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL01_00000000000000.jpg": "7cfba77b6228c4dee0ea8812b8b151ab82ace4362e434714ac464dff745dc575",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL05_00000000000000.jpg": "ffec4ba1ac0a173bb0abe5b8f7074f352906c695ef427fef4f4e57c070c4e8cd",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL05_00000000000000.png": "d49b402763ce85bceaca135161c57a5af0254d1fa106e357637e4d3023e5d382",
-    "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/02_\u6570\u636e/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_XYZ_00000000000000.tiff": "522db0a356959f50f802d3e7131a8635d17529e38760d222060c00e870bbce71"
+    "${DRIVE_F}/research_workspace/03_code/config/p3_realiad_frozen_350_confirmation_20261018.json": "d08c24c5e49a6e30617831b59a7b64b7c2ff50aba34a3424947873b7d00a8b4d",
+    "${DRIVE_D}/paper3/paper3_delivery/manuscript_and_figures/research_evidence/figure_data/frozen_spatial_examples_20261101.npz": "b8f499baa5e0637c1fb94f8246d1a3382db07df3cd58e66c20fee588169a6370",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL01_00000000000000.jpg": "eddd151c44abb6bd3317e9088c092b5e30576d70dfa8faa415104f9257b57662",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL05_00000000000000.jpg": "8ac1b7c01d02267b30d93bf3c6c63797c6be087f1ed540ea5210f76c4c824c5f",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_RGBL05_00000000000000.png": "f19ef983c9287ddc4fa513a5a1a878d37f8b26cd91be88ddff352e26942e9729",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_XYZ_00000000000000.tiff": "09a0dcfed2dc108bbd4ecbf4914754e6ed5523e29b0131ee5b3814cb46288f0e",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL01_00000000000000.jpg": "797a32d75f94f5534f77656953d9a840a6dd0b5437ed0fb7ef682eeb5f362d22",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL05_00000000000000.jpg": "0a4044d52176c16e350aac4c0d9982341f85cc3141f321e2ccae003c2738a5ff",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_RGBL05_00000000000000.png": "acfe23ebfccc90cfb6559f820feaa2891c156e8b72b7afe84d812d015939f4a3",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_XYZ_00000000000000.tiff": "c3897154f96a11c40e280a4f2f210e5524f51d45b462f769d26bff10f16e64f0",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL01_00000000000000.jpg": "7cfba77b6228c4dee0ea8812b8b151ab82ace4362e434714ac464dff745dc575",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL05_00000000000000.jpg": "ffec4ba1ac0a173bb0abe5b8f7074f352906c695ef427fef4f4e57c070c4e8cd",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_RGBL05_00000000000000.png": "d49b402763ce85bceaca135161c57a5af0254d1fa106e357637e4d3023e5d382",
+    "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/Real-IAD_D3/audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_XYZ_00000000000000.tiff": "522db0a356959f50f802d3e7131a8635d17529e38760d222060c00e870bbce71"
   },
   "training_updates": 0,
   "model_forwards": 0

@@ -8,7 +8,7 @@
       "seed": 20261017,
       "phase": "FINAL",
       "model": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-GEOMETRY-SUPERVISION-REPRESENTATION-FACTORIAL-DEV-20261018/attempt001/models/G_GLOBAL_FIXED_20261017_FINAL.pt",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-GEOMETRY-SUPERVISION-REPRESENTATION-FACTORIAL-DEV-20261018/attempt001/models/G_GLOBAL_FIXED_20261017_FINAL.pt",
         "sha256": "aaac9ce0bd3ce3c8a403ea90ae0a060f87fbe29cd22be0a113e68db3e23981b4"
       },
       "alias": "G_GLOBAL_FIXED"
@@ -18,7 +18,7 @@
       "seed": 20261017,
       "phase": "FINAL",
       "model": {
-        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-GEOMETRY-SUPERVISION-REPRESENTATION-FACTORIAL-DEV-20261018/attempt001/models/G_LOCAL_FIXED_20261017_FINAL.pt",
+        "path": "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-GEOMETRY-SUPERVISION-REPRESENTATION-FACTORIAL-DEV-20261018/attempt001/models/G_LOCAL_FIXED_20261017_FINAL.pt",
         "sha256": "20c529afcf8572ef8d2ce6fcd3bb9831aaeb69da198f230109a338022918562f"
       },
       "alias": "G_LOCAL_FIXED"

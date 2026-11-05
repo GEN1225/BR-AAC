@@ -56,12 +56,12 @@
     }
   },
   "sources_sha256": {
-    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-REALIAD-CONTEXT-SCALE-CONSISTENT-GEOMETRIC-LEARNING-DEV-20261018/attempt001/config.json": "d5624243aa94352cba963f5a9df53f10a66d624314c623067fa5dd2be8cd15ae",
-    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-REALIAD-LOCAL-GEOMETRY-FROZEN-350-GROUP-CONFIRMATION-20261018/attempt001/config.json": "d08c24c5e49a6e30617831b59a7b64b7c2ff50aba34a3424947873b7d00a8b4d",
-    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-PDREAL-LOCAL-ENERGY-GEOMETRY-APPEARANCE-ACTIVE-CAPACITY-CONTROLS-DEV-20261018/attempt001/config.json": "7fb2eda6669b2db773693e020b0035049b224cb0555faf7c29c28a8f46d3ab24"
+    "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-CONTEXT-SCALE-CONSISTENT-GEOMETRIC-LEARNING-DEV-20261018/attempt001/config.json": "d5624243aa94352cba963f5a9df53f10a66d624314c623067fa5dd2be8cd15ae",
+    "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-LOCAL-GEOMETRY-FROZEN-350-GROUP-CONFIRMATION-20261018/attempt001/config.json": "d08c24c5e49a6e30617831b59a7b64b7c2ff50aba34a3424947873b7d00a8b4d",
+    "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-PDREAL-LOCAL-ENERGY-GEOMETRY-APPEARANCE-ACTIVE-CAPACITY-CONTROLS-DEV-20261018/attempt001/config.json": "7fb2eda6669b2db773693e020b0035049b224cb0555faf7c29c28a8f46d3ab24"
   },
   "mask_rule": "224->56 adaptive max pooling, aligned4x4 blocks; Realvalid,PDforeground",
-  "manifest": "${DRIVE_D}/论文三/论文三交付/行文绘图/研究依据/图表数据/role_sample_manifest_20261101.csv",
+  "manifest": "${DRIVE_D}/paper3/paper3_delivery/manuscript_and_figures/research_evidence/figure_data/role_sample_manifest_20261101.csv",
   "historical120_excluded": true,
   "training_scope": "quarter turns/flips preserve counts; synthetic edits leave masks unchanged"
 }

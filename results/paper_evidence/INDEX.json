@@ -4,7 +4,7 @@
     "experiment": null,
     "source_file": "calibration_OOF_reconstruction_20261101.json",
     "source_sha256": "5bbc9f389e56d211669c6708aa37f123033e669bf4c5cd23757ea38b4f954dca",
-    "included_sha256": "2fabf7de826958ca1c310885fcdcc99ed8515df06991cbb47ab7e9c2b2c83768",
+    "included_sha256": "0c14cf5b9cafc3e957d5524732a27fc6dd9244e8f7f40b3a6792c34fb8ec56cb",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -12,7 +12,7 @@
     "experiment": null,
     "source_file": "component_effects_and_CI_tables_20261031.json",
     "source_sha256": "b3e4dd4ba8db389358d560ca1909b6933075e3014e47ca84290ca00f38cb396d",
-    "included_sha256": "a19bb423eae024a083038a63fcad2945088eabbf080fccd680de4a42a8ce86cd",
+    "included_sha256": "592c6468845b799a171eadffec376ce0a92fc87abb4f4ee0e0a4a76f1fca28f2",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -52,7 +52,7 @@
     "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
     "source_file": "ALL9_C_HEADS_BEFORE_V.json",
     "source_sha256": "f9a3c9b491426321a0200fb5a7fc1541753223ad5140397d094fd43bfb8745d3",
-    "included_sha256": "a8c5bafafc7f11b07a882acf515e8caffd27b10890e0525bbe10228ef551ee39",
+    "included_sha256": "b5bb53a12e557bb4a4e0c5f692dbc96604185ff513a8b8caa37f79d513e24af3",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -68,7 +68,7 @@
     "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
     "source_file": "NORMAL_HOLD_MECHANISM_RESULTS.json",
     "source_sha256": "a4ed2ea195d2a0bb82336b56cd607eccdf2331813e937c3586ca47e4e2438b1b",
-    "included_sha256": "0643f4255aaee8e20269edb45fd2995e9a0057cd03f07f9484d68f7300752f95",
+    "included_sha256": "15c31a230646879a22ab0d4b866db10d563f6cb41c0b9c512e031f2c53825bde",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -100,7 +100,7 @@
     "experiment": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030",
     "source_file": "ALL_MATCHED_C_HEADS_BEFORE_NEW_V.json",
     "source_sha256": "dc4a04d70631be8fe79e179e2c4d52dd97845a5878b6a3745bb0329fb647311f",
-    "included_sha256": "a250ac43cccbdf7b2eaf65fca5d9928c2634a1f56d853b4b1e9ee041f43f5319",
+    "included_sha256": "b58222213e53637e70cde5c40c61521255d0257ee9c70e7403be31afbafc7059",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -108,7 +108,7 @@
     "experiment": "EXP-P3-EXISTING-SEED-PAIRED-EFFECTS-DEV-20261029",
     "source_file": "results.json",
     "source_sha256": "5340d1354ae5d9480addbfde9d3e85d5ddec16b6d60ef9fb5964057dd488c5fe",
-    "included_sha256": "57fb27870c033ac3ba80f1a97245d810bdcc7781868087a6e4870308e3ca8edc",
+    "included_sha256": "64073a58231e35f97f3fe98bf835c7614d537d50ea9d65152d8a34f843ff32a2",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -140,7 +140,7 @@
     "experiment": "EXP-P3-GEOMETRY-CENTERED-SHRINKAGE-CONTROL-DEV-20261029",
     "source_file": "results.json",
     "source_sha256": "0befb68fb286d7d572fb20e89f7b10e89e64fcc26f1ede941abfb7aac5085b9b",
-    "included_sha256": "fee11fe29ff585baf1c904a8cc9f0824d8cf8a19ef0c6795373df0349573dc3d",
+    "included_sha256": "1ba1f4b3cee74598226349850c42891ff69478a348459ac0c3474f8d6c6ced2f",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -148,7 +148,7 @@
     "experiment": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030",
     "source_file": "ALL_C_SELECTED_HEADS_BEFORE_V.json",
     "source_sha256": "91574a881f531340a38681deba8a309aa318d0fc387e194e48522abb376f87e2",
-    "included_sha256": "d721f291b624a918579ea3d285ca63f1d2e0d10a7b5477edca124f1397eeb1d7",
+    "included_sha256": "fbb8e2476bb0fc10087450b07a7ac8e78739800c7e849d2f58fcdc1ee79dfea6",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -220,7 +220,7 @@
     "experiment": null,
     "source_file": "Figure7_release_roi_20261101.json",
     "source_sha256": "c4a4ed646db65bcd2ba30c4ae7fc92b275c848b57d11fc93d99fafbb69b2abc2",
-    "included_sha256": "096187fcdda266f8c8d97bedfecd52ac42c24506c1d8b98981e49527a40e6345",
+    "included_sha256": "0880b93a84493d193138da6ed45fca5b982411d7a460a0d95d9b7f75cc5b0d13",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -228,7 +228,7 @@
     "experiment": null,
     "source_file": "frozen_spatial_examples_20261101.json",
     "source_sha256": "5e8add0a9d1eed9c96c74acbd7854ad2dcf710dd98a56d07379e85067e5fe33e",
-    "included_sha256": "66a99614b6f17fb9a07562285ce1850a3f3344719459fbfe0088b4b43924b377",
+    "included_sha256": "5832533c6b12fa5777249182652be2838c3f3ad60a78ca156813a84c46955036",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -236,7 +236,7 @@
     "experiment": null,
     "source_file": "score_correlation_analysis_20261031.json",
     "source_sha256": "9c69fd803e59119f0c4af196bc76b28beaa4ed23d45e357212ae0bf2599e1ac6",
-    "included_sha256": "7cbd97a9c08729fe288e8525ead26c12c3f10e76ea03cc400d151bbf287ecd33",
+    "included_sha256": "eedabded8682da8e72feaccb8f998d0a28813bf1da5be7985c71ac1fb6db2200",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   },
   {
@@ -244,7 +244,7 @@
     "experiment": null,
     "source_file": "topk_support_audit_20261101.json",
     "source_sha256": "476c725ea9379ab7afd1483a6bccd788e70a874747aa45faef3cbed48f01eaf7",
-    "included_sha256": "dbf7c815dc7413a806b1ce77e9b2e943e13503b62f1c642a7cb70f8caa9b1d67",
+    "included_sha256": "ea93a13e6f9214bec12cf6870f323f5bfeb98a0594d3ac5716fdac947fa58c83",
     "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
   }
 ]

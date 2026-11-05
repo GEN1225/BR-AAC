@@ -10467,13 +10467,13 @@
   "configuration": {
     "experiment_id": "EXP-P3-EXISTING-SEED-PAIRED-EFFECTS-DEV-20261029",
     "created": "2026-10-29T22:13:21.089742+08:00",
-    "code": "${DRIVE_F}/论文一~五/03_代码/analysis/p3_existing_seed_paired_effects_20261029.py",
+    "code": "${DRIVE_F}/research_workspace/03_code/analysis/p3_existing_seed_paired_effects_20261029.py",
     "code_sha256": "f4b43916a325f56fbafae21ec4eada7d5c38392ea140bc24d584a4ea5e4b3d3a",
     "sources": {
-      "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-REALIAD-LOCAL-GEOMETRY-FROZEN-350-GROUP-CONFIRMATION-20261018/attempt001/config.json": "d08c24c5e49a6e30617831b59a7b64b7c2ff50aba34a3424947873b7d00a8b4d",
-      "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-PDREAL-LOCAL-ENERGY-GEOMETRY-APPEARANCE-ACTIVE-CAPACITY-CONTROLS-DEV-20261018/attempt001/config.json": "7fb2eda6669b2db773693e020b0035049b224cb0555faf7c29c28a8f46d3ab24",
-      "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-COMPLETE-RECIPE-TWO-TRAINING-SEED-STABILITY-DEV-20261029/attempt001/results.json": "cacc747ced1281f0840dc39d18963e0a7e495d45ca211d4732f8b99bc74ab3cb",
-      "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-COMPLETE-RECIPE-TWO-TRAINING-SEED-STABILITY-DEV-20261029/attempt001/ALL_SEED_DEV_LOGITS_PROBABILITIES.npz": "f4c1cdbd179d42cc208d8f8113e6fc5eb992ba08ff109321a1c5561446672f6f"
+      "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-REALIAD-LOCAL-GEOMETRY-FROZEN-350-GROUP-CONFIRMATION-20261018/attempt001/config.json": "d08c24c5e49a6e30617831b59a7b64b7c2ff50aba34a3424947873b7d00a8b4d",
+      "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-PDREAL-LOCAL-ENERGY-GEOMETRY-APPEARANCE-ACTIVE-CAPACITY-CONTROLS-DEV-20261018/attempt001/config.json": "7fb2eda6669b2db773693e020b0035049b224cb0555faf7c29c28a8f46d3ab24",
+      "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-COMPLETE-RECIPE-TWO-TRAINING-SEED-STABILITY-DEV-20261029/attempt001/results.json": "cacc747ced1281f0840dc39d18963e0a7e495d45ca211d4732f8b99bc74ab3cb",
+      "${DRIVE_F}/research_workspace/05_results/by_experiment_id/EXP-P3-COMPLETE-RECIPE-TWO-TRAINING-SEED-STABILITY-DEV-20261029/attempt001/ALL_SEED_DEV_LOGITS_PROBABILITIES.npz": "f4c1cdbd179d42cc208d8f8113e6fc5eb992ba08ff109321a1c5561446672f6f"
     },
     "question": "How large are within-seed anchored-vs-free gains/losses, and how category-dependent are they?",
     "design": "Two existing neural seeds, all original cohorts, all four controls. Retain every eligible category. RealIAD3 additionally leave each of its three categories out in turn, reported as sensitivity only; no deleted-class replacement of main endpoint.",

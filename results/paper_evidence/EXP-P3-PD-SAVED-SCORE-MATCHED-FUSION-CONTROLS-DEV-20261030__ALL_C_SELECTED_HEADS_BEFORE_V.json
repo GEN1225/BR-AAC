@@ -47061,17 +47061,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/rgb/020.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/rgb/020.png",
         "sha256": "872419d4e4bd11729c4667686ab7c390100363ddb73c760c96e6b581c38f530a",
         "bytes": 292971,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/crack/rgb/020.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/xyz/020.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/xyz/020.tiff",
         "sha256": "288e5d50115ffc85685a85dee2843a3ae56d2ca031b4a80a204acac8df6c266e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/crack/xyz/020.tiff"
       },
       "parent_record_index": 10,
@@ -47085,17 +47085,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/rgb/022.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/rgb/022.png",
         "sha256": "645c23ab54c18303c064e2a442b74c85da29c172ba7afb5738a15408c7101681",
         "bytes": 289964,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/crack/rgb/022.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/xyz/022.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/xyz/022.tiff",
         "sha256": "d8d01619dbbb6ae351e5fbd657d20a7969ea3e754009f3cf2d5f0d68dd87eb34",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/crack/xyz/022.tiff"
       },
       "parent_record_index": 12,
@@ -47109,17 +47109,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/rgb/028.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/rgb/028.png",
         "sha256": "607a89017b0fdf041d5bea80cd292546f21838ced7e8bd63a6744f7ea31c719c",
         "bytes": 248377,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/crack/rgb/028.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/xyz/028.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/crack/xyz/028.tiff",
         "sha256": "f9e55b9a257a8a97fcc79ffac9716227702147720a326e98d74c9d020920840f",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/crack/xyz/028.tiff"
       },
       "parent_record_index": 18,
@@ -47133,17 +47133,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/182.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/182.png",
         "sha256": "1aa2436a56582bc9f0f33b7a264d1ba72e23d07149a3fdaa6f6ce7bb35c80a6c",
         "bytes": 256395,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/rgb/182.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/182.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/182.tiff",
         "sha256": "a492e9eb44518143106e534c7c24ba8f1dbfe6c8d76d3ad5b3cc061652cbbd4b",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/xyz/182.tiff"
       },
       "parent_record_index": 32,
@@ -47157,17 +47157,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/184.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/184.png",
         "sha256": "78e1d6ded164f63b38fa2cf9a3039be9df0fc717196be3a4763cdbe26183dbc7",
         "bytes": 260768,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/rgb/184.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/184.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/184.tiff",
         "sha256": "45889d85e0c93bb0f5e8f2000579babb744c8510e6ee372b5fdd8f23bf81cdc5",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/xyz/184.tiff"
       },
       "parent_record_index": 34,
@@ -47181,17 +47181,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/187.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/187.png",
         "sha256": "16ca41bc81ed16550b6f50051edf8343dc5f08bacd48219611da8fc6d5beeecc",
         "bytes": 253168,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/rgb/187.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/187.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/187.tiff",
         "sha256": "86d33c3d440dfeea37e03126d79c64503e498471e77af33bdd522bd33490ef02",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/xyz/187.tiff"
       },
       "parent_record_index": 37,
@@ -47205,17 +47205,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/191.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/191.png",
         "sha256": "cce39174c8440c19b4c635b9e222b681cd6c4c3a2dec1abc7723997a7d57101b",
         "bytes": 247606,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/rgb/191.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/191.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/191.tiff",
         "sha256": "cfda7a9512fe4490a5b8448dda8a0d3c7ec8dd6f129606688c8d3219bf85e2ce",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/xyz/191.tiff"
       },
       "parent_record_index": 41,
@@ -47229,17 +47229,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/193.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/193.png",
         "sha256": "2353bab127e63a901e7060ddd33dbad1e25abd49df9e7e8fb2f6e85d6568ceb6",
         "bytes": 257093,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/rgb/193.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/193.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/193.tiff",
         "sha256": "25d71fe466b569e1465d237dba9e1a090d86f6ca624fa482a01891b69f57cda6",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/xyz/193.tiff"
       },
       "parent_record_index": 43,
@@ -47253,17 +47253,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/194.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/rgb/194.png",
         "sha256": "0354a58b1dcd1ed98eddb5f13095b394192fcd18f980e958e3209df6c88cde21",
         "bytes": 258963,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/rgb/194.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/194.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/good/xyz/194.tiff",
         "sha256": "2373f4ebaa847ec6871cb5c72d7940358c1e5444a55a4f3a014346b1f2646dcb",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/good/xyz/194.tiff"
       },
       "parent_record_index": 44,
@@ -47277,17 +47277,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/rgb/012.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/rgb/012.png",
         "sha256": "fc8cc1ce509d4ad2ab8e604b5cf03f6f3f8e2205f52a122d0526e82b8e893bd4",
         "bytes": 241713,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/perforation/rgb/012.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/xyz/012.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/xyz/012.tiff",
         "sha256": "90466bd5fae0d7253c9d45c2bafa1357b60d8424b02ccac7fb39f916049b3640",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/perforation/xyz/012.tiff"
       },
       "parent_record_index": 52,
@@ -47301,17 +47301,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/rgb/017.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/rgb/017.png",
         "sha256": "967f61aed8ea114d32e871112124793ed60f50348cd828711aad66cc71ce071e",
         "bytes": 244022,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/perforation/rgb/017.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/xyz/017.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/xyz/017.tiff",
         "sha256": "5dbe9d8768c611b352cec3b77bcb4313490a4b2d824335118ea22c5f92eff984",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/perforation/xyz/017.tiff"
       },
       "parent_record_index": 57,
@@ -47325,17 +47325,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/rgb/018.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/rgb/018.png",
         "sha256": "e121988be10208b7088d5bcfaf9d861d64c997f054205e79ce50919db6bbeef5",
         "bytes": 248980,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/perforation/rgb/018.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/xyz/018.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/bicycle/test/perforation/xyz/018.tiff",
         "sha256": "e1e38b5c4fa59a429cab92a89ca68cce1c2f690db92fdb6190d7f2b3536f29a5",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/bicycle/test/perforation/xyz/018.tiff"
       },
       "parent_record_index": 58,
@@ -47349,17 +47349,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/rgb/021.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/rgb/021.png",
         "sha256": "d8248c3267b5b8b9ddb612d596f973c35613c5878fb140796f553e4af460ccb8",
         "bytes": 268295,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/crack/rgb/021.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/xyz/021.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/xyz/021.tiff",
         "sha256": "f7155a405c50d1ac0e7aef0d748f4b9846ef51cd32d7358a73a1a835e59073bb",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/crack/xyz/021.tiff"
       },
       "parent_record_index": 221,
@@ -47373,17 +47373,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/rgb/028.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/rgb/028.png",
         "sha256": "22bc205cb808a9abefd53a85c6d505c5759c5b213f7640ef0f6d28c403ded8ce",
         "bytes": 293912,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/crack/rgb/028.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/xyz/028.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/xyz/028.tiff",
         "sha256": "fef07770b60eb4162c216f658cdb0a220b407cf15a402d308ff76183a7c22a92",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/crack/xyz/028.tiff"
       },
       "parent_record_index": 228,
@@ -47397,17 +47397,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/rgb/029.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/rgb/029.png",
         "sha256": "af98186f4f09de249189c3533b7f7a08556b1d3e7af1cbfac923f0f69339888c",
         "bytes": 295643,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/crack/rgb/029.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/xyz/029.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/crack/xyz/029.tiff",
         "sha256": "9924fe7b9abfcef35b4d301ec6f0760b57380ba693af9b496c3d11f5b3dc453f",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/crack/xyz/029.tiff"
       },
       "parent_record_index": 229,
@@ -47421,17 +47421,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/182.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/182.png",
         "sha256": "93160c5cca8a3adf1197e70052f7c658a0413354bc1818b94e13692dce356300",
         "bytes": 245491,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/rgb/182.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/182.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/182.tiff",
         "sha256": "132cfd4ba314832669fa6adb5fe93eabc91716ab567eeffa28bb60c320292064",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/xyz/182.tiff"
       },
       "parent_record_index": 242,
@@ -47445,17 +47445,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/184.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/184.png",
         "sha256": "a15931b86db9caacafa56f49af888cc98813ae6adaff498a02d809355df3109f",
         "bytes": 258843,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/rgb/184.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/184.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/184.tiff",
         "sha256": "6aeca403bfe6710b4545ecb698bcbd797d7177ca293f4d09fdfba0f124a07297",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/xyz/184.tiff"
       },
       "parent_record_index": 244,
@@ -47469,17 +47469,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/185.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/185.png",
         "sha256": "d6a2d4fedcb3ba48341c34c3a4de649fabcece41b6b209b0879ab434c2a5efc2",
         "bytes": 244875,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/rgb/185.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/185.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/185.tiff",
         "sha256": "7faf59ee298afcd535898a33ffd696b95fe4e381d6c280010f4cbf8d67baead3",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/xyz/185.tiff"
       },
       "parent_record_index": 245,
@@ -47493,17 +47493,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/189.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/189.png",
         "sha256": "9506e35c7513acd8cffd488cd763d3fb375787e295aa2c23fd95e6471c1d390e",
         "bytes": 250703,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/rgb/189.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/189.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/189.tiff",
         "sha256": "abc67b25356a7b24970038e3bca179a1ecc2bd38d85dcb4d6a7cb9f345186809",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/xyz/189.tiff"
       },
       "parent_record_index": 249,
@@ -47517,17 +47517,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/191.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/191.png",
         "sha256": "18c96027cd27e6f16ca9e38981fc4b3b0e7538a5b9b65864f3ef92d871f0f3ec",
         "bytes": 249475,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/rgb/191.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/191.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/191.tiff",
         "sha256": "adb3d1c62729333fab825931b775eac483e8e09bbc329d9c20cced7ed82e341e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/xyz/191.tiff"
       },
       "parent_record_index": 251,
@@ -47541,17 +47541,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/193.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/rgb/193.png",
         "sha256": "e89e51fc75477e0b3132eaa4f96f63c57a3f4a4335e555311305b9f02756111d",
         "bytes": 249825,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/rgb/193.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/193.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/good/xyz/193.tiff",
         "sha256": "e35dd57012ad3a6484e85c69b0a2910c3a2251da19d0a56fb663702a3884ae81",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/good/xyz/193.tiff"
       },
       "parent_record_index": 253,
@@ -47565,17 +47565,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/rgb/012.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/rgb/012.png",
         "sha256": "00384caf5c96c1a7436ff2704aca899a177114bc2b0dd296b5fb81850a7dd2c9",
         "bytes": 256492,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/perforation/rgb/012.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/xyz/012.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/xyz/012.tiff",
         "sha256": "b714d54d7107221045db2d176f347cc8abbc37e95f6f592be7efd848ebbc570a",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/perforation/xyz/012.tiff"
       },
       "parent_record_index": 262,
@@ -47589,17 +47589,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/rgb/015.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/rgb/015.png",
         "sha256": "7b13f342e1fb565ec0e76d002f834c44094492f7d2f327781761293bf538325f",
         "bytes": 274178,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/perforation/rgb/015.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/xyz/015.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/xyz/015.tiff",
         "sha256": "04bb4f55adb7fd5289de2827e9590619f30851618e6db515a1407c764f6a6a34",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/perforation/xyz/015.tiff"
       },
       "parent_record_index": 265,
@@ -47613,17 +47613,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/rgb/017.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/rgb/017.png",
         "sha256": "ae2dd96f3a674c16fdba6b5156f9e49607f876d3aa3d42ca13a5ef090fafc069",
         "bytes": 254207,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/perforation/rgb/017.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/xyz/017.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/cabbage/test/perforation/xyz/017.tiff",
         "sha256": "813c7833e556c68be24355999d51a683e045f4ba8199df7df13e824d1b887034",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/cabbage/test/perforation/xyz/017.tiff"
       },
       "parent_record_index": 267,
@@ -47637,17 +47637,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/183.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/183.png",
         "sha256": "e657cf4cce4d6cbd4d463ea75fc554351cf0c157dfed2d2ab962290ef879187c",
         "bytes": 209852,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/rgb/183.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/183.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/183.tiff",
         "sha256": "4ad46ecd65e86464623a8c64965af1434b30190cd475a890a982cc303e876ec9",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/xyz/183.tiff"
       },
       "parent_record_index": 455,
@@ -47661,17 +47661,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/186.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/186.png",
         "sha256": "647a31b56f12f70552a070c433171072c8e6f2150cf80f2f847b131483f7c00a",
         "bytes": 248997,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/rgb/186.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/186.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/186.tiff",
         "sha256": "254dd3c5149b7e42d545a37c5f812e422795cda281c8f92e2d2fb4d2d7e09550",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/xyz/186.tiff"
       },
       "parent_record_index": 458,
@@ -47685,17 +47685,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/188.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/188.png",
         "sha256": "c4e7b3e76a56f390bbb8877349deef9ca087ffe2b0348afdb0b946dce2171558",
         "bytes": 216392,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/rgb/188.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/188.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/188.tiff",
         "sha256": "c6ad04bb16d8f6591c13f88911604157fa8af358289eef47201221b75336b67e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/xyz/188.tiff"
       },
       "parent_record_index": 460,
@@ -47709,17 +47709,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/191.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/191.png",
         "sha256": "02b4aabe3a9e599a934e9a546fdaeb53e93769cbe19026c9a8b822b0917caa0b",
         "bytes": 209775,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/rgb/191.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/191.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/191.tiff",
         "sha256": "16907f2ca258d6f7b5dbbb602bbc4c4db3de1655b2f0bcd46f2c3a4868135940",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/xyz/191.tiff"
       },
       "parent_record_index": 463,
@@ -47733,17 +47733,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/196.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/196.png",
         "sha256": "e14071264f4d5db5871208a956b53f47f1b15829383d604e13ed3263084e27b7",
         "bytes": 246601,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/rgb/196.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/196.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/196.tiff",
         "sha256": "575346b4829589fc5b538a1cacafdf75d9381eded2eb55fd7dd79f1b55b31e42",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/xyz/196.tiff"
       },
       "parent_record_index": 468,
@@ -47757,17 +47757,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/197.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/rgb/197.png",
         "sha256": "ffb4a52b726d705fb1090b6fe7930e9973fc3bc92becaefcf733a638d51a9f45",
         "bytes": 228628,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/rgb/197.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/197.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/good/xyz/197.tiff",
         "sha256": "b80a3d329999000931d6854493d948fa8c82a7cf4e8de3b8a6f18a1730a89a60",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/good/xyz/197.tiff"
       },
       "parent_record_index": 469,
@@ -47781,17 +47781,17 @@
       "label": 1,
       "published_defect_type": "scratch",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/rgb/010.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/rgb/010.png",
         "sha256": "94fbdb23232f7d3ac6826b1898d4da2eb474a554b7f198281a970fd612526714",
         "bytes": 212867,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/scratch/rgb/010.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/xyz/010.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/xyz/010.tiff",
         "sha256": "305cdb78c89fad1d4c226d87e19f6420b65ec1022be7a48c89bac906cc5c6828",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/scratch/xyz/010.tiff"
       },
       "parent_record_index": 472,
@@ -47805,17 +47805,17 @@
       "label": 1,
       "published_defect_type": "scratch",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/rgb/017.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/rgb/017.png",
         "sha256": "e108f8af507c20735257dfdefeb7003159419abd28c2c66f2d009684c0218b5b",
         "bytes": 213787,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/scratch/rgb/017.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/xyz/017.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/chicken/test/scratch/xyz/017.tiff",
         "sha256": "4b2324f3e308a9bafdcbc8e3ef79fcf7ffa5d593b5be1a535cd7c4ca67fc1020",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/chicken/test/scratch/xyz/017.tiff"
       },
       "parent_record_index": 479,
@@ -47829,17 +47829,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/rgb/020.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/rgb/020.png",
         "sha256": "3e815a731f9eba95d06c133d1c9c65897834cfe9c6a337146789455f7448a209",
         "bytes": 240360,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/crack/rgb/020.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/xyz/020.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/xyz/020.tiff",
         "sha256": "c848198d144fe6e840e5fdd6accdbb26f747b650b2ecc5b3a6938315616ce7dd",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/crack/xyz/020.tiff"
       },
       "parent_record_index": 640,
@@ -47853,17 +47853,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/rgb/026.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/rgb/026.png",
         "sha256": "27e53d2c14380a341e5ab763168a51a5c9b5a44e3cabb4c5398490a6cc621757",
         "bytes": 240417,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/crack/rgb/026.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/xyz/026.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/xyz/026.tiff",
         "sha256": "a5d009307089874528bb914919dea1f21055ef0240cd9184d06f492c2fc6a4c3",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/crack/xyz/026.tiff"
       },
       "parent_record_index": 646,
@@ -47877,17 +47877,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/rgb/028.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/rgb/028.png",
         "sha256": "b77fc9a9d11fd679f74431926ee3cfafcd6c61858723dc86268c047579b16dc8",
         "bytes": 242148,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/crack/rgb/028.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/xyz/028.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/crack/xyz/028.tiff",
         "sha256": "98e55bcde1ad0e566a7a72ba7ff8369a2c785c4bd98a1dc71d8f11b88a6116d6",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/crack/xyz/028.tiff"
       },
       "parent_record_index": 648,
@@ -47901,17 +47901,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/181.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/181.png",
         "sha256": "2180a58ca907118cb6b4c5d28a5a480989c60a5255a6322150f7975e72e3e500",
         "bytes": 313988,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/rgb/181.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/181.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/181.tiff",
         "sha256": "5b619114c37776566e8f3b0d2fca8a439983164a232840ae2fc32f1ef19f7a25",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/xyz/181.tiff"
       },
       "parent_record_index": 661,
@@ -47925,17 +47925,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/184.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/184.png",
         "sha256": "22d7395735cbd920925f415715acd72dee6637abe43bf698db617249695397a5",
         "bytes": 324120,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/rgb/184.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/184.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/184.tiff",
         "sha256": "fc47b04233c5b8cdacc2b67db26008f7964f47757d0b901af9f21bab084c692b",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/xyz/184.tiff"
       },
       "parent_record_index": 664,
@@ -47949,17 +47949,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/188.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/188.png",
         "sha256": "0033dd99f111f7f83dd7ff8c9f1fec1e51f422b0d66fbecd82e5f3a73a29cf0d",
         "bytes": 316109,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/rgb/188.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/188.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/188.tiff",
         "sha256": "af2561196b1ff4f8a28ed5176c23c62b92f22818dc4f4302436c5f1d61d0f9b6",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/xyz/188.tiff"
       },
       "parent_record_index": 668,
@@ -47973,17 +47973,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/190.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/190.png",
         "sha256": "c436e0e6ee9da61fda5145ce468486c1ca284955bc8f0ba981cb821e164d401b",
         "bytes": 316285,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/rgb/190.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/190.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/190.tiff",
         "sha256": "0cd3e36c9b12fdef6cb46293010a68e1827a0cc4eedd1c5e134e5831bb235db2",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/xyz/190.tiff"
       },
       "parent_record_index": 670,
@@ -47997,17 +47997,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/191.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/191.png",
         "sha256": "3431eb7305b1de35fb08a4cce41539023ab92a12dc859e7f0a224fc28021d2aa",
         "bytes": 318400,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/rgb/191.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/191.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/191.tiff",
         "sha256": "6d54304647a6a821d1a22a9ac72dc1edd5d54a2d1947fc0b2d65551bde126e53",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/xyz/191.tiff"
       },
       "parent_record_index": 671,
@@ -48021,17 +48021,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/196.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/rgb/196.png",
         "sha256": "36b49c9acb0f27077b4164ec4b843f6b4393a35e478500a4ce51521fe2bb82a9",
         "bytes": 320966,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/rgb/196.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/196.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/good/xyz/196.tiff",
         "sha256": "30dac6932e6a3efe944169945831b887e2afdf308cef5c15340bc6c49c56c92c",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/good/xyz/196.tiff"
       },
       "parent_record_index": 676,
@@ -48045,17 +48045,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/rgb/014.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/rgb/014.png",
         "sha256": "7501caf3b2442d672b8bd1272c3ba3b1bfa3ab0d8080569c2f01c649e081284f",
         "bytes": 232892,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/perforation/rgb/014.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/xyz/014.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/xyz/014.tiff",
         "sha256": "96f7005fd300c3fabf847d1e75ea1306ed2ad84b4e30b3bd500b8113fc2d6c7a",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/perforation/xyz/014.tiff"
       },
       "parent_record_index": 684,
@@ -48069,17 +48069,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/rgb/015.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/rgb/015.png",
         "sha256": "b1f99fb67c19614bd7d88508c434e94ac1d83df4128a52423c836d929dbd4fcd",
         "bytes": 234817,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/perforation/rgb/015.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/xyz/015.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/xyz/015.tiff",
         "sha256": "a307440986d36259f9b64fd2883ee9c903cc213153fcda514b94b8ca56e74941",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/perforation/xyz/015.tiff"
       },
       "parent_record_index": 685,
@@ -48093,17 +48093,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/rgb/018.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/rgb/018.png",
         "sha256": "3dcde4d1b5434bf3377f2418724221fb8af73cf3878171b8a240e7dcaa24372f",
         "bytes": 236545,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/perforation/rgb/018.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/xyz/018.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/crab/test/perforation/xyz/018.tiff",
         "sha256": "0ed71999266f45aee6dbff907dc6380e332478c53150baaa3ae4b68fb5f52725",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/crab/test/perforation/xyz/018.tiff"
       },
       "parent_record_index": 688,
@@ -48117,17 +48117,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/rgb/023.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/rgb/023.png",
         "sha256": "ee4fc4793c0421e84c7a1cda076fcd6e189c93c2b1c37bfa78ff987ad2fc6b7d",
         "bytes": 259649,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/crack/rgb/023.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/xyz/023.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/xyz/023.tiff",
         "sha256": "17ded7428ac1788bdd524bbff9c7fe7eed763e9e72ef06be7e08ef3a27ebeb42",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/crack/xyz/023.tiff"
       },
       "parent_record_index": 853,
@@ -48141,17 +48141,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/rgb/027.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/rgb/027.png",
         "sha256": "946c97ba1934b45d91405feae1d9654f3f38dc2e9236f59904e52c98fb82042d",
         "bytes": 257590,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/crack/rgb/027.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/xyz/027.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/xyz/027.tiff",
         "sha256": "eb6168abfc2710cf57359096e7e1200da85984d725eaaca89926896fac3610aa",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/crack/xyz/027.tiff"
       },
       "parent_record_index": 857,
@@ -48165,17 +48165,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/rgb/029.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/rgb/029.png",
         "sha256": "957033faad12763617d5faac6553d47072e9529df800b63c8354589f80fe34a0",
         "bytes": 257765,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/crack/rgb/029.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/xyz/029.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/crack/xyz/029.tiff",
         "sha256": "68aead950765b18af1f008c7aea2df1a46f3e4813207503bc5ef930c96f8eff0",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/crack/xyz/029.tiff"
       },
       "parent_record_index": 859,
@@ -48189,17 +48189,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/183.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/183.png",
         "sha256": "f306f1d113a311e689718b98f99fcdec3117ae61588e17f9dd3df5595fcf6caa",
         "bytes": 264197,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/rgb/183.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/183.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/183.tiff",
         "sha256": "8451b12c8b311f3657cef9d0c5ab95e50e0bb9c2e8692950f27d4078951d3dcc",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/xyz/183.tiff"
       },
       "parent_record_index": 873,
@@ -48213,17 +48213,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/184.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/184.png",
         "sha256": "9a09c7d44c435885af36097732abb8a23f59b7b178e0055f2340112c1ecf4da1",
         "bytes": 260995,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/rgb/184.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/184.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/184.tiff",
         "sha256": "abbb562d9a28d7c77cae670c00ebdfb9e76d9735e904bcb9d6d00d72c150f8f6",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/xyz/184.tiff"
       },
       "parent_record_index": 874,
@@ -48237,17 +48237,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/185.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/185.png",
         "sha256": "88fdef2d7f16bce94d8a01acd3b14f12529be87c693efc194deb82ccb40f35ec",
         "bytes": 261994,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/rgb/185.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/185.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/185.tiff",
         "sha256": "7c18e2a2f92d294448040232a53bba750bfbaa942e48cfba25c1c6a577127fb9",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/xyz/185.tiff"
       },
       "parent_record_index": 875,
@@ -48261,17 +48261,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/186.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/186.png",
         "sha256": "e020b8926f4d818bf7928a649d54fe6e1267ee0e221442e3d945f321ed10b919",
         "bytes": 265690,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/rgb/186.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/186.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/186.tiff",
         "sha256": "558a25adf842e74b40c283165f48ca4b3050fbabb06b1c9535cbe5c247afc603",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/xyz/186.tiff"
       },
       "parent_record_index": 876,
@@ -48285,17 +48285,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/187.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/187.png",
         "sha256": "d9e7c5d73b5cd4a3c85d3b5b962db918eb16b7fde41f21c092b767952c850c29",
         "bytes": 258274,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/rgb/187.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/187.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/187.tiff",
         "sha256": "d2dda680dd52b6c562e84c2de4b5e0fd9418d4d78d77a1a0fec9a7382c5b8e76",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/xyz/187.tiff"
       },
       "parent_record_index": 877,
@@ -48309,17 +48309,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/195.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/rgb/195.png",
         "sha256": "1ad44a65c42e202a6756806057f2ca00f16ea3625edfc74709fbb268fe9f1564",
         "bytes": 262352,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/rgb/195.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/195.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/good/xyz/195.tiff",
         "sha256": "3ae02a86964775edb593a1ccecf47cccd5271e4cf21f809ef4a267cc43236692",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/good/xyz/195.tiff"
       },
       "parent_record_index": 885,
@@ -48333,17 +48333,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/rgb/011.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/rgb/011.png",
         "sha256": "79252c61268e915d7413daaf7a40235de48c11adf678499d0b9da56136e8c24a",
         "bytes": 277438,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/perforation/rgb/011.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/xyz/011.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/xyz/011.tiff",
         "sha256": "159059c9932decadb310d095fe5c632e0e2f77a269b73be0b9e383721cef5826",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/perforation/xyz/011.tiff"
       },
       "parent_record_index": 891,
@@ -48357,17 +48357,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/rgb/018.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/rgb/018.png",
         "sha256": "a4ebbc8c04a33cc565147a324377177e1efb7f45ef06d1616661652bebbe3bd8",
         "bytes": 255557,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/perforation/rgb/018.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/xyz/018.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/xyz/018.tiff",
         "sha256": "52ca8f7f13a1b2ad1b4db4413e8f64f920d6a4ede457c14a35f3b24613b59717",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/perforation/xyz/018.tiff"
       },
       "parent_record_index": 898,
@@ -48381,17 +48381,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/rgb/019.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/rgb/019.png",
         "sha256": "9c7672a91688393eafd7bc69ca95ce2af0e0840f8f573dae8b259d65eaaf69d8",
         "bytes": 256201,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/perforation/rgb/019.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/xyz/019.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/pizza/test/perforation/xyz/019.tiff",
         "sha256": "f42a2240f1c308932878188132235457383b3bbeb0a0564c819ea0532155f6c9",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/pizza/test/perforation/xyz/019.tiff"
       },
       "parent_record_index": 899,
@@ -48405,17 +48405,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/rgb/000.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/rgb/000.png",
         "sha256": "1a21bd6e857ed699fde5af092d01fcc2a3a4aadcb3074d3dd561cdf9ae40b007",
         "bytes": 261008,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/crack/rgb/000.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/xyz/000.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/xyz/000.tiff",
         "sha256": "dc59ec8cec48cf612ad9eb36995d3a6c85772b63be29c5a3d7345d499a76bde1",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/crack/xyz/000.tiff"
       },
       "parent_record_index": 1080,
@@ -48429,17 +48429,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/rgb/001.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/rgb/001.png",
         "sha256": "ec22bc8ddcef74e19c454c8e626c00c8da735aec351bf4df4d5d5670d23de43f",
         "bytes": 276712,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/crack/rgb/001.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/xyz/001.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/xyz/001.tiff",
         "sha256": "08a676aff4046119156ade5b0eaf555ce1641952c7db636d6071842584246c88",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/crack/xyz/001.tiff"
       },
       "parent_record_index": 1081,
@@ -48453,17 +48453,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/rgb/006.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/rgb/006.png",
         "sha256": "9a07d6248ea90e4b58df32e4516ea2d27742161b148653d7f0b25d872ff5463c",
         "bytes": 263858,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/crack/rgb/006.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/xyz/006.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/crack/xyz/006.tiff",
         "sha256": "53b69d5dd1202ee6c4b620f2f3ce3240691de240bfd9bab1c260debe5168962f",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/crack/xyz/006.tiff"
       },
       "parent_record_index": 1086,
@@ -48477,17 +48477,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/001.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/001.png",
         "sha256": "c9a982c79adcef6b0cd9f326fb05ab57892b3fe577bc1452cf26a30c52e576df",
         "bytes": 252456,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/rgb/001.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/001.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/001.tiff",
         "sha256": "ae3d6930d46de72ffad7c7726cc7727d8a26a1818d5e6c655d62ac453d1669d2",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/xyz/001.tiff"
       },
       "parent_record_index": 1091,
@@ -48501,17 +48501,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/002.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/002.png",
         "sha256": "620a44d4ed4ff7b5b27e5e55857779f536c9aaaee2f1f444a50c98965a96808f",
         "bytes": 249031,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/rgb/002.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/002.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/002.tiff",
         "sha256": "d00bd8cec441f302add296f51802e49f5d064129fc7d7db4c3071c7186330377",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/xyz/002.tiff"
       },
       "parent_record_index": 1092,
@@ -48525,17 +48525,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/012.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/012.png",
         "sha256": "920787d00b96eab68cd9cf3eb166032663463d1a922b19178be606b65d01e859",
         "bytes": 261911,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/rgb/012.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/012.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/012.tiff",
         "sha256": "aebbae6e6d76efba560f6c6f6f79428088490b9c7bf1422a3787937368530525",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/xyz/012.tiff"
       },
       "parent_record_index": 1102,
@@ -48549,17 +48549,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/014.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/014.png",
         "sha256": "9a4b87259a62c6bf421ca50216bda93d478a444eb4c6c73097a531f3da84d2e7",
         "bytes": 250012,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/rgb/014.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/014.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/014.tiff",
         "sha256": "a06e3539b36637e61bbf8e8a613d3c3cb2d6599f344ddb2f7285e74636399c1a",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/xyz/014.tiff"
       },
       "parent_record_index": 1104,
@@ -48573,17 +48573,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/016.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/016.png",
         "sha256": "c9b4a16f65af163cf144c19efd3fb9b6849b77c87dcb7b1bd48c8554bdd40a15",
         "bytes": 262090,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/rgb/016.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/016.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/016.tiff",
         "sha256": "360ec71c7923beab56c3b4246c43870ea92539b1444f3ab83d4a13588f5ef24e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/xyz/016.tiff"
       },
       "parent_record_index": 1106,
@@ -48597,17 +48597,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/017.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/rgb/017.png",
         "sha256": "60d4286e28b419255cafa9076bbaae2b05e866c23318bba6ddd270d9b8fd7fbf",
         "bytes": 260167,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/rgb/017.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/017.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/plaid/test/good/xyz/017.tiff",
         "sha256": "e3079aadfd0154daf4589f92bd3b388b1c296b4844ca8089202ea7c963f30dbb",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/plaid/test/good/xyz/017.tiff"
       },
       "parent_record_index": 1107,
@@ -48621,17 +48621,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/rgb/021.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/rgb/021.png",
         "sha256": "6765ea02a1fe01650be8bbe9d0b28e6146873255f2414ea42249ae99a9f80cb2",
         "bytes": 239788,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/crack/rgb/021.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/xyz/021.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/xyz/021.tiff",
         "sha256": "7b2125418adc6adab597975c73ce2c04ffb8a0a6efbfdc1eeae1b74ecebca982",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/crack/xyz/021.tiff"
       },
       "parent_record_index": 1281,
@@ -48645,17 +48645,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/rgb/023.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/rgb/023.png",
         "sha256": "e5e14e487e96d738af43a3078ad35c811729667bbf8ef19df60bd8d00ad19600",
         "bytes": 240533,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/crack/rgb/023.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/xyz/023.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/xyz/023.tiff",
         "sha256": "ef34a32c3a91085eaf98138f35e9ca52d4e851bc0fc4a5da0b768191eae3e38c",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/crack/xyz/023.tiff"
       },
       "parent_record_index": 1283,
@@ -48669,17 +48669,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/rgb/025.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/rgb/025.png",
         "sha256": "8a005ef543b82a03bfeccf35e7f265d07d2ddf680b88c8798b04a36c40cd66ac",
         "bytes": 244683,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/crack/rgb/025.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/xyz/025.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/crack/xyz/025.tiff",
         "sha256": "eac9d159dee9afaa645664051b9d16f5c7572d7620c87de5179625ef4a252e7c",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/crack/xyz/025.tiff"
       },
       "parent_record_index": 1285,
@@ -48693,17 +48693,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/183.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/183.png",
         "sha256": "0c8a72e2bff2516e5a19ce8d5bb763c2791b19ceb627ca915b3af33c70014095",
         "bytes": 237848,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/rgb/183.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/183.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/183.tiff",
         "sha256": "9ce27a5e494725abfbb77e9d853e58cc89006d8afe99b13c7e82c52071b7dbf7",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/xyz/183.tiff"
       },
       "parent_record_index": 1323,
@@ -48717,17 +48717,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/186.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/186.png",
         "sha256": "65687a63c4adb8230a54dd9418ba3c6676afac8c4585c67947d50b6eea9765e0",
         "bytes": 233138,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/rgb/186.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/186.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/186.tiff",
         "sha256": "8221bfc31be11d4515736ac72645dcc16986501ed35dc524e93e95f2b5057234",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/xyz/186.tiff"
       },
       "parent_record_index": 1326,
@@ -48741,17 +48741,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/187.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/187.png",
         "sha256": "a318396be70ff85d8f256eef26e5f4c1dc80c1e1096b36a1a903f9f70f4ae96e",
         "bytes": 231374,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/rgb/187.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/187.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/187.tiff",
         "sha256": "45c03e6a61a0e73cee5782c2d8b2d220af7732875eec298a6ebdd2b8a580e6ae",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/xyz/187.tiff"
       },
       "parent_record_index": 1327,
@@ -48765,17 +48765,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/191.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/191.png",
         "sha256": "19e33ab0ebd872c6f39c56549e4d4f14fabff1bd95b2395858867122d268b417",
         "bytes": 235587,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/rgb/191.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/191.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/191.tiff",
         "sha256": "dca60bdf74f61edeaf0a43d155b32175e24f5e0cdfcbde352bf2ff86d1103d39",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/xyz/191.tiff"
       },
       "parent_record_index": 1331,
@@ -48789,17 +48789,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/192.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/192.png",
         "sha256": "ee8bb827b2f75bfc6e4899f708105182a4dc1aa12a554d4743a2f3a79ac450f3",
         "bytes": 237768,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/rgb/192.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/192.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/192.tiff",
         "sha256": "3fbab95fa2ca9187060b1df3e626a413470d9ef6492545c6c7cc343bf3a081ca",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/xyz/192.tiff"
       },
       "parent_record_index": 1332,
@@ -48813,17 +48813,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/194.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/rgb/194.png",
         "sha256": "9d2bfd1bc7e5aa54a14299a0a966d2abc25f607cf572108db2ffbad7c5ff4ca4",
         "bytes": 238730,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/rgb/194.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/194.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/good/xyz/194.tiff",
         "sha256": "3201e5efcbe1cd403a79d20362ba12ceb04df7d5b159461c96e4499cae32944b",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/good/xyz/194.tiff"
       },
       "parent_record_index": 1334,
@@ -48837,17 +48837,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/rgb/001.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/rgb/001.png",
         "sha256": "3b905fd0e5838fcf9995de9c7c9ff6118eecb3ca3e777219f5a4d9d8e0547e51",
         "bytes": 234793,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/perforation/rgb/001.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/xyz/001.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/xyz/001.tiff",
         "sha256": "fa093d94d015255ea19f8ba1adf2c57150c376701f84282cd5a2d2ff5e94990a",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/perforation/xyz/001.tiff"
       },
       "parent_record_index": 1341,
@@ -48861,17 +48861,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/rgb/002.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/rgb/002.png",
         "sha256": "eef27a429bee30f77e79e3e146d76a9d98a84eceaab93f6f5bcf122524dcb64a",
         "bytes": 235785,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/perforation/rgb/002.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/xyz/002.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/xyz/002.tiff",
         "sha256": "2007d2c08758eafd0b02112a7dae7eebc3d0f2b8f547890601a55e81032ce6ed",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/perforation/xyz/002.tiff"
       },
       "parent_record_index": 1342,
@@ -48885,17 +48885,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/rgb/006.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/rgb/006.png",
         "sha256": "382223b98c39b3b60ba6224d3b949a873f2d8ab9bc115eb8b20e2ee0c09ebd25",
         "bytes": 227506,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/perforation/rgb/006.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/xyz/006.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/radish/test/perforation/xyz/006.tiff",
         "sha256": "da7e274e7535cc9702287159f4132225aad1837ef9f17092167b5b1186e8dcce",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/radish/test/perforation/xyz/006.tiff"
       },
       "parent_record_index": 1346,
@@ -48909,17 +48909,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/rgb/020.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/rgb/020.png",
         "sha256": "c3ad2e272ff5a39150d725fb8c4337ccf56c8f7e4dcbfafb9d220f15d513663c",
         "bytes": 230488,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/crack/rgb/020.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/xyz/020.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/xyz/020.tiff",
         "sha256": "f6b8b20f9762389296b36e36803a8e3d91cabc4d575bd4c1e7474a35ab116344",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/crack/xyz/020.tiff"
       },
       "parent_record_index": 1510,
@@ -48933,17 +48933,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/rgb/021.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/rgb/021.png",
         "sha256": "fd1f7e84d72b5c2f543536af829435d1db1cbefb78f5e3d91ae17d08063fdd3f",
         "bytes": 233909,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/crack/rgb/021.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/xyz/021.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/xyz/021.tiff",
         "sha256": "2f1db63f9a6f1b0f056bb76d35156ae17b266a568f9f61c4e3c7aa0ef45567d1",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/crack/xyz/021.tiff"
       },
       "parent_record_index": 1511,
@@ -48957,17 +48957,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/rgb/027.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/rgb/027.png",
         "sha256": "0f44f5b96e72eabd5ad1248597baeba7c052fb659ca0e97e32d347507532e80b",
         "bytes": 226007,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/crack/rgb/027.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/xyz/027.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/crack/xyz/027.tiff",
         "sha256": "b1d1b7a23a25ba50e604bda26faa496724e2b44b6ea2aa20038e10beabe45b53",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/crack/xyz/027.tiff"
       },
       "parent_record_index": 1517,
@@ -48981,17 +48981,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/181.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/181.png",
         "sha256": "46c5e956ebd2ddc5fdfe3e0b98c0823beda225ee755deae1686b3ee04b433c6d",
         "bytes": 236258,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/rgb/181.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/181.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/181.tiff",
         "sha256": "7941a180062710fdea4838a2411bb67b27b09075e50a851a2d625749c836f5dd",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/xyz/181.tiff"
       },
       "parent_record_index": 1531,
@@ -49005,17 +49005,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/184.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/184.png",
         "sha256": "079f7b8bdf897876ebca948962f73154508e03ad4f62bca3f311eb8c10a663d5",
         "bytes": 234868,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/rgb/184.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/184.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/184.tiff",
         "sha256": "590df4a6ceb746ac067bd934b97f3d46a4abef0cdb47a5db97c6a34e894f4781",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/xyz/184.tiff"
       },
       "parent_record_index": 1534,
@@ -49029,17 +49029,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/186.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/186.png",
         "sha256": "c76d56b0d7fe20f2a77d661a778a901af8a26695ef0ef3f74c7a5aa0d3df253e",
         "bytes": 236941,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/rgb/186.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/186.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/186.tiff",
         "sha256": "36866368d5aab5382f59c57a62c5fea85b32f6f97d5f780077dc0bda7e6127b1",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/xyz/186.tiff"
       },
       "parent_record_index": 1536,
@@ -49053,17 +49053,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/194.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/194.png",
         "sha256": "500a1027765de2cd0830d706c50d7afb63151fc5d6abd36b34aa3df64d7a3a6d",
         "bytes": 238324,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/rgb/194.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/194.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/194.tiff",
         "sha256": "a8a7187b60e442a821019cdf9d2a22357e5f60ca6556e58962b5e195d48099ee",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/xyz/194.tiff"
       },
       "parent_record_index": 1544,
@@ -49077,17 +49077,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/196.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/196.png",
         "sha256": "048eaeb42e409b0537ab40786272d6bf1280005bed421f3892a60fe4a506978e",
         "bytes": 235564,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/rgb/196.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/196.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/196.tiff",
         "sha256": "35b0d0c5d3b41a6e2ea59723013aea8f243bf589910577fe141e7722abed4c20",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/xyz/196.tiff"
       },
       "parent_record_index": 1546,
@@ -49101,17 +49101,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/198.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/rgb/198.png",
         "sha256": "adee4124e99eda63a49fbdc77e8a65af3aae1ef2374bfe04d5594e7afc95526b",
         "bytes": 236296,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/rgb/198.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/198.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/good/xyz/198.tiff",
         "sha256": "1342d73ee307fa59ceffdef4a992140dde1b4ce685df430df175709df43c3273",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/good/xyz/198.tiff"
       },
       "parent_record_index": 1548,
@@ -49125,17 +49125,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/rgb/010.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/rgb/010.png",
         "sha256": "dc0d9b8ce92b9788d81f3528747bf7994180e6a68da7513f9a84c1d6002901d9",
         "bytes": 241974,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/perforation/rgb/010.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/xyz/010.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/xyz/010.tiff",
         "sha256": "e04403624313d92da5f200ae2e017a0b855edb5613a6d8474a253b5dec55f65f",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/perforation/xyz/010.tiff"
       },
       "parent_record_index": 1550,
@@ -49149,17 +49149,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/rgb/014.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/rgb/014.png",
         "sha256": "4846188b1c26fac8930566927f6e169b46467dbd36217f6bc0530f3515a646d1",
         "bytes": 241910,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/perforation/rgb/014.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/xyz/014.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/xyz/014.tiff",
         "sha256": "e3a8c5d73bd7264c1979b13d4f559c36a1568ee60bb042b4c66021123f08ebf3",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/perforation/xyz/014.tiff"
       },
       "parent_record_index": 1554,
@@ -49173,17 +49173,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/rgb/016.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/rgb/016.png",
         "sha256": "8f8bce1846c832be3207da601a77b482b77bdcd5a2b6a5209e2452994747d382",
         "bytes": 251421,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/perforation/rgb/016.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/xyz/016.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/strawberry/test/perforation/xyz/016.tiff",
         "sha256": "cbd4acb087f523f7ee2a7ca3c19f77874a828070d6bf0af748adf27bee376133",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/strawberry/test/perforation/xyz/016.tiff"
       },
       "parent_record_index": 1556,
@@ -49197,17 +49197,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/183.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/183.png",
         "sha256": "5e543701e5937b59eeaf182bf2e78e43a8a641d02356926e3c6d11f11376a1b9",
         "bytes": 237622,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/rgb/183.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/183.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/183.tiff",
         "sha256": "4cf881b162f97f2adc42ba7862b75be57894531b8bbc29bbc43c64ff87ccce96",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/xyz/183.tiff"
       },
       "parent_record_index": 1743,
@@ -49221,17 +49221,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/184.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/184.png",
         "sha256": "970239fc49a8dad0fe66a726d955df0d5c096d60c5f157c5bcef437e7c0f8426",
         "bytes": 229206,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/rgb/184.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/184.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/184.tiff",
         "sha256": "44f4ce65e83c00df497868dbb89fc82075ef1231aec3c68601e948c97b6a86c2",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/xyz/184.tiff"
       },
       "parent_record_index": 1744,
@@ -49245,17 +49245,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/186.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/186.png",
         "sha256": "ba70abe1d939d102e0973e35083c3310ca82c6f648474a281519d2aac4472940",
         "bytes": 232323,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/rgb/186.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/186.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/186.tiff",
         "sha256": "0607f9eb458a0edd9762ad990cfc5f82e8c56b9e4fca32ffb85ee95bed8a5a76",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/xyz/186.tiff"
       },
       "parent_record_index": 1746,
@@ -49269,17 +49269,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/187.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/187.png",
         "sha256": "8ed1f9af18fe30550f20ce6eabdd16c18c34b6b3c03dcc75476a68a372bb60d2",
         "bytes": 232731,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/rgb/187.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/187.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/187.tiff",
         "sha256": "0fcadd889ac3d5c4d199b1079d76a307da228c1eea1ab32c84268364bc33c8dd",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/xyz/187.tiff"
       },
       "parent_record_index": 1747,
@@ -49293,17 +49293,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/188.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/188.png",
         "sha256": "a1d3ca37b2bac2c5edfdb9b1f3529df30ff79c5a913f0500a94cb95ef813b0fd",
         "bytes": 238690,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/rgb/188.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/188.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/188.tiff",
         "sha256": "25908b74c6680707f6eeba4322f06a65018802344c28c0e3a89f3d9087c0cf0d",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/xyz/188.tiff"
       },
       "parent_record_index": 1748,
@@ -49317,17 +49317,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/194.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/rgb/194.png",
         "sha256": "2718b0ec93ab39a19d3da79570db273e172737ae4263cb1bea0c7e3b134e40ca",
         "bytes": 234135,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/rgb/194.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/194.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/good/xyz/194.tiff",
         "sha256": "4386fe5dbace457e90a1c28ccbc8278b69adef30ec329daa4c348b2fb47c2a4e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/good/xyz/194.tiff"
       },
       "parent_record_index": 1754,
@@ -49341,17 +49341,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/rgb/224.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/rgb/224.png",
         "sha256": "8ff0ad69877f0ed509db930b48272be7367f0cf4ae5173d52d34993a2b3cdf2d",
         "bytes": 230965,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/perforation/rgb/224.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/xyz/224.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/xyz/224.tiff",
         "sha256": "6985fe06e062ea6cc376014090481dd7a036214cc4a387fbca991b766b36a2fd",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/perforation/xyz/224.tiff"
       },
       "parent_record_index": 1764,
@@ -49365,17 +49365,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/rgb/225.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/rgb/225.png",
         "sha256": "6915fce0974233eacce2aa75fd734f2802f86378b431e9ad61a7355d033448be",
         "bytes": 242965,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/perforation/rgb/225.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/xyz/225.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/xyz/225.tiff",
         "sha256": "2d1abfe8a55f4e4adf7f4dee3829f2b0526644e8ee089a9dde66c815254ca4f0",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/perforation/xyz/225.tiff"
       },
       "parent_record_index": 1765,
@@ -49389,17 +49389,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/rgb/229.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/rgb/229.png",
         "sha256": "24078be2619456a6b252d2c0fb1c58b071cb689b9333c21a2935ca066610704d",
         "bytes": 241520,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/perforation/rgb/229.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/xyz/229.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/sushi/test/perforation/xyz/229.tiff",
         "sha256": "12f203926c56eb459fdd19a44ac87b5ce2c708daf9050262d637c8bc85ab0c9e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/sushi/test/perforation/xyz/229.tiff"
       },
       "parent_record_index": 1769,
@@ -49413,17 +49413,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/rgb/023.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/rgb/023.png",
         "sha256": "87521d77c530f7d85fdb594b12e30e4a6ade1ed94ee495671003b4952cf1f9e2",
         "bytes": 234276,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/crack/rgb/023.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/xyz/023.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/xyz/023.tiff",
         "sha256": "56fa1fcf2b05ba6ccbd741be7d29025e550069c2c768c240e261cac2b7c460da",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/crack/xyz/023.tiff"
       },
       "parent_record_index": 1933,
@@ -49437,17 +49437,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/rgb/024.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/rgb/024.png",
         "sha256": "c880b5a8f5ed1f9189cb5b69daec9f0551df0fa05e3e8d68842e8d01eb1ba977",
         "bytes": 239047,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/crack/rgb/024.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/xyz/024.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/xyz/024.tiff",
         "sha256": "6598afedc4685724314b413033d82200000dfdee549dddfd092cd02f7bdba4da",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/crack/xyz/024.tiff"
       },
       "parent_record_index": 1934,
@@ -49461,17 +49461,17 @@
       "label": 1,
       "published_defect_type": "crack",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/rgb/029.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/rgb/029.png",
         "sha256": "f515f2862f75ad3e2122145edc62afb94f06bd44af52d027f8b5a4c135ee506c",
         "bytes": 238149,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/crack/rgb/029.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/xyz/029.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/crack/xyz/029.tiff",
         "sha256": "e0d71d4ea6e7d59498113c1a444732d12266db32db6171b080421b29fe53b4d9",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/crack/xyz/029.tiff"
       },
       "parent_record_index": 1939,
@@ -49485,17 +49485,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/184.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/184.png",
         "sha256": "782d99565a0b11fb1c56ecfa90aace4e879bee522c6dce70abb00df040c73f06",
         "bytes": 234767,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/rgb/184.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/184.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/184.tiff",
         "sha256": "997fab155fe19f24f65b6a099456ea0d568887dec4d92f93833bed03ec2d1705",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/xyz/184.tiff"
       },
       "parent_record_index": 1954,
@@ -49509,17 +49509,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/185.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/185.png",
         "sha256": "92021ac20d8bb26c5e6e0d003a04f9cf4a3d65ea3893464ad074f9570317b3ea",
         "bytes": 234843,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/rgb/185.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/185.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/185.tiff",
         "sha256": "a6be9e3961d6cd66bb704e2f5b6056acd116d3908bb82eb5960cc0bdcb9e3935",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/xyz/185.tiff"
       },
       "parent_record_index": 1955,
@@ -49533,17 +49533,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/188.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/188.png",
         "sha256": "5bf1c4d4ba3af9cfbd8fe4206adfec5ccd36ff43a2647064aeba0a0b3638c42a",
         "bytes": 237610,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/rgb/188.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/188.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/188.tiff",
         "sha256": "e580271d49a6137695b8630e06b75c7d8097e7dc3f43fa317e409877b59ae025",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/xyz/188.tiff"
       },
       "parent_record_index": 1958,
@@ -49557,17 +49557,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/191.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/191.png",
         "sha256": "6fd1c8bbfcef7fa1b9062bd186ce0ad29209c82c62ed02e7c1515f5398c94891",
         "bytes": 236392,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/rgb/191.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/191.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/191.tiff",
         "sha256": "f244159ea2715653bb0049a39ca75051a36d761e6b7401d83858a964bd5a6a75",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/xyz/191.tiff"
       },
       "parent_record_index": 1961,
@@ -49581,17 +49581,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/193.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/193.png",
         "sha256": "f5e272bfcfb73c6f114eefd2e4e9756d1a1196d90a0336fae581db9f49f23d2a",
         "bytes": 231302,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/rgb/193.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/193.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/193.tiff",
         "sha256": "d7f31687d35a948798e35d860455682982ce46d09314c1c0741fb7ddd7dc0d0e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/xyz/193.tiff"
       },
       "parent_record_index": 1963,
@@ -49605,17 +49605,17 @@
       "label": 0,
       "published_defect_type": "good",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/195.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/rgb/195.png",
         "sha256": "ad5fe810d30350b8d9fc8cc15f2029ad8280a09b1f1bb86366da307e6605702b",
         "bytes": 235527,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/rgb/195.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/195.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/good/xyz/195.tiff",
         "sha256": "057ec76dd404416727d82af632902f80412ae72c15fb054fd853ad330248682e",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/good/xyz/195.tiff"
       },
       "parent_record_index": 1965,
@@ -49629,17 +49629,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/rgb/017.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/rgb/017.png",
         "sha256": "244867dd5fd11e75315713f817a8feff6ac387f8cf0991d0d0ecf36e6427d2e8",
         "bytes": 228804,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/perforation/rgb/017.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/xyz/017.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/xyz/017.tiff",
         "sha256": "06868a69198bd26c4b903d6539da762517f217dbb5db595fbd0bde7cec253f7a",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/perforation/xyz/017.tiff"
       },
       "parent_record_index": 1977,
@@ -49653,17 +49653,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/rgb/018.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/rgb/018.png",
         "sha256": "1662f4da722267cb9ca8474c666fafd1db0a3e8f2f40aed2f555d2fc4e4275c6",
         "bytes": 234351,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/perforation/rgb/018.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/xyz/018.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/xyz/018.tiff",
         "sha256": "cd6d8f77efdbbd0101e9cbea95d80ebaeeca75f10937a3f0351403a7be45c914",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/perforation/xyz/018.tiff"
       },
       "parent_record_index": 1978,
@@ -49677,17 +49677,17 @@
       "label": 1,
       "published_defect_type": "perforation",
       "RGB": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/rgb/019.png",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/rgb/019.png",
         "sha256": "336659e8346b0f6baead2009bf239895a74413027fed0e874f79435c77eaba10",
         "bytes": 244502,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/perforation/rgb/019.png"
       },
       "XYZ": {
-        "path": "${DRIVE_F}/论文一~五/02_数据/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/xyz/019.tiff",
+        "path": "${DRIVE_F}/research_workspace/02_data/processed/p3_public_rgb3d_manual_20261016/PD-REAL/PD-REAL-1108/train/test/perforation/xyz/019.tiff",
         "sha256": "8d204f5f262dac23199666cd226eb194e93bfab024d2ccce28d70c25428a864a",
         "bytes": 3686688,
-        "archive": "${DRIVE_E}/数据/压缩包归档/PD-REAL/20261016/PD-REAL.zip",
+        "archive": "${DRIVE_E}/data/archive_storage/PD-REAL/20261016/PD-REAL.zip",
         "archive_member": "PD-REAL-1108/train/test/perforation/xyz/019.tiff"
       },
       "parent_record_index": 1979,
