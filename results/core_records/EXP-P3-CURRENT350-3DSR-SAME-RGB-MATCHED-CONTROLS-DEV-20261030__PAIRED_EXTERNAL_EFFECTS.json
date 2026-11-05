@@ -1,0 +1,1075 @@
+{
+  "status": "COMPLETE",
+  "configuration": {
+    "created": "2026-10-30T18:30:20.597367+08:00",
+    "source_sha256": "566cf13ee0356a047d4d3f590565df059ebaf76caf5a379ae15ca27e0442c1b5",
+    "bootstrap_replicates": 5000,
+    "seed": 2026103061,
+    "contrasts": "For V0RGB and V1normalRGB contexts, own pre-existingfixed.1 versus3DSR hard/soft/freeCselected/fixed.1/G_ONLY/RGB_ONLY; plusownCselectedhard versus3DSRCselectedhard andownCselectedfree versus3DSRCselectedfree. Allcontexts/contrasts retained. No new selection.",
+    "scope": "Post-evaluation conditional paired descriptive intervals, fixedmodels/classes/heads; stratifiedcategorylabelmultinomial registeredgroup bootstrap; unadjustedmultiplicity, excludestraining/modelselectionuncertainty. ALL350/EXCLUDED225/stressADD482/REPLACE407 allretained. C has alreadydeveloped; OOF is selection notindependentrisk. Normalrawrank preserved separately because oldCheadcollapsed.",
+    "source_results_sha256": "a9975bff7f5e38641adee82e202ab53b4bb6c65e2786b517d8072e1cdc35bcad",
+    "source_logits_sha256": "2e728f966b670c1bc0e6ff0ca305a739c5a2777b1119fd0d6861b99d5111c2ce"
+  },
+  "cohorts": {
+    "ALL": {
+      "n": 350,
+      "effects": {
+        "V0": {
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.02653333333333352,
+              "conditional_CI95": [
+                0.009333333333333194,
+                0.04706666666666659
+              ]
+            },
+            "Brier": {
+              "delta": -0.045394470778851455,
+              "conditional_CI95": [
+                -0.07821449386522802,
+                -0.01546964685934706
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.034666666666666845,
+              "conditional_CI95": [
+                0.015333333333333199,
+                0.05840000000000001
+              ]
+            },
+            "Brier": {
+              "delta": -0.0561437557813669,
+              "conditional_CI95": [
+                -0.09076559796220433,
+                -0.024011227171041958
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.016133333333333333,
+              "conditional_CI95": [
+                0.003866666666666685,
+                0.03186666666666649
+              ]
+            },
+            "Brier": {
+              "delta": -0.03281041911018005,
+              "conditional_CI95": [
+                -0.06156188631457615,
+                -0.007787730642301617
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.04039999999999999,
+              "conditional_CI95": [
+                0.019600000000000062,
+                0.06493666666666657
+              ]
+            },
+            "Brier": {
+              "delta": -0.060821300846395455,
+              "conditional_CI95": [
+                -0.09533256907031125,
+                -0.028649491358547288
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.09800000000000009,
+              "conditional_CI95": [
+                0.06986666666666674,
+                0.12760666666666673
+              ]
+            },
+            "Brier": {
+              "delta": -0.12448573786358738,
+              "conditional_CI95": [
+                -0.1562458978147602,
+                -0.09277784050084897
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.021733333333333382,
+              "conditional_CI95": [
+                0.0008000000000000201,
+                0.052936666666666785
+              ]
+            },
+            "Brier": {
+              "delta": -0.021510610301916783,
+              "conditional_CI95": [
+                -0.037627772300625466,
+                -0.008708922667113563
+              ]
+            }
+          },
+          "V0_OWN_HARD_FIXED minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.02653333333333352,
+              "conditional_CI95": [
+                0.009333333333333194,
+                0.04706666666666659
+              ]
+            },
+            "Brier": {
+              "delta": -0.046206281895875986,
+              "conditional_CI95": [
+                -0.07906535410968575,
+                -0.01613136060065019
+              ]
+            }
+          },
+          "V0_OWN_FREE_FUSION minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.014666666666666606,
+              "conditional_CI95": [
+                0.0017333333333333645,
+                0.030533333333333523
+              ]
+            },
+            "Brier": {
+              "delta": -0.02709922282835334,
+              "conditional_CI95": [
+                -0.05524913035245821,
+                -0.002595700201092649
+              ]
+            }
+          }
+        },
+        "V1": {
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.07253333333333334,
+              "conditional_CI95": [
+                0.04720000000000013,
+                0.1008
+              ]
+            },
+            "Brier": {
+              "delta": -0.1035119205426816,
+              "conditional_CI95": [
+                -0.13767544346448404,
+                -0.0707300998709539
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.04826666666666668,
+              "conditional_CI95": [
+                0.02760000000000007,
+                0.07199999999999995
+              ]
+            },
+            "Brier": {
+              "delta": -0.09168033380014294,
+              "conditional_CI95": [
+                -0.12327963772866585,
+                -0.061360981617845145
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.021200000000000108,
+              "conditional_CI95": [
+                0.008266666666666533,
+                0.03706666666666658
+              ]
+            },
+            "Brier": {
+              "delta": -0.03043375193659183,
+              "conditional_CI95": [
+                -0.04306893241336737,
+                -0.018525527427912494
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.07479999999999998,
+              "conditional_CI95": [
+                0.04920000000000013,
+                0.10346666666666648
+              ]
+            },
+            "Brier": {
+              "delta": -0.10677173982935756,
+              "conditional_CI95": [
+                -0.1407426659743617,
+                -0.0741819904747818
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.09840000000000004,
+              "conditional_CI95": [
+                0.0702666666666667,
+                0.12813333333333332
+              ]
+            },
+            "Brier": {
+              "delta": -0.13216774119548408,
+              "conditional_CI95": [
+                -0.16378091844560472,
+                -0.10118016302947971
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.006399999999999961,
+              "conditional_CI95": [
+                0.0007999999999999119,
+                0.014800000000000035
+              ]
+            },
+            "Brier": {
+              "delta": -0.025620843227902108,
+              "conditional_CI95": [
+                -0.040081218274048674,
+                -0.013491932812000371
+              ]
+            }
+          },
+          "V1_OWN_HARD_FIXED minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.06613333333333338,
+              "conditional_CI95": [
+                0.04012666666666669,
+                0.0948000000000001
+              ]
+            },
+            "Brier": {
+              "delta": -0.0778910773147795,
+              "conditional_CI95": [
+                -0.1138167455081332,
+                -0.04223397500963953
+              ]
+            }
+          },
+          "V1_OWN_FREE_FUSION minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.014800000000000146,
+              "conditional_CI95": [
+                -0.0002666666666666428,
+                0.03200000000000003
+              ]
+            },
+            "Brier": {
+              "delta": -0.004812908708689723,
+              "conditional_CI95": [
+                -0.020877705898617597,
+                0.013343681882403039
+              ]
+            }
+          }
+        }
+      }
+    },
+    "EXCLUDED": {
+      "n": 225,
+      "effects": {
+        "V0": {
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.04293333333333349,
+              "conditional_CI95": [
+                0.017333333333333416,
+                0.07413333333333338
+              ]
+            },
+            "Brier": {
+              "delta": -0.043788565563464374,
+              "conditional_CI95": [
+                -0.0778766413770492,
+                -0.012728279211112027
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.054400000000000004,
+              "conditional_CI95": [
+                0.02586000000000004,
+                0.08986666666666676
+              ]
+            },
+            "Brier": {
+              "delta": -0.05317270435512782,
+              "conditional_CI95": [
+                -0.08742332128492486,
+                -0.02046894342389795
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.02960000000000007,
+              "conditional_CI95": [
+                0.008000000000000007,
+                0.056266666666666694
+              ]
+            },
+            "Brier": {
+              "delta": -0.03320289835135132,
+              "conditional_CI95": [
+                -0.06362087704297602,
+                -0.0055862972359986066
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.06373333333333342,
+              "conditional_CI95": [
+                0.03306666666666658,
+                0.10080000000000011
+              ]
+            },
+            "Brier": {
+              "delta": -0.06347362729846397,
+              "conditional_CI95": [
+                -0.09875660842394711,
+                -0.030947633100208007
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.14506666666666668,
+              "conditional_CI95": [
+                0.1013333333333335,
+                0.18853333333333344
+              ]
+            },
+            "Brier": {
+              "delta": -0.13453571176550153,
+              "conditional_CI95": [
+                -0.16857833956619883,
+                -0.10083377406643514
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.02960000000000007,
+              "conditional_CI95": [
+                0.0016000000000000458,
+                0.06853333333333333
+              ]
+            },
+            "Brier": {
+              "delta": -0.03717995913012376,
+              "conditional_CI95": [
+                -0.058324027266903784,
+                -0.01770806772244243
+              ]
+            }
+          },
+          "V0_OWN_HARD_FIXED minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.04293333333333349,
+              "conditional_CI95": [
+                0.017333333333333416,
+                0.07413333333333338
+              ]
+            },
+            "Brier": {
+              "delta": -0.0454132871253824,
+              "conditional_CI95": [
+                -0.07905019967897542,
+                -0.014402751316954907
+              ]
+            }
+          },
+          "V0_OWN_FREE_FUSION minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.027733333333333388,
+              "conditional_CI95": [
+                0.005866666666666687,
+                0.05467333333333343
+              ]
+            },
+            "Brier": {
+              "delta": -0.028484041924911288,
+              "conditional_CI95": [
+                -0.057449090995088437,
+                -0.0027398999633135644
+              ]
+            }
+          }
+        },
+        "V1": {
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.1186666666666667,
+              "conditional_CI95": [
+                0.07893333333333352,
+                0.16133333333333355
+              ]
+            },
+            "Brier": {
+              "delta": -0.12653282729195087,
+              "conditional_CI95": [
+                -0.16251807928455794,
+                -0.09103261435270495
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.08400000000000007,
+              "conditional_CI95": [
+                0.0496000000000002,
+                0.12293333333333334
+              ]
+            },
+            "Brier": {
+              "delta": -0.09711906654414895,
+              "conditional_CI95": [
+                -0.12926064989678557,
+                -0.0652959034465527
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.04160000000000008,
+              "conditional_CI95": [
+                0.01733333333333342,
+                0.07120000000000015
+              ]
+            },
+            "Brier": {
+              "delta": -0.05100739328032368,
+              "conditional_CI95": [
+                -0.06781952273112797,
+                -0.03423988856227733
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.1213333333333333,
+              "conditional_CI95": [
+                0.08105999999999997,
+                0.16426666666666678
+              ]
+            },
+            "Brier": {
+              "delta": -0.12901930211553575,
+              "conditional_CI95": [
+                -0.16488165260093976,
+                -0.0932552823307411
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.14506666666666668,
+              "conditional_CI95": [
+                0.1013333333333335,
+                0.18853333333333344
+              ]
+            },
+            "Brier": {
+              "delta": -0.14739749457549728,
+              "conditional_CI95": [
+                -0.18071639197466718,
+                -0.11307980791642244
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.012266666666666648,
+              "conditional_CI95": [
+                0.0016000000000000458,
+                0.028266666666666662
+              ]
+            },
+            "Brier": {
+              "delta": -0.04224933346067806,
+              "conditional_CI95": [
+                -0.060628229605724684,
+                -0.025208900760252922
+              ]
+            }
+          },
+          "V1_OWN_HARD_FIXED minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.10640000000000005,
+              "conditional_CI95": [
+                0.06426000000000014,
+                0.15040666666666666
+              ]
+            },
+            "Brier": {
+              "delta": -0.08428349383127279,
+              "conditional_CI95": [
+                -0.12213762567217568,
+                -0.04658376451366766
+              ]
+            }
+          },
+          "V1_OWN_FREE_FUSION minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.029333333333333433,
+              "conditional_CI95": [
+                2.1649348980190742e-16,
+                0.061866666666666736
+              ]
+            },
+            "Brier": {
+              "delta": -0.00875805981964562,
+              "conditional_CI95": [
+                -0.02807479388501468,
+                0.012204379701303432
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ADD_NORMAL_HOLD": {
+      "n": 482,
+      "effects": {
+        "V0": {
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.08555364467728588,
+              "conditional_CI95": [
+                0.05914678112215467,
+                0.11406954508856681
+              ]
+            },
+            "Brier": {
+              "delta": -0.11092502203699389,
+              "conditional_CI95": [
+                -0.13264770732416634,
+                -0.09030025108285286
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.09066062665926788,
+              "conditional_CI95": [
+                0.06365493329606778,
+                0.1196397452139643
+              ]
+            },
+            "Brier": {
+              "delta": -0.11840821792877448,
+              "conditional_CI95": [
+                -0.1405937710868693,
+                -0.09763298653534964
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.07764542395656526,
+              "conditional_CI95": [
+                0.05187716724877041,
+                0.10519029695456329
+              ]
+            },
+            "Brier": {
+              "delta": -0.09921001360682458,
+              "conditional_CI95": [
+                -0.12006069010356181,
+                -0.0798187908051976
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.09386445548809674,
+              "conditional_CI95": [
+                0.06629710909958891,
+                0.12334794866197739
+              ]
+            },
+            "Brier": {
+              "delta": -0.10871217452857546,
+              "conditional_CI95": [
+                -0.1325830899630406,
+                -0.08586276182289637
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.25526918222570405,
+              "conditional_CI95": [
+                0.20898712180250886,
+                0.30429112927465507
+              ]
+            },
+            "Brier": {
+              "delta": -0.12423303038775851,
+              "conditional_CI95": [
+                -0.154838256130584,
+                -0.0947776792923355
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.07364345323584454,
+              "conditional_CI95": [
+                0.04663376266891896,
+                0.10195524192670945
+              ]
+            },
+            "Brier": {
+              "delta": -0.03526924825277811,
+              "conditional_CI95": [
+                -0.052730093800063146,
+                -0.018304527001036335
+              ]
+            }
+          },
+          "V0_OWN_HARD_FIXED minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.08575775503764616,
+              "conditional_CI95": [
+                0.05954697445407337,
+                0.1140153954905994
+              ]
+            },
+            "Brier": {
+              "delta": -0.09870924881894771,
+              "conditional_CI95": [
+                -0.11977716702488309,
+                -0.07855025175630458
+              ]
+            }
+          },
+          "V0_OWN_FREE_FUSION minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.0768120906232318,
+              "conditional_CI95": [
+                0.05448444776298046,
+                0.10039701352167398
+              ]
+            },
+            "Brier": {
+              "delta": -0.13566044882465195,
+              "conditional_CI95": [
+                -0.1560336163475481,
+                -0.1165276972843946
+              ]
+            }
+          }
+        },
+        "V1": {
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.07215090090090093,
+              "conditional_CI95": [
+                0.051531566722973,
+                0.09543091920045028
+              ]
+            },
+            "Brier": {
+              "delta": -0.2728312912350095,
+              "conditional_CI95": [
+                -0.30351045648874514,
+                -0.241857302695184
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.053617680180180205,
+              "conditional_CI95": [
+                0.03695467342342318,
+                0.07333125703828797
+              ]
+            },
+            "Brier": {
+              "delta": -0.26688180020412133,
+              "conditional_CI95": [
+                -0.29649309671523016,
+                -0.23796363618896227
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.031458333333333366,
+              "conditional_CI95": [
+                0.019517032657657425,
+                0.0458036669481982
+              ]
+            },
+            "Brier": {
+              "delta": -0.14877156028817592,
+              "conditional_CI95": [
+                -0.1672037416372066,
+                -0.13059282950205572
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.07440033783783795,
+              "conditional_CI95": [
+                0.053367222691441486,
+                0.09803223536036026
+              ]
+            },
+            "Brier": {
+              "delta": -0.27503572673841553,
+              "conditional_CI95": [
+                -0.30570421544990667,
+                -0.24419803019661712
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.2897159727662446,
+              "conditional_CI95": [
+                0.24102886820244154,
+                0.3401580991657417
+              ]
+            },
+            "Brier": {
+              "delta": -0.293059290829607,
+              "conditional_CI95": [
+                -0.32414006554470626,
+                -0.2625625425811908
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.01871480855855867,
+              "conditional_CI95": [
+                0.01052213541666675,
+                0.029110430743243293
+              ]
+            },
+            "Brier": {
+              "delta": -0.03912365404604754,
+              "conditional_CI95": [
+                -0.05229978805213516,
+                -0.02671838438313507
+              ]
+            }
+          },
+          "V1_OWN_HARD_FIXED minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.053436092342342256,
+              "conditional_CI95": [
+                0.0349821579391892,
+                0.07414593890765755
+              ]
+            },
+            "Brier": {
+              "delta": -0.23370763718896198,
+              "conditional_CI95": [
+                -0.2657496434431279,
+                -0.2014462825788255
+              ]
+            }
+          },
+          "V1_OWN_FREE_FUSION minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.012743524774774695,
+              "conditional_CI95": [
+                0.004038745777026859,
+                0.022962169200450525
+              ]
+            },
+            "Brier": {
+              "delta": -0.10964790624212838,
+              "conditional_CI95": [
+                -0.12757932553411735,
+                -0.09114571442901247
+              ]
+            }
+          }
+        }
+      }
+    },
+    "REPLACE_NORMAL": {
+      "n": 407,
+      "effects": {
+        "V0": {
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.1140735455021169,
+              "conditional_CI95": [
+                0.07788454402740137,
+                0.15192445253159564
+              ]
+            },
+            "Brier": {
+              "delta": -0.14216548431357884,
+              "conditional_CI95": [
+                -0.1606855009283899,
+                -0.12405261726970189
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.11721675150246558,
+              "conditional_CI95": [
+                0.08110837575123299,
+                0.1552686599115171
+              ]
+            },
+            "Brier": {
+              "delta": -0.14747211341865957,
+              "conditional_CI95": [
+                -0.16527865396521235,
+                -0.12998775272518923
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.1078743478743478,
+              "conditional_CI95": [
+                0.07210932321646632,
+                0.145208830851688
+              ]
+            },
+            "Brier": {
+              "delta": -0.13111921679043764,
+              "conditional_CI95": [
+                -0.14886767181875016,
+                -0.11394921060022282
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.1187342815914243,
+              "conditional_CI95": [
+                0.08252758352758383,
+                0.15666139019710457
+              ]
+            },
+            "Brier": {
+              "delta": -0.12839024923811132,
+              "conditional_CI95": [
+                -0.14808505749374146,
+                -0.1098232372101944
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.33296513010798723,
+              "conditional_CI95": [
+                0.28002429911358506,
+                0.3877820651570654
+              ]
+            },
+            "Brier": {
+              "delta": -0.11302717967796622,
+              "conditional_CI95": [
+                -0.137922440214429,
+                -0.09018047071342254
+              ]
+            }
+          },
+          "V0_OWN_FIXED_HARD_POINT1 minus V0_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.10023611309325586,
+              "conditional_CI95": [
+                0.06199521113806845,
+                0.13928615035757935
+              ]
+            },
+            "Brier": {
+              "delta": -0.04167452834651225,
+              "conditional_CI95": [
+                -0.06324576814881065,
+                -0.02019251593267614
+              ]
+            }
+          },
+          "V0_OWN_HARD_FIXED minus V0_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.1143613529327816,
+              "conditional_CI95": [
+                0.07910533117675983,
+                0.15166854177568478
+              ]
+            },
+            "Brier": {
+              "delta": -0.12262413175797049,
+              "conditional_CI95": [
+                -0.14099996589873365,
+                -0.10501596654594736
+              ]
+            }
+          },
+          "V0_OWN_FREE_FUSION minus V0_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.10790923362351923,
+              "conditional_CI95": [
+                0.07898870573870574,
+                0.13844523333809056
+              ]
+            },
+            "Brier": {
+              "delta": -0.192954084731162,
+              "conditional_CI95": [
+                -0.2088090018285798,
+                -0.17805508294537886
+              ]
+            }
+          }
+        },
+        "V1": {
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.07007849293563595,
+              "conditional_CI95": [
+                0.04822536193964768,
+                0.09495630559916307
+              ]
+            },
+            "Brier": {
+              "delta": -0.3615587290170402,
+              "conditional_CI95": [
+                -0.38526575156252235,
+                -0.33959055440922814
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_SOFT_CENTERED": {
+            "AUROC": {
+              "delta": 0.0553148438862725,
+              "conditional_CI95": [
+                0.036259680795395155,
+                0.07746101517530109
+              ]
+            },
+            "Brier": {
+              "delta": -0.359624984334311,
+              "conditional_CI95": [
+                -0.38259144259589695,
+                -0.3381506434863645
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.03656026513169364,
+              "conditional_CI95": [
+                0.021729766265480562,
+                0.05340676783533934
+              ]
+            },
+            "Brier": {
+              "delta": -0.21185211474933463,
+              "conditional_CI95": [
+                -0.22406193602088317,
+                -0.19993415936193298
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_FIXED_HARD_POINT1": {
+            "AUROC": {
+              "delta": 0.07228152799581378,
+              "conditional_CI95": [
+                0.05015345368916797,
+                0.09753196406767853
+              ]
+            },
+            "Brier": {
+              "delta": -0.3630867290397265,
+              "conditional_CI95": [
+                -0.38690913467209603,
+                -0.3410587896282987
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_G_ONLY": {
+            "AUROC": {
+              "delta": 0.3890003647146505,
+              "conditional_CI95": [
+                0.3362095543345547,
+                0.44553568058925214
+              ]
+            },
+            "Brier": {
+              "delta": -0.37639034255698645,
+              "conditional_CI95": [
+                -0.4011014042833346,
+                -0.353682417651813
+              ]
+            }
+          },
+          "V1_OWN_FIXED_HARD_POINT1 minus V1_3DSR_RGB_ONLY": {
+            "AUROC": {
+              "delta": 0.025890458747601652,
+              "conditional_CI95": [
+                0.014337868480725635,
+                0.039562750741322365
+              ]
+            },
+            "Brier": {
+              "delta": -0.04646069341302761,
+              "conditional_CI95": [
+                -0.06300084535141758,
+                -0.03117961810862349
+              ]
+            }
+          },
+          "V1_OWN_HARD_FIXED minus V1_3DSR_HARD_FIXED": {
+            "AUROC": {
+              "delta": 0.0441880341880343,
+              "conditional_CI95": [
+                0.025864817721960715,
+                0.06531148613291482
+              ]
+            },
+            "Brier": {
+              "delta": -0.3150980356040126,
+              "conditional_CI95": [
+                -0.3436325830017981,
+                -0.28691528108259534
+              ]
+            }
+          },
+          "V1_OWN_FREE_FUSION minus V1_3DSR_FREE_FUSION": {
+            "AUROC": {
+              "delta": 0.010669806384091984,
+              "conditional_CI95": [
+                0.0025641025641027714,
+                0.020422379208093585
+              ]
+            },
+            "Brier": {
+              "delta": -0.16539142133630702,
+              "conditional_CI95": [
+                -0.17926632579363766,
+                -0.15027915897460967
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

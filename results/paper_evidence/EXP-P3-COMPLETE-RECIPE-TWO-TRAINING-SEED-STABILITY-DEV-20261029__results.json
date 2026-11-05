@@ -1,0 +1,4646 @@
+{
+  "status": "COMPLETE",
+  "completed": "2026-10-29T20:03:22.028838+08:00",
+  "results": {
+    "RealIAD3": {
+      "20261017": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.021115674705974738,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.998,
+                "probability_AUROC": 0.998,
+                "Brier": 0.03107697612753855,
+                "normal_MSE": 0.025928653550547232,
+                "anomaly_MSE": 0.03622529870452986
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.998,
+                "probability_AUROC": 0.998,
+                "Brier": 0.032240309944394835,
+                "normal_MSE": 0.0028010903281553558,
+                "anomaly_MSE": 0.061679529560634314
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.9738045990834922e-05,
+                "normal_MSE": 5.248898304170663e-05,
+                "anomaly_MSE": 6.987108939963218e-06
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9610666666666666,
+            "probability_AUROC": 0.9610666666666666,
+            "Brier": 0.08018040348976616,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.888,
+                "probability_AUROC": 0.888,
+                "Brier": 0.13964616659655565,
+                "normal_MSE": 0.1628836549448771,
+                "anomaly_MSE": 0.11640867824823418
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9952000000000001,
+                "probability_AUROC": 0.9952000000000001,
+                "Brier": 0.10089309940791943,
+                "normal_MSE": 1.8033396826551585e-06,
+                "anomaly_MSE": 0.2017843954761562
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.9444648233666676e-06,
+                "normal_MSE": 2.3554644293730754e-11,
+                "anomaly_MSE": 3.888906092089042e-06
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9989333333333333,
+            "probability_AUROC": 0.9989333333333333,
+            "Brier": 0.0164064422176028,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.998,
+                "probability_AUROC": 0.998,
+                "Brier": 0.025250200002144733,
+                "normal_MSE": 0.04356994949934239,
+                "anomaly_MSE": 0.006930450504947074
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9988,
+                "probability_AUROC": 0.9988,
+                "Brier": 0.023968541607819256,
+                "normal_MSE": 0.0001538317033414443,
+                "anomaly_MSE": 0.047783251512297065
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 5.850428444152934e-07,
+                "normal_MSE": 1.0350629926929372e-06,
+                "anomaly_MSE": 1.350226961376495e-07
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.02100717049931144,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.998,
+                "probability_AUROC": 0.998,
+                "Brier": 0.030616698161104294,
+                "normal_MSE": 0.02479140416136147,
+                "anomaly_MSE": 0.03644199216084712
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.998,
+                "probability_AUROC": 0.998,
+                "Brier": 0.0323813901292383,
+                "normal_MSE": 0.002447890080866824,
+                "anomaly_MSE": 0.062314890177609765
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.3423207591726492e-05,
+                "normal_MSE": 4.1055351168582975e-05,
+                "anomaly_MSE": 5.791064014870007e-06
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9972,
+            "probability_AUROC": 0.9972,
+            "Brier": 0.02966429901925259,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9924000000000001,
+                "probability_AUROC": 0.9924000000000001,
+                "Brier": 0.0515232173824011,
+                "normal_MSE": 0.0572928997823708,
+                "anomaly_MSE": 0.0457535349824314
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9992000000000001,
+                "probability_AUROC": 0.9992000000000001,
+                "Brier": 0.03682135517887336,
+                "normal_MSE": 0.002893751115857474,
+                "anomaly_MSE": 0.07074895924188924
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0006483244964833237,
+                "normal_MSE": 0.00045994652244863294,
+                "anomaly_MSE": 0.0008367024705180145
+              }
+            ]
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.01739454078108632,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.996,
+                "probability_AUROC": 0.996,
+                "Brier": 0.04447341041035457,
+                "normal_MSE": 0.025928653550547232,
+                "anomaly_MSE": 0.0630181672701619
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.007678071082393789,
+                "normal_MSE": 0.0028010903281553558,
+                "anomaly_MSE": 0.012555051836632221
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.214085051060773e-05,
+                "normal_MSE": 5.248898304170663e-05,
+                "anomaly_MSE": 1.1792717979508837e-05
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.98,
+            "probability_AUROC": 0.98,
+            "Brier": 0.027771485661708267,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.94,
+                "probability_AUROC": 0.94,
+                "Brier": 0.08329399281379239,
+                "normal_MSE": 0.1628836549448771,
+                "anomaly_MSE": 0.00370433068270767
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.8336351000520155e-05,
+                "normal_MSE": 1.8033396826551585e-06,
+                "anomaly_MSE": 3.4869362318385154e-05
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.127820331891155e-06,
+                "normal_MSE": 2.3554644293730754e-11,
+                "anomaly_MSE": 4.255617109138016e-06
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.009301858587382453,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.996,
+                "probability_AUROC": 0.996,
+                "Brier": 0.027597209885250634,
+                "normal_MSE": 0.04356994949934239,
+                "anomaly_MSE": 0.011624470271158881
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00030773245310673005,
+                "normal_MSE": 0.0001538317033414443,
+                "anomaly_MSE": 0.00046163320287201577
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 6.334237899950554e-07,
+                "normal_MSE": 1.0350629926929372e-06,
+                "anomaly_MSE": 2.3178458729717359e-07
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.01723273158233391,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.996,
+                "probability_AUROC": 0.996,
+                "Brier": 0.044215411997584726,
+                "normal_MSE": 0.02479140416136147,
+                "anomaly_MSE": 0.06363941983380798
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0074572620671986695,
+                "normal_MSE": 0.002447890080866824,
+                "anomaly_MSE": 0.012466634053530516
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.5520682218341267e-05,
+                "normal_MSE": 4.1055351168582975e-05,
+                "anomaly_MSE": 9.986013268099561e-06
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9981333333333334,
+            "probability_AUROC": 0.9981333333333334,
+            "Brier": 0.01661336803577235,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9944000000000001,
+                "probability_AUROC": 0.9944000000000001,
+                "Brier": 0.04554279112679793,
+                "normal_MSE": 0.0572928997823708,
+                "anomaly_MSE": 0.03379268247122506
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0036539898020074863,
+                "normal_MSE": 0.002893751115857474,
+                "anomaly_MSE": 0.004414228488157498
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0006433231785116289,
+                "normal_MSE": 0.00045994652244863294,
+                "anomaly_MSE": 0.0008266998345746248
+              }
+            ]
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.02483720909828312,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017680541844722522,
+                "normal_MSE": 0.025928653550547232,
+                "anomaly_MSE": 0.009432430138897809
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.996,
+                "probability_AUROC": 0.996,
+                "Brier": 0.05680254880639589,
+                "normal_MSE": 0.0028010903281553558,
+                "anomaly_MSE": 0.11080400728463642
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.8536643730948516e-05,
+                "normal_MSE": 5.248898304170663e-05,
+                "anomaly_MSE": 4.584304420190408e-06
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9421333333333334,
+            "probability_AUROC": 0.9421333333333334,
+            "Brier": 0.13258935187707543,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.836,
+                "probability_AUROC": 0.836,
+                "Brier": 0.1959983403793189,
+                "normal_MSE": 0.1628836549448771,
+                "anomaly_MSE": 0.22911302581376067
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9904000000000001,
+                "probability_AUROC": 0.9904000000000001,
+                "Brier": 0.2017678624648383,
+                "normal_MSE": 1.8033396826551585e-06,
+                "anomaly_MSE": 0.40353392158999396
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.8527870691044242e-06,
+                "normal_MSE": 2.3554644293730754e-11,
+                "anomaly_MSE": 3.705550583564555e-06
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9992000000000001,
+            "probability_AUROC": 0.9992000000000001,
+            "Brier": 0.023511033911314084,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.022903190119038828,
+                "normal_MSE": 0.04356994949934239,
+                "anomaly_MSE": 0.002236430738735265
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9976,
+                "probability_AUROC": 0.9976,
+                "Brier": 0.047629350762531796,
+                "normal_MSE": 0.0001538317033414443,
+                "anomaly_MSE": 0.09510486982172214
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 5.608523716254123e-07,
+                "normal_MSE": 1.0350629926929372e-06,
+                "anomaly_MSE": 8.664175055788743e-08
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.024781958995393396,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017017984324623862,
+                "normal_MSE": 0.02479140416136147,
+                "anomaly_MSE": 0.009244564487886254
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.996,
+                "probability_AUROC": 0.996,
+                "Brier": 0.0573055181912779,
+                "normal_MSE": 0.002447890080866824,
+                "anomaly_MSE": 0.11216314630168898
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.23744702784191e-05,
+                "normal_MSE": 4.1055351168582975e-05,
+                "anomaly_MSE": 3.6935893882552302e-06
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9962666666666667,
+            "probability_AUROC": 0.9962666666666667,
+            "Brier": 0.04271439644973755,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9904000000000001,
+                "probability_AUROC": 0.9904000000000001,
+                "Brier": 0.05750364363800427,
+                "normal_MSE": 0.0572928997823708,
+                "anomaly_MSE": 0.05771438749363773
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9984000000000001,
+                "probability_AUROC": 0.9984000000000001,
+                "Brier": 0.06998872055573922,
+                "normal_MSE": 0.002893751115857474,
+                "anomaly_MSE": 0.13708368999562098
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0006508251554691712,
+                "normal_MSE": 0.00045994652244863294,
+                "anomaly_MSE": 0.0008417037884897096
+              }
+            ]
+          }
+        }
+      },
+      "20261018": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.9933333333333333,
+            "probability_AUROC": 0.9933333333333333,
+            "Brier": 0.0320792411636057,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9968,
+                "probability_AUROC": 0.9968,
+                "Brier": 0.02927600055630469,
+                "normal_MSE": 0.026030639762644928,
+                "anomaly_MSE": 0.03252136134996445
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9832,
+                "probability_AUROC": 0.9832,
+                "Brier": 0.06692580439985851,
+                "normal_MSE": 0.002444290494883712,
+                "anomaly_MSE": 0.13140731830483332
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.5918534653902705e-05,
+                "normal_MSE": 6.892981507260552e-05,
+                "anomaly_MSE": 2.9072542351998915e-06
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9782666666666667,
+            "probability_AUROC": 0.9782666666666667,
+            "Brier": 0.028714945375659533,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9348,
+                "probability_AUROC": 0.9348,
+                "Brier": 0.08364815670667017,
+                "normal_MSE": 0.07326422639633513,
+                "anomaly_MSE": 0.09403208701700522
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0024784418402667096,
+                "normal_MSE": 2.271085869144279e-08,
+                "anomaly_MSE": 0.004956860969674728
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.823758004171582e-05,
+                "normal_MSE": 1.724863838781692e-11,
+                "anomaly_MSE": 3.647514283479325e-05
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9994666666666667,
+            "probability_AUROC": 0.9994666666666667,
+            "Brier": 0.020067526888908154,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9984,
+                "probability_AUROC": 0.9984,
+                "Brier": 0.021982433183358727,
+                "normal_MSE": 0.031218393402688012,
+                "anomaly_MSE": 0.012746472964029445
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03821627860663074,
+                "normal_MSE": 0.000316400929972809,
+                "anomaly_MSE": 0.07611615628328866
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.868876735004235e-06,
+                "normal_MSE": 7.42086592255077e-06,
+                "anomaly_MSE": 3.1688754745769904e-07
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.9933333333333333,
+            "probability_AUROC": 0.9933333333333333,
+            "Brier": 0.03216971315173336,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9968,
+                "probability_AUROC": 0.9968,
+                "Brier": 0.028959430389779137,
+                "normal_MSE": 0.02522749085588301,
+                "anomaly_MSE": 0.032691369923675266
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9832,
+                "probability_AUROC": 0.9832,
+                "Brier": 0.06752135630055199,
+                "normal_MSE": 0.0021298809608157627,
+                "anomaly_MSE": 0.13291283164028822
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.8352764868937974e-05,
+                "normal_MSE": 5.438986224875921e-05,
+                "anomaly_MSE": 2.3156674891167345e-06
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9984000000000001,
+            "probability_AUROC": 0.9984000000000001,
+            "Brier": 0.017949265813150515,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9952000000000001,
+                "probability_AUROC": 0.9952000000000001,
+                "Brier": 0.042313020033805784,
+                "normal_MSE": 0.04413727610453997,
+                "anomaly_MSE": 0.040488763963071606
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.010712626521425551,
+                "normal_MSE": 0.002163948936155734,
+                "anomaly_MSE": 0.019261304106695368
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008221508842202099,
+                "normal_MSE": 0.0006125819363345501,
+                "anomaly_MSE": 0.0010317198321058696
+              }
+            ]
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.9978666666666666,
+            "probability_AUROC": 0.9978666666666666,
+            "Brier": 0.015032985486904954,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9936,
+                "probability_AUROC": 0.9936,
+                "Brier": 0.04093538845527653,
+                "normal_MSE": 0.026030639762644928,
+                "anomaly_MSE": 0.05584013714790813
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.004127966568706551,
+                "normal_MSE": 0.002444290494883712,
+                "anomaly_MSE": 0.005811642642529389
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.560143673178765e-05,
+                "normal_MSE": 6.892981507260552e-05,
+                "anomaly_MSE": 2.273058390969778e-06
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.984,
+            "probability_AUROC": 0.984,
+            "Brier": 0.018547891229464496,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9520000000000001,
+                "probability_AUROC": 0.9520000000000001,
+                "Brier": 0.05082798440495459,
+                "normal_MSE": 0.07326422639633513,
+                "anomaly_MSE": 0.028391742413574055
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.004793259771048503,
+                "normal_MSE": 2.271085869144279e-08,
+                "anomaly_MSE": 0.009586496831238314
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.242951239038984e-05,
+                "normal_MSE": 1.724863838781692e-11,
+                "anomaly_MSE": 4.485900753214129e-05
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9989333333333333,
+            "probability_AUROC": 0.9989333333333333,
+            "Brier": 0.008953710376723321,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9967999999999999,
+                "probability_AUROC": 0.9967999999999999,
+                "Brier": 0.026327383045475827,
+                "normal_MSE": 0.031218393402688012,
+                "anomaly_MSE": 0.02143637268826364
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0005299129262289476,
+                "normal_MSE": 0.000316400929972809,
+                "anomaly_MSE": 0.0007434249224850863
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.835158465189756e-06,
+                "normal_MSE": 7.42086592255077e-06,
+                "anomaly_MSE": 2.49451007828742e-07
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.9978666666666666,
+            "probability_AUROC": 0.9978666666666666,
+            "Brier": 0.01491021108631634,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9936,
+                "probability_AUROC": 0.9936,
+                "Brier": 0.040803581222448856,
+                "normal_MSE": 0.02522749085588301,
+                "anomaly_MSE": 0.056379671589014704
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00389895918582803,
+                "normal_MSE": 0.0021298809608157627,
+                "anomaly_MSE": 0.0056680374108402974
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.809285067213906e-05,
+                "normal_MSE": 5.438986224875921e-05,
+                "anomaly_MSE": 1.7958390955189109e-06
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9981333333333332,
+            "probability_AUROC": 0.9981333333333332,
+            "Brier": 0.01521141138285502,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9944,
+                "probability_AUROC": 0.9944,
+                "Brier": 0.04138505346771147,
+                "normal_MSE": 0.04413727610453997,
+                "anomaly_MSE": 0.03863283083088297
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0034540795269312214,
+                "normal_MSE": 0.002163948936155734,
+                "anomaly_MSE": 0.004744210117706709
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.000795101153922366,
+                "normal_MSE": 0.0006125819363345501,
+                "anomaly_MSE": 0.000977620371510182
+              }
+            ]
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.9888,
+            "probability_AUROC": 0.9888,
+            "Brier": 0.04912544399065277,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017616612657332855,
+                "normal_MSE": 0.026030639762644928,
+                "anomaly_MSE": 0.009202585552020782
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9664,
+                "probability_AUROC": 0.9664,
+                "Brier": 0.1297236422310105,
+                "normal_MSE": 0.002444290494883712,
+                "anomaly_MSE": 0.25700299396713727
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.607708361496024e-05,
+                "normal_MSE": 6.892981507260552e-05,
+                "anomaly_MSE": 3.2243521573149484e-06
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9725333333333334,
+            "probability_AUROC": 0.9725333333333334,
+            "Brier": 0.038882698177246024,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.9176,
+                "probability_AUROC": 0.9176,
+                "Brier": 0.11646832900838577,
+                "normal_MSE": 0.07326422639633513,
+                "anomaly_MSE": 0.1596724316204364
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00016362390948491671,
+                "normal_MSE": 2.271085869144279e-08,
+                "anomaly_MSE": 0.000327225108111142
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.6141613867378804e-05,
+                "normal_MSE": 1.724863838781692e-11,
+                "anomaly_MSE": 3.228321048611922e-05
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 0.031181337781381355,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.01763748332124163,
+                "normal_MSE": 0.031218393402688012,
+                "anomaly_MSE": 0.00405657323979525
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.07590264428703253,
+                "normal_MSE": 0.000316400929972809,
+                "anomaly_MSE": 0.15148888764409224
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.885735869911474e-06,
+                "normal_MSE": 7.42086592255077e-06,
+                "anomaly_MSE": 3.5060581727217753e-07
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.9888,
+            "probability_AUROC": 0.9888,
+            "Brier": 0.04942917189811758,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017115279557109418,
+                "normal_MSE": 0.02522749085588301,
+                "anomaly_MSE": 0.00900306825833583
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 0.9664,
+                "probability_AUROC": 0.9664,
+                "Brier": 0.13114375341527598,
+                "normal_MSE": 0.0021298809608157627,
+                "anomaly_MSE": 0.2601576258697362
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.8482721967337428e-05,
+                "normal_MSE": 5.438986224875921e-05,
+                "anomaly_MSE": 2.575581685915646e-06
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9986666666666667,
+            "probability_AUROC": 0.9986666666666667,
+            "Brier": 0.02068261195506304,
+            "per_category": [
+              {
+                "category": "audio_jack_socket",
+                "AUROC": 0.996,
+                "probability_AUROC": 0.996,
+                "Brier": 0.04324098659990011,
+                "normal_MSE": 0.04413727610453997,
+                "anomaly_MSE": 0.042344697095260245
+              },
+              {
+                "category": "humidity_sensor",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017971173515919876,
+                "normal_MSE": 0.002163948936155734,
+                "anomaly_MSE": 0.03377839809568402
+              },
+              {
+                "category": "lego_propeller",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008356757493691316,
+                "normal_MSE": 0.0006125819363345501,
+                "anomaly_MSE": 0.001058769562403713
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PDREAL10": {
+      "20261017": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.8760942760942761,
+            "probability_AUROC": 0.8760942760942761,
+            "Brier": 0.16249197009274083,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.8055555555555556,
+                "probability_AUROC": 0.8055555555555556,
+                "Brier": 0.24272310050539025,
+                "normal_MSE": 0.1788724743340464,
+                "anomaly_MSE": 0.3065737266767341
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.8518518518518519,
+                "probability_AUROC": 0.8518518518518519,
+                "Brier": 0.09724685188019541,
+                "normal_MSE": 0.01142361057186707,
+                "anomaly_MSE": 0.18307009318852374
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.9090909090909092,
+                "probability_AUROC": 0.9090909090909092,
+                "Brier": 0.18520301639295883,
+                "normal_MSE": 0.1260536351893494,
+                "anomaly_MSE": 0.24435239759656824
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.23208100323738654,
+                "normal_MSE": 0.007245072271817137,
+                "anomaly_MSE": 0.4569169342029559
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.02703625127551687,
+                "normal_MSE": 0.03932081279738374,
+                "anomaly_MSE": 0.01475168975365
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.9259259259259259,
+                "probability_AUROC": 0.9259259259259259,
+                "Brier": 0.14025374418346354,
+                "normal_MSE": 0.00041146918212854643,
+                "anomaly_MSE": 0.28009601918479854
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.6944444444444444,
+                "probability_AUROC": 0.6944444444444444,
+                "Brier": 0.19799826986073726,
+                "normal_MSE": 0.11464729165811999,
+                "anomaly_MSE": 0.28134924806335454
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.6111111111111112,
+                "probability_AUROC": 0.6111111111111112,
+                "Brier": 0.35168252832349894,
+                "normal_MSE": 0.59719655759361,
+                "anomaly_MSE": 0.10616849905338786
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.962962962962963,
+                "probability_AUROC": 0.962962962962963,
+                "Brier": 0.11093889267485477,
+                "normal_MSE": 0.007920276344626177,
+                "anomaly_MSE": 0.21395750900508337
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03975604259340608,
+                "normal_MSE": 0.01008952337228182,
+                "anomaly_MSE": 0.06942256181453034
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9311868686868687,
+            "probability_AUROC": 0.9311868686868687,
+            "Brier": 0.14805919717148458,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9583333333333334,
+                "probability_AUROC": 0.9583333333333334,
+                "Brier": 0.15159732786925967,
+                "normal_MSE": 8.941257764920527e-07,
+                "anomaly_MSE": 0.30319376161274286
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 6.519201191927642e-05,
+                "normal_MSE": 9.950446917766502e-08,
+                "anomaly_MSE": 0.00013028451936937519
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7424242424242423,
+                "probability_AUROC": 0.7424242424242423,
+                "Brier": 0.2724505153632755,
+                "normal_MSE": 0.17833977952957245,
+                "anomaly_MSE": 0.36656125119697863
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03859305832830203,
+                "normal_MSE": 5.224845904060647e-10,
+                "anomaly_MSE": 0.07718611613411946
+              },
+              {
+                "category": "pizza",
+                "AUROC": 0.9074074074074073,
+                "probability_AUROC": 0.9074074074074073,
+                "Brier": 0.16656205957932355,
+                "normal_MSE": 5.241610370736017e-09,
+                "anomaly_MSE": 0.3331241139170367
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.9259259259259259,
+                "probability_AUROC": 0.9259259259259259,
+                "Brier": 0.32397055706121897,
+                "normal_MSE": 2.470143446850323e-10,
+                "anomaly_MSE": 0.6479411138754236
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.8148148148148149,
+                "probability_AUROC": 0.8148148148148149,
+                "Brier": 0.2450574548757899,
+                "normal_MSE": 1.5837467676584847e-09,
+                "anomaly_MSE": 0.49011490816783304
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04861973429360255,
+                "normal_MSE": 9.287599224259498e-05,
+                "anomaly_MSE": 0.0971465925949625
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.10016978762368317,
+                "normal_MSE": 2.409869805497782e-10,
+                "anomaly_MSE": 0.20033957500637936
+              },
+              {
+                "category": "train",
+                "AUROC": 0.962962962962963,
+                "probability_AUROC": 0.962962962962963,
+                "Brier": 0.13350628470847106,
+                "normal_MSE": 0.1559291398703923,
+                "anomaly_MSE": 0.11108342954654982
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9778198653198654,
+            "probability_AUROC": 0.9778198653198654,
+            "Brier": 0.10602628602065489,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9305555555555556,
+                "probability_AUROC": 0.9305555555555556,
+                "Brier": 0.16131816004851202,
+                "normal_MSE": 0.00019679180524125834,
+                "anomaly_MSE": 0.3224395282917828
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00027248446931625917,
+                "normal_MSE": 1.7734982759247607e-06,
+                "anomaly_MSE": 0.0005431954403565935
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8939393939393939,
+                "probability_AUROC": 0.8939393939393939,
+                "Brier": 0.19924092214931194,
+                "normal_MSE": 0.16623083396635538,
+                "anomaly_MSE": 0.23225101033226847
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.09471967242010751,
+                "normal_MSE": 1.4818061970633965e-07,
+                "anomaly_MSE": 0.1894391966595953
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.6837069102890453e-06,
+                "normal_MSE": 3.0372531179739043e-06,
+                "anomaly_MSE": 3.301607026041861e-07
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.16646574385457102,
+                "normal_MSE": 4.764750179014114e-09,
+                "anomaly_MSE": 0.33293148294439184
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9722222222222222,
+                "probability_AUROC": 0.9722222222222222,
+                "Brier": 0.1729639564543833,
+                "normal_MSE": 4.060416628172692e-06,
+                "anomaly_MSE": 0.3459238524921385
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.9814814814814815,
+                "probability_AUROC": 0.9814814814814815,
+                "Brier": 0.11480372771634458,
+                "normal_MSE": 0.22798846343245036,
+                "anomaly_MSE": 0.001618992000238787
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.11495720447404663,
+                "normal_MSE": 1.0744262031578536e-07,
+                "anomaly_MSE": 0.22991430150547293
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03551930491304536,
+                "normal_MSE": 0.07103773149495186,
+                "anomaly_MSE": 8.783311388605824e-07
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.8760942760942761,
+            "probability_AUROC": 0.8760942760942761,
+            "Brier": 0.1627096342752699,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.8055555555555556,
+                "probability_AUROC": 0.8055555555555556,
+                "Brier": 0.24321221674458093,
+                "normal_MSE": 0.17846861400401934,
+                "anomaly_MSE": 0.3079558194851425
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.8518518518518519,
+                "probability_AUROC": 0.8518518518518519,
+                "Brier": 0.09735655634404652,
+                "normal_MSE": 0.011138097193492916,
+                "anomaly_MSE": 0.18357501549460012
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.9090909090909092,
+                "probability_AUROC": 0.9090909090909092,
+                "Brier": 0.1854549706146553,
+                "normal_MSE": 0.12607908360461081,
+                "anomaly_MSE": 0.24483085762469978
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.23302354847793938,
+                "normal_MSE": 0.007044183546584264,
+                "anomaly_MSE": 0.4590029134092945
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.026713034627593446,
+                "normal_MSE": 0.03859962133450796,
+                "anomaly_MSE": 0.014826447920678939
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.9259259259259259,
+                "probability_AUROC": 0.9259259259259259,
+                "Brier": 0.1405185682507934,
+                "normal_MSE": 0.0003953428390020629,
+                "anomaly_MSE": 0.28064179366258474
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.6944444444444444,
+                "probability_AUROC": 0.6944444444444444,
+                "Brier": 0.19802141329078277,
+                "normal_MSE": 0.11357439690056415,
+                "anomaly_MSE": 0.2824684296810014
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.6111111111111112,
+                "probability_AUROC": 0.6111111111111112,
+                "Brier": 0.35174068960998517,
+                "normal_MSE": 0.5969103506299667,
+                "anomaly_MSE": 0.10657102859000366
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.962962962962963,
+                "probability_AUROC": 0.962962962962963,
+                "Brier": 0.11126494188246018,
+                "normal_MSE": 0.00770419478369238,
+                "anomaly_MSE": 0.21482568898122797
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.039790402909862015,
+                "normal_MSE": 0.00983632760107409,
+                "anomaly_MSE": 0.06974447821864994
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9760521885521886,
+            "probability_AUROC": 0.9760521885521886,
+            "Brier": 0.09102801916788165,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9583333333333333,
+                "probability_AUROC": 0.9583333333333333,
+                "Brier": 0.1291418951258495,
+                "normal_MSE": 0.0023014088034344665,
+                "anomaly_MSE": 0.2559823814482645
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.002017640507275071,
+                "normal_MSE": 0.0012600826667342213,
+                "anomaly_MSE": 0.0027751983478159215
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8484848484848484,
+                "probability_AUROC": 0.8484848484848484,
+                "Brier": 0.19443955084664138,
+                "normal_MSE": 0.1620534778619134,
+                "anomaly_MSE": 0.22682562383136934
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.05529953279015829,
+                "normal_MSE": 0.0004774909970714357,
+                "anomaly_MSE": 0.11012157458324515
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.014240715895706727,
+                "normal_MSE": 0.0011015751477643663,
+                "anomaly_MSE": 0.027379856643649086
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.9814814814814815,
+                "probability_AUROC": 0.9814814814814815,
+                "Brier": 0.1681040455950061,
+                "normal_MSE": 0.00019781050450966961,
+                "anomaly_MSE": 0.33601028068550254
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9722222222222222,
+                "probability_AUROC": 0.9722222222222222,
+                "Brier": 0.1967625945564466,
+                "normal_MSE": 0.0008028610723446976,
+                "anomaly_MSE": 0.3927223280405485
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.023595056412396412,
+                "normal_MSE": 0.024691883766782937,
+                "anomaly_MSE": 0.02249822905800989
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08757094560580853,
+                "normal_MSE": 0.0003814786789000878,
+                "anomaly_MSE": 0.17476041253271696
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03910821434352791,
+                "normal_MSE": 0.0780142701565761,
+                "anomaly_MSE": 0.00020215853047972297
+              }
+            ]
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.9166666666666666,
+            "probability_AUROC": 0.9166666666666666,
+            "Brier": 0.11598480930652748,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.2166186089806643,
+                "normal_MSE": 0.1788724743340464,
+                "anomaly_MSE": 0.2543647436272822
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0058416600159389796,
+                "normal_MSE": 0.01142361057186707,
+                "anomaly_MSE": 0.00025970946001088925
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.9444444444444444,
+                "probability_AUROC": 0.9444444444444444,
+                "Brier": 0.08358340848524048,
+                "normal_MSE": 0.1260536351893494,
+                "anomaly_MSE": 0.04111318178113157
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.25564747340782235,
+                "normal_MSE": 0.007245072271817137,
+                "anomaly_MSE": 0.5040498745438275
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.030724173713928868,
+                "normal_MSE": 0.03932081279738374,
+                "anomaly_MSE": 0.022127534630474
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0002459180100087614,
+                "normal_MSE": 0.00041146918212854643,
+                "anomaly_MSE": 8.036683788897639e-05
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.8333333333333334,
+                "probability_AUROC": 0.8333333333333334,
+                "Brier": 0.12795538805681228,
+                "normal_MSE": 0.11464729165811999,
+                "anomaly_MSE": 0.14126348445550457
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.5000000000000001,
+                "probability_AUROC": 0.5000000000000001,
+                "Brier": 0.3781062124495418,
+                "normal_MSE": 0.59719655759361,
+                "anomaly_MSE": 0.15901586730547362
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.004013566898278475,
+                "normal_MSE": 0.007920276344626177,
+                "anomaly_MSE": 0.00010685745193077278
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.05711168304703866,
+                "normal_MSE": 0.01008952337228182,
+                "anomaly_MSE": 0.1041338427217955
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9916666666666668,
+            "probability_AUROC": 0.9916666666666668,
+            "Brier": 0.034502213040083926,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9166666666666667,
+                "probability_AUROC": 0.9166666666666667,
+                "Brier": 0.16648560733141637,
+                "normal_MSE": 8.941257764920527e-07,
+                "anomaly_MSE": 0.3329703205370563
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.733865709297097e-06,
+                "normal_MSE": 9.950446917766502e-08,
+                "anomaly_MSE": 5.368226949416529e-06
+              },
+              {
+                "category": "chicken",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0891698900222675,
+                "normal_MSE": 0.17833977952957245,
+                "anomaly_MSE": 5.14962550381322e-10
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.010175445444716243,
+                "normal_MSE": 5.224845904060647e-10,
+                "anomaly_MSE": 0.020350890366947896
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 5.157555652483719e-09,
+                "normal_MSE": 5.241610370736017e-09,
+                "anomaly_MSE": 5.073500934231422e-09
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.0800309941679257e-09,
+                "normal_MSE": 2.470143446850323e-10,
+                "anomaly_MSE": 3.913047643650819e-09
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0011769101094258267,
+                "normal_MSE": 1.5837467676584847e-09,
+                "anomaly_MSE": 0.0023538186351048855
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 4.695996826394373e-05,
+                "normal_MSE": 9.287599224259498e-05,
+                "anomaly_MSE": 1.0439442852924782e-06
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 6.103486376133265e-09,
+                "normal_MSE": 2.409869805497782e-10,
+                "anomaly_MSE": 1.1965985771716751e-08
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.07796457031796707,
+                "normal_MSE": 0.1559291398703923,
+                "anomaly_MSE": 7.655418181968008e-10
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.986111111111111,
+            "probability_AUROC": 0.986111111111111,
+            "Brier": 0.05041714660717299,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.16392984862079904,
+                "normal_MSE": 0.00019679180524125834,
+                "anomaly_MSE": 0.32766290543635684
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 8.892263387707087e-07,
+                "normal_MSE": 1.7734982759247607e-06,
+                "anomaly_MSE": 4.954401616656725e-09
+              },
+              {
+                "category": "chicken",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08311566034152612,
+                "normal_MSE": 0.16623083396635538,
+                "anomaly_MSE": 4.867166968659659e-07
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.07629356712710282,
+                "normal_MSE": 1.4818061970633965e-07,
+                "anomaly_MSE": 0.15258698607358592
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.7662454673387827e-06,
+                "normal_MSE": 3.0372531179739043e-06,
+                "anomaly_MSE": 4.95237816703661e-07
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.5221726108572193e-09,
+                "normal_MSE": 4.764750179014114e-09,
+                "anomaly_MSE": 2.795950427003246e-10
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.030107256259661687,
+                "normal_MSE": 4.060416628172692e-06,
+                "anomaly_MSE": 0.060210452102695204
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.11520289638295098,
+                "normal_MSE": 0.22798846343245036,
+                "anomaly_MSE": 0.0024173293334516072
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 5.484988044835058e-08,
+                "normal_MSE": 1.0744262031578536e-07,
+                "anomaly_MSE": 2.2571405809158027e-09
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.035519524495830075,
+                "normal_MSE": 0.07103773149495186,
+                "anomaly_MSE": 1.3174967082908735e-06
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.9166666666666666,
+            "probability_AUROC": 0.9166666666666666,
+            "Brier": 0.11608975351776393,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.21710471290415295,
+                "normal_MSE": 0.17846861400401934,
+                "anomaly_MSE": 0.2557408118042866
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.005696787794237899,
+                "normal_MSE": 0.011138097193492916,
+                "anomaly_MSE": 0.00025547839498288224
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.9444444444444444,
+                "probability_AUROC": 0.9444444444444444,
+                "Brier": 0.08369615607264379,
+                "normal_MSE": 0.12607908360461081,
+                "anomaly_MSE": 0.04131322854067677
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.2567281960764962,
+                "normal_MSE": 0.007044183546584264,
+                "anomaly_MSE": 0.5064122086064081
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.030419646607762738,
+                "normal_MSE": 0.03859962133450796,
+                "anomaly_MSE": 0.022239671881017522
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00023706451665003625,
+                "normal_MSE": 0.0003953428390020629,
+                "anomaly_MSE": 7.878619429800962e-05
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.8333333333333334,
+                "probability_AUROC": 0.8333333333333334,
+                "Brier": 0.12761709625002704,
+                "normal_MSE": 0.11357439690056415,
+                "anomaly_MSE": 0.1416597955994899
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.5000000000000001,
+                "probability_AUROC": 0.5000000000000001,
+                "Brier": 0.3782668225578444,
+                "normal_MSE": 0.5969103506299667,
+                "anomaly_MSE": 0.1596232944857221
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.003904529933299781,
+                "normal_MSE": 0.00770419478369238,
+                "anomaly_MSE": 0.00010486508290718167
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0572265224645245,
+                "normal_MSE": 0.00983632760107409,
+                "anomaly_MSE": 0.10461671732797491
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9916666666666668,
+            "probability_AUROC": 0.9916666666666668,
+            "Brier": 0.034664438948719165,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9166666666666667,
+                "probability_AUROC": 0.9166666666666667,
+                "Brier": 0.15078390599450503,
+                "normal_MSE": 0.0023014088034344665,
+                "anomaly_MSE": 0.29926640318557557
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008752733325537702,
+                "normal_MSE": 0.0012600826667342213,
+                "anomaly_MSE": 0.0004904639983733191
+              },
+              {
+                "category": "chicken",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08121937685118577,
+                "normal_MSE": 0.1620534778619134,
+                "anomaly_MSE": 0.000385275840458136
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04272153965438391,
+                "normal_MSE": 0.0004774909970714357,
+                "anomaly_MSE": 0.08496558831169639
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0006947705127460376,
+                "normal_MSE": 0.0011015751477643663,
+                "anomaly_MSE": 0.00028796587772770887
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0001524360230498798,
+                "normal_MSE": 0.00019781050450966961,
+                "anomaly_MSE": 0.00010706154159009003
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.015832418685963665,
+                "normal_MSE": 0.0008028610723446976,
+                "anomaly_MSE": 0.030861976299582636
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.01488758190883961,
+                "normal_MSE": 0.024691883766782937,
+                "anomaly_MSE": 0.005083280050896282
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00034731835250549365,
+                "normal_MSE": 0.0003814786789000878,
+                "anomaly_MSE": 0.00031315802611089953
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03912976817145845,
+                "normal_MSE": 0.0780142701565761,
+                "anomaly_MSE": 0.0002452661863407955
+              }
+            ]
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.8465277777777779,
+            "probability_AUROC": 0.8465277777777779,
+            "Brier": 0.18883625116459732,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.7222222222222222,
+                "probability_AUROC": 0.7222222222222222,
+                "Brier": 0.2688275920301163,
+                "normal_MSE": 0.1788724743340464,
+                "anomaly_MSE": 0.3587827097261862
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.5555555555555556,
+                "probability_AUROC": 0.5555555555555556,
+                "Brier": 0.2800572356087082,
+                "normal_MSE": 0.01142361057186707,
+                "anomaly_MSE": 0.5486908606455494
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8958333333333334,
+                "probability_AUROC": 0.8958333333333334,
+                "Brier": 0.2233103693583532,
+                "normal_MSE": 0.1260536351893494,
+                "anomaly_MSE": 0.32056710352735696
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.184948062896515,
+                "normal_MSE": 0.007245072271817137,
+                "anomaly_MSE": 0.36265105352121285
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.019660406398692865,
+                "normal_MSE": 0.03932081279738374,
+                "anomaly_MSE": 1.992840769284167e-15
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.2102576572701909,
+                "normal_MSE": 0.00041146918212854643,
+                "anomaly_MSE": 0.4201038453582533
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.625,
+                "probability_AUROC": 0.625,
+                "Brier": 0.23301971076269976,
+                "normal_MSE": 0.11464729165811999,
+                "anomaly_MSE": 0.3513921298672795
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.8333333333333334,
+                "probability_AUROC": 0.8333333333333334,
+                "Brier": 0.2988351600714132,
+                "normal_MSE": 0.59719655759361,
+                "anomaly_MSE": 0.00047376254921633384
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.9444444444444445,
+                "probability_AUROC": 0.9444444444444445,
+                "Brier": 0.1644015555631429,
+                "normal_MSE": 0.007920276344626177,
+                "anomaly_MSE": 0.32088283478165963
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0050447616861409115,
+                "normal_MSE": 0.01008952337228182,
+                "anomaly_MSE": 2.8238560567462627e-18
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.8868055555555555,
+            "probability_AUROC": 0.8868055555555555,
+            "Brier": 0.24667575957242538,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.13670904840710296,
+                "normal_MSE": 8.941257764920527e-07,
+                "anomaly_MSE": 0.27341720268842945
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0001901083043392351,
+                "normal_MSE": 9.950446917766502e-08,
+                "anomaly_MSE": 0.00038011710420929253
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.6458333333333334,
+                "probability_AUROC": 0.6458333333333334,
+                "Brier": 0.3411807498661536,
+                "normal_MSE": 0.17833977952957245,
+                "anomaly_MSE": 0.5040217202027347
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.09542828409547359,
+                "normal_MSE": 5.224845904060647e-10,
+                "anomaly_MSE": 0.1908565676684626
+              },
+              {
+                "category": "pizza",
+                "AUROC": 0.7222222222222222,
+                "probability_AUROC": 0.7222222222222222,
+                "Brier": 0.4996861684228594,
+                "normal_MSE": 5.241610370736017e-09,
+                "anomaly_MSE": 0.9993723316041084
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.4859558345518129,
+                "normal_MSE": 2.470143446850323e-10,
+                "anomaly_MSE": 0.9719116688566115
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.7222222222222223,
+                "probability_AUROC": 0.7222222222222223,
+                "Brier": 0.36699772725897195,
+                "normal_MSE": 1.5837467676584847e-09,
+                "anomaly_MSE": 0.7339954529341971
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.14576528294427976,
+                "normal_MSE": 9.287599224259498e-05,
+                "anomaly_MSE": 0.2914376898963169
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.15025467838378162,
+                "normal_MSE": 2.409869805497782e-10,
+                "anomaly_MSE": 0.30050935652657623
+              },
+              {
+                "category": "train",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.24458971348947908,
+                "normal_MSE": 0.1559291398703923,
+                "anomaly_MSE": 0.33325028710856586
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9784722222222222,
+            "probability_AUROC": 0.9784722222222222,
+            "Brier": 0.13499343998838928,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.15870647147622502,
+                "normal_MSE": 0.00019679180524125834,
+                "anomaly_MSE": 0.3172161511472088
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008156749552712362,
+                "normal_MSE": 1.7734982759247607e-06,
+                "anomaly_MSE": 0.0016295764122665477
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8541666666666667,
+                "probability_AUROC": 0.8541666666666667,
+                "Brier": 0.2427878953272316,
+                "normal_MSE": 0.16623083396635538,
+                "anomaly_MSE": 0.3193449566881078
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.13157188300611694,
+                "normal_MSE": 1.4818061970633965e-07,
+                "anomaly_MSE": 0.26314361783161416
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.5186297961895705e-06,
+                "normal_MSE": 3.0372531179739043e-06,
+                "anomaly_MSE": 6.474405236526327e-12
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.24969861452077025,
+                "normal_MSE": 4.764750179014114e-09,
+                "anomaly_MSE": 0.4993972242767903
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9583333333333333,
+                "probability_AUROC": 0.9583333333333333,
+                "Brier": 0.24439230655174418,
+                "normal_MSE": 4.060416628172692e-06,
+                "anomaly_MSE": 0.4887805526868602
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.11400539038313175,
+                "normal_MSE": 0.22798846343245036,
+                "anomaly_MSE": 2.2317333813146148e-05
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.17243577928612974,
+                "normal_MSE": 1.0744262031578536e-07,
+                "anomaly_MSE": 0.3448714511296392
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03551886574747593,
+                "normal_MSE": 0.07103773149495186,
+                "anomaly_MSE": 6.183266473300132e-22
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.8465277777777779,
+            "probability_AUROC": 0.8465277777777779,
+            "Brier": 0.18909590313455327,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.7222222222222222,
+                "probability_AUROC": 0.7222222222222222,
+                "Brier": 0.2693197205850089,
+                "normal_MSE": 0.17846861400401934,
+                "anomaly_MSE": 0.36017082716599846
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.5555555555555556,
+                "probability_AUROC": 0.5555555555555556,
+                "Brier": 0.28067609344366373,
+                "normal_MSE": 0.011138097193492916,
+                "anomaly_MSE": 0.5502140896938346
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8958333333333334,
+                "probability_AUROC": 0.8958333333333334,
+                "Brier": 0.2236145260679096,
+                "normal_MSE": 0.12607908360461081,
+                "anomaly_MSE": 0.3211499685312084
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.18561425328082562,
+                "normal_MSE": 0.007044183546584264,
+                "anomaly_MSE": 0.364184323015067
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.019299810667254867,
+                "normal_MSE": 0.03859962133450796,
+                "anomaly_MSE": 1.7747183612736223e-15
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.21065932011786506,
+                "normal_MSE": 0.0003953428390020629,
+                "anomaly_MSE": 0.42092329739672807
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.625,
+                "probability_AUROC": 0.625,
+                "Brier": 0.23322357181116057,
+                "normal_MSE": 0.11357439690056415,
+                "anomaly_MSE": 0.352872746721757
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.8333333333333334,
+                "probability_AUROC": 0.8333333333333334,
+                "Brier": 0.29868842371426674,
+                "normal_MSE": 0.5969103506299667,
+                "anomaly_MSE": 0.0004664967985667707
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.9444444444444445,
+                "probability_AUROC": 0.9444444444444445,
+                "Brier": 0.16494514785704037,
+                "normal_MSE": 0.00770419478369238,
+                "anomaly_MSE": 0.32218610093038835
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.004918163800537046,
+                "normal_MSE": 0.00983632760107409,
+                "anomaly_MSE": 2.4510765804062127e-18
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9722222222222221,
+            "probability_AUROC": 0.9722222222222221,
+            "Brier": 0.12210529051444932,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.10749988425719394,
+                "normal_MSE": 0.0023014088034344665,
+                "anomaly_MSE": 0.2126983597109534
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.004302374856717673,
+                "normal_MSE": 0.0012600826667342213,
+                "anomaly_MSE": 0.007344667046701125
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7916666666666666,
+                "probability_AUROC": 0.7916666666666666,
+                "Brier": 0.23689711609493724,
+                "normal_MSE": 0.1620534778619134,
+                "anomaly_MSE": 0.31174075432796106
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08045551906170705,
+                "normal_MSE": 0.0004774909970714357,
+                "anomaly_MSE": 0.16043354712634267
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0413326066616281,
+                "normal_MSE": 0.0011015751477643663,
+                "anomaly_MSE": 0.08156363817549184
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.2520798503809841,
+                "normal_MSE": 0.00019781050450966961,
+                "anomaly_MSE": 0.5039618902574586
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9583333333333333,
+                "probability_AUROC": 0.9583333333333333,
+                "Brier": 0.28722768249168806,
+                "normal_MSE": 0.0008028610723446976,
+                "anomaly_MSE": 0.5736525039110314
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.041010005419510026,
+                "normal_MSE": 0.024691883766782937,
+                "anomaly_MSE": 0.05732812707223711
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.13118275923246003,
+                "normal_MSE": 0.0003814786789000878,
+                "anomaly_MSE": 0.26198403978602
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.039065106687666835,
+                "normal_MSE": 0.0780142701565761,
+                "anomaly_MSE": 0.00011594321875757795
+              }
+            ]
+          }
+        },
+        "DENT_FAMILY": {
+          "G_ONLY": {
+            "AUROC": 0.8793724279835392,
+            "probability_AUROC": 0.8793724279835392,
+            "Brier": 0.14682234686987464,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08945009006075705,
+                "normal_MSE": 0.1788724743340464,
+                "anomaly_MSE": 2.770578746769509e-05
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.5555555555555556,
+                "probability_AUROC": 0.5555555555555556,
+                "Brier": 0.2800572356087082,
+                "normal_MSE": 0.01142361057186707,
+                "anomaly_MSE": 0.5486908606455494
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8958333333333334,
+                "probability_AUROC": 0.8958333333333334,
+                "Brier": 0.2233103693583532,
+                "normal_MSE": 0.1260536351893494,
+                "anomaly_MSE": 0.32056710352735696
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.184948062896515,
+                "normal_MSE": 0.007245072271817137,
+                "anomaly_MSE": 0.36265105352121285
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.019660406398692865,
+                "normal_MSE": 0.03932081279738374,
+                "anomaly_MSE": 1.992840769284167e-15
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.6296296296296297,
+                "probability_AUROC": 0.6296296296296297,
+                "Brier": 0.2161343960641872,
+                "normal_MSE": 0.11464729165811999,
+                "anomaly_MSE": 0.3176215004702544
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.8333333333333334,
+                "probability_AUROC": 0.8333333333333334,
+                "Brier": 0.2988351600714132,
+                "normal_MSE": 0.59719655759361,
+                "anomaly_MSE": 0.00047376254921633384
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.003960639684104123,
+                "normal_MSE": 0.007920276344626177,
+                "anomaly_MSE": 1.0030235820696832e-06
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0050447616861409115,
+                "normal_MSE": 0.01008952337228182,
+                "anomaly_MSE": 2.8238560567462627e-18
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.8762860082304527,
+            "probability_AUROC": 0.8762860082304527,
+            "Brier": 0.20086046401276325,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 6.460402212635528e-05,
+                "normal_MSE": 8.941257764920527e-07,
+                "anomaly_MSE": 0.00012831391847621852
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0001901083043392351,
+                "normal_MSE": 9.950446917766502e-08,
+                "anomaly_MSE": 0.00038011710420929253
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.6458333333333334,
+                "probability_AUROC": 0.6458333333333334,
+                "Brier": 0.3411807498661536,
+                "normal_MSE": 0.17833977952957245,
+                "anomaly_MSE": 0.5040217202027347
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.09542828409547359,
+                "normal_MSE": 5.224845904060647e-10,
+                "anomaly_MSE": 0.1908565676684626
+              },
+              {
+                "category": "pizza",
+                "AUROC": 0.7222222222222222,
+                "probability_AUROC": 0.7222222222222222,
+                "Brier": 0.4996861684228594,
+                "normal_MSE": 5.241610370736017e-09,
+                "anomaly_MSE": 0.9993723316041084
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.6296296296296297,
+                "probability_AUROC": 0.6296296296296297,
+                "Brier": 0.48083899809800346,
+                "normal_MSE": 1.5837467676584847e-09,
+                "anomaly_MSE": 0.9616779946122601
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.14576528294427976,
+                "normal_MSE": 9.287599224259498e-05,
+                "anomaly_MSE": 0.2914376898963169
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.6687215509617984e-07,
+                "normal_MSE": 2.409869805497782e-10,
+                "anomaly_MSE": 5.3350332321181e-07
+              },
+              {
+                "category": "train",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.24458971348947908,
+                "normal_MSE": 0.1559291398703923,
+                "anomaly_MSE": 0.33325028710856586
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9776234567901234,
+            "probability_AUROC": 0.9776234567901234,
+            "Brier": 0.09355025795158099,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 9.839596272507103e-05,
+                "normal_MSE": 0.00019679180524125834,
+                "anomaly_MSE": 1.2020888372943684e-10
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008156749552712362,
+                "normal_MSE": 1.7734982759247607e-06,
+                "anomaly_MSE": 0.0016295764122665477
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8541666666666667,
+                "probability_AUROC": 0.8541666666666667,
+                "Brier": 0.2427878953272316,
+                "normal_MSE": 0.16623083396635538,
+                "anomaly_MSE": 0.3193449566881078
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.13157188300611694,
+                "normal_MSE": 1.4818061970633965e-07,
+                "anomaly_MSE": 0.26314361783161416
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.5186297961895705e-06,
+                "normal_MSE": 3.0372531179739043e-06,
+                "anomaly_MSE": 6.474405236526327e-12
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9444444444444444,
+                "probability_AUROC": 0.9444444444444444,
+                "Brier": 0.3171526437495302,
+                "normal_MSE": 4.060416628172692e-06,
+                "anomaly_MSE": 0.6343012270824323
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.11400539038313175,
+                "normal_MSE": 0.22798846343245036,
+                "anomaly_MSE": 2.2317333813146148e-05
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 5.3802949840336426e-08,
+                "normal_MSE": 1.0744262031578536e-07,
+                "anomaly_MSE": 1.6327936488748663e-10
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.03551886574747593,
+                "normal_MSE": 0.07103773149495186,
+                "anomaly_MSE": 6.183266473300132e-22
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.8793724279835392,
+            "probability_AUROC": 0.8793724279835392,
+            "Brier": 0.14689734692627723,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08924782904827312,
+                "normal_MSE": 0.17846861400401934,
+                "anomaly_MSE": 2.7044092526905907e-05
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.5555555555555556,
+                "probability_AUROC": 0.5555555555555556,
+                "Brier": 0.28067609344366373,
+                "normal_MSE": 0.011138097193492916,
+                "anomaly_MSE": 0.5502140896938346
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.8958333333333334,
+                "probability_AUROC": 0.8958333333333334,
+                "Brier": 0.2236145260679096,
+                "normal_MSE": 0.12607908360461081,
+                "anomaly_MSE": 0.3211499685312084
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.18561425328082562,
+                "normal_MSE": 0.007044183546584264,
+                "anomaly_MSE": 0.364184323015067
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.019299810667254867,
+                "normal_MSE": 0.03859962133450796,
+                "anomaly_MSE": 1.7747183612736223e-15
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.6296296296296297,
+                "probability_AUROC": 0.6296296296296297,
+                "Brier": 0.21616444314243569,
+                "normal_MSE": 0.11357439690056415,
+                "anomaly_MSE": 0.3187544893843072
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.8333333333333334,
+                "probability_AUROC": 0.8333333333333334,
+                "Brier": 0.29868842371426674,
+                "normal_MSE": 0.5969103506299667,
+                "anomaly_MSE": 0.0004664967985667707
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.003852579171328604,
+                "normal_MSE": 0.00770419478369238,
+                "anomaly_MSE": 9.635589648282453e-07
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.004918163800537046,
+                "normal_MSE": 0.00983632760107409,
+                "anomaly_MSE": 2.4510765804062127e-18
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.970679012345679,
+            "probability_AUROC": 0.970679012345679,
+            "Brier": 0.09048525171999036,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0011964867416533573,
+                "normal_MSE": 0.0023014088034344665,
+                "anomaly_MSE": 9.156467987224821e-05
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.004302374856717673,
+                "normal_MSE": 0.0012600826667342213,
+                "anomaly_MSE": 0.007344667046701125
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7916666666666666,
+                "probability_AUROC": 0.7916666666666666,
+                "Brier": 0.23689711609493724,
+                "normal_MSE": 0.1620534778619134,
+                "anomaly_MSE": 0.31174075432796106
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08045551906170705,
+                "normal_MSE": 0.0004774909970714357,
+                "anomaly_MSE": 0.16043354712634267
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0413326066616281,
+                "normal_MSE": 0.0011015751477643663,
+                "anomaly_MSE": 0.08156363817549184
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9444444444444444,
+                "probability_AUROC": 0.9444444444444444,
+                "Brier": 0.3696537936649351,
+                "normal_MSE": 0.0008028610723446976,
+                "anomaly_MSE": 0.7385047262575255
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.041010005419510026,
+                "normal_MSE": 0.024691883766782937,
+                "anomaly_MSE": 0.05732812707223711
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00045425629115787374,
+                "normal_MSE": 0.0003814786789000878,
+                "anomaly_MSE": 0.0005270339034156597
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.039065106687666835,
+                "normal_MSE": 0.0780142701565761,
+                "anomaly_MSE": 0.00011594321875757795
+              }
+            ]
+          }
+        }
+      },
+      "20261018": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.8532828282828284,
+            "probability_AUROC": 0.8532828282828284,
+            "Brier": 0.13768298980501853,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.15203485916942805,
+                "normal_MSE": 0.059277379931203876,
+                "anomaly_MSE": 0.24479233840765224
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.8148148148148149,
+                "probability_AUROC": 0.8148148148148149,
+                "Brier": 0.1398079657067902,
+                "normal_MSE": 0.008799387927503902,
+                "anomaly_MSE": 0.2708165434860765
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7272727272727273,
+                "probability_AUROC": 0.7272727272727273,
+                "Brier": 0.2916438343192591,
+                "normal_MSE": 0.49465414288693116,
+                "anomaly_MSE": 0.08863352575158702
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.14605502508319165,
+                "normal_MSE": 0.02263514390343585,
+                "anomaly_MSE": 0.26947490626294746
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.046521686196733435,
+                "normal_MSE": 0.08184759226393874,
+                "anomaly_MSE": 0.011195780129528122
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.6666666666666666,
+                "probability_AUROC": 0.6666666666666666,
+                "Brier": 0.17610590066390452,
+                "normal_MSE": 0.001501646821363986,
+                "anomaly_MSE": 0.35071015450644505
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.8055555555555556,
+                "probability_AUROC": 0.8055555555555556,
+                "Brier": 0.13560868054430741,
+                "normal_MSE": 0.038642376663060564,
+                "anomaly_MSE": 0.23257498442555427
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.6666666666666667,
+                "probability_AUROC": 0.6666666666666667,
+                "Brier": 0.20941400662110443,
+                "normal_MSE": 0.24067405142153364,
+                "anomaly_MSE": 0.17815396182067522
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.962962962962963,
+                "probability_AUROC": 0.962962962962963,
+                "Brier": 0.07146832858652763,
+                "normal_MSE": 0.0256199019838646,
+                "anomaly_MSE": 0.11731675518919066
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.008169611158938862,
+                "normal_MSE": 0.015110227012807583,
+                "anomaly_MSE": 0.0012289953050701426
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9189814814814813,
+            "probability_AUROC": 0.9189814814814813,
+            "Brier": 0.14467747318394938,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9583333333333334,
+                "probability_AUROC": 0.9583333333333334,
+                "Brier": 0.16497894034215752,
+                "normal_MSE": 0.00010037282179266786,
+                "anomaly_MSE": 0.3298575078625224
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0003946168661777647,
+                "normal_MSE": 0.00010909881907229265,
+                "anomaly_MSE": 0.0006801349132832367
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.6666666666666666,
+                "probability_AUROC": 0.6666666666666666,
+                "Brier": 0.34407811626079554,
+                "normal_MSE": 0.33556048666363597,
+                "anomaly_MSE": 0.35259574585795517
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04362303810988813,
+                "normal_MSE": 4.2067429900014807e-07,
+                "anomaly_MSE": 0.08724565554547725
+              },
+              {
+                "category": "pizza",
+                "AUROC": 0.8703703703703703,
+                "probability_AUROC": 0.8703703703703703,
+                "Brier": 0.1656261737387194,
+                "normal_MSE": 2.760212428926287e-06,
+                "anomaly_MSE": 0.33124958726500986
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.8888888888888888,
+                "probability_AUROC": 0.8888888888888888,
+                "Brier": 0.30731070584932507,
+                "normal_MSE": 2.392192005211577e-07,
+                "anomaly_MSE": 0.6146211724794496
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.8240740740740741,
+                "probability_AUROC": 0.8240740740740741,
+                "Brier": 0.2126241393561426,
+                "normal_MSE": 3.1587622168585756e-07,
+                "anomaly_MSE": 0.42524796283606353
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017190573583050272,
+                "normal_MSE": 0.0009472874257137622,
+                "anomaly_MSE": 0.03343385974038678
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0984318897227759,
+                "normal_MSE": 2.3091626647238423e-07,
+                "anomaly_MSE": 0.19686354852928534
+              },
+              {
+                "category": "train",
+                "AUROC": 0.9814814814814815,
+                "probability_AUROC": 0.9814814814814815,
+                "Brier": 0.0925165380104617,
+                "normal_MSE": 0.07712301402200626,
+                "anomaly_MSE": 0.10791006199891712
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9511363636363637,
+            "probability_AUROC": 0.9511363636363637,
+            "Brier": 0.09008527287131582,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9861111111111112,
+                "probability_AUROC": 0.9861111111111112,
+                "Brier": 0.16631173223232296,
+                "normal_MSE": 5.942531727495567e-05,
+                "anomaly_MSE": 0.332564039147371
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008157385955092829,
+                "normal_MSE": 1.3534979414229075e-05,
+                "anomaly_MSE": 0.0016179422116043367
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.803030303030303,
+                "probability_AUROC": 0.803030303030303,
+                "Brier": 0.2421272545398006,
+                "normal_MSE": 0.33880125026790525,
+                "anomaly_MSE": 0.145453258811696
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.05104018125350676,
+                "normal_MSE": 1.6217734245546196e-06,
+                "anomaly_MSE": 0.10207874073358897
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.5651323189962612e-05,
+                "normal_MSE": 3.0515269172952904e-05,
+                "anomaly_MSE": 7.873772069723222e-07
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.7222222222222222,
+                "probability_AUROC": 0.7222222222222222,
+                "Brier": 0.2313504810363377,
+                "normal_MSE": 6.223044609475296e-08,
+                "anomaly_MSE": 0.46270089984222934
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.10491619109893979,
+                "normal_MSE": 2.2874859545819834e-06,
+                "anomaly_MSE": 0.209830094711925
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.01636860271911667,
+                "normal_MSE": 0.017594388959775203,
+                "anomaly_MSE": 0.015142816478458134
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.07611247544460427,
+                "normal_MSE": 1.847372581171155e-06,
+                "anomaly_MSE": 0.15222310351662738
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.011794420469830102,
+                "normal_MSE": 0.023588834096546277,
+                "anomaly_MSE": 6.843113926540676e-09
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.8532828282828284,
+            "probability_AUROC": 0.8532828282828284,
+            "Brier": 0.13772077700580793,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.15219361117107855,
+                "normal_MSE": 0.05874674097311148,
+                "anomaly_MSE": 0.2456404813690456
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.8148148148148149,
+                "probability_AUROC": 0.8148148148148149,
+                "Brier": 0.14000883240245549,
+                "normal_MSE": 0.008633960481350225,
+                "anomaly_MSE": 0.27138370432356074
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7272727272727273,
+                "probability_AUROC": 0.7272727272727273,
+                "Brier": 0.2916387225483642,
+                "normal_MSE": 0.4943635245035895,
+                "anomaly_MSE": 0.08891392059313893
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.146408290733751,
+                "normal_MSE": 0.022287644857614697,
+                "anomaly_MSE": 0.2705289366098873
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.046137382656506826,
+                "normal_MSE": 0.08105311534329658,
+                "anomaly_MSE": 0.011221649969717076
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.6666666666666666,
+                "probability_AUROC": 0.6666666666666666,
+                "Brier": 0.17620935313499908,
+                "normal_MSE": 0.0014651760596492962,
+                "anomaly_MSE": 0.35095353021034886
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.8055555555555556,
+                "probability_AUROC": 0.8055555555555556,
+                "Brier": 0.1357259497929464,
+                "normal_MSE": 0.038137740848895686,
+                "anomaly_MSE": 0.2333141587369971
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.6666666666666667,
+                "probability_AUROC": 0.6666666666666667,
+                "Brier": 0.20935738396783854,
+                "normal_MSE": 0.2398171401697251,
+                "anomaly_MSE": 0.17889762776595194
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.962962962962963,
+                "probability_AUROC": 0.962962962962963,
+                "Brier": 0.07148444486187298,
+                "normal_MSE": 0.025294129995638088,
+                "anomaly_MSE": 0.11767475972810787
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.008043798788266467,
+                "normal_MSE": 0.014866212066991173,
+                "anomaly_MSE": 0.0012213855095417605
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9483164983164982,
+            "probability_AUROC": 0.9483164983164982,
+            "Brier": 0.09937130798404205,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.14813377084281384,
+                "normal_MSE": 0.0022779030693925806,
+                "anomaly_MSE": 0.2939896386162351
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00474073703868326,
+                "normal_MSE": 0.001519623626084853,
+                "anomaly_MSE": 0.007961850451281666
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7424242424242424,
+                "probability_AUROC": 0.7424242424242424,
+                "Brier": 0.2593750627136179,
+                "normal_MSE": 0.34038548053777445,
+                "anomaly_MSE": 0.17836464488946127
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.05880771214600689,
+                "normal_MSE": 0.0004569701465550146,
+                "anomaly_MSE": 0.11715845414545877
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0056482947796474905,
+                "normal_MSE": 0.0012633729338066399,
+                "anomaly_MSE": 0.010033216625488341
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.7777777777777778,
+                "probability_AUROC": 0.7777777777777778,
+                "Brier": 0.2331221637942447,
+                "normal_MSE": 0.00016282975680016658,
+                "anomaly_MSE": 0.46608149783168923
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9907407407407407,
+                "probability_AUROC": 0.9907407407407407,
+                "Brier": 0.1747073739946789,
+                "normal_MSE": 0.00043593177755876555,
+                "anomaly_MSE": 0.34897881621179905
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.023272984565489464,
+                "normal_MSE": 0.012360388300880452,
+                "anomaly_MSE": 0.034185580830098476
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0684223130880838,
+                "normal_MSE": 0.0003505463344328522,
+                "anomaly_MSE": 0.13649407984173476
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017482666877154357,
+                "normal_MSE": 0.03483972923366867,
+                "anomaly_MSE": 0.00012560452064004488
+              }
+            ]
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.925,
+            "probability_AUROC": 0.925,
+            "Brier": 0.09528748350409724,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.8611111111111112,
+                "probability_AUROC": 0.8611111111111112,
+                "Brier": 0.1303663653123655,
+                "normal_MSE": 0.059277379931203876,
+                "anomaly_MSE": 0.20145535069352716
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.06451071105440784,
+                "normal_MSE": 0.008799387927503902,
+                "anomaly_MSE": 0.12022203418131178
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7777777777777779,
+                "probability_AUROC": 0.7777777777777779,
+                "Brier": 0.24860961471829715,
+                "normal_MSE": 0.49465414288693116,
+                "anomaly_MSE": 0.0025650865496631607
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.17580054374384466,
+                "normal_MSE": 0.02263514390343585,
+                "anomaly_MSE": 0.32896594358425346
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.049320631229113635,
+                "normal_MSE": 0.08184759226393874,
+                "anomaly_MSE": 0.016793670194288533
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00075083677031933,
+                "normal_MSE": 0.001501646821363986,
+                "anomaly_MSE": 2.6719274673769427e-08
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04041553917678145,
+                "normal_MSE": 0.038642376663060564,
+                "anomaly_MSE": 0.042188701690502345
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.6111111111111112,
+                "probability_AUROC": 0.6111111111111112,
+                "Brier": 0.22181378205870417,
+                "normal_MSE": 0.24067405142153364,
+                "anomaly_MSE": 0.20295351269587472
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0128099509919323,
+                "normal_MSE": 0.0256199019838646,
+                "anomaly_MSE": 1.8845826451730598e-21
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.008476859985206399,
+                "normal_MSE": 0.015110227012807583,
+                "anomaly_MSE": 0.001843492957605214
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.9888888888888889,
+            "probability_AUROC": 0.9888888888888889,
+            "Brier": 0.03888672103093117,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9444444444444445,
+                "probability_AUROC": 0.9444444444444445,
+                "Brier": 0.15573437392854336,
+                "normal_MSE": 0.00010037282179266786,
+                "anomaly_MSE": 0.3113683750352941
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00019071081633355568,
+                "normal_MSE": 0.00010909881907229265,
+                "anomaly_MSE": 0.0002723228135948187
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.9444444444444444,
+                "probability_AUROC": 0.9444444444444444,
+                "Brier": 0.16778032540556545,
+                "normal_MSE": 0.33556048666363597,
+                "anomaly_MSE": 1.6414749495351265e-07
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.025313310265002012,
+                "normal_MSE": 4.2067429900014807e-07,
+                "anomaly_MSE": 0.050626199855705024
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.3952938352069314e-06,
+                "normal_MSE": 2.760212428926287e-06,
+                "anomaly_MSE": 2.0303752414875762e-06
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 9.288414357281988e-07,
+                "normal_MSE": 2.392192005211577e-07,
+                "anomaly_MSE": 1.61846367093524e-06
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008026608618563558,
+                "normal_MSE": 3.1587622168585756e-07,
+                "anomaly_MSE": 0.0016050058474910258
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0004788149250418574,
+                "normal_MSE": 0.0009472874257137622,
+                "anomaly_MSE": 1.0342424369952534e-05
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.04766993298485e-06,
+                "normal_MSE": 2.3091626647238423e-07,
+                "anomaly_MSE": 3.8644235994973154e-06
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.038561642301765155,
+                "normal_MSE": 0.07712301402200626,
+                "anomaly_MSE": 2.7058152405202715e-07
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9888888888888889,
+            "probability_AUROC": 0.9888888888888889,
+            "Brier": 0.03867377865019231,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.14309620164120512,
+                "normal_MSE": 5.942531727495567e-05,
+                "anomaly_MSE": 0.2861329779651353
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.808573667820809e-05,
+                "normal_MSE": 1.3534979414229075e-05,
+                "anomaly_MSE": 6.263649394218711e-05
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.16940062630785843,
+                "normal_MSE": 0.33880125026790525,
+                "anomaly_MSE": 2.347811619447557e-09
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.05320442944497202,
+                "normal_MSE": 1.6217734245546196e-06,
+                "anomaly_MSE": 0.10640723711651949
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.5848163681767438e-05,
+                "normal_MSE": 3.0515269172952904e-05,
+                "anomaly_MSE": 1.1810581905819705e-06
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 3.1115568874527094e-08,
+                "normal_MSE": 6.223044609475296e-08,
+                "anomaly_MSE": 6.916543012369596e-13
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.000315312416245124,
+                "normal_MSE": 2.2874859545819834e-06,
+                "anomaly_MSE": 0.0006283373465356659
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.008871905808814404,
+                "normal_MSE": 0.017594388959775203,
+                "anomaly_MSE": 0.00014942265785360402
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 9.236862905855775e-07,
+                "normal_MSE": 1.847372581171155e-06,
+                "anomaly_MSE": 1.1488996519002324e-25
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.011794422180608584,
+                "normal_MSE": 0.023588834096546277,
+                "anomaly_MSE": 1.0264670889811015e-08
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.925,
+            "probability_AUROC": 0.925,
+            "Brier": 0.09524814988290495,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.8611111111111112,
+                "probability_AUROC": 0.8611111111111112,
+                "Brier": 0.13042921028824586,
+                "normal_MSE": 0.05874674097311148,
+                "anomaly_MSE": 0.20211167960338025
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.06461422680782541,
+                "normal_MSE": 0.008633960481350225,
+                "anomaly_MSE": 0.12059449313430061
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7777777777777779,
+                "probability_AUROC": 0.7777777777777779,
+                "Brier": 0.24845826285046424,
+                "normal_MSE": 0.4943635245035895,
+                "anomaly_MSE": 0.00255300119733898
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.17627224278428202,
+                "normal_MSE": 0.022287644857614697,
+                "anomaly_MSE": 0.33025684071094935
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04894279514893441,
+                "normal_MSE": 0.08105311534329658,
+                "anomaly_MSE": 0.01683247495457224
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0007326008778833908,
+                "normal_MSE": 0.0014651760596492962,
+                "anomaly_MSE": 2.569611748527114e-08
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04022398871813115,
+                "normal_MSE": 0.038137740848895686,
+                "anomaly_MSE": 0.04231023658736661
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.6111111111111112,
+                "probability_AUROC": 0.6111111111111112,
+                "Brier": 0.22181196118981195,
+                "normal_MSE": 0.2398171401697251,
+                "anomaly_MSE": 0.20380678220989878
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.012647064997819044,
+                "normal_MSE": 0.025294129995638088,
+                "anomaly_MSE": 1.6700536764248586e-21
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.008349145165651908,
+                "normal_MSE": 0.014866212066991173,
+                "anomaly_MSE": 0.0018320782643126406
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.986111111111111,
+            "probability_AUROC": 0.986111111111111,
+            "Brier": 0.03926316268460888,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.13193619121295241,
+                "normal_MSE": 0.0022779030693925806,
+                "anomaly_MSE": 0.26159447935651226
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0018962029441128626,
+                "normal_MSE": 0.001519623626084853,
+                "anomaly_MSE": 0.002272782262140872
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.888888888888889,
+                "probability_AUROC": 0.888888888888889,
+                "Brier": 0.1702428959065445,
+                "normal_MSE": 0.34038548053777445,
+                "anomaly_MSE": 0.00010031127531454565
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.053372862465980005,
+                "normal_MSE": 0.0004569701465550146,
+                "anomaly_MSE": 0.10628875478540499
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0009099594827281828,
+                "normal_MSE": 0.0012633729338066399,
+                "anomaly_MSE": 0.0005565460316497257
+              },
+              {
+                "category": "plaid",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 9.783764805512884e-05,
+                "normal_MSE": 0.00016282975680016658,
+                "anomaly_MSE": 3.284553931009109e-05
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.008640205330666765,
+                "normal_MSE": 0.00043593177755876555,
+                "anomaly_MSE": 0.016844478883774765
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.007846232102059859,
+                "normal_MSE": 0.012360388300880452,
+                "anomaly_MSE": 0.0033320759032392662
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.00017527756215289346,
+                "normal_MSE": 0.0003505463344328522,
+                "anomaly_MSE": 8.789872934703319e-09
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017513962190836185,
+                "normal_MSE": 0.03483972923366867,
+                "anomaly_MSE": 0.00018819514800370244
+              }
+            ]
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.8,
+            "probability_AUROC": 0.8,
+            "Brier": 0.16393310490764257,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9166666666666667,
+                "probability_AUROC": 0.9166666666666667,
+                "Brier": 0.17370335302649062,
+                "normal_MSE": 0.059277379931203876,
+                "anomaly_MSE": 0.2881293261217774
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.4444444444444444,
+                "probability_AUROC": 0.4444444444444444,
+                "Brier": 0.2904024750115549,
+                "normal_MSE": 0.008799387927503902,
+                "anomaly_MSE": 0.5720055620956059
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7083333333333334,
+                "probability_AUROC": 0.7083333333333334,
+                "Brier": 0.3077816666696198,
+                "normal_MSE": 0.49465414288693116,
+                "anomaly_MSE": 0.12090919045230847
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0865639877618856,
+                "normal_MSE": 0.02263514390343585,
+                "anomaly_MSE": 0.15049283162033536
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04092379613197302,
+                "normal_MSE": 0.08184759226393874,
+                "anomaly_MSE": 7.301104198091134e-15
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.5,
+                "probability_AUROC": 0.5,
+                "Brier": 0.2637834326106971,
+                "normal_MSE": 0.001501646821363986,
+                "anomaly_MSE": 0.5260652184000302
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.7083333333333333,
+                "probability_AUROC": 0.7083333333333333,
+                "Brier": 0.1832052512280704,
+                "normal_MSE": 0.038642376663060564,
+                "anomaly_MSE": 0.32776812579308023
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.7777777777777779,
+                "probability_AUROC": 0.7777777777777779,
+                "Brier": 0.1846144557459049,
+                "normal_MSE": 0.24067405142153364,
+                "anomaly_MSE": 0.1285548600702762
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.9444444444444445,
+                "probability_AUROC": 0.9444444444444445,
+                "Brier": 0.1007975173838253,
+                "normal_MSE": 0.0256199019838646,
+                "anomaly_MSE": 0.175975132783786
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.007555113506403792,
+                "normal_MSE": 0.015110227012807583,
+                "anomaly_MSE": 4.449952812826387e-24
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.8659722222222224,
+            "probability_AUROC": 0.8659722222222224,
+            "Brier": 0.23405196520139676,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.17422350675577167,
+                "normal_MSE": 0.00010037282179266786,
+                "anomaly_MSE": 0.3483466406897507
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008024289658661826,
+                "normal_MSE": 0.00010909881907229265,
+                "anomaly_MSE": 0.0014957591126600726
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.5625,
+                "probability_AUROC": 0.5625,
+                "Brier": 0.41018978783150684,
+                "normal_MSE": 0.33556048666363597,
+                "anomaly_MSE": 0.48481908899937776
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08024249379966035,
+                "normal_MSE": 4.2067429900014807e-07,
+                "anomaly_MSE": 0.1604845669250217
+              },
+              {
+                "category": "pizza",
+                "AUROC": 0.6111111111111112,
+                "probability_AUROC": 0.6111111111111112,
+                "Brier": 0.49687373062848783,
+                "normal_MSE": 2.760212428926287e-06,
+                "anomaly_MSE": 0.9937447010445467
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.8333333333333334,
+                "probability_AUROC": 0.8333333333333334,
+                "Brier": 0.46096559435326984,
+                "normal_MSE": 2.392192005211577e-07,
+                "anomaly_MSE": 0.9219309494873391
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.7361111111111112,
+                "probability_AUROC": 0.7361111111111112,
+                "Brier": 0.3185348786032858,
+                "normal_MSE": 3.1587622168585756e-07,
+                "anomaly_MSE": 0.6370694413303498
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.050614090899067106,
+                "normal_MSE": 0.0009472874257137622,
+                "anomaly_MSE": 0.10028089437242045
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.1476468107491974,
+                "normal_MSE": 2.3091626647238423e-07,
+                "anomaly_MSE": 0.2952933905821283
+              },
+              {
+                "category": "train",
+                "AUROC": 0.9444444444444444,
+                "probability_AUROC": 0.9444444444444444,
+                "Brier": 0.20042632942785474,
+                "normal_MSE": 0.07712301402200626,
+                "anomaly_MSE": 0.3237296448337032
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9326388888888889,
+            "probability_AUROC": 0.9326388888888889,
+            "Brier": 0.11695919911249383,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.18952726282344085,
+                "normal_MSE": 5.942531727495567e-05,
+                "anomaly_MSE": 0.37899510032960676
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.002371044313171433,
+                "normal_MSE": 1.3534979414229075e-05,
+                "anomaly_MSE": 0.0047285536469286365
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7708333333333334,
+                "probability_AUROC": 0.7708333333333334,
+                "Brier": 0.2693997401267789,
+                "normal_MSE": 0.33880125026790525,
+                "anomaly_MSE": 0.19999822998565264
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04671168487057625,
+                "normal_MSE": 1.6217734245546196e-06,
+                "anomaly_MSE": 0.09342174796772795
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.5257642206352965e-05,
+                "normal_MSE": 3.0515269172952904e-05,
+                "anomaly_MSE": 1.5239753025846105e-11
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.5833333333333333,
+                "probability_AUROC": 0.5833333333333333,
+                "Brier": 0.34702570599672217,
+                "normal_MSE": 6.223044609475296e-08,
+                "anomaly_MSE": 0.6940513497629982
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.15721663044028714,
+                "normal_MSE": 2.2874859545819834e-06,
+                "anomaly_MSE": 0.3144309733946197
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.031361996539721194,
+                "normal_MSE": 0.017594388959775203,
+                "anomaly_MSE": 0.04512960411966719
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.11416825132376113,
+                "normal_MSE": 1.847372581171155e-06,
+                "anomaly_MSE": 0.2283346552749411
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.011794417048273139,
+                "normal_MSE": 0.023588834096546277,
+                "anomaly_MSE": 1.2441158205444962e-27
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.8,
+            "probability_AUROC": 0.8,
+            "Brier": 0.16400035248302422,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9166666666666667,
+                "probability_AUROC": 0.9166666666666667,
+                "Brier": 0.17395801205391123,
+                "normal_MSE": 0.05874674097311148,
+                "anomaly_MSE": 0.28916928313471096
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.4444444444444444,
+                "probability_AUROC": 0.4444444444444444,
+                "Brier": 0.2907980435917157,
+                "normal_MSE": 0.008633960481350225,
+                "anomaly_MSE": 0.5729621267020811
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7083333333333334,
+                "probability_AUROC": 0.7083333333333334,
+                "Brier": 0.3078313949350767,
+                "normal_MSE": 0.4943635245035895,
+                "anomaly_MSE": 0.12129926536656392
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08668038663268886,
+                "normal_MSE": 0.022287644857614697,
+                "anomaly_MSE": 0.15107312840776302
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04052655767165166,
+                "normal_MSE": 0.08105311534329658,
+                "anomaly_MSE": 6.743315137576776e-15
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.5,
+                "probability_AUROC": 0.5,
+                "Brier": 0.2639477292635569,
+                "normal_MSE": 0.0014651760596492962,
+                "anomaly_MSE": 0.5264302824674646
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.7083333333333333,
+                "probability_AUROC": 0.7083333333333333,
+                "Brier": 0.18347693033035406,
+                "normal_MSE": 0.038137740848895686,
+                "anomaly_MSE": 0.3288161198118124
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.7777777777777779,
+                "probability_AUROC": 0.7777777777777779,
+                "Brier": 0.1844482295238917,
+                "normal_MSE": 0.2398171401697251,
+                "anomaly_MSE": 0.1290793188780583
+              },
+              {
+                "category": "sushi",
+                "AUROC": 0.9444444444444445,
+                "probability_AUROC": 0.9444444444444445,
+                "Brier": 0.10090313479389995,
+                "normal_MSE": 0.025294129995638088,
+                "anomaly_MSE": 0.1765121395921618
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.007433106033495587,
+                "normal_MSE": 0.014866212066991173,
+                "anomaly_MSE": 3.877413082081445e-24
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.93125,
+            "probability_AUROC": 0.93125,
+            "Brier": 0.13338308396335294,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 0.9722222222222223,
+                "probability_AUROC": 0.9722222222222223,
+                "Brier": 0.16433135047267525,
+                "normal_MSE": 0.0022779030693925806,
+                "anomaly_MSE": 0.3263847978759579
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.010429805227824053,
+                "normal_MSE": 0.001519623626084853,
+                "anomaly_MSE": 0.019339986829563255
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.6875,
+                "probability_AUROC": 0.6875,
+                "Brier": 0.29279962526627035,
+                "normal_MSE": 0.34038548053777445,
+                "anomaly_MSE": 0.2452137699947663
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.06967741150606066,
+                "normal_MSE": 0.0004569701465550146,
+                "anomaly_MSE": 0.1388978528655663
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.015124965373486104,
+                "normal_MSE": 0.0012633729338066399,
+                "anomaly_MSE": 0.02898655781316557
+              },
+              {
+                "category": "plaid",
+                "AUROC": 0.6666666666666666,
+                "probability_AUROC": 0.6666666666666666,
+                "Brier": 0.3496343268673395,
+                "normal_MSE": 0.00016282975680016658,
+                "anomaly_MSE": 0.6991058239778788
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9861111111111112,
+                "probability_AUROC": 0.9861111111111112,
+                "Brier": 0.257740958326685,
+                "normal_MSE": 0.00043593177755876555,
+                "anomaly_MSE": 0.5150459848758112
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.054126489492348676,
+                "normal_MSE": 0.012360388300880452,
+                "anomaly_MSE": 0.0958925906838169
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.10254583085104926,
+                "normal_MSE": 0.0003505463344328522,
+                "anomaly_MSE": 0.20474111536766568
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017420076249790698,
+                "normal_MSE": 0.03483972923366867,
+                "anomaly_MSE": 4.232659127298223e-07
+              }
+            ]
+          }
+        },
+        "DENT_FAMILY": {
+          "G_ONLY": {
+            "AUROC": 0.8503086419753086,
+            "probability_AUROC": 0.8503086419753086,
+            "Brier": 0.1241673615054112,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.029638695895866575,
+                "normal_MSE": 0.059277379931203876,
+                "anomaly_MSE": 1.1860529270962713e-08
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.4444444444444444,
+                "probability_AUROC": 0.4444444444444444,
+                "Brier": 0.2904024750115549,
+                "normal_MSE": 0.008799387927503902,
+                "anomaly_MSE": 0.5720055620956059
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7083333333333334,
+                "probability_AUROC": 0.7083333333333334,
+                "Brier": 0.3077816666696198,
+                "normal_MSE": 0.49465414288693116,
+                "anomaly_MSE": 0.12090919045230847
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0865639877618856,
+                "normal_MSE": 0.02263514390343585,
+                "anomaly_MSE": 0.15049283162033536
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04092379613197302,
+                "normal_MSE": 0.08184759226393874,
+                "anomaly_MSE": 7.301104198091134e-15
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.7222222222222222,
+                "probability_AUROC": 0.7222222222222222,
+                "Brier": 0.15721611183355994,
+                "normal_MSE": 0.038642376663060564,
+                "anomaly_MSE": 0.2757898470040593
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.7777777777777779,
+                "probability_AUROC": 0.7777777777777779,
+                "Brier": 0.1846144557459049,
+                "normal_MSE": 0.24067405142153364,
+                "anomaly_MSE": 0.1285548600702762
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0128099509919323,
+                "normal_MSE": 0.0256199019838646,
+                "anomaly_MSE": 0.0
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.007555113506403792,
+                "normal_MSE": 0.015110227012807583,
+                "anomaly_MSE": 4.449952812826387e-24
+              }
+            ]
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.8629115226337449,
+            "probability_AUROC": 0.8629115226337449,
+            "Brier": 0.18443410025197216,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0020127863143130633,
+                "normal_MSE": 0.00010037282179266786,
+                "anomaly_MSE": 0.003925199806833458
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0008024289658661826,
+                "normal_MSE": 0.00010909881907229265,
+                "anomaly_MSE": 0.0014957591126600726
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.5625,
+                "probability_AUROC": 0.5625,
+                "Brier": 0.41018978783150684,
+                "normal_MSE": 0.33556048666363597,
+                "anomaly_MSE": 0.48481908899937776
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08024249379966035,
+                "normal_MSE": 4.2067429900014807e-07,
+                "anomaly_MSE": 0.1604845669250217
+              },
+              {
+                "category": "pizza",
+                "AUROC": 0.6111111111111112,
+                "probability_AUROC": 0.6111111111111112,
+                "Brier": 0.49687373062848783,
+                "normal_MSE": 2.760212428926287e-06,
+                "anomaly_MSE": 0.9937447010445467
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.6481481481481483,
+                "probability_AUROC": 0.6481481481481483,
+                "Brier": 0.41870506180456446,
+                "normal_MSE": 3.1587622168585756e-07,
+                "anomaly_MSE": 0.8374098077329072
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.050614090899067106,
+                "normal_MSE": 0.0009472874257137622,
+                "anomaly_MSE": 0.10028089437242045
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 4.019259642856718e-05,
+                "normal_MSE": 2.3091626647238423e-07,
+                "anomaly_MSE": 8.015427659066199e-05
+              },
+              {
+                "category": "train",
+                "AUROC": 0.9444444444444444,
+                "probability_AUROC": 0.9444444444444444,
+                "Brier": 0.20042632942785474,
+                "normal_MSE": 0.07712301402200626,
+                "anomaly_MSE": 0.3237296448337032
+              }
+            ]
+          },
+          "ANCHORED_RGB": {
+            "AUROC": 0.9745370370370371,
+            "probability_AUROC": 0.9745370370370371,
+            "Brier": 0.06310231572574922,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 2.9712658721755473e-05,
+                "normal_MSE": 5.942531727495567e-05,
+                "anomaly_MSE": 1.6855527191746474e-13
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.002371044313171433,
+                "normal_MSE": 1.3534979414229075e-05,
+                "anomaly_MSE": 0.0047285536469286365
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7708333333333334,
+                "probability_AUROC": 0.7708333333333334,
+                "Brier": 0.2693997401267789,
+                "normal_MSE": 0.33880125026790525,
+                "anomaly_MSE": 0.19999822998565264
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04671168487057625,
+                "normal_MSE": 1.6217734245546196e-06,
+                "anomaly_MSE": 0.09342174796772795
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 1.5257642206352965e-05,
+                "normal_MSE": 3.0515269172952904e-05,
+                "anomaly_MSE": 1.5239753025846105e-11
+              },
+              {
+                "category": "radish",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.20623606464600336,
+                "normal_MSE": 2.2874859545819834e-06,
+                "anomaly_MSE": 0.4124698418060521
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.031361996539721194,
+                "normal_MSE": 0.017594388959775203,
+                "anomaly_MSE": 0.04512960411966719
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 9.236862905855775e-07,
+                "normal_MSE": 1.847372581171155e-06,
+                "anomaly_MSE": 0.0
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.011794417048273139,
+                "normal_MSE": 0.023588834096546277,
+                "anomaly_MSE": 1.2441158205444962e-27
+              }
+            ]
+          },
+          "SELF": {
+            "AUROC": 0.8503086419753086,
+            "probability_AUROC": 0.8503086419753086,
+            "Brier": 0.12412607932848495,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.029373376189996435,
+                "normal_MSE": 0.05874674097311148,
+                "anomaly_MSE": 1.1406881387561951e-08
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 0.4444444444444444,
+                "probability_AUROC": 0.4444444444444444,
+                "Brier": 0.2907980435917157,
+                "normal_MSE": 0.008633960481350225,
+                "anomaly_MSE": 0.5729621267020811
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.7083333333333334,
+                "probability_AUROC": 0.7083333333333334,
+                "Brier": 0.3078313949350767,
+                "normal_MSE": 0.4943635245035895,
+                "anomaly_MSE": 0.12129926536656392
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.08668038663268886,
+                "normal_MSE": 0.022287644857614697,
+                "anomaly_MSE": 0.15107312840776302
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.04052655767165166,
+                "normal_MSE": 0.08105311534329658,
+                "anomaly_MSE": 6.743315137576776e-15
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.7222222222222222,
+                "probability_AUROC": 0.7222222222222222,
+                "Brier": 0.15739655438002884,
+                "normal_MSE": 0.038137740848895686,
+                "anomaly_MSE": 0.27665536791116196
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 0.7777777777777779,
+                "probability_AUROC": 0.7777777777777779,
+                "Brier": 0.1844482295238917,
+                "normal_MSE": 0.2398171401697251,
+                "anomaly_MSE": 0.1290793188780583
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.012647064997819044,
+                "normal_MSE": 0.025294129995638088,
+                "anomaly_MSE": 0.0
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.007433106033495587,
+                "normal_MSE": 0.014866212066991173,
+                "anomaly_MSE": 3.877413082081445e-24
+              }
+            ]
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.9632201646090535,
+            "probability_AUROC": 0.9632201646090535,
+            "Brier": 0.08804301436573245,
+            "per_category": [
+              {
+                "category": "bicycle",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0011432321954116687,
+                "normal_MSE": 0.0022779030693925806,
+                "anomaly_MSE": 8.561321430756814e-06
+              },
+              {
+                "category": "cabbage",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.010429805227824053,
+                "normal_MSE": 0.001519623626084853,
+                "anomaly_MSE": 0.019339986829563255
+              },
+              {
+                "category": "chicken",
+                "AUROC": 0.6875,
+                "probability_AUROC": 0.6875,
+                "Brier": 0.29279962526627035,
+                "normal_MSE": 0.34038548053777445,
+                "anomaly_MSE": 0.2452137699947663
+              },
+              {
+                "category": "crab",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.06967741150606066,
+                "normal_MSE": 0.0004569701465550146,
+                "anomaly_MSE": 0.1388978528655663
+              },
+              {
+                "category": "pizza",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.015124965373486104,
+                "normal_MSE": 0.0012633729338066399,
+                "anomaly_MSE": 0.02898655781316557
+              },
+              {
+                "category": "radish",
+                "AUROC": 0.9814814814814815,
+                "probability_AUROC": 0.9814814814814815,
+                "Brier": 0.33149025081295336,
+                "normal_MSE": 0.00043593177755876555,
+                "anomaly_MSE": 0.662544569848348
+              },
+              {
+                "category": "strawberry",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.054126489492348676,
+                "normal_MSE": 0.012360388300880452,
+                "anomaly_MSE": 0.0958925906838169
+              },
+              {
+                "category": "sushi",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.0001752731674464226,
+                "normal_MSE": 0.0003505463344328522,
+                "anomaly_MSE": 4.599929746544026e-13
+              },
+              {
+                "category": "train",
+                "AUROC": 1.0,
+                "probability_AUROC": 1.0,
+                "Brier": 0.017420076249790698,
+                "normal_MSE": 0.03483972923366867,
+                "anomaly_MSE": 4.232659127298223e-07
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "differences": {
+    "RealIAD3": {
+      "20261017": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.0002666666666666373,
+            "Brier": -0.004709232488371937
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.037866666666666715,
+            "Brier": -0.06377396127216335
+          },
+          "SELF": {
+            "AUROC": 0.0002666666666666373,
+            "Brier": -0.004600728281708641
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0017333333333333645,
+            "Brier": -0.01325785680164979
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.0,
+            "Brier": -0.008092682193703868
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.01866666666666672,
+            "Brier": -0.018469627074325812
+          },
+          "SELF": {
+            "AUROC": 0.0,
+            "Brier": -0.007930872994951458
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0005333333333332746,
+            "Brier": -0.007311509448389897
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.0005333333333333856,
+            "Brier": -0.0013261751869690364
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.05706666666666671,
+            "Brier": -0.10907831796576135
+          },
+          "SELF": {
+            "AUROC": 0.0005333333333333856,
+            "Brier": -0.001270925084079312
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0029333333333333433,
+            "Brier": -0.019203362538423464
+          }
+        }
+      },
+      "20261018": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.006133333333333435,
+            "Brier": -0.012011714274697546
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.021199999999999997,
+            "Brier": -0.00864741848675138
+          },
+          "SELF": {
+            "AUROC": 0.006133333333333435,
+            "Brier": -0.012102186262825203
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0010666666666666602,
+            "Brier": 0.0021182610757576395
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.0010666666666667712,
+            "Brier": -0.006079275110181633
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.014933333333333354,
+            "Brier": -0.009594180852741175
+          },
+          "SELF": {
+            "AUROC": 0.0010666666666667712,
+            "Brier": -0.00595650070959302
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0008000000000001339,
+            "Brier": -0.0062577010061316985
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.011199999999999988,
+            "Brier": -0.017944106209271418
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.02746666666666664,
+            "Brier": -0.007701360395864668
+          },
+          "SELF": {
+            "AUROC": 0.011199999999999988,
+            "Brier": -0.018247834116736226
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0013333333333332975,
+            "Brier": 0.010498725826318316
+          }
+        }
+      }
+    },
+    "PDREAL10": {
+      "20261017": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.10172558922558927,
+            "Brier": -0.05646568407208594
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.04663299663299669,
+            "Brier": -0.04203291115082969
+          },
+          "SELF": {
+            "AUROC": 0.10172558922558927,
+            "Brier": -0.05668334825461502
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0017676767676768623,
+            "Brier": 0.014998266852773237
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.06944444444444442,
+            "Brier": -0.06556766269935449
+          },
+          "RGB_ONLY": {
+            "AUROC": -0.005555555555555758,
+            "Brier": 0.015914933567089062
+          },
+          "SELF": {
+            "AUROC": 0.06944444444444442,
+            "Brier": -0.06567260691059094
+          },
+          "FREE_FUSION": {
+            "AUROC": -0.005555555555555758,
+            "Brier": 0.015752707658453824
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.1319444444444443,
+            "Brier": -0.05384281117620804
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.09166666666666667,
+            "Brier": -0.1116823195840361
+          },
+          "SELF": {
+            "AUROC": 0.1319444444444443,
+            "Brier": -0.05410246314616399
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.006250000000000089,
+            "Brier": 0.012888149473939958
+          }
+        },
+        "DENT_FAMILY": {
+          "G_ONLY": {
+            "AUROC": 0.0982510288065842,
+            "Brier": -0.053272088918293645
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.10133744855967075,
+            "Brier": -0.10731020606118226
+          },
+          "SELF": {
+            "AUROC": 0.0982510288065842,
+            "Brier": -0.05334708897469624
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.00694444444444442,
+            "Brier": 0.0030650062315906307
+          }
+        }
+      },
+      "20261018": {
+        "ALL": {
+          "G_ONLY": {
+            "AUROC": 0.09785353535353525,
+            "Brier": -0.04759771693370271
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.03215488215488238,
+            "Brier": -0.054592200312633565
+          },
+          "SELF": {
+            "AUROC": 0.09785353535353525,
+            "Brier": -0.04763550413449211
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.0028198653198654444,
+            "Brier": -0.00928603511272623
+          }
+        },
+        "KNOWN": {
+          "G_ONLY": {
+            "AUROC": 0.06388888888888888,
+            "Brier": -0.056613704853904934
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.0,
+            "Brier": -0.00021294238073886473
+          },
+          "SELF": {
+            "AUROC": 0.06388888888888888,
+            "Brier": -0.05657437123271264
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.002777777777777879,
+            "Brier": -0.0005893840344165721
+          }
+        },
+        "EXCLUDED": {
+          "G_ONLY": {
+            "AUROC": 0.13263888888888886,
+            "Brier": -0.046973905795148735
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.06666666666666654,
+            "Brier": -0.11709276608890293
+          },
+          "SELF": {
+            "AUROC": 0.13263888888888886,
+            "Brier": -0.047041153370530386
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.001388888888888884,
+            "Brier": -0.016423884850859105
+          }
+        },
+        "DENT_FAMILY": {
+          "G_ONLY": {
+            "AUROC": 0.12422839506172845,
+            "Brier": -0.061065045779661986
+          },
+          "RGB_ONLY": {
+            "AUROC": 0.11162551440329216,
+            "Brier": -0.12133178452622294
+          },
+          "SELF": {
+            "AUROC": 0.12422839506172845,
+            "Brier": -0.06102376360273573
+          },
+          "FREE_FUSION": {
+            "AUROC": 0.011316872427983626,
+            "Brier": -0.02494069863998323
+          }
+        }
+      }
+    }
+  },
+  "actual_fits": 20,
+  "NN_updates": 0,
+  "new_forwards": 0,
+  "scope": "Posthoc descriptive fixed-hyperparameter stress test, existing ensemble-basedC-selected hyperparameters reused for each member. Not independently selected per-seed hyperparameters or new neural replication. Exactly2training seeds cannot establish training-population precision. No mean±SD fabricated from ensemble, no bestseedpromotion. Bothdomains and alloriginalcohorts/classes retained. Real-IAD3 sameC63/350assetgroups;PD-REAL10 C110/V164known-typecontract. Domainpreprocessingdifferences unchanged. No targetanomalylabels usedfitting; Ccontainsknownanomalylabels. AllpreviouslyexposedDEV,notindependentconfirmation. One completeconstituent evaluation using all4fixedseed/domain combinations; no newNNtraining/forward/Eye/SiM/download. Negative or seed-dependent outcomes qualify mainclaims, do notrestartselectively."
+}

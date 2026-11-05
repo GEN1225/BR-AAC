@@ -1,0 +1,3380 @@
+{
+  "V": [
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "36b5867b385f857c73303b471df998f4b794d5443545cf6c9bd2a2c0ffd23884",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "c9721e825fe77fdfaedaf11cdb4b58341379163b2902b6df3f55b8e9a9272f9b",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0027/audio_jack_socket_0027_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "73b4248073564b4b53a01a16c36795782ae9d5403ba97547cb2b8543b428bee2",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0028/audio_jack_socket_0028_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "09691913bfab0694549a36920fecf161302a6721f4ce5fbba75ce62f8c458388",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0029/audio_jack_socket_0029_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "27d922c78057b1d22a6028ba64ad3af51485792f9e2fefe96c725caaeff443e5",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0030/audio_jack_socket_0030_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ebc48a65c90b31f58bfc8235e4a559101c8392b69c9e1daaefd058fd9a8659dc",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0031/audio_jack_socket_0031_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "2b77801c34136f8209964dec7dd444d1e6a62d75771f108fcd329e84ad21c9ca",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0032/audio_jack_socket_0032_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "a62778ffca70fe4f3ea7816d35d1452f2add84c7762dc5b0e4e3680f645fd520",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0033/audio_jack_socket_0033_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "fdc0ed70f3a16c566748a09b67011c67f138eeedcea70188dce3bd715f80ac1d",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0034/audio_jack_socket_0034_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "b5bd977c1faa2789131921dce3bf23282e936a9ed597b34288635ef8b807b48a",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0035/audio_jack_socket_0035_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ecf0f170ff75e2352e4e7a001a563a45b1c48a49db0f873731a88c7945c7b21a",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0036/audio_jack_socket_0036_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "a7356f3eb3705a49774defc61ab938cc3b23edd14f22adf0c5baeb3c90a7d7ce",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0037/audio_jack_socket_0037_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "a39318382179f613e7d47c1301a5bd160ad4131fe037ff7173df7a1a87e95a43",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0038/audio_jack_socket_0038_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "cb039a563f99d3f8fb23aead2d7a063fd4917b991b3be49093709fa4808f3bd2",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0039/audio_jack_socket_0039_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "7dc545cc501958b65a366a370d0a6c733ee003cc39ad59c5c8150b64cb874086",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0040/audio_jack_socket_0040_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ea7ba4a22c00a08bd77f264eab0fcd498d5fe0e311daa46714a53e93228b5461",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0041/audio_jack_socket_0041_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ac32d19eec38367333ada8a88a8e145aaef53656d629fbed32591bf5c1e8f8d2",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0042/audio_jack_socket_0042_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "55c6d6532214f9d4fac51bf08d7841524b67311e9e45da69564613f3845baa52",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0043/audio_jack_socket_0043_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "7c766c607fe75879d68172869012e522f03e65952339a54e31d7683d37dabad0",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0044/audio_jack_socket_0044_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "1546d8a5d92b3f38ed31cce2fe7b015d15fbb7bd318eef4f9f39d5f12d209735",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0045/audio_jack_socket_0045_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "f087fad5b4c01861f05a4b82f5a0263b835613640f7d08d1a520ceae0545d716",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0046/audio_jack_socket_0046_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "54f6104303836ba2473f20dd0155abf785d880120d82c5af190136635d634c10",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0047/audio_jack_socket_0047_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "fa12b9bbddb1d0df6e5dafdd20234d175d034fa3c6cc7cf8c62df390e179ace1",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0048/audio_jack_socket_0048_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "a4b2e9f0b319d9af038175e932c4a664ba1340b6dd5cecf1bb426e48c0a42de2",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0049/audio_jack_socket_0049_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "4eea48e6f44ec568fbb38bee0a95d621cdce80b431eb3981b25015c11e4d1c97",
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0050/audio_jack_socket_0050_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "0621fc35c64049b6699d38584b35aadf9a95cd347980cd3d2dfe0dd6b58beaff",
+      "sample_key": "audio_jack_socket/NG/pit/S0026/audio_jack_socket_0026_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "6a7268a9f9a5ad4d07876d54b615e90c97485c1a2d3a9d19c322c899adb060b6",
+      "sample_key": "audio_jack_socket/NG/pit/S0027/audio_jack_socket_0027_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "1e6ab2ba80ec3042f6b528f5e472306bece67100452a9b45b15192c63506b634",
+      "sample_key": "audio_jack_socket/NG/pit/S0028/audio_jack_socket_0028_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "2deac72ff4c1dfdf070149505465493fd45eb3585757fab89073afa9b257e2a0",
+      "sample_key": "audio_jack_socket/NG/pit/S0029/audio_jack_socket_0029_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "1c3a8e94428a933d347d5273abf78c1ce014b3ef46fdd1916c86c248c6ca6649",
+      "sample_key": "audio_jack_socket/NG/pit/S0030/audio_jack_socket_0030_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "4e93d468fcc6f6860753e25530fbd7236dce5ac60d634786139adf280a8ef94e",
+      "sample_key": "audio_jack_socket/NG/pit/S0031/audio_jack_socket_0031_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "9e36f15aea84ac29518c8d55e135ab242c770d1b62c8f13205ad81a4f833b2f7",
+      "sample_key": "audio_jack_socket/NG/pit/S0032/audio_jack_socket_0032_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "248f9bf6296da08cef92bb32e220036221fbd9e0932b42a14557056e0953228d",
+      "sample_key": "audio_jack_socket/NG/pit/S0033/audio_jack_socket_0033_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "12f3911bd6437308e83d5925b461bc3cd026181a04bd742978417279ba684bb2",
+      "sample_key": "audio_jack_socket/NG/pit/S0034/audio_jack_socket_0034_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "66ebdcfefd175e5b4f1c71d31938bedcbaf15f38d9e42b0fa8ce9201c67bc323",
+      "sample_key": "audio_jack_socket/NG/pit/S0035/audio_jack_socket_0035_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "fdac503410a29a47fd199c1edd2b410fb1440bb1b265c7c454928d2e3c28c5d0",
+      "sample_key": "audio_jack_socket/NG/pit/S0036/audio_jack_socket_0036_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "639e581707820beb6f5e31e6c4dabb23e40e95dda3229257ea65f512aa61efa3",
+      "sample_key": "audio_jack_socket/NG/pit/S0037/audio_jack_socket_0037_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "24e1097e6d4b426df463a14e12751095bc908a02138830c2cdfe42d8f53fac2c",
+      "sample_key": "audio_jack_socket/NG/pit/S0038/audio_jack_socket_0038_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "051cdc62a65b49815dbec36632911e69201980c497ff00f9d3c780e284e6ea21",
+      "sample_key": "audio_jack_socket/NG/pit/S0039/audio_jack_socket_0039_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "3da733b5d82d314a06467d7b96ed9014a5f80002f3624f4ec1a8f2a5381c54eb",
+      "sample_key": "audio_jack_socket/NG/pit/S0040/audio_jack_socket_0040_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "22e3c1da7320da1019378180ebb8e7e1b10e20a7fb3667b693e3d65129c490e1",
+      "sample_key": "audio_jack_socket/NG/pit/S0041/audio_jack_socket_0041_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "58151f4b6a7a723351590ca1b4925656b9e53c5dc39420efac2cd7afcb5da36c",
+      "sample_key": "audio_jack_socket/NG/pit/S0042/audio_jack_socket_0042_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "a60c990ac1e6eaa8f7bf143c7c2640a150934d99b6161cec7c8b1f65a1bc67e6",
+      "sample_key": "audio_jack_socket/NG/pit/S0043/audio_jack_socket_0043_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "74e6cd45c0aa48f9cf6319b9f0b6e7cac387bb4723030ac9fc036d0ad5f25f25",
+      "sample_key": "audio_jack_socket/NG/pit/S0044/audio_jack_socket_0044_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "9e4976b98635a652ccafc59b33462559ac77eeb10c08d36653a8805dff192064",
+      "sample_key": "audio_jack_socket/NG/pit/S0045/audio_jack_socket_0045_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "61669c6d0cef7d2c6bacb29b3727d929354e92e1155b6473223f602efd142ad7",
+      "sample_key": "audio_jack_socket/NG/pit/S0046/audio_jack_socket_0046_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "0afc6093d5bb79f4df13a53c171d21db0922d42f475011a447625218e6ef0945",
+      "sample_key": "audio_jack_socket/NG/pit/S0047/audio_jack_socket_0047_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "6986baa4df101f3e4f3581f34e8482460971fd8b5e19916a3f0e96f269700edb",
+      "sample_key": "audio_jack_socket/NG/pit/S0048/audio_jack_socket_0048_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "5d99726c0e25bbcf8e455f968417d8175ba4fdf714d563d0da097b8fbbd5021d",
+      "sample_key": "audio_jack_socket/NG/pit/S0049/audio_jack_socket_0049_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "2f80cb6e47c4df34d18a63e5ae1d2c7abbba3bf1e87a1068e7563722e919a381",
+      "sample_key": "audio_jack_socket/NG/pit/S0050/audio_jack_socket_0050_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "3e9d2e72718a80a8317ed6a51f469faca87aa91d4ac9504c1152b8c367af8a62",
+      "sample_key": "audio_jack_socket/NG/porosity/S0026/audio_jack_socket_0026_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "9244d2ed5d395b618b1f8e6d7a697a87460c2f624926475ed0497c5bba3943ca",
+      "sample_key": "audio_jack_socket/NG/porosity/S0027/audio_jack_socket_0027_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "0ae011fc66f11dbf93650a1d9ca84a4bbef767ef133942862b89007113790478",
+      "sample_key": "audio_jack_socket/NG/porosity/S0028/audio_jack_socket_0028_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "df4a6df42e68e6724550f0827fd20a7bef4762eec2001840429ff8e9dfe96f92",
+      "sample_key": "audio_jack_socket/NG/porosity/S0029/audio_jack_socket_0029_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ecea61563a76323bcdc3af3835f371d046999101be2e63a3986dae05485d14aa",
+      "sample_key": "audio_jack_socket/NG/porosity/S0030/audio_jack_socket_0030_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "9229f309dcfe6312bfce8d0d0374e1013bbe7d2d050bb96bb6a7e6f047451521",
+      "sample_key": "audio_jack_socket/NG/porosity/S0031/audio_jack_socket_0031_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "c7e5ef22f691c7c3d4b11b8e535fcd36d1d787370189be5bb49cf97c84dbe0fc",
+      "sample_key": "audio_jack_socket/NG/porosity/S0032/audio_jack_socket_0032_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ba294ba2e2da2d46db968d30640e4d5103f3ca43d8376fb3d2ac00324adeb668",
+      "sample_key": "audio_jack_socket/NG/porosity/S0033/audio_jack_socket_0033_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "a643a182872ef058fd42acbc98198f9727c00f52b138127e4971214bc5d76da2",
+      "sample_key": "audio_jack_socket/NG/porosity/S0034/audio_jack_socket_0034_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "78e8c0e5e9666e571d26fd70700f4773b48f020ad5a596fc616f03490e90da33",
+      "sample_key": "audio_jack_socket/NG/porosity/S0035/audio_jack_socket_0035_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "dc49616206ceab51e6e0d97d413f04f860a3cc77f717d3f8ecb7a6e5f92c36e0",
+      "sample_key": "audio_jack_socket/NG/porosity/S0036/audio_jack_socket_0036_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ce742a7344374174a1839fd9ba2aa5f6d805c1df80211f4ce5b8f91b1e9bdeb9",
+      "sample_key": "audio_jack_socket/NG/porosity/S0037/audio_jack_socket_0037_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "4b3d99bf72b766d4f079dac19788763f356a62843d96dc7133f93ec3e8e8fe12",
+      "sample_key": "audio_jack_socket/NG/porosity/S0038/audio_jack_socket_0038_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "44a1f5b91635b492a6902dddeaf9ff9e62e91b68687cd6930abb7ad7a89b032a",
+      "sample_key": "audio_jack_socket/NG/porosity/S0039/audio_jack_socket_0039_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "69502c0515f538f4a6c395cc661b272c1a0b4141e55f116e7d2cd48ac6576e59",
+      "sample_key": "audio_jack_socket/NG/porosity/S0040/audio_jack_socket_0040_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "fb568fef86abae06b4a42c572a303486a22ba327e6d308d81b77eae4ad463d71",
+      "sample_key": "audio_jack_socket/NG/porosity/S0041/audio_jack_socket_0041_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "cedf7b94bc0682f2bc66e66eca59a8c468e45ead8ff0d6f0c954060876d32af7",
+      "sample_key": "audio_jack_socket/NG/porosity/S0042/audio_jack_socket_0042_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "c06bb0a851d7ccdcc00c99ee330bf804610f8e64ebada4177734b3538116e83f",
+      "sample_key": "audio_jack_socket/NG/porosity/S0043/audio_jack_socket_0043_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "5a18485f9c3ac1d1889b336c1473160426d4d3de939606056bcc03b2ee4252ca",
+      "sample_key": "audio_jack_socket/NG/porosity/S0044/audio_jack_socket_0044_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "072651e391ea21d0d824a8806bad29bb49d3f44fcbfdceaa229ef903f799390f",
+      "sample_key": "audio_jack_socket/NG/porosity/S0045/audio_jack_socket_0045_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "c39f748db092d754afa797855e2002c94a928623ab9c90278dc0f60c82bdd0dd",
+      "sample_key": "audio_jack_socket/NG/porosity/S0046/audio_jack_socket_0046_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "56db8f4346d653b783cd9575840d9d3e27a8137fa79b74849203aff540e6a547",
+      "sample_key": "audio_jack_socket/NG/porosity/S0047/audio_jack_socket_0047_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "85860c0bda591585d94552ddef54634f2c579cac1d1cb5b5a71e26af23d0b2b3",
+      "sample_key": "audio_jack_socket/NG/porosity/S0048/audio_jack_socket_0048_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "4c5aa6eb8bdb4d103352f1a9f92dc2d00748a2a6327c0ef1b16871b1ae6ca31c",
+      "sample_key": "audio_jack_socket/NG/porosity/S0049/audio_jack_socket_0049_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "7ba197e8e3c1e70c5054af36ff12ac7b5c3ddadfbe54f4df35858cbe89097e32",
+      "sample_key": "audio_jack_socket/NG/porosity/S0050/audio_jack_socket_0050_NG_porosity_00000000000000",
+      "published_defect_type": "porosity"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "21a0bfd32f0e5797e48fead5f50460802565f6162577a8336dd269155bcad260",
+      "sample_key": "audio_jack_socket/NG/scratch/S0026/audio_jack_socket_0026_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "4d5ae757c415c6bd6ac2b494e8a51d497ff4d3ea6b3c01712c1dcf7a09b3b477",
+      "sample_key": "audio_jack_socket/NG/scratch/S0027/audio_jack_socket_0027_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "039060d283b59e0b20920323fb68ab9dcc5b3424997e4bcdb9ea59179e0143c7",
+      "sample_key": "audio_jack_socket/NG/scratch/S0028/audio_jack_socket_0028_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "572d530120f9da5b0a8efa5d1bda1bca3d483b247fd08dfc4182f39496a95bbe",
+      "sample_key": "audio_jack_socket/NG/scratch/S0029/audio_jack_socket_0029_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "192d369bc068537be19a314dde608a0f8e3b5827742f7ca2e386f9f810585ef1",
+      "sample_key": "audio_jack_socket/NG/scratch/S0030/audio_jack_socket_0030_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "7d707b355f41c5dcfb24ddd9ecb7f771963a2186fd580f0c279130cebb90a34d",
+      "sample_key": "audio_jack_socket/NG/scratch/S0031/audio_jack_socket_0031_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "15c857b3fcc9e552e5b2048ca9150439d77cebc5c74c89695689a69db4949b40",
+      "sample_key": "audio_jack_socket/NG/scratch/S0032/audio_jack_socket_0032_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "7e78bc37bdc6811a53b52025c775f5db2405176866af88dca77f928f77707f36",
+      "sample_key": "audio_jack_socket/NG/scratch/S0033/audio_jack_socket_0033_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "3ad0110f92e556fca15b2cc3e9368122395dca23c81f8ca6b6622025e64f09e5",
+      "sample_key": "audio_jack_socket/NG/scratch/S0034/audio_jack_socket_0034_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "f252707d4fa42516bb99596f3fb284aee78f086e425c378ac4edb702470cdbd7",
+      "sample_key": "audio_jack_socket/NG/scratch/S0035/audio_jack_socket_0035_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "d4a833d8548dfa5a71aa5f8efe64f4e0896eeb7fb301d5e53ccdde49199e83e9",
+      "sample_key": "audio_jack_socket/NG/scratch/S0036/audio_jack_socket_0036_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "80f159ff9881e764a6378e195b8914d5f6248cff66278badcd76a9d675039437",
+      "sample_key": "audio_jack_socket/NG/scratch/S0037/audio_jack_socket_0037_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ea8b88cb69ee602682c9fbc0d3e5a34fa09601d1b9d3ca968c1af6393a62b038",
+      "sample_key": "audio_jack_socket/NG/scratch/S0038/audio_jack_socket_0038_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "354419c9f6ce1a6ad155e92accc725befb098e1e458a76b42cf3723b770378d1",
+      "sample_key": "audio_jack_socket/NG/scratch/S0039/audio_jack_socket_0039_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "5277c83fb73458c57bf1a50eccb905daafac3d9ccba8cc1ba85fa5fa4044ce2b",
+      "sample_key": "audio_jack_socket/NG/scratch/S0040/audio_jack_socket_0040_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "959d9d599c5e4a175ff92c206a7692fe26eba9ef0704e6e0c78aba78eaa0947c",
+      "sample_key": "audio_jack_socket/NG/scratch/S0041/audio_jack_socket_0041_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "6f62ef55089d1ceed03cedb8285f34aaa705ef1f8cb3c1a0ca5ddfcd99b0f582",
+      "sample_key": "audio_jack_socket/NG/scratch/S0042/audio_jack_socket_0042_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "4619751057de5bc46b606d527c6ce8a407a6ed2b0956498b381d3429009cc76e",
+      "sample_key": "audio_jack_socket/NG/scratch/S0043/audio_jack_socket_0043_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "0f7ea8a40ba91caf01c64a24bd9f617b1fb09e137decccfa05d02cf6a5279b3b",
+      "sample_key": "audio_jack_socket/NG/scratch/S0044/audio_jack_socket_0044_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "c75e21e49ebdd03b62d339a5066d3b982b66760e191516208213dd913f1b8269",
+      "sample_key": "audio_jack_socket/NG/scratch/S0045/audio_jack_socket_0045_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "6714c5a585145aadab8de18502c09267731c3e7e69f05b9c0c8e0d9118cafc36",
+      "sample_key": "audio_jack_socket/NG/scratch/S0046/audio_jack_socket_0046_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "ba931f0798fda9cbc9a6ae96180758d102323e7e2d317fbee1600731c61decc6",
+      "sample_key": "audio_jack_socket/NG/scratch/S0047/audio_jack_socket_0047_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "377c689edc54bc2f58b0fb597229e577e7dae61ab92ab88f0b0a855343f4add0",
+      "sample_key": "audio_jack_socket/NG/scratch/S0048/audio_jack_socket_0048_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "a9ae5a18b29b937999f0035782d2323218abd5651ac3df34794015aa93fed68b",
+      "sample_key": "audio_jack_socket/NG/scratch/S0049/audio_jack_socket_0049_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 1,
+      "group": "3421e269d1d13f76e17c649056c375db5f01a7ad33db69aaa9c22ce9ae13035c",
+      "sample_key": "audio_jack_socket/NG/scratch/S0050/audio_jack_socket_0050_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "b2169071e980c611bf86cc370cc98ea25f999c11751e6f3bfac5c24243a65ee3",
+      "sample_key": "audio_jack_socket/OK/S0026/audio_jack_socket_0026_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "47fe940d93f6c16569320d3b7ab31e09c076e1cd5c570356646893f20c3a9259",
+      "sample_key": "audio_jack_socket/OK/S0027/audio_jack_socket_0027_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "8ae37e5cf7b09b3c9df23ade1027c876b7f14ae4722cc1bd70232b6de229446b",
+      "sample_key": "audio_jack_socket/OK/S0028/audio_jack_socket_0028_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "b8625d9e320105deca294d569a9b04e5d56942053ed54b59c838aba5b1459f1b",
+      "sample_key": "audio_jack_socket/OK/S0029/audio_jack_socket_0029_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "17fa9a2fcad1cf4b66344c8c8962c1f75fd0d95845d8a1496ae7f91e2697731d",
+      "sample_key": "audio_jack_socket/OK/S0030/audio_jack_socket_0030_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "ed4fbf5db72c995e566ab167e5e9beb06eaad73f25f4a820e217a947ab3f7b54",
+      "sample_key": "audio_jack_socket/OK/S0031/audio_jack_socket_0031_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "fe8bbbee57cfa9c1b4f323409c0a2af2efc67dffc4fb934e9792bbf44778e12a",
+      "sample_key": "audio_jack_socket/OK/S0032/audio_jack_socket_0032_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "128f2932961e513dc9dfc75e166e7aa8c37524e2027ec5e24a1f3d2073d5322f",
+      "sample_key": "audio_jack_socket/OK/S0033/audio_jack_socket_0033_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "8123f2f52a4963e51bddcf4341ff704f795cd8880cd41dbb71824ad5272a57d4",
+      "sample_key": "audio_jack_socket/OK/S0034/audio_jack_socket_0034_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "965db9270c983ea09366ff468be9ab34f09ad7b5443746cd1c5634275c75b308",
+      "sample_key": "audio_jack_socket/OK/S0035/audio_jack_socket_0035_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "a5c71b2647a2b041675b3bfd78ff24aec2f641b0eb65d3c2a6b68a9b9cb52580",
+      "sample_key": "audio_jack_socket/OK/S0036/audio_jack_socket_0036_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "96ac5c892b0b8588eaadf029334123cd839aea35145f66f88c299cf007346631",
+      "sample_key": "audio_jack_socket/OK/S0037/audio_jack_socket_0037_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "fe1ae0251f2c04324fc7b8d882fd403d23d10c34aec1b21933d8a7d1ebea1b97",
+      "sample_key": "audio_jack_socket/OK/S0038/audio_jack_socket_0038_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "2f1c9400ae78919849829b00b70ee21d01ba1cb94a11eb5c201618a153b71423",
+      "sample_key": "audio_jack_socket/OK/S0039/audio_jack_socket_0039_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "b626d9801b1c3a4f4f577f000dda34c1aebf989064383e4fc59485c39d4ec24a",
+      "sample_key": "audio_jack_socket/OK/S0040/audio_jack_socket_0040_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "53d6493fb3af26a01ae96e6239ee7ff792fb38fc066c15fb07eceb8bf5da49ed",
+      "sample_key": "audio_jack_socket/OK/S0041/audio_jack_socket_0041_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "0523d2c4e95e6ef8d58ef4377d6c880c504a887484aa24524a10df0e95696b4c",
+      "sample_key": "audio_jack_socket/OK/S0042/audio_jack_socket_0042_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "d90cdc72dfbd4dfe6ff45af5fb26fb4b9ed66bce47dc5b4a059047a85246a1c1",
+      "sample_key": "audio_jack_socket/OK/S0043/audio_jack_socket_0043_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "acbd6b9c5b21f98826564f1f9d3670368647e4613faf1cfe209bcc79e1b8a2f3",
+      "sample_key": "audio_jack_socket/OK/S0044/audio_jack_socket_0044_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "858931b0aa71818e9cf88c4ecf01d58e108f77320216e9c3de7292c1e1c32e55",
+      "sample_key": "audio_jack_socket/OK/S0045/audio_jack_socket_0045_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "04d913011f18fa0811cf8e958845ec8db94fc51145498f5fd316491a958487a3",
+      "sample_key": "audio_jack_socket/OK/S0046/audio_jack_socket_0046_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "cbbc2f07ac7fe0057a8dfafffd108d68cd2c6eb087aebcd1ee99501298add82d",
+      "sample_key": "audio_jack_socket/OK/S0047/audio_jack_socket_0047_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "494514c3dd953978375222d735735b59092cb57fd49eac114e973d91d6b85af4",
+      "sample_key": "audio_jack_socket/OK/S0048/audio_jack_socket_0048_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "24d5d11e19474fbcd711314e418a0ff934d465b839bc33d8180957146b688f46",
+      "sample_key": "audio_jack_socket/OK/S0049/audio_jack_socket_0049_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "faef9d9bb549cb8b81a27f7ea2a89effab977b5da5482db949f60415c0778e48",
+      "sample_key": "audio_jack_socket/OK/S0050/audio_jack_socket_0050_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "9e957a13694ecaef5e67e93e6b244267c4b7bba0016922c7db6480f6a3dcb6cf",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "0bbcb16c0bb46108152249760f536ed851909f6ef37c85378965f34388c9965a",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0027/humidity_sensor_0027_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "5d5394c7eb541fcaf0dbda8d00fb00fcb3df4dddbd8588f7cc314cfa94bca6a3",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0028/humidity_sensor_0028_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "2b43b2282009214bcd049ef0351d4abe93146bf0fbfdfb038be769da5065d497",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0029/humidity_sensor_0029_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "981ad67ccc834a1fa48f55f2044e8ecbb1cf307f2df54c8382522c003e5d89e3",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0030/humidity_sensor_0030_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "54580ec5e2b3016c4494488e8ee2cae58b238b39549be831b6808493f7ec5332",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0031/humidity_sensor_0031_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "a9ea8f7dd2a2c555358fab0b7a54c01a49bab2f55b23eaf321bca004e95d525e",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0032/humidity_sensor_0032_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "8d359728c29b5bb6f8b85bcf7177f19bcae9f11ae2b06bf1f705675b35c88a4d",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0033/humidity_sensor_0033_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "f484a3eedfce707ff0c66002cc33f630b577c3a698d86247257ba842a83b3cbf",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0034/humidity_sensor_0034_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "28533287b387791497b75ec19492b6437bce56dbdafbb956ed48860f4400d5d8",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0035/humidity_sensor_0035_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "7d55b1a94d468d5ec0c3bd3b24bc71dbf47bc4c8c63687d151c0ded27502a607",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0036/humidity_sensor_0036_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "3d56d975c33fa00e5cf2415ccf42f935e4f35846e4d31e7c344855a825ecca4a",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0037/humidity_sensor_0037_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "bb6781605d41865cb7900fa33aeba332c7f4f5460a19475273fd3c07add34fd2",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0038/humidity_sensor_0038_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "8b2568b1f79fa4d2e5ed659b1f881561728cb3ab4240ddcd09641ec1a1237aec",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0039/humidity_sensor_0039_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "7d8557035f1e5af3371069e5c08baa8fe615de04a0cc7e3d3bc1944e50608c7d",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0040/humidity_sensor_0040_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "46c8e27357e9678801fe5fb612cf541cca372b849f0ccb4fb270dfc981572f10",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0041/humidity_sensor_0041_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "b9d98331ee8cbb80a465149742c1f45a98eaf389a884064e803a925f59a34126",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0042/humidity_sensor_0042_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "f652698e83ca25e8afbc58d0ae6f01d0e2e798e08c79863c24734a6a35306565",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0043/humidity_sensor_0043_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "4cd1ce023aeb3d37be75c0998e82f190657c1b5d3da8ea9394925c2bd0869529",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0044/humidity_sensor_0044_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "ec83b540965fa138209a848514772d09bbabc951d48ea41ab7df00cf567a5de4",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0045/humidity_sensor_0045_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "f859206f96aeea643d8a0e9e09cf81c712824906880a947f1e96fbb005bf4834",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0046/humidity_sensor_0046_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "b180a333c60e521b060761b345cdd673b6216097115c6b93d364f7ce6b376029",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0047/humidity_sensor_0047_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "8447e4b76c0940012daf57c321c8f508a36fa9a696556a0cd890ab4cf922d127",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0048/humidity_sensor_0048_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "6984742eaa1c7c14504ce5cf4b203712c42a593bb94c74a4711b170c2500defa",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0049/humidity_sensor_0049_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "135003356f811fd7f46decc36a7e79edea0caa3994fe9e161cccfba0b26194fb",
+      "sample_key": "humidity_sensor/NG/impact_damage/S0050/humidity_sensor_0050_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "a28834d396e1924975d9b313fd4c1fcaf9338e08b27342801aed2c8480b515d3",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0026/humidity_sensor_0026_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "9759fa549fd3b4e51af1f141e6b6ebe4346f2c56f3e9c830c0ca71e994f8ad8f",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0027/humidity_sensor_0027_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "bfc8ea17c835ea8927d39e8d6daaf8d646ee5d41c21226aa7d2c418c74dd50ba",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0028/humidity_sensor_0028_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "697ed24373c7d4da862d0f857fcb917ceff6f33a8cd6c6b07b622c5829493629",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0029/humidity_sensor_0029_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "c60aa7c34ae57e444e4c50074c48707eed0cee8d07bf2a9592662d25488d9d54",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0030/humidity_sensor_0030_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "fcf7f20d1e14f7f9019a8808672be432653c675a9bbc23a392c7eac964599e57",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0031/humidity_sensor_0031_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "9d29e1eacb32083c7e62ae9ab21b043d94a5440d61cc561b76062afe2bc71303",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0032/humidity_sensor_0032_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "dc9875c677c555de4df2ec55c8fb0d2c73c384853e377be6ea06a2a89521b234",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0033/humidity_sensor_0033_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "8b603f04338b82f664a6078dfa56adcbebfa51262fe2027bd2aa2823ff68a0e0",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0034/humidity_sensor_0034_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "752426727761693e37626bfd4d79f5be9d87b58956351cc472d13e62ec5791a4",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0035/humidity_sensor_0035_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "342dbdd8ba4afb906aee6daf4402d86a6b158f77cac284a3d64d61b52ad6104e",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0036/humidity_sensor_0036_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "34bd1f05ad21970bd82bb3533557fe1f34136ad2dcaa576a8072c9a68373e4e5",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0037/humidity_sensor_0037_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "0be25112fb28750c0ff8d9feb609dfef59da68b7d9b94c3c2988a847cba7b8f6",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0038/humidity_sensor_0038_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "65cd5c93f2587fe5225525f899802f467bbc01f63433bb340ad3d0a0e7f466a7",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0039/humidity_sensor_0039_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "fb72cb7496846ccfdc44bad4f58f62073752a47bb4e54b9ce941173bbe860667",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0040/humidity_sensor_0040_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "33f4f7d029463c8de690ebf3261bfa389aad417ea8fe65ccac22cf3d41e68bdd",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0041/humidity_sensor_0041_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "8d57f9724f9be4ab37f7e0a411439ea818973d80bf27385d269f79e83bf769fc",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0042/humidity_sensor_0042_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "9979af7c294a945f1b0b049f57c50089d505f7966a9c141617a53770ee786f2a",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0043/humidity_sensor_0043_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "74d867d89ac865f4006c1e18b16a2808927b8bae91e641e5188bb4120f2f63a2",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0044/humidity_sensor_0044_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "48833ed261814cbdb223f394b05b85016ed79991dd88a526261fa8ed70bc0e48",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0045/humidity_sensor_0045_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "c144d72a0dea1c940b5dd0c6b9c2b252bd47035278691ddde63c252a14e07de8",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0046/humidity_sensor_0046_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "5b565a9077d117820f536c44cf95b9a473489c3e85c43e662cf6deb441114464",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0047/humidity_sensor_0047_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "2a1f187fb5b238eaae30c3f5b7799b29fe3389b17781fb7393ba0824768c7468",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0048/humidity_sensor_0048_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "45e619b8304433b8aa963b9dd119cb39b290ef233b75c72d67149b503ff13639",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0049/humidity_sensor_0049_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "dd86befe175cf155f59494f6ee86856cda1baa34d7feb1d48abae46d91cf4d45",
+      "sample_key": "humidity_sensor/NG/oil_stain/S0050/humidity_sensor_0050_NG_oil_stain_00000000000000",
+      "published_defect_type": "oil_stain"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "7c279670d08bea77c41a21691b261c20d11cb69f64e00dec45ad5f8cec15d7d4",
+      "sample_key": "humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "934bbdcb36fc2c516ef51b29800e8d7419505fb9cf9bb095d92f693410e068f4",
+      "sample_key": "humidity_sensor/NG/pit/S0027/humidity_sensor_0027_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "5069848543b21fc1b47adfd783cfb25f1c4a695c8440802aa62dc1f86984a0a2",
+      "sample_key": "humidity_sensor/NG/pit/S0028/humidity_sensor_0028_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "38e9347ec573f69f0fbc12eb653e67d5cd99983f1fdaa96893dc9bafad34374c",
+      "sample_key": "humidity_sensor/NG/pit/S0029/humidity_sensor_0029_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "ea482a7aa6197c4464f7b3a5816799d826d3556eb66a2ea3670053f45f293342",
+      "sample_key": "humidity_sensor/NG/pit/S0030/humidity_sensor_0030_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "fac42465027519032bb995ff1da87032121749bf20f809b8c5370f78f783b055",
+      "sample_key": "humidity_sensor/NG/pit/S0031/humidity_sensor_0031_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "0b1c29cc32ea4c889e3c4e4c016cf0311e25ef7066ebd9e78e724eae5b45fea0",
+      "sample_key": "humidity_sensor/NG/pit/S0032/humidity_sensor_0032_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "e4e45fb97d7950b67d63774b0e5f2eaf0a54438ca0a1647a1ee5763031e92446",
+      "sample_key": "humidity_sensor/NG/pit/S0033/humidity_sensor_0033_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "7a7b7d4e13ce0b0f9048e13ff9285b0423e347919d57299878dd0553d550e420",
+      "sample_key": "humidity_sensor/NG/pit/S0034/humidity_sensor_0034_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "f36f905fc4035d366e89030e364c1ba30352ff6ac72eeea2a0ac7981bcc0a54a",
+      "sample_key": "humidity_sensor/NG/pit/S0035/humidity_sensor_0035_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "b004104a4c2f20f72cf24768ef717f497db5cfd97ade8f3d928e5a2bd6a0f812",
+      "sample_key": "humidity_sensor/NG/pit/S0036/humidity_sensor_0036_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "e1b98921cbad45c5c37901d01f548de235fdb8beb3179928a0404e7c6d8e1ac4",
+      "sample_key": "humidity_sensor/NG/pit/S0037/humidity_sensor_0037_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "90988f5e04138358b7bd6d7f1678544e4be8bf751ab573da0c4875a0e8e9bfba",
+      "sample_key": "humidity_sensor/NG/pit/S0038/humidity_sensor_0038_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "dbe6936175da49c1bf9cc0aed9f8c0262306826fa6ebf44c5558639faf1a635e",
+      "sample_key": "humidity_sensor/NG/pit/S0039/humidity_sensor_0039_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "a35a1aa78ceef6dd6822da037c1badbf1d7db4e7e2ce5181ff59fafda6defea5",
+      "sample_key": "humidity_sensor/NG/pit/S0040/humidity_sensor_0040_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "4ec043532c2c4f7ba13442e58819698b0f3c023724fceb02efbc3fdd6b809da2",
+      "sample_key": "humidity_sensor/NG/pit/S0041/humidity_sensor_0041_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "ddd37cee54fbd40de629f095b76f6e10843a1e530ed7bbe15d814e5c4cb3539e",
+      "sample_key": "humidity_sensor/NG/pit/S0042/humidity_sensor_0042_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "bf0a7cb51ea3de6a3a9dfccddee6976afc498e55c8e180c4663f417c5d80ca46",
+      "sample_key": "humidity_sensor/NG/pit/S0043/humidity_sensor_0043_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "dd7b7f5dac66c281261a61507be52ac2e5fc531c05bc91ab9618ff26e82641c1",
+      "sample_key": "humidity_sensor/NG/pit/S0044/humidity_sensor_0044_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "a3122cd7c8753e33e0c992a9857a1f97344a221e428f7582f727c788e89e76b1",
+      "sample_key": "humidity_sensor/NG/pit/S0045/humidity_sensor_0045_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "0d6be9f3d549dab545b75046e29e629cda5f944530a099b57eba7dd9c5acd672",
+      "sample_key": "humidity_sensor/NG/pit/S0046/humidity_sensor_0046_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "1d702eb1596c33fab6fa863ebd54eb079202a93ea4fb86f4e56a5c6ace59003c",
+      "sample_key": "humidity_sensor/NG/pit/S0047/humidity_sensor_0047_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "6f8749c9bf2d388ed88cc6660cded0927d4f68ea00785f16cdaec973182f30c8",
+      "sample_key": "humidity_sensor/NG/pit/S0048/humidity_sensor_0048_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "bcd4631950d7179a19e5c2c5de4b0b577c01b47ab6ef99b34c51c8fc26dbd99c",
+      "sample_key": "humidity_sensor/NG/pit/S0049/humidity_sensor_0049_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "3a07f0288c26fb2b4155b31f6446f9cda31ec2d1db4f13fcbe390a29d8e4194b",
+      "sample_key": "humidity_sensor/NG/pit/S0050/humidity_sensor_0050_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "e7a368c4e991d4ef503347530a2382cc0ca98c76bdccb7c4fcf7b4384103251f",
+      "sample_key": "humidity_sensor/NG/scratch/S0026/humidity_sensor_0026_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "1c94da81fdde0190440ca076c974ec48d515e471498f92d073317218356b265a",
+      "sample_key": "humidity_sensor/NG/scratch/S0027/humidity_sensor_0027_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "467a43ed34344039ab2b518f33488cb2d706a2050b3bcb738e6387b9ab42abed",
+      "sample_key": "humidity_sensor/NG/scratch/S0028/humidity_sensor_0028_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "16cc41fe7ed0ed45315f879503eb4dd705c293cdc516e662690342898556a694",
+      "sample_key": "humidity_sensor/NG/scratch/S0029/humidity_sensor_0029_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "32feba4d6f6c62f4fa6efd82b943ccd1b8b2234df63ba6f2ef65fa2851741d48",
+      "sample_key": "humidity_sensor/NG/scratch/S0030/humidity_sensor_0030_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "87d44840a90e40d747fa96016f02af2b0231f5686338b49b516f072e84d8c433",
+      "sample_key": "humidity_sensor/NG/scratch/S0031/humidity_sensor_0031_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "fcf072419d2bdabe294f682d98bf90e172c86964f1ecc9f73e825bdf706c3805",
+      "sample_key": "humidity_sensor/NG/scratch/S0032/humidity_sensor_0032_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "d72b48081e6df24b0afd025b88e7434288856b3f09364d68cb677739d9cc292a",
+      "sample_key": "humidity_sensor/NG/scratch/S0033/humidity_sensor_0033_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "e59b08c4fc1eb9b8f06aab92578f87dd6bf1f87f03944693dab6eb7d0cc57d70",
+      "sample_key": "humidity_sensor/NG/scratch/S0034/humidity_sensor_0034_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "0566b582663f0f42f2611cbaa5b90ad6ceafd2cbdbbca2e45a646096765d2792",
+      "sample_key": "humidity_sensor/NG/scratch/S0035/humidity_sensor_0035_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "36da742066d9b919a6157bfab314931f4dc8ba17fac28d86bdf736e28108a90a",
+      "sample_key": "humidity_sensor/NG/scratch/S0036/humidity_sensor_0036_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "1b63b4f889881b7ed900534e42f5807d03a83b950c03612c6e0bb621dfcc1760",
+      "sample_key": "humidity_sensor/NG/scratch/S0037/humidity_sensor_0037_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "1d7efaac5c517fb92c908da4b04e469f5b10dd8f61ebbed0029df70071d0bce0",
+      "sample_key": "humidity_sensor/NG/scratch/S0038/humidity_sensor_0038_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "91c1251a5bffc6838d23e8b50b082e76cf1e6c3aab669d71100f0418c2e3749c",
+      "sample_key": "humidity_sensor/NG/scratch/S0039/humidity_sensor_0039_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "f12e4330073d1cfc7ff59b0b24408658f2d8ff8d9a276d3b1947d101a138a82f",
+      "sample_key": "humidity_sensor/NG/scratch/S0040/humidity_sensor_0040_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "a37dee2a239a03602898d395e998d9a84b2b0434b356ad4ca3309c3fbd79561d",
+      "sample_key": "humidity_sensor/NG/scratch/S0041/humidity_sensor_0041_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "c5060d9905b5db1f352efc9d5911b1b83f8a84e0bd710318bfdf763e393554c6",
+      "sample_key": "humidity_sensor/NG/scratch/S0042/humidity_sensor_0042_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "9a97da30803d4ca488265ebbec7fcfde2b7110c8d1f873a00d81bf7c6412a210",
+      "sample_key": "humidity_sensor/NG/scratch/S0043/humidity_sensor_0043_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "62d6e8faba67eb810e7fd073194dcf6767219167d84986c8c44d1fa11de4efd3",
+      "sample_key": "humidity_sensor/NG/scratch/S0044/humidity_sensor_0044_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "f585ef4264b1c9bc2a0fc7377b617c3440e45e394f7c077f5870709be5c4d058",
+      "sample_key": "humidity_sensor/NG/scratch/S0045/humidity_sensor_0045_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "bb19d6f57a71880b22e02ad8a85eafe7c78509a91f705a2ebf09e0bacd27fd1e",
+      "sample_key": "humidity_sensor/NG/scratch/S0046/humidity_sensor_0046_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "9a28738bf0f2e6a09f1e853775df35ecb720ac83a28ac0d87cd8c0319482e50e",
+      "sample_key": "humidity_sensor/NG/scratch/S0047/humidity_sensor_0047_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "e0b75364a9e8641629299f7dd0c6501386322701ea824499521c06e161021f4a",
+      "sample_key": "humidity_sensor/NG/scratch/S0048/humidity_sensor_0048_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "e8f20f9df37b401964449519b1cdd768837030ee8ca383fe2cc582e8c0046808",
+      "sample_key": "humidity_sensor/NG/scratch/S0049/humidity_sensor_0049_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 1,
+      "group": "b0e28a6f866f4cad99f2a99e1d5f5f0a2c7eabcf66d7929cea23c6333c0f01ce",
+      "sample_key": "humidity_sensor/NG/scratch/S0050/humidity_sensor_0050_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "28ac35e3535886dbd8c2df60b11d4feeb1bc9492d1cd67a81ee87672f432e61b",
+      "sample_key": "humidity_sensor/OK/S0026/humidity_sensor_0026_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "7bbe87dde53ecca5009d0cb069befcdf19b3f8f4256a1b59f2d0e0ebb3c8642e",
+      "sample_key": "humidity_sensor/OK/S0027/humidity_sensor_0027_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "da766e58b4bfe5f34ee69251639415634d905cecb447a0ac082b0632477a32a1",
+      "sample_key": "humidity_sensor/OK/S0028/humidity_sensor_0028_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "a97bd5093bbac467b3685dc057494af127457281f2188dc5414a92091b70cf9d",
+      "sample_key": "humidity_sensor/OK/S0029/humidity_sensor_0029_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "6f0bb63810087779fe0fd1f02f9d9ae9412fd198fbecd5691aff01103b5997d8",
+      "sample_key": "humidity_sensor/OK/S0030/humidity_sensor_0030_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "b62bba2a2e886f62834ecdc7a9bdeb41f2e1832f259ea041e47d53dcea5e660b",
+      "sample_key": "humidity_sensor/OK/S0031/humidity_sensor_0031_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "96ad4ece80fe165309e670199c516c53ac3b2a713331e0f8ed14c56bf9808eed",
+      "sample_key": "humidity_sensor/OK/S0032/humidity_sensor_0032_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "a6f04891289bcbe3c7073cb775923ef8c8b7d43ebce797d91645acbdec71c67a",
+      "sample_key": "humidity_sensor/OK/S0033/humidity_sensor_0033_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "b31dc4cb4b667217bb07650397f3202710dd3dccfdfc9d8233a23a8547848352",
+      "sample_key": "humidity_sensor/OK/S0034/humidity_sensor_0034_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "4b6e3337ff3d4865fa48b24edaadd65b27af65fc676d4ab26b0150cce5167469",
+      "sample_key": "humidity_sensor/OK/S0035/humidity_sensor_0035_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "17a7c852aa98cb04e52488c462c3448760cb7cb28eb109b48fee02fa48eff964",
+      "sample_key": "humidity_sensor/OK/S0036/humidity_sensor_0036_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "fcc4e49fcd2cf46ace0ae76dec66a839b5a07a57ed943e5bf802856b9dbd299c",
+      "sample_key": "humidity_sensor/OK/S0037/humidity_sensor_0037_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "af40aa5c0ef1cffeab2077383a5e96eef8eec18ef702fe254b89370ce9304d38",
+      "sample_key": "humidity_sensor/OK/S0038/humidity_sensor_0038_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "3ac683ea88a05820a3fc3147bc131b449dafee4fdd41b912515dc8ae8ca97a5c",
+      "sample_key": "humidity_sensor/OK/S0039/humidity_sensor_0039_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "673d89b6c571f9d9057fb71977eb919b18ae9981ca0affe08965a9344fe9a06c",
+      "sample_key": "humidity_sensor/OK/S0040/humidity_sensor_0040_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "471410715e93ce54a5add8eae4a1a589e2d2bf78f737953ad8cd85fa0a257bee",
+      "sample_key": "humidity_sensor/OK/S0041/humidity_sensor_0041_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "55b59043e22f731de94f71b36e3414f22647e9227398dfa720e2ce5fc870150e",
+      "sample_key": "humidity_sensor/OK/S0042/humidity_sensor_0042_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "eb4a5d92542c34e1afd72176ccae80edeb97a29dce157f2bf716de65d4e9364d",
+      "sample_key": "humidity_sensor/OK/S0043/humidity_sensor_0043_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "972a785dfc5d3b82f8e7a772e553da1d10cec47caf4a8bbacc232f16c3ef5aa8",
+      "sample_key": "humidity_sensor/OK/S0044/humidity_sensor_0044_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "da9745652c0d88dbf3b437f6feb69ee3640f980c2163d2c73c33b1a34a914c5b",
+      "sample_key": "humidity_sensor/OK/S0045/humidity_sensor_0045_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "2abbfd31dbcd85072908fa41d1898a3b75182f1bd9ce7c3d890dbbe6bd78ce22",
+      "sample_key": "humidity_sensor/OK/S0046/humidity_sensor_0046_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "d13b162cd11777b162781028e5f22d89748a8bb2d7d2e5c3866b80b8ad70f530",
+      "sample_key": "humidity_sensor/OK/S0047/humidity_sensor_0047_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "1c40d4891d02be1a8cbde8b54e9fe336acad892b9ec9c6149f0caad3ce4568bc",
+      "sample_key": "humidity_sensor/OK/S0048/humidity_sensor_0048_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "b77ac1f1127c6125c3d353284929dcfcd4ab06adb5bf4424022cc17c4c366fde",
+      "sample_key": "humidity_sensor/OK/S0049/humidity_sensor_0049_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "bd1e8109d084b06e49eb453cde5bbf47c755e8581b816abba41e81f707bd8321",
+      "sample_key": "humidity_sensor/OK/S0050/humidity_sensor_0050_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "fa9b4c06a78837a255a97922c3fc4925567940e4bb26da7b260dc9b722ad3868",
+      "sample_key": "lego_propeller/NG/impact_damage/S0026/lego_propeller_0026_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "0fbda055e6e4dffffd5364f8006ee2d1e805f3f1c16b0d0425bc3ed2a9e37370",
+      "sample_key": "lego_propeller/NG/impact_damage/S0027/lego_propeller_0027_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "74d821fb6fd29d10fa10d85c2046402855fd4d676f8328bf0a6531f4ba548c5e",
+      "sample_key": "lego_propeller/NG/impact_damage/S0028/lego_propeller_0028_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "fa733117d70179e08457424405da65c3480d940d3dc5af89eca1b4c6b0fed168",
+      "sample_key": "lego_propeller/NG/impact_damage/S0029/lego_propeller_0029_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "5fc3c730df57ea19e2cf2da7d74579c6226167cf51602f1cad1d4966e909f9e0",
+      "sample_key": "lego_propeller/NG/impact_damage/S0030/lego_propeller_0030_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "fa7153d009998f4c9ac76a5775aa66dfda37ebccb12e1803a0a989c221fd18ed",
+      "sample_key": "lego_propeller/NG/impact_damage/S0031/lego_propeller_0031_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "baffeb9756d2ace171eb7f73e83f6437aa1ae1aff51344667008fc1b19eec25a",
+      "sample_key": "lego_propeller/NG/impact_damage/S0032/lego_propeller_0032_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "7f37810ebb5a048c818a692b4e2ec123dcc7cacb1601241d46be0b03aa608da5",
+      "sample_key": "lego_propeller/NG/impact_damage/S0033/lego_propeller_0033_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "b5355bc98d18335a759e433f4af20c8a266a97643a314e8e6fe45a47a08a697e",
+      "sample_key": "lego_propeller/NG/impact_damage/S0034/lego_propeller_0034_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "01713281856b2207f4bc0efaf9ae90a2ff667af0cde11ac13c407e07852b9e73",
+      "sample_key": "lego_propeller/NG/impact_damage/S0035/lego_propeller_0035_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "453ff0cc2e48f26ebe8a21fb19dc5ae1bdd01a7ddef9b5a2ac98cd6cc1a3c799",
+      "sample_key": "lego_propeller/NG/impact_damage/S0036/lego_propeller_0036_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "3bf9b33f4e0e411c20af3c3d0d9317d107493f95287cb40c9fe58709d40cfe8f",
+      "sample_key": "lego_propeller/NG/impact_damage/S0037/lego_propeller_0037_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "13e98f3b2ee976890c0e7e87d6bbd50ba3685513eb9364a4afc881f16de08b59",
+      "sample_key": "lego_propeller/NG/impact_damage/S0038/lego_propeller_0038_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "bee243f353a5d08ef72c70cf14398469cce55cf11c72792cbba61617348518dd",
+      "sample_key": "lego_propeller/NG/impact_damage/S0039/lego_propeller_0039_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "1a3ef4c7438084d8aa57708ba46fb1966c1cdd140b0dbbefcb5aec4a8737c152",
+      "sample_key": "lego_propeller/NG/impact_damage/S0040/lego_propeller_0040_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "1bff9605454411b5f86348b70a86f7033983f9768c15689c072685dd31db11ba",
+      "sample_key": "lego_propeller/NG/impact_damage/S0041/lego_propeller_0041_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "d950ce2d14a2817fe8cad174cca9a924556d66bd87609f2d02828c063c07a13d",
+      "sample_key": "lego_propeller/NG/impact_damage/S0042/lego_propeller_0042_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "9803b0a28437b77862e97cebbe2590d6f45c42cf2b1611c8564824af7c36ed97",
+      "sample_key": "lego_propeller/NG/impact_damage/S0043/lego_propeller_0043_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "9e6e1cc5f45f6e432668ac43a55d12a88fd3e4137cf506470a8a997c3b0ada8a",
+      "sample_key": "lego_propeller/NG/impact_damage/S0044/lego_propeller_0044_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "86483747d4373d4eda6847c1e775ffd863dc46038d90474554d21aa1d88aa7cb",
+      "sample_key": "lego_propeller/NG/impact_damage/S0045/lego_propeller_0045_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "7461b7461975079710b35aae8cd0a9ceb055c9f8328872a3bb6245ac3042a4fb",
+      "sample_key": "lego_propeller/NG/impact_damage/S0046/lego_propeller_0046_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "b7a5461477e5f2e10d20ddd4f2642fc6d31f1bce54c2098c84b94a43d54c785d",
+      "sample_key": "lego_propeller/NG/impact_damage/S0047/lego_propeller_0047_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "f95ba133857a893308ff28f6342d3b766bda16ea29a5b3310dcf27361b176954",
+      "sample_key": "lego_propeller/NG/impact_damage/S0048/lego_propeller_0048_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "aae5c3a36d51f7a1d27f004d87efa86ab4bff2afe751e853bf7bd14883babea2",
+      "sample_key": "lego_propeller/NG/impact_damage/S0049/lego_propeller_0049_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "d6bee915189aecc0ea1c7623341b8069a68225a5285b4a29f88bc64337613210",
+      "sample_key": "lego_propeller/NG/impact_damage/S0050/lego_propeller_0050_NG_impact_damage_00000000000000",
+      "published_defect_type": "impact_damage"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "5d4a6951aa5bb848a139080085ce9c9720a1bb438397d05dd8da2a453787d864",
+      "sample_key": "lego_propeller/NG/pit/S0026/lego_propeller_0026_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "8d76b704a24c9a8ddfb600b605b15572c20b2cf11dd27528776702af90f990d1",
+      "sample_key": "lego_propeller/NG/pit/S0027/lego_propeller_0027_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "e3413972cff2a95f07e02ac9390739c4411fbf696c6b552c7b3aebcf244d76e7",
+      "sample_key": "lego_propeller/NG/pit/S0028/lego_propeller_0028_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "4473b77469e7634898941ed8d00f0d7fa5a214fe1bb2181bf8c6bf9dcd66c681",
+      "sample_key": "lego_propeller/NG/pit/S0029/lego_propeller_0029_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "79cec45b6ec0b40df752d2e267f4fafb0ba23f1d414a3958925a0f65874cac96",
+      "sample_key": "lego_propeller/NG/pit/S0030/lego_propeller_0030_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "8eed4957586cfec0bf2908660b8a07bccaa6910b7aadf6c35e83b7941ce5bbfa",
+      "sample_key": "lego_propeller/NG/pit/S0031/lego_propeller_0031_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "a6d8f0f916c33eec1823b2af15a6f86947a622cad669a761e4e6bbf74d0943dd",
+      "sample_key": "lego_propeller/NG/pit/S0032/lego_propeller_0032_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "36d2995474dd71af7925a330b01d0cbf98015fcb101bef8e80fa6927afc0fe22",
+      "sample_key": "lego_propeller/NG/pit/S0033/lego_propeller_0033_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "33dca634cd679d5fa393c2f92c66acb067c2a713e396a75c0782c12a3d48ab04",
+      "sample_key": "lego_propeller/NG/pit/S0034/lego_propeller_0034_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "2a66da70523ea2a041e6df0e4ea6e7f488a502d5e17d3ba0ebebf85c5f718668",
+      "sample_key": "lego_propeller/NG/pit/S0035/lego_propeller_0035_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "f5566ce50e4142034f2a0cddbdc977e9ce851eab6876bb83b07b1d156beae2c7",
+      "sample_key": "lego_propeller/NG/pit/S0036/lego_propeller_0036_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "50b6a13abd1cab986377b2d3ae38e1acee4147f4ec881eaf62d3b02d02b0c5bf",
+      "sample_key": "lego_propeller/NG/pit/S0037/lego_propeller_0037_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "f70ae52ea51e3bb909db3236934c8cda8cb01859473f63049e74c4a58f4c57c2",
+      "sample_key": "lego_propeller/NG/pit/S0038/lego_propeller_0038_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "c92b03aad8ed4227d259212c0dc388260ed0f2c1b16a65cc9540e18c0ad3e9f3",
+      "sample_key": "lego_propeller/NG/pit/S0039/lego_propeller_0039_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "e0f1172e0c2303f562838c488523412526dda89b2350a8c2569e15db9ca2801c",
+      "sample_key": "lego_propeller/NG/pit/S0040/lego_propeller_0040_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "f7aa47b5b9e4ac27caff474035adfa5989c78262248814afc9bee16452ab0f35",
+      "sample_key": "lego_propeller/NG/pit/S0041/lego_propeller_0041_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "0ef1ed42d1286fc563bde28c81d8bd426566d9d34b1ff1a04981487be0ab294c",
+      "sample_key": "lego_propeller/NG/pit/S0042/lego_propeller_0042_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "73b98f1e5c649c2cad173dbb1059f8f974e2373e30109ec222cb39f9eef68f25",
+      "sample_key": "lego_propeller/NG/pit/S0043/lego_propeller_0043_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "09b58af8304630da90e9ea8f96d01b7872fca2dbdb4faa38abd305ca787b2e98",
+      "sample_key": "lego_propeller/NG/pit/S0044/lego_propeller_0044_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "5fe97f229a68ac529ecb34e0ec7f35edb4448546c62a6d562ed457d25ab6c13e",
+      "sample_key": "lego_propeller/NG/pit/S0045/lego_propeller_0045_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "2bd8eb16909180f37e56a352b180e2c5a2d2ba45e1f3c0aef9f8add8c1f96d36",
+      "sample_key": "lego_propeller/NG/pit/S0046/lego_propeller_0046_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "a46d8e0a7fe67b2511e9ef6ebfac04c830347ba3a2e0a2759e5009ea25253292",
+      "sample_key": "lego_propeller/NG/pit/S0047/lego_propeller_0047_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "19a270d37598095da0b26aa28a7c79a22584b51cd7123b16153b6021b521ce1a",
+      "sample_key": "lego_propeller/NG/pit/S0048/lego_propeller_0048_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "9412d287c528d5bed24c6d5b5edd4bb836b631ece90f14f0ef51fb8df32fbbfb",
+      "sample_key": "lego_propeller/NG/pit/S0049/lego_propeller_0049_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "c586c66eadbdd03fd58ae8eecbf4e7439e83cecee9886fcf687166cf26c81266",
+      "sample_key": "lego_propeller/NG/pit/S0050/lego_propeller_0050_NG_pit_00000000000000",
+      "published_defect_type": "pit"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "105ac31fb5a0f4359d608f6927c03477a4e458c2c5f1f8b734171711521bc473",
+      "sample_key": "lego_propeller/NG/scratch/S0026/lego_propeller_0026_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "580e0059001c9db61c2e6056add53f3c320f22fa758dcab4115ee34427a46ed7",
+      "sample_key": "lego_propeller/NG/scratch/S0027/lego_propeller_0027_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "8db71c83c9d09c16b899c66fea0b3ad6047147aeefa10707fd12ff047c07f56f",
+      "sample_key": "lego_propeller/NG/scratch/S0028/lego_propeller_0028_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "8e0dc8461e88fa629f2691d11e220931a88efaab96829f1932c6a44ed5a91efc",
+      "sample_key": "lego_propeller/NG/scratch/S0029/lego_propeller_0029_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "ae27632df5744d216dfbf74168d6c8454a9d9d79a3cd9377d0717b9b316365e1",
+      "sample_key": "lego_propeller/NG/scratch/S0030/lego_propeller_0030_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "4a9a6b713399376fe1faa1364afd1643a763e25f45220a284f7b0bc767762566",
+      "sample_key": "lego_propeller/NG/scratch/S0031/lego_propeller_0031_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "9eef296b6f1aa54055f6b7f241e8a9625d00cf17bb866736b77c9ca33733bf89",
+      "sample_key": "lego_propeller/NG/scratch/S0032/lego_propeller_0032_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "451fdc6f9107802f4e8fe211fa42da36f24ce9dee9bf8574d4b3702fe1e7b940",
+      "sample_key": "lego_propeller/NG/scratch/S0033/lego_propeller_0033_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "bf72d071b0b32b72956d685f4f4729aed2c5787922105aa0b392027349ac0bbd",
+      "sample_key": "lego_propeller/NG/scratch/S0034/lego_propeller_0034_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "1e6e5e70f982a71e156aedc9cf5603effc127885a09ce70cf34351b903e0aeca",
+      "sample_key": "lego_propeller/NG/scratch/S0035/lego_propeller_0035_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "522b0cf6bc8e1b744d8a020910523c29582e9c541d5974dbf7878d2245cef4f3",
+      "sample_key": "lego_propeller/NG/scratch/S0036/lego_propeller_0036_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "29daef05cbd08fe72b8dce6e947ea4151b58823a634465498a340bcacffab55d",
+      "sample_key": "lego_propeller/NG/scratch/S0037/lego_propeller_0037_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "d6b61412587a54dff07405d2251b09a55654747aef50d5e90518170c6f60dc24",
+      "sample_key": "lego_propeller/NG/scratch/S0038/lego_propeller_0038_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "08a7b0385744fa30acfc8d437cf196687f1317d8832b14f60ddbd3e7f051b4e2",
+      "sample_key": "lego_propeller/NG/scratch/S0039/lego_propeller_0039_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "173e112bb63434815ca21114be9291136372256193636ad635fda31f6b96539b",
+      "sample_key": "lego_propeller/NG/scratch/S0040/lego_propeller_0040_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "f5c0ab682f4a43e054ba545641611512bec2469779635115e7691440fba8f4a8",
+      "sample_key": "lego_propeller/NG/scratch/S0041/lego_propeller_0041_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "85b4799b84cff904caf06a2f69258a732321d88d480f0e9267e027705ed9ab08",
+      "sample_key": "lego_propeller/NG/scratch/S0042/lego_propeller_0042_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "bae0196d8d748b8ed68c5d349eed66321012c547440180389c6662dddd4d6789",
+      "sample_key": "lego_propeller/NG/scratch/S0043/lego_propeller_0043_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "4e8776afc9e94aad745f0113b0807782fb242320cfa5aca171488615207f44f1",
+      "sample_key": "lego_propeller/NG/scratch/S0044/lego_propeller_0044_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "56c95eee901be19cf37eda9db8e1ce242b06431c0ead084cbf37baebd6bef69e",
+      "sample_key": "lego_propeller/NG/scratch/S0045/lego_propeller_0045_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "cb904a246f264905278e0b429b77883aabf3d4a92f46bfc4c6b8002bb9ad743d",
+      "sample_key": "lego_propeller/NG/scratch/S0046/lego_propeller_0046_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "1d2534574a88465c225e4d1d65f362e66e609f1ef3e39a1d68db2f84df6ac137",
+      "sample_key": "lego_propeller/NG/scratch/S0047/lego_propeller_0047_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "0f1ab2e961becaa5eb9386dce6d145a85ba17278ba91630eb3d732983d4d3eae",
+      "sample_key": "lego_propeller/NG/scratch/S0048/lego_propeller_0048_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "a7c59a0a93eeec21ce4f3c64b51c2767cdd32e14bafdbd474405e2fed020b37b",
+      "sample_key": "lego_propeller/NG/scratch/S0049/lego_propeller_0049_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 1,
+      "group": "d35b2930123f33db23c3e3ab25f36aa05145ab26b326748c9a6d29381171ae65",
+      "sample_key": "lego_propeller/NG/scratch/S0050/lego_propeller_0050_NG_scratch_00000000000000",
+      "published_defect_type": "scratch"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "f86484b2e5f7ab05b84a3f1d55319c59e9b408a0dbd8c0be815c8b1b45d8150a",
+      "sample_key": "lego_propeller/OK/S0026/lego_propeller_0026_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "01b7600cd2d0dd8642efc84f5b5f643c77395e6aa420c1724b535e67b8b57da2",
+      "sample_key": "lego_propeller/OK/S0027/lego_propeller_0027_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "d9e1240bb81e4292f12e0e7afc4c50f86ab7b37c3aff9cc27a4cf216c5e1ab36",
+      "sample_key": "lego_propeller/OK/S0028/lego_propeller_0028_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "4af643fdc32ac6b9f5624887bf201bd0f083b60bf5405bd39a002e707fd61e50",
+      "sample_key": "lego_propeller/OK/S0029/lego_propeller_0029_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "c3e49252de20a24064f3792a7e1c46cb6c9d94bb83a08da2bdd6607e6da8c19a",
+      "sample_key": "lego_propeller/OK/S0030/lego_propeller_0030_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "0c5667dd14bbad6620b223c4559aa9692f70c5d2122a973564869bf3e799a305",
+      "sample_key": "lego_propeller/OK/S0031/lego_propeller_0031_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "be33e23721482ed8715659e2b99b83b48410a873d3aa61fbe672a6bccda7f804",
+      "sample_key": "lego_propeller/OK/S0032/lego_propeller_0032_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "7f609daf5e8fc4103940d48c0855ea3a02b913eb193e1109093f82bc5424d6df",
+      "sample_key": "lego_propeller/OK/S0033/lego_propeller_0033_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "f54ff4eaa6d6055ce5828c3486b5099ee41b41683cce0c6db725e17308baecd2",
+      "sample_key": "lego_propeller/OK/S0034/lego_propeller_0034_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "4bd6d9aa4b4a21fa4a7054ff6cf26511b5df1747dbebbf6d802608d91cf4834d",
+      "sample_key": "lego_propeller/OK/S0035/lego_propeller_0035_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "9e8c65957b8b9413d86cfb7008fa0e6e077f6ced0ee4833a2da224f6f69ea108",
+      "sample_key": "lego_propeller/OK/S0036/lego_propeller_0036_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "3cbf250d4d9cb4d6e0fe2587668b587639f8f9a83a06ed2d8e2b177f484e9b4c",
+      "sample_key": "lego_propeller/OK/S0037/lego_propeller_0037_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "cff40378711421f0a5174ae9d52e2e4d7784b7893b95e58a645dba7996fd8def",
+      "sample_key": "lego_propeller/OK/S0038/lego_propeller_0038_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "619a01e89cc1d5cb4f714ba326156dce60ecac08a5612cfc63e54bfb2f94d79d",
+      "sample_key": "lego_propeller/OK/S0039/lego_propeller_0039_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "d0f0a58676e2c22c665676abfa547d310b5fa4046717139a841ae22188725758",
+      "sample_key": "lego_propeller/OK/S0040/lego_propeller_0040_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "c204106bb6f168757c909b1add0f797d0d299f9927703f88fa14979c6ba0c0c1",
+      "sample_key": "lego_propeller/OK/S0041/lego_propeller_0041_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "9e627fcae82071b1e7686975c47910e707ff77d583f1b17a97a315410c4672e9",
+      "sample_key": "lego_propeller/OK/S0042/lego_propeller_0042_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "129a57e900f67a00463c52aeabf855d4a1cc7ddf051acb09048f29b1556ab4b4",
+      "sample_key": "lego_propeller/OK/S0043/lego_propeller_0043_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "15c01dde780002b068ce513f8fabe2a249ec30c15404a52d2141c3c19bd09d8a",
+      "sample_key": "lego_propeller/OK/S0044/lego_propeller_0044_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "55d388bc95c510c708f10f9854f607e1b1ac6cab8537a488964fcbda37d9c41a",
+      "sample_key": "lego_propeller/OK/S0045/lego_propeller_0045_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "28d89fe8f47e0a609b4b6955543320056fbb6b09bfac2ee20b8b2b5c736d508a",
+      "sample_key": "lego_propeller/OK/S0046/lego_propeller_0046_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "a78819373e282240e38610d14df9f55add73eec77e8f981593241413fdb85804",
+      "sample_key": "lego_propeller/OK/S0047/lego_propeller_0047_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "5f081673fa4177adc19fd9866e0f93b7ba2af82c1d7e016c998578c048195d87",
+      "sample_key": "lego_propeller/OK/S0048/lego_propeller_0048_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "adc6523276f4a35870136be8cc927b17b1789052315b1b041ea5ed0801085f5c",
+      "sample_key": "lego_propeller/OK/S0049/lego_propeller_0049_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "a7a10e540162420f900a15f69e5724f9a39e61f942cb91ba3efe7455bff7b4ac",
+      "sample_key": "lego_propeller/OK/S0050/lego_propeller_0050_OK_00000000000000",
+      "published_defect_type": "good"
+    }
+  ],
+  "HOLD": [
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "2ccae286e4fb1c201a5794c1779df32812b235ec615fee7486d1d390e09497a5",
+      "sample_key": "audio_jack_socket/OK/S0051/audio_jack_socket_0051_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "f07f16161a8cbd4bf7f6a771634a3e41b6d831053f26d70d76bfc560a21e91bd",
+      "sample_key": "audio_jack_socket/OK/S0058/audio_jack_socket_0058_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "df8f08ea7d24ec23de4a6d8a9f1a184a94d1da335d2a84d35209c1440a60e619",
+      "sample_key": "audio_jack_socket/OK/S0061/audio_jack_socket_0061_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "0b895bc033813ebe841c5ac4196e28187556a5efe5d877a87e060ff29006af37",
+      "sample_key": "audio_jack_socket/OK/S0062/audio_jack_socket_0062_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "65d75585866de3394b92b36e2a0a77e7de5cf284862f77198dd68983690ce2df",
+      "sample_key": "audio_jack_socket/OK/S0068/audio_jack_socket_0068_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "d0ae510f185e995589eb09b4f8d34bb8254899f0f3a5c8a879ca819acc898182",
+      "sample_key": "audio_jack_socket/OK/S0069/audio_jack_socket_0069_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "73de9c2c433bd180695ceba952a04d40b97240413bfaf9610f98a5bfd83b41f7",
+      "sample_key": "audio_jack_socket/OK/S0076/audio_jack_socket_0076_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "fbfde174993d0531d45be1618d085a152bd796c82245a1f1a71800dc2e7289f9",
+      "sample_key": "audio_jack_socket/OK/S0078/audio_jack_socket_0078_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "9679c2b56e3b03982da27394001703fb6c816842a85b3ffbd114aa909f00cdcc",
+      "sample_key": "audio_jack_socket/OK/S0079/audio_jack_socket_0079_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "5c24bd585b5fd2eda81f21619f56073b67a248bf18a2dcbc138e1cdd6638449e",
+      "sample_key": "audio_jack_socket/OK/S0085/audio_jack_socket_0085_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "6b7163e6154cd4dc956705d691e087c8b63c3ba452d03ad78a3ff4fc3b4fac9f",
+      "sample_key": "audio_jack_socket/OK/S0086/audio_jack_socket_0086_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3f864d20b16cab6756e8a48b1500e3bb86a8447f2ab592a5fe19308c09ad6b1e",
+      "sample_key": "audio_jack_socket/OK/S0090/audio_jack_socket_0090_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "8cc7f2a48fb10cca90e9b212247cfbe47f90cc8a5b4633e352423e72095e7432",
+      "sample_key": "audio_jack_socket/OK/S0091/audio_jack_socket_0091_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "95917b7168b1b111b6faa5a7c070213f984ab76e8970f7f1eb76e8a3927bff9f",
+      "sample_key": "audio_jack_socket/OK/S0096/audio_jack_socket_0096_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "687aeba5b15cadbad9d2b239336b93b0a9f55abf01eca613b4d802a47980ada7",
+      "sample_key": "audio_jack_socket/OK/S0100/audio_jack_socket_0100_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "acd6065f011e9a56dd5d93caf8c6322c5e65f69493d4d8bc045d606011679247",
+      "sample_key": "audio_jack_socket/OK/S0103/audio_jack_socket_0103_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "d112aab5b1140da87777f3c1289b690739229b22ed35dd2d33767958d968bac7",
+      "sample_key": "audio_jack_socket/OK/S0104/audio_jack_socket_0104_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "2a1294dbaef67bbc046682b6580fe3441ada4292dd14b8bcc2836cb3a6725aaa",
+      "sample_key": "audio_jack_socket/OK/S0105/audio_jack_socket_0105_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "50daf4be52e96aa30997fc76fddf4480ce9c792268beda142abd55666f7329eb",
+      "sample_key": "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "08315ceca5f0b4d23f460cbc5025b964bd1063ca1debbbdaf9d3fcdd46069c1b",
+      "sample_key": "audio_jack_socket/OK/S0112/audio_jack_socket_0112_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3d7a0eddfba1fce7dafe17b232dbacbfa53d1bd804ecd4c39ae6cf48c4f1bf0c",
+      "sample_key": "audio_jack_socket/OK/S0118/audio_jack_socket_0118_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "f5ba9af9a6b8b3249d8abe6224b3a07309f28237a7030d7798d6bee7282a521a",
+      "sample_key": "audio_jack_socket/OK/S0119/audio_jack_socket_0119_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "9ff93aa49159aedd6ba6968649ffedc632c6f2f71411f07d9bc6befd1430eb67",
+      "sample_key": "audio_jack_socket/OK/S0120/audio_jack_socket_0120_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3462cd48a25d259bc14b3871e0e486c13f56ba3c7f33fb0686848fb8c7c888eb",
+      "sample_key": "audio_jack_socket/OK/S0124/audio_jack_socket_0124_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3b082c26f36969a31c176b7cbe666b53f3e01b35fb69d8a45c9df08af8d652e2",
+      "sample_key": "audio_jack_socket/OK/S0127/audio_jack_socket_0127_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "e1ce17e9317c9136e547bff2a5f2fc444357623ce481dd740fd43e219c183f94",
+      "sample_key": "audio_jack_socket/OK/S0130/audio_jack_socket_0130_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "e18544457909d47064a034e87c93a954201e4627aa7cc1700a9b4c6fabd65b24",
+      "sample_key": "audio_jack_socket/OK/S0132/audio_jack_socket_0132_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "8f9860bbe00b61b5140d1612625dce87d9a2ee22ea07fc297b867f1d21885fdb",
+      "sample_key": "audio_jack_socket/OK/S0133/audio_jack_socket_0133_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "317bfc8292f5004a241ff515be9e0af9abb9c9d76ba04ba590d88b3be55602c6",
+      "sample_key": "audio_jack_socket/OK/S0136/audio_jack_socket_0136_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "e24f0b71166f4740d2a99a2b969ed3a4bf41c745f279f1c21d839ea76c579c1d",
+      "sample_key": "audio_jack_socket/OK/S0139/audio_jack_socket_0139_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "106681ba7cc4e196b07ff4a564cb69610f92e7bd11f5482b66d0e21c82e2224c",
+      "sample_key": "audio_jack_socket/OK/S0145/audio_jack_socket_0145_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "6479488f5bc8c60afae48749cc02c6103cf0f4067ef4d52a82e08f21aa3fb126",
+      "sample_key": "audio_jack_socket/OK/S0146/audio_jack_socket_0146_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "4f897af6a33cbec880549318303aa6181a26a06f754f6d48b114c51da3c68320",
+      "sample_key": "audio_jack_socket/OK/S0152/audio_jack_socket_0152_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3651161f7d97ff1a3b5c2f90ef9e2fb4a5191d42e7a3477a2539061662068864",
+      "sample_key": "audio_jack_socket/OK/S0158/audio_jack_socket_0158_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "46e35b4cb66d826bb9de194707dc0af46d761ccea37c0e40cfee339733d21e9e",
+      "sample_key": "audio_jack_socket/OK/S0165/audio_jack_socket_0165_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3cdeb574de052be691a4777320b50ccf23805cb93807dc26baa802a708bad746",
+      "sample_key": "audio_jack_socket/OK/S0166/audio_jack_socket_0166_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "b4fc50aee1624d7ecd9d6fb73c1a9032ecb53aeb297f0eaa2071c0d13b2fb9fd",
+      "sample_key": "audio_jack_socket/OK/S0169/audio_jack_socket_0169_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "98b753d63f2cdf155cb6e483749b0b5874202cea2b201f8611a5b433cd1f76fd",
+      "sample_key": "audio_jack_socket/OK/S0172/audio_jack_socket_0172_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "558034c11f51b8aea706200f0adf9d7efe4878f6a944c5a55dc5c94860f8d8cc",
+      "sample_key": "audio_jack_socket/OK/S0176/audio_jack_socket_0176_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "d7cb7670ea8c058730a45badb83cb2368843c27bdde9f92e4cdc6f36a0c6076f",
+      "sample_key": "audio_jack_socket/OK/S0182/audio_jack_socket_0182_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "395d6d2b14a80777bcb2a06a20ee2c83dccddb5654a981d7cc9b379ffea5fd22",
+      "sample_key": "audio_jack_socket/OK/S0203/audio_jack_socket_0203_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "7e84331790c40cac26cc3056c1488a5e7143c39410b5e3f99549283df84b698b",
+      "sample_key": "audio_jack_socket/OK/S0204/audio_jack_socket_0204_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3f340b712b8ab3da269bc693d7e3fc766895bd61889e7cac7dc0c3d5ed54cfae",
+      "sample_key": "audio_jack_socket/OK/S0207/audio_jack_socket_0207_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "3fea2c17429918c2eab8419c6c67b14f0b243c5a88a402edf22972422bf9c1cc",
+      "sample_key": "audio_jack_socket/OK/S0215/audio_jack_socket_0215_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "251497124194f6be05e68ef64b376c77ea517cc2951630264e914707ee31a7a8",
+      "sample_key": "audio_jack_socket/OK/S0220/audio_jack_socket_0220_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "655784aa57135d82a9f93e759ad34cea4f1728f8f24c14c9fac87f0b6f708489",
+      "sample_key": "audio_jack_socket/OK/S0242/audio_jack_socket_0242_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "afe80fc6528809480f9bb344508384b0219eb9a0460cbf6a3101200179634d26",
+      "sample_key": "audio_jack_socket/OK/S0243/audio_jack_socket_0243_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "08137431ad54cd6bf6d1ff24cc7015d7568e583d8e62686e860f3d31fba259ca",
+      "sample_key": "audio_jack_socket/OK/S0244/audio_jack_socket_0244_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "audio_jack_socket",
+      "label": 0,
+      "group": "b7d417f61beee1fb63dbb150761477fdcc7b7d1505de63456c28a4a6a661189b",
+      "sample_key": "audio_jack_socket/OK/S0246/audio_jack_socket_0246_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "41fc172ea0b250a97c749ced13074a36611e01c2c6324a4b88ddbf96f8653a58",
+      "sample_key": "humidity_sensor/OK/S0064/humidity_sensor_0064_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "22941df0a6d73fe6d53e85235ae54033d3ba147fe4e28652088cbda043fca9ff",
+      "sample_key": "humidity_sensor/OK/S0067/humidity_sensor_0067_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "863192fcd2834311b7d35efc72a7b1a50dfad16969b9995196ec6e4ed207e276",
+      "sample_key": "humidity_sensor/OK/S0068/humidity_sensor_0068_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "dbbcecab25901e39cc89a77ef484f947a8164b1ec634b086e58f9997473eb8e2",
+      "sample_key": "humidity_sensor/OK/S0081/humidity_sensor_0081_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "652f72d4878d9429438d505c2c1223a2b05b1228b562bf4f2800878057e1e73b",
+      "sample_key": "humidity_sensor/OK/S0083/humidity_sensor_0083_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "b302b8da1915cd214ce9ae15bc40a6de688bceb964dff4e3010e7152647b0ace",
+      "sample_key": "humidity_sensor/OK/S0084/humidity_sensor_0084_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "9165b3845e9cfdf6d557980e0d7e8a0a6742bc6b2c3a8cbfa559646823b7b572",
+      "sample_key": "humidity_sensor/OK/S0087/humidity_sensor_0087_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "b81a5e17e18c3496f99fdd287113b9c4eaedfe545dfd36de7e083e5177113e48",
+      "sample_key": "humidity_sensor/OK/S0090/humidity_sensor_0090_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "9a4c8106fb8e655aea63c424a1eb6ad10b5c859af85f2ce4f9e06edaff230a71",
+      "sample_key": "humidity_sensor/OK/S0093/humidity_sensor_0093_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "46b138df9abbd7f70f6c038c68c888c1fd32feac5447b151bfe693e7ff92c25e",
+      "sample_key": "humidity_sensor/OK/S0095/humidity_sensor_0095_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "eab9153a08445f36971f9f4c6f4d2188a7e4233f489d4f78389eff90fffff241",
+      "sample_key": "humidity_sensor/OK/S0103/humidity_sensor_0103_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "bc3312704c2fe43348310b7021ec9d9ee3e63cc34b9b9e3cc7dfde2fb0e18a8e",
+      "sample_key": "humidity_sensor/OK/S0104/humidity_sensor_0104_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "b694ae48363e5fe25b73fb8de0df4498f5fa022dc25fda26b1661fed425776f7",
+      "sample_key": "humidity_sensor/OK/S0109/humidity_sensor_0109_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "e2d6e36074c851311e377ecf6af70fa826ff38deb1af4eccf55887ea032d410d",
+      "sample_key": "humidity_sensor/OK/S0117/humidity_sensor_0117_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "0ee88310b6899dd1e984af1ccac2576fe1da853f7fb98dfbba1f9ad6deb4789c",
+      "sample_key": "humidity_sensor/OK/S0118/humidity_sensor_0118_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "2cbf8556714385137ae60e2b8b067a0158f5e334e003489e596c09fd9674e468",
+      "sample_key": "humidity_sensor/OK/S0120/humidity_sensor_0120_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "a60e1647ff9df13604bcde978abaa45264c0909c65c91ac258b3bc8fd8b37e6d",
+      "sample_key": "humidity_sensor/OK/S0121/humidity_sensor_0121_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "a8950405d7a7f78d631d37a2384c5fe8cb24279dea35f5087bbd03732e540226",
+      "sample_key": "humidity_sensor/OK/S0126/humidity_sensor_0126_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "c851d4b377d6409654ebaaa749d0ba35fb92d14b9cce2daa4de9890ba55e5644",
+      "sample_key": "humidity_sensor/OK/S0130/humidity_sensor_0130_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "7dd6de0370f6729796335ba0d71edf1addbdebf060e94503018aa942c99bd3f0",
+      "sample_key": "humidity_sensor/OK/S0134/humidity_sensor_0134_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "cdd9aa1d07916c6178e5bd2e4b6f905db96919b330b19a8de8f8f53980b93900",
+      "sample_key": "humidity_sensor/OK/S0137/humidity_sensor_0137_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "fc2d0635fe01126792e909c7c350094a0d30174492e47e23b056622e2f07fa6f",
+      "sample_key": "humidity_sensor/OK/S0139/humidity_sensor_0139_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "f60e411b9b9a17442bd47911c084586429b36f6494ce12ae2305fb165fc327a4",
+      "sample_key": "humidity_sensor/OK/S0154/humidity_sensor_0154_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "51298aa5984355ac1b08de5b4b1562ece21d673700861412c4e4a0132142a65a",
+      "sample_key": "humidity_sensor/OK/S0156/humidity_sensor_0156_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "3dcd785123811e24c10e0c3026b269b8b8a26ae29a061b18dda8599e9bd9abaa",
+      "sample_key": "humidity_sensor/OK/S0164/humidity_sensor_0164_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "459e2084bec37b02187c40fc211b10d137b1d6cc5dcae1455c3798c385e1c3a6",
+      "sample_key": "humidity_sensor/OK/S0169/humidity_sensor_0169_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "53ec0929ae0402ff8dadca131a879391bbc91569a97dac096138a65b6f3260e4",
+      "sample_key": "humidity_sensor/OK/S0179/humidity_sensor_0179_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "a7257feb59b5a15c474bc2969bd5322ff20d269b780b7e1b9ae08c8809738d9b",
+      "sample_key": "humidity_sensor/OK/S0185/humidity_sensor_0185_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "7aa3c993fd803ad96bb3fcb228c8892df956474ad3f73932291aadf7b3d38896",
+      "sample_key": "humidity_sensor/OK/S0187/humidity_sensor_0187_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "52bc129c6d1d29ff85e71abde0e27c4cd10c275a1fd5d61a8845b97a7a69c3af",
+      "sample_key": "humidity_sensor/OK/S0189/humidity_sensor_0189_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "fc8702d4e4b34fc4b6b4cb1b3ffddea2bf0c8df9db59905d70e0e38c794d48f8",
+      "sample_key": "humidity_sensor/OK/S0190/humidity_sensor_0190_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "b3c49cb877ae2f88374aafeb627072067ba3a4045a6c0c69c9b0e298320670cb",
+      "sample_key": "humidity_sensor/OK/S0197/humidity_sensor_0197_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "a025e60b46799b65cb08fabb7b78ff617a18861bdf9abeeb2ce4ab1c131543ee",
+      "sample_key": "humidity_sensor/OK/S0202/humidity_sensor_0202_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "75cc410c172e060acc07af58f700a3d39db1712ecb069cf82196ac5753f28439",
+      "sample_key": "humidity_sensor/OK/S0206/humidity_sensor_0206_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "0f01cca585e0d5e00276d14ec943ac6a8e011a6943edc398ea455355322a9969",
+      "sample_key": "humidity_sensor/OK/S0216/humidity_sensor_0216_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "bbc3682cb49db4624489806bddf2ce55e2aa9431ac86e457cfeaa922a3216e5f",
+      "sample_key": "humidity_sensor/OK/S0226/humidity_sensor_0226_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "51b6112a2ceae9325c6681ba4138ecec10cdfb9f8c025377f486384d1e3e0b72",
+      "sample_key": "humidity_sensor/OK/S0232/humidity_sensor_0232_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "af2653321e81e0c7e457cc34069a8e11f6513cbc1adb2cff7a31468886cb1b33",
+      "sample_key": "humidity_sensor/OK/S0239/humidity_sensor_0239_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "humidity_sensor",
+      "label": 0,
+      "group": "37c0e709d4fdbffb295677cba16878bfe850d424cb7d6fda403f71e23810d0f7",
+      "sample_key": "humidity_sensor/OK/S0242/humidity_sensor_0242_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "3f14197de4afdd7294bc925dce938b870cde4a5e18e508d9c296e9c708424596",
+      "sample_key": "lego_propeller/OK/S0058/lego_propeller_0058_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "94075703decc740758d63a3ffe552241e81b427ec60f520bfd5854fa9d9da415",
+      "sample_key": "lego_propeller/OK/S0064/lego_propeller_0064_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "4012c2e1b98eb6040cb22c94cc75502532d1538f05563d470571cd2406694e96",
+      "sample_key": "lego_propeller/OK/S0067/lego_propeller_0067_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "59123c510892c65a21f426d785ad2a1779ef97f6d56bbd441b1e05f4646beb88",
+      "sample_key": "lego_propeller/OK/S0076/lego_propeller_0076_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "1815494620e5efbbc29ace1dbb21fd1ab9269c99ccb7abf0d8f9bf5a644bc904",
+      "sample_key": "lego_propeller/OK/S0080/lego_propeller_0080_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "ae78532493132fdc11bb53d848b1064e9f60d18b50900669ce00bb4d0313baf4",
+      "sample_key": "lego_propeller/OK/S0081/lego_propeller_0081_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "dabf3a9a6202f508281f6273346e8865e3c8f402ed3bb5f1012dea2c0cedf8df",
+      "sample_key": "lego_propeller/OK/S0082/lego_propeller_0082_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "a41d0f4116023daeb6c8219771c4a8a6b05e57ea2f46fbd995cda19fdba020f2",
+      "sample_key": "lego_propeller/OK/S0085/lego_propeller_0085_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "de42404e37d2d3b7eedcbe5932936acaf0c7b8b6d8f977ad0d13c5035319b3a6",
+      "sample_key": "lego_propeller/OK/S0086/lego_propeller_0086_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "f68f59ea5e0bf7d742ae663556e7a4cd405882fb5944be2edb97a1029432ae60",
+      "sample_key": "lego_propeller/OK/S0091/lego_propeller_0091_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "51c9b1e4dcba50a1513c0657894007e4af49153049996a3cd59268ccc3ad5656",
+      "sample_key": "lego_propeller/OK/S0105/lego_propeller_0105_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "b1733d1f898ff42f55d5fde134eb644f30ccbe687b3bb7594c9315aed7fbb9d7",
+      "sample_key": "lego_propeller/OK/S0112/lego_propeller_0112_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "f76e41ef5b208b3b023c8594fc1c2d92a8e4f649b5c8da405e9fe772087144c3",
+      "sample_key": "lego_propeller/OK/S0117/lego_propeller_0117_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "841254875f890ad19e10686f439aa3536b0dcd2d2215291df376b8604972402a",
+      "sample_key": "lego_propeller/OK/S0122/lego_propeller_0122_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "d3e007d7032d5da293c505c280c1c4de0ef4dddf1022c42d2ceb2cdae0931828",
+      "sample_key": "lego_propeller/OK/S0124/lego_propeller_0124_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "8186386fef29704c44e9faad1017928b42530dc44d0e761312e90ff5a35f8eec",
+      "sample_key": "lego_propeller/OK/S0126/lego_propeller_0126_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "83346e280b7826856259418fac37c28fa40925aaa31e71455370743b0df56867",
+      "sample_key": "lego_propeller/OK/S0128/lego_propeller_0128_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "afa78189793a9679e9582d09d335b7c1727bb918c80d1f757193c1159a67e893",
+      "sample_key": "lego_propeller/OK/S0131/lego_propeller_0131_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "2101e802d8ca9dd2b3be5ff79f438fca8a4298a9b466b6c4135a45e7ce1337d0",
+      "sample_key": "lego_propeller/OK/S0135/lego_propeller_0135_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "335267310e79d872795728ec6157e2ca5455056616f1800f438d5cc247ecbbb5",
+      "sample_key": "lego_propeller/OK/S0140/lego_propeller_0140_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "48074a1611a92e6a5b1de1655d4485f246456a83be6efaefa3cce80fe9a10e56",
+      "sample_key": "lego_propeller/OK/S0141/lego_propeller_0141_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "7e4b4f83e0fabf4b13ceb6c166810639549e17fbfabfe04f9852e45b2b32264a",
+      "sample_key": "lego_propeller/OK/S0145/lego_propeller_0145_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "8f789624677717c343e19537ecc2abdcd235e52922458182c5ad0e562b212acd",
+      "sample_key": "lego_propeller/OK/S0151/lego_propeller_0151_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "381171505b86ea021e831feaac29bc1bcb4d3184a0ec6c94f7ee57829e0248be",
+      "sample_key": "lego_propeller/OK/S0153/lego_propeller_0153_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "4a6f44a2c50040fb151f94cd1355c6ced67eacd215144192d82c7b66d5b7f703",
+      "sample_key": "lego_propeller/OK/S0155/lego_propeller_0155_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "b6f40e42b59cb947dc1dcb678d7056608c32ae608cf580ec6e59acc94a466f2a",
+      "sample_key": "lego_propeller/OK/S0157/lego_propeller_0157_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "4d68c30baa3904fe71e873e0cd4dab8e1fdf53895ed17ecaada089c6a98d50d1",
+      "sample_key": "lego_propeller/OK/S0166/lego_propeller_0166_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "5198606592b49de2997fafa11d555dd66cf9799240c6408f2f9b6ea6e98d61f9",
+      "sample_key": "lego_propeller/OK/S0172/lego_propeller_0172_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "121f590163d57554d8ca5ed164febc284ec7e8c4c8dfe4eb9d6d246a4667445b",
+      "sample_key": "lego_propeller/OK/S0176/lego_propeller_0176_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "4c9cfcc9085fb8f9ba41a0d133b940bc5532c27a2a1c12b58cd6f3bb5f9c3f9f",
+      "sample_key": "lego_propeller/OK/S0177/lego_propeller_0177_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "4b5952b73d8ae5ee79294234b83687a2b52e3ca07b0a78967b5f69d8bd6f1ce9",
+      "sample_key": "lego_propeller/OK/S0181/lego_propeller_0181_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "121356f4944b73bb5943e54756653d5e26d8e5f3160b07793aaf65b417609097",
+      "sample_key": "lego_propeller/OK/S0182/lego_propeller_0182_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "148a62797dd5d65972949ec2e2ffdd5dc0210aac5e4905f25a1463bbe10f0f25",
+      "sample_key": "lego_propeller/OK/S0185/lego_propeller_0185_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "056bb59573199722f96266c9281961231764248e747dbe7deba97d21cfbea6b0",
+      "sample_key": "lego_propeller/OK/S0187/lego_propeller_0187_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "a0fb2dd83f08be18acc91e95cd2fb13aece743d31a11e01bbc6b2ea6448367f2",
+      "sample_key": "lego_propeller/OK/S0188/lego_propeller_0188_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "a987d0e1809600b7748fef18eb2133087239f8dde8cf826cba2dc4dd0d81f924",
+      "sample_key": "lego_propeller/OK/S0190/lego_propeller_0190_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "78d7920f952a1703570ccf20364513794353c8fa68eecac8c439d5b046409342",
+      "sample_key": "lego_propeller/OK/S0193/lego_propeller_0193_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "f14e3f76c7fdf2a7ef58e4fb5e89336d44940e3d2c60c2288ec16a865f8dd20c",
+      "sample_key": "lego_propeller/OK/S0205/lego_propeller_0205_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "837c99808d4522a54821275c9f61a06ce61e79d797665ba21b59fd2a9962b7d4",
+      "sample_key": "lego_propeller/OK/S0222/lego_propeller_0222_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "b2dc6a893227f441d0e6f3bc152a32840d83853425183bbc675df644633a70b7",
+      "sample_key": "lego_propeller/OK/S0223/lego_propeller_0223_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "78a8c3b88ef14fce23d0443e3ec8984da9123bf6b012d73e4ce916e542bfdf21",
+      "sample_key": "lego_propeller/OK/S0226/lego_propeller_0226_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "a53da6c95522ab0faeca233766c5e7888d76d0436e3024697094fa4efe9fae9c",
+      "sample_key": "lego_propeller/OK/S0229/lego_propeller_0229_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "d060d5808edb08df1d6c031452dd726e9dd646abc5cd0cafac4bcaf3d6091c90",
+      "sample_key": "lego_propeller/OK/S0240/lego_propeller_0240_OK_00000000000000",
+      "published_defect_type": "good"
+    },
+    {
+      "category": "lego_propeller",
+      "label": 0,
+      "group": "5feb1681f4ff0676381c5299297422a400bfa81c0f548dd98038397fa72cbb3b",
+      "sample_key": "lego_propeller/OK/S0243/lego_propeller_0243_OK_00000000000000",
+      "published_defect_type": "good"
+    }
+  ]
+}

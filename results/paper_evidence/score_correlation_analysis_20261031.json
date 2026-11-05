@@ -1,0 +1,542 @@
+{
+  "status": "COMPLETE_EXPLORATORY_WITHIN_CATEGORY",
+  "rows": 132,
+  "registered_groups": 132,
+  "cohort": "normal-reference HOLD only, all labels0",
+  "variables": {
+    "G0": "V0_OWN_G_ONLY_HOLD_eta",
+    "G1": "V1_OWN_G_ONLY_HOLD_eta",
+    "A0": "V0_OWN_RGB_ONLY_HOLD_eta",
+    "A1": "V1_OWN_RGB_ONLY_HOLD_eta"
+  },
+  "pairs": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "tests": 18,
+  "seed": 20261031,
+  "permutations": 19999,
+  "p_method": "Two-sided absolute-rho Monte Carlo rank-permutation test within category; p=(exceedances+1)/(19999+1). Null is exchangeable independent pairings.",
+  "multiplicity": "BH and BY across all18 tests; plot outlines use BY<.05, which permits arbitrary dependence among test pvalues.",
+  "scatter_pairs": [
+    [
+      "G0",
+      "G1"
+    ],
+    [
+      "G1",
+      "A1"
+    ]
+  ],
+  "scatter_selection": "Prespecified by scientific role before permutationp: representation reranking and extended modality association; all18tests retained.",
+  "robustness": "Leave-one-observation-out rho for everypair; simultaneous removal of ceil(5%n) highest individual LOO-influence points is descriptive stress test; all original points retained in main statistics.",
+  "scope": "Fixed fitted predictors, one record per registered group; physical identities remain unverified. Normal-only association measures score ordering, not detection gain, causal contribution or statistical independence.",
+  "sources_sha256": {
+    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030/attempt001/ALL_MATCHED_LOGITS.npz": "2e728f966b670c1bc0e6ff0ca305a739c5a2777b1119fd0d6861b99d5111c2ce",
+    "${DRIVE_D}/论文三/论文三交付/行文绘图/研究依据/图表数据/normal_reference_pairs.csv": "5d6adde5c3ca189653140c93dbe059cfd99b2db9207d65e0c1c6848aef423956"
+  },
+  "results": [
+    {
+      "category": "audio_jack_socket",
+      "pair_index": 0,
+      "variables": [
+        "G0",
+        "G1"
+      ],
+      "n": 49,
+      "rho": 0.8085714285714285,
+      "permutation_p": 5e-05,
+      "permutations": 19999,
+      "loo_rho_min": 0.7963525835866261,
+      "loo_rho_max": 0.8471558836300478,
+      "max_single_removal_change": 0.038584455058619294,
+      "most_influential_sample": "audio_jack_socket/OK/S0242/audio_jack_socket_0242_OK_00000000000000",
+      "most_influential_local_index": 45,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.8935553499845822,
+      "top5pct_removed_samples": [
+        "audio_jack_socket/OK/S0242/audio_jack_socket_0242_OK_00000000000000",
+        "audio_jack_socket/OK/S0182/audio_jack_socket_0182_OK_00000000000000",
+        "audio_jack_socket/OK/S0103/audio_jack_socket_0103_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": -0.2458662269831414,
+      "q_BH": 0.00018,
+      "q_BY": 0.0006291194540753365
+    },
+    {
+      "category": "audio_jack_socket",
+      "pair_index": 1,
+      "variables": [
+        "G0",
+        "A0"
+      ],
+      "n": 49,
+      "rho": 0.03642857142857142,
+      "permutation_p": 0.80315,
+      "permutations": 19999,
+      "loo_rho_min": -0.013243595310464611,
+      "loo_rho_max": 0.09520191055145463,
+      "max_single_removal_change": 0.05877333912288321,
+      "most_influential_sample": "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+      "most_influential_local_index": 18,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": -0.013506012950971322,
+      "top5pct_removed_samples": [
+        "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+        "audio_jack_socket/OK/S0105/audio_jack_socket_0105_OK_00000000000000",
+        "audio_jack_socket/OK/S0118/audio_jack_socket_0118_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.15963225203884102,
+      "q_BH": 0.9637411764705882,
+      "q_BY": 1.0
+    },
+    {
+      "category": "audio_jack_socket",
+      "pair_index": 2,
+      "variables": [
+        "G0",
+        "A1"
+      ],
+      "n": 49,
+      "rho": 0.04806122448979591,
+      "permutation_p": 0.74075,
+      "permutations": 19999,
+      "loo_rho_min": -0.0011940946591402519,
+      "loo_rho_max": 0.10323491098567086,
+      "max_single_removal_change": 0.05517368649587495,
+      "most_influential_sample": "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+      "most_influential_local_index": 18,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.11600370027752083,
+      "top5pct_removed_samples": [
+        "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+        "audio_jack_socket/OK/S0132/audio_jack_socket_0132_OK_00000000000000",
+        "audio_jack_socket/OK/S0127/audio_jack_socket_0127_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": -0.21699112458453557,
+      "q_BH": 0.9637411764705882,
+      "q_BY": 1.0
+    },
+    {
+      "category": "audio_jack_socket",
+      "pair_index": 3,
+      "variables": [
+        "G1",
+        "A0"
+      ],
+      "n": 49,
+      "rho": 0.03255102040816326,
+      "permutation_p": 0.82505,
+      "permutations": 19999,
+      "loo_rho_min": -0.02214502822405558,
+      "loo_rho_max": 0.08966565349544073,
+      "max_single_removal_change": 0.05711463308727747,
+      "most_influential_sample": "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+      "most_influential_local_index": 18,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.0992291088498304,
+      "top5pct_removed_samples": [
+        "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+        "audio_jack_socket/OK/S0051/audio_jack_socket_0051_OK_00000000000000",
+        "audio_jack_socket/OK/S0130/audio_jack_socket_0130_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.45043907478620204,
+      "q_BH": 0.9637411764705882,
+      "q_BY": 1.0
+    },
+    {
+      "category": "audio_jack_socket",
+      "pair_index": 4,
+      "variables": [
+        "G1",
+        "A1"
+      ],
+      "n": 49,
+      "rho": 0.05571428571428571,
+      "permutation_p": 0.7003,
+      "permutations": 19999,
+      "loo_rho_min": 0.005861919235779418,
+      "loo_rho_max": 0.12038645245332176,
+      "max_single_removal_change": 0.06467216673903606,
+      "most_influential_sample": "audio_jack_socket/OK/S0051/audio_jack_socket_0051_OK_00000000000000",
+      "most_influential_local_index": 0,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.251063829787234,
+      "top5pct_removed_samples": [
+        "audio_jack_socket/OK/S0051/audio_jack_socket_0051_OK_00000000000000",
+        "audio_jack_socket/OK/S0109/audio_jack_socket_0109_OK_00000000000000",
+        "audio_jack_socket/OK/S0132/audio_jack_socket_0132_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.33816324294427946,
+      "q_BH": 0.9637411764705882,
+      "q_BY": 1.0
+    },
+    {
+      "category": "audio_jack_socket",
+      "pair_index": 5,
+      "variables": [
+        "A0",
+        "A1"
+      ],
+      "n": 49,
+      "rho": 0.801734693877551,
+      "permutation_p": 5e-05,
+      "permutations": 19999,
+      "loo_rho_min": 0.7898393399913156,
+      "loo_rho_max": 0.829244463742944,
+      "max_single_removal_change": 0.027509769865392997,
+      "most_influential_sample": "audio_jack_socket/OK/S0207/audio_jack_socket_0207_OK_00000000000000",
+      "most_influential_local_index": 42,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.8637064446500153,
+      "top5pct_removed_samples": [
+        "audio_jack_socket/OK/S0207/audio_jack_socket_0207_OK_00000000000000",
+        "audio_jack_socket/OK/S0204/audio_jack_socket_0204_OK_00000000000000",
+        "audio_jack_socket/OK/S0176/audio_jack_socket_0176_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.638148111430554,
+      "q_BH": 0.00018,
+      "q_BY": 0.0006291194540753365
+    },
+    {
+      "category": "humidity_sensor",
+      "pair_index": 0,
+      "variables": [
+        "G0",
+        "G1"
+      ],
+      "n": 39,
+      "rho": 0.4858299595141701,
+      "permutation_p": 0.00225,
+      "permutations": 19999,
+      "loo_rho_min": 0.44983039719881823,
+      "loo_rho_max": 0.5338658496553234,
+      "max_single_removal_change": 0.04803589014115328,
+      "most_influential_sample": "humidity_sensor/OK/S0095/humidity_sensor_0095_OK_00000000000000",
+      "most_influential_local_index": 9,
+      "top5pct_removed_count": 2,
+      "top5pct_loo_influence_removed_rho": 0.5846372688477952,
+      "top5pct_removed_samples": [
+        "humidity_sensor/OK/S0095/humidity_sensor_0095_OK_00000000000000",
+        "humidity_sensor/OK/S0226/humidity_sensor_0226_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": -0.2458662269831414,
+      "q_BH": 0.006749999999999999,
+      "q_BY": 0.023591979527825113
+    },
+    {
+      "category": "humidity_sensor",
+      "pair_index": 1,
+      "variables": [
+        "G0",
+        "A0"
+      ],
+      "n": 39,
+      "rho": -0.202834008097166,
+      "permutation_p": 0.2167,
+      "permutations": 19999,
+      "loo_rho_min": -0.27519422256264364,
+      "loo_rho_max": -0.1462960936645147,
+      "max_single_removal_change": 0.07236021446547763,
+      "most_influential_sample": "humidity_sensor/OK/S0137/humidity_sensor_0137_OK_00000000000000",
+      "most_influential_local_index": 20,
+      "top5pct_removed_count": 2,
+      "top5pct_loo_influence_removed_rho": -0.3440018966334755,
+      "top5pct_removed_samples": [
+        "humidity_sensor/OK/S0137/humidity_sensor_0137_OK_00000000000000",
+        "humidity_sensor/OK/S0197/humidity_sensor_0197_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.15963225203884102,
+      "q_BH": 0.487575,
+      "q_BY": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "pair_index": 2,
+      "variables": [
+        "G0",
+        "A1"
+      ],
+      "n": 39,
+      "rho": -0.13097165991902834,
+      "permutation_p": 0.42205,
+      "permutations": 19999,
+      "loo_rho_min": -0.20253857095962358,
+      "loo_rho_max": -0.063792537476748,
+      "max_single_removal_change": 0.07156691104059523,
+      "most_influential_sample": "humidity_sensor/OK/S0137/humidity_sensor_0137_OK_00000000000000",
+      "most_influential_local_index": 20,
+      "top5pct_removed_count": 2,
+      "top5pct_loo_influence_removed_rho": -0.139402560455192,
+      "top5pct_removed_samples": [
+        "humidity_sensor/OK/S0137/humidity_sensor_0137_OK_00000000000000",
+        "humidity_sensor/OK/S0190/humidity_sensor_0190_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": -0.21699112458453557,
+      "q_BH": 0.7419272727272728,
+      "q_BY": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "pair_index": 3,
+      "variables": [
+        "G1",
+        "A0"
+      ],
+      "n": 39,
+      "rho": -0.01862348178137652,
+      "permutation_p": 0.9102,
+      "permutations": 19999,
+      "loo_rho_min": -0.08129992340518655,
+      "loo_rho_max": 0.04913010176168071,
+      "max_single_removal_change": 0.06775358354305723,
+      "most_influential_sample": "humidity_sensor/OK/S0190/humidity_sensor_0190_OK_00000000000000",
+      "most_influential_local_index": 30,
+      "top5pct_removed_count": 2,
+      "top5pct_loo_influence_removed_rho": -0.017069701280227594,
+      "top5pct_removed_samples": [
+        "humidity_sensor/OK/S0190/humidity_sensor_0190_OK_00000000000000",
+        "humidity_sensor/OK/S0197/humidity_sensor_0197_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.45043907478620204,
+      "q_BH": 0.9637411764705882,
+      "q_BY": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "pair_index": 4,
+      "variables": [
+        "G1",
+        "A1"
+      ],
+      "n": 39,
+      "rho": -0.12429149797570849,
+      "permutation_p": 0.4534,
+      "permutations": 19999,
+      "loo_rho_min": -0.1852500273552905,
+      "loo_rho_max": -0.0613852719115877,
+      "max_single_removal_change": 0.06290622606412079,
+      "most_influential_sample": "humidity_sensor/OK/S0156/humidity_sensor_0156_OK_00000000000000",
+      "most_influential_local_index": 23,
+      "top5pct_removed_count": 2,
+      "top5pct_loo_influence_removed_rho": 0.008771929824561403,
+      "top5pct_removed_samples": [
+        "humidity_sensor/OK/S0156/humidity_sensor_0156_OK_00000000000000",
+        "humidity_sensor/OK/S0190/humidity_sensor_0190_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.33816324294427946,
+      "q_BH": 0.7419272727272728,
+      "q_BY": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "pair_index": 5,
+      "variables": [
+        "A0",
+        "A1"
+      ],
+      "n": 39,
+      "rho": 0.7827935222672064,
+      "permutation_p": 5e-05,
+      "permutations": 19999,
+      "loo_rho_min": 0.7658387132071343,
+      "loo_rho_max": 0.8314914104387788,
+      "max_single_removal_change": 0.04869788817157239,
+      "most_influential_sample": "humidity_sensor/OK/S0084/humidity_sensor_0084_OK_00000000000000",
+      "most_influential_local_index": 5,
+      "top5pct_removed_count": 2,
+      "top5pct_loo_influence_removed_rho": 0.8764817449027975,
+      "top5pct_removed_samples": [
+        "humidity_sensor/OK/S0084/humidity_sensor_0084_OK_00000000000000",
+        "humidity_sensor/OK/S0130/humidity_sensor_0130_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.638148111430554,
+      "q_BH": 0.00018,
+      "q_BY": 0.0006291194540753365
+    },
+    {
+      "category": "lego_propeller",
+      "pair_index": 0,
+      "variables": [
+        "G0",
+        "G1"
+      ],
+      "n": 44,
+      "rho": 0.599154334038055,
+      "permutation_p": 5e-05,
+      "permutations": 19999,
+      "loo_rho_min": 0.5745998187858653,
+      "loo_rho_max": 0.6434611899728179,
+      "max_single_removal_change": 0.04430685593476291,
+      "most_influential_sample": "lego_propeller/OK/S0226/lego_propeller_0226_OK_00000000000000",
+      "most_influential_local_index": 40,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.7191637630662022,
+      "top5pct_removed_samples": [
+        "lego_propeller/OK/S0226/lego_propeller_0226_OK_00000000000000",
+        "lego_propeller/OK/S0187/lego_propeller_0187_OK_00000000000000",
+        "lego_propeller/OK/S0105/lego_propeller_0105_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": -0.2458662269831414,
+      "q_BH": 0.00018,
+      "q_BY": 0.0006291194540753365
+    },
+    {
+      "category": "lego_propeller",
+      "pair_index": 1,
+      "variables": [
+        "G0",
+        "A0"
+      ],
+      "n": 44,
+      "rho": 0.32360817477096543,
+      "permutation_p": 0.0332,
+      "permutations": 19999,
+      "loo_rho_min": 0.2846572032618544,
+      "loo_rho_max": 0.3714889761401389,
+      "max_single_removal_change": 0.0478808013691735,
+      "most_influential_sample": "lego_propeller/OK/S0145/lego_propeller_0145_OK_00000000000000",
+      "most_influential_local_index": 21,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.462020905923345,
+      "top5pct_removed_samples": [
+        "lego_propeller/OK/S0145/lego_propeller_0145_OK_00000000000000",
+        "lego_propeller/OK/S0064/lego_propeller_0064_OK_00000000000000",
+        "lego_propeller/OK/S0229/lego_propeller_0229_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.15963225203884102,
+      "q_BH": 0.08537142857142858,
+      "q_BY": 0.2983823696471596
+    },
+    {
+      "category": "lego_propeller",
+      "pair_index": 2,
+      "variables": [
+        "G0",
+        "A1"
+      ],
+      "n": 44,
+      "rho": 0.14911909795630726,
+      "permutation_p": 0.3341,
+      "permutations": 19999,
+      "loo_rho_min": 0.1120507399577167,
+      "loo_rho_max": 0.220628209000302,
+      "max_single_removal_change": 0.07150911104399474,
+      "most_influential_sample": "lego_propeller/OK/S0155/lego_propeller_0155_OK_00000000000000",
+      "most_influential_local_index": 24,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.3273519163763067,
+      "top5pct_removed_samples": [
+        "lego_propeller/OK/S0155/lego_propeller_0155_OK_00000000000000",
+        "lego_propeller/OK/S0064/lego_propeller_0064_OK_00000000000000",
+        "lego_propeller/OK/S0145/lego_propeller_0145_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": -0.21699112458453557,
+      "q_BH": 0.6682,
+      "q_BY": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "pair_index": 3,
+      "variables": [
+        "G1",
+        "A0"
+      ],
+      "n": 44,
+      "rho": 0.002677942212825934,
+      "permutation_p": 0.9871,
+      "permutations": 19999,
+      "loo_rho_min": -0.04590758079130172,
+      "loo_rho_max": 0.07429779522802779,
+      "max_single_removal_change": 0.07161985301520185,
+      "most_influential_sample": "lego_propeller/OK/S0229/lego_propeller_0229_OK_00000000000000",
+      "most_influential_local_index": 41,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.09878048780487808,
+      "top5pct_removed_samples": [
+        "lego_propeller/OK/S0229/lego_propeller_0229_OK_00000000000000",
+        "lego_propeller/OK/S0145/lego_propeller_0145_OK_00000000000000",
+        "lego_propeller/OK/S0058/lego_propeller_0058_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.45043907478620204,
+      "q_BH": 0.9871,
+      "q_BY": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "pair_index": 4,
+      "variables": [
+        "G1",
+        "A1"
+      ],
+      "n": 44,
+      "rho": 0.018463706835799856,
+      "permutation_p": 0.9066,
+      "permutations": 19999,
+      "loo_rho_min": -0.018876472364844455,
+      "loo_rho_max": 0.09121111446692841,
+      "max_single_removal_change": 0.07274740763112855,
+      "most_influential_sample": "lego_propeller/OK/S0229/lego_propeller_0229_OK_00000000000000",
+      "most_influential_local_index": 41,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.25871080139372826,
+      "top5pct_removed_samples": [
+        "lego_propeller/OK/S0229/lego_propeller_0229_OK_00000000000000",
+        "lego_propeller/OK/S0145/lego_propeller_0145_OK_00000000000000",
+        "lego_propeller/OK/S0155/lego_propeller_0155_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.33816324294427946,
+      "q_BH": 0.9637411764705882,
+      "q_BY": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "pair_index": 5,
+      "variables": [
+        "A0",
+        "A1"
+      ],
+      "n": 44,
+      "rho": 0.7343199436222692,
+      "permutation_p": 5e-05,
+      "permutations": 19999,
+      "loo_rho_min": 0.7153427967381455,
+      "loo_rho_max": 0.758381153729991,
+      "max_single_removal_change": 0.024061210107721887,
+      "most_influential_sample": "lego_propeller/OK/S0151/lego_propeller_0151_OK_00000000000000",
+      "most_influential_local_index": 22,
+      "top5pct_removed_count": 3,
+      "top5pct_loo_influence_removed_rho": 0.8027874564459933,
+      "top5pct_removed_samples": [
+        "lego_propeller/OK/S0151/lego_propeller_0151_OK_00000000000000",
+        "lego_propeller/OK/S0166/lego_propeller_0166_OK_00000000000000",
+        "lego_propeller/OK/S0086/lego_propeller_0086_OK_00000000000000"
+      ],
+      "pooled_rho_descriptive": 0.638148111430554,
+      "q_BH": 0.00018,
+      "q_BY": 0.0006291194540753365
+    }
+  ]
+}

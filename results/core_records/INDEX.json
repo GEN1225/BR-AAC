@@ -1,0 +1,106 @@
+[
+  {
+    "experiment": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030",
+    "original_file": "results.json",
+    "original_sha256": "a9975bff7f5e38641adee82e202ab53b4bb6c65e2786b517d8072e1cdc35bcad",
+    "included_file": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030__results.json",
+    "included_sha256": "873e1bdab718f0374feb5b0490e6710c0e5e4e798834528bdd60fa07bbd8d2d4",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030",
+    "original_file": "PAIRED_EXTERNAL_EFFECTS.json",
+    "original_sha256": "1afb4845f5ecf90a49e35fcb67de0845ab4290605cbc7832695d0bb62a114445",
+    "included_file": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030__PAIRED_EXTERNAL_EFFECTS.json",
+    "included_sha256": "90dc724abadbc29f795e877991e0260218d40c4b6287e51469ee11c549ed613f",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030",
+    "original_file": "INDEPENDENT_METRIC_AND_SELECTION_CHECK.json",
+    "original_sha256": "dbc041f46dc8413dd12f309db7a79efc62b0a7d69b6ecffd926653f7e233d7d5",
+    "included_file": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030__INDEPENDENT_METRIC_AND_SELECTION_CHECK.json",
+    "included_sha256": "c37827a8217f87f77f565c2b517122433dbcaef83f3dd513cd8ff43e1e829f1b",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030",
+    "original_file": "results.json",
+    "original_sha256": "754f5e25e790975fccb6c1ea15a01ae72094506656cf2f309abfcd80b0cb4d0f",
+    "included_file": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__results.json",
+    "included_sha256": "d33fc7c5b82be998d9155ee291a004fb5ddb4fa2491beab896c2340398e3b4c9",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030",
+    "original_file": "PAIRED_EFFECTS.json",
+    "original_sha256": "5b230ebc00b18e3146663f56563b9d1422193ac6b8b0f992e0c09eb1ee640f3a",
+    "included_file": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__PAIRED_EFFECTS.json",
+    "included_sha256": "ac0c7687ec346b54bdf42b1e626c3dc983a2e71c8f416e19e34e9bc7d2a24ed8",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030",
+    "original_file": "results.json",
+    "original_sha256": "cee9bdaa0cb5e17be368f594968f0314977da23546b9e7c9457abaa26aad8751",
+    "included_file": "EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030__results.json",
+    "included_sha256": "145c3cad2a4bdc229aad0798eb09b2f632671151af375382a4c81d6fa86d9cad",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030",
+    "original_file": "PAIRED_EFFECTS_AND_CLASS_SENSITIVITY.json",
+    "original_sha256": "8a9b891ef24a44c3c9bf4f6e967b5feef8e92b44098dc701f8e827784da5ab56",
+    "included_file": "EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030__PAIRED_EFFECTS_AND_CLASS_SENSITIVITY.json",
+    "included_sha256": "2317219255714fa9237ea8795c6a556870eee3bc6b043bf2de86800d5a36ad4a",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-SUPPORT-ROLE-STRATIFIED-FROZEN-EVIDENCE-DEV-20261030",
+    "original_file": "results.json",
+    "original_sha256": "e352c59fbaee574341b9e5d1cce0d3aac81bfa3cc2835b820904c4b6e07ff118",
+    "included_file": "EXP-P3-SUPPORT-ROLE-STRATIFIED-FROZEN-EVIDENCE-DEV-20261030__results.json",
+    "included_sha256": "e352c59fbaee574341b9e5d1cce0d3aac81bfa3cc2835b820904c4b6e07ff118",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CANONICAL-NORMAL-RGB-PD-FIXED-REPLICATION-DEV-20261030",
+    "original_file": "results_COHORT_CORRECTED.json",
+    "original_sha256": "4fd7b671bda099555abf6aec30491772310c9eed6f0ba2e866cf250774fd3dd2",
+    "included_file": "EXP-P3-CANONICAL-NORMAL-RGB-PD-FIXED-REPLICATION-DEV-20261030__results_COHORT_CORRECTED.json",
+    "included_sha256": "8730187a3f08719902cdea2635ffe83aea8753ea5fd3202bc3c7c6a8f7f09513",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CANONICAL-NORMAL-RGB-PD-FIXED-REPLICATION-DEV-20261030",
+    "original_file": "PAIRED_FIXED_REPLICATION_EFFECTS.json",
+    "original_sha256": "d93e64ca36439d13d5e7cf9598d84a1f1c9033f8ef288a7783886c81bf9e8414",
+    "included_file": "EXP-P3-CANONICAL-NORMAL-RGB-PD-FIXED-REPLICATION-DEV-20261030__PAIRED_FIXED_REPLICATION_EFFECTS.json",
+    "included_sha256": "61c5acd3e1f0a8417584f0587f37142eb75e07e1b53efe359e3709bbda55843d",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CANONICAL-GEOMETRY-NECESSARY-CONTROLS-DEV-20261030",
+    "original_file": "results.json",
+    "original_sha256": "a45793d64194944295bb0dbaec1c46ab792d409075a0bb059fc6161f928344fa",
+    "included_file": "EXP-P3-CANONICAL-GEOMETRY-NECESSARY-CONTROLS-DEV-20261030__results.json",
+    "included_sha256": "290f73345bd4d72531df29a7681058b5f4b78a6e055600842e80f4505d17ab15",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-CANONICAL-GEOMETRY-NECESSARY-CONTROLS-DEV-20261030",
+    "original_file": "PAIRED_GEOMETRY_CONTROL_EFFECTS.json",
+    "original_sha256": "b7b7a7751e51a88c20e6909f9eb9c3851d63af2d97abfc4da90ee8085b5393a9",
+    "included_file": "EXP-P3-CANONICAL-GEOMETRY-NECESSARY-CONTROLS-DEV-20261030__PAIRED_GEOMETRY_CONTROL_EFFECTS.json",
+    "included_sha256": "ff5e1954d5cf7a14421ac3172dc82624856e458a064d00b15eccdbd47a29b1f7",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  },
+  {
+    "experiment": "EXP-P3-SCALAR-GEOMETRY-NORMAL-RGB-COMBINATION-CPU-DEV-20261030",
+    "original_file": "PAIRED_TWO_FACTOR_EFFECTS.json",
+    "original_sha256": "60d164c088d2b6a5cadba53bb84fd79d97f201392fce7f9f81ff48bedfe140f2",
+    "included_file": "EXP-P3-SCALAR-GEOMETRY-NORMAL-RGB-COMBINATION-CPU-DEV-20261030__PAIRED_TWO_FACTOR_EFFECTS.json",
+    "included_sha256": "687415d1486da876efd27ce374ea2809b0c64889ce8c24f04d57249a3a604e75",
+    "transformation": "local paths in string values omitted; numeric values retained"
+  }
+]

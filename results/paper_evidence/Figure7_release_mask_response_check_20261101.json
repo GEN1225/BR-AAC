@@ -1,0 +1,50 @@
+[
+  {
+    "sample": "humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_00000000000000",
+    "mask_positive_cells56": 8,
+    "G_GLOBAL_FIXED": {
+      "Top49_cells_in_release_mask": 0,
+      "mask_cells_supported": 8,
+      "max_logit_in_mask": -8.9375,
+      "mean_logit_in_mask": -10.0625
+    },
+    "G_LOCAL_FIXED": {
+      "Top49_cells_in_release_mask": 1,
+      "mask_cells_supported": 8,
+      "max_logit_in_mask": 7.375,
+      "mean_logit_in_mask": -4.091796875
+    }
+  },
+  {
+    "sample": "humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_00000000000000",
+    "mask_positive_cells56": 33,
+    "G_GLOBAL_FIXED": {
+      "Top49_cells_in_release_mask": 11,
+      "mask_cells_supported": 31,
+      "max_logit_in_mask": -8.125,
+      "mean_logit_in_mask": -13.818548202514648
+    },
+    "G_LOCAL_FIXED": {
+      "Top49_cells_in_release_mask": 2,
+      "mask_cells_supported": 31,
+      "max_logit_in_mask": -8.1875,
+      "mean_logit_in_mask": -12.497983932495117
+    }
+  },
+  {
+    "sample": "audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_00000000000000",
+    "mask_positive_cells56": 16,
+    "G_GLOBAL_FIXED": {
+      "Top49_cells_in_release_mask": 4,
+      "mask_cells_supported": 13,
+      "max_logit_in_mask": 2.75,
+      "mean_logit_in_mask": -1.3806716203689575
+    },
+    "G_LOCAL_FIXED": {
+      "Top49_cells_in_release_mask": 1,
+      "mask_cells_supported": 13,
+      "max_logit_in_mask": 6.59375,
+      "mean_logit_in_mask": -1.826021671295166
+    }
+  }
+]

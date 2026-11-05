@@ -1,0 +1,506 @@
+{
+  "status": "COMPLETE",
+  "completed": "2026-10-29T19:07:13.397618+08:00",
+  "selected": "0.1",
+  "alpha": 1.536107977352291,
+  "C_OOF_Brier": {
+    "ALPHA_ZERO": 0.04342031109074604,
+    "0.01": 0.036050131434510434,
+    "0.1": 0.03561403477146063,
+    "1.0": 0.03673682060636362,
+    "10.0": 0.04099626199845557,
+    "100.0": 0.043076102110200076
+  },
+  "results": {
+    "ALL": {
+      "FIXED_G_RGB_RESIDUAL": {
+        "AUROC": 0.9996,
+        "Brier": 0.016495657193749874,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9987999999999999,
+            "Brier": 0.021681807783504724,
+            "normal_MSE": 0.035031631572066194,
+            "anomaly_MSE": 0.008331983994943252
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.027803717883677765,
+            "normal_MSE": 0.00015120194984386554,
+            "anomaly_MSE": 0.05545623381751166
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 1.4459140671279487e-06,
+            "normal_MSE": 2.775942243754862e-06,
+            "anomaly_MSE": 1.1588589050103502e-07
+          }
+        ]
+      },
+      "G_ONLY": {
+        "AUROC": 0.9985333333333334,
+        "Brier": 0.024475623451183693,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9987999999999999,
+            "Brier": 0.02743406419929169,
+            "normal_MSE": 0.023011393698159573,
+            "anomaly_MSE": 0.0318567347004238
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 0.9968,
+            "Brier": 0.045961741514962094,
+            "normal_MSE": 0.00230947060775073,
+            "anomaly_MSE": 0.08961401242217346
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 3.1064639297309405e-05,
+            "normal_MSE": 5.9605918338546906e-05,
+            "anomaly_MSE": 2.523360256071906e-06
+          }
+        ]
+      },
+      "REFIT_G_RGB": {
+        "AUROC": 0.9981333333333334,
+        "Brier": 0.022206853475576573,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9944000000000001,
+            "Brier": 0.04391591873592152,
+            "normal_MSE": 0.04741195102654008,
+            "anomaly_MSE": 0.04041988644530296
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.022003068928287746,
+            "normal_MSE": 0.0021515027563906394,
+            "anomaly_MSE": 0.041854635100184855
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 0.0007015727625204432,
+            "normal_MSE": 0.0005133129814415236,
+            "anomaly_MSE": 0.0008898325435993629
+          }
+        ]
+      },
+      "RGB_ONLY": {
+        "AUROC": 0.9778666666666668,
+        "Brier": 0.03800626749566666,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9336,
+            "Brier": 0.0894392301974888,
+            "normal_MSE": 0.07613843575680343,
+            "anomaly_MSE": 0.10274002463817417
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.024574652636364155,
+            "normal_MSE": 1.5237939546924026e-07,
+            "anomaly_MSE": 0.04914915289333284
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 4.919653147011521e-06,
+            "normal_MSE": 1.1754707834770713e-11,
+            "anomaly_MSE": 9.839294539315208e-06
+          }
+        ]
+      }
+    },
+    "KNOWN": {
+      "FIXED_G_RGB_RESIDUAL": {
+        "AUROC": 0.9992,
+        "Brier": 0.008333295197610707,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9975999999999999,
+            "Brier": 0.024658699024119428,
+            "normal_MSE": 0.035031631572066194,
+            "anomaly_MSE": 0.014285766476172659
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.0003397434747831221,
+            "normal_MSE": 0.00015120194984386554,
+            "anomaly_MSE": 0.0005282849997223786
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 1.4430939295705564e-06,
+            "normal_MSE": 2.775942243754862e-06,
+            "anomaly_MSE": 1.1024561538625074e-07
+          }
+        ]
+      },
+      "G_ONLY": {
+        "AUROC": 0.9992,
+        "Brier": 0.014997512220097918,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9975999999999999,
+            "Brier": 0.039601311199903545,
+            "normal_MSE": 0.023011393698159573,
+            "anomaly_MSE": 0.05619122870164752
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.005360243908445302,
+            "normal_MSE": 0.00230947060775073,
+            "anomaly_MSE": 0.008411017209139875
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 3.098155194491329e-05,
+            "normal_MSE": 5.9605918338546906e-05,
+            "anomaly_MSE": 2.3571855512796757e-06
+          }
+        ]
+      },
+      "REFIT_G_RGB": {
+        "AUROC": 0.9981333333333332,
+        "Brier": 0.015032919931119505,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9944,
+            "Brier": 0.04126196615092212,
+            "normal_MSE": 0.04741195102654008,
+            "anomaly_MSE": 0.03511198127530415
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.0031586921222810467,
+            "normal_MSE": 0.0021515027563906394,
+            "anomaly_MSE": 0.004165881488171454
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 0.0006781015201553475,
+            "normal_MSE": 0.0005133129814415236,
+            "anomaly_MSE": 0.0008428900588691714
+          }
+        ]
+      },
+      "RGB_ONLY": {
+        "AUROC": 0.9853333333333333,
+        "Brier": 0.014174673294403112,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9560000000000001,
+            "Brier": 0.04223976455143397,
+            "normal_MSE": 0.07613843575680343,
+            "anomaly_MSE": 0.008341093346064499
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.00027863876027043656,
+            "normal_MSE": 1.5237939546924026e-07,
+            "anomaly_MSE": 0.0005571251411454039
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 5.616571504935969e-06,
+            "normal_MSE": 1.1754707834770713e-11,
+            "anomaly_MSE": 1.1233131255164104e-05
+          }
+        ]
+      }
+    },
+    "EXCLUDED": {
+      "FIXED_G_RGB_RESIDUAL": {
+        "AUROC": 1.0,
+        "Brier": 0.024658018719866105,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 1.0,
+            "Brier": 0.01870491654289002,
+            "normal_MSE": 0.035031631572066194,
+            "anomaly_MSE": 0.002378201513713844
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.0552676922925724,
+            "normal_MSE": 0.00015120194984386554,
+            "anomaly_MSE": 0.11038418263530093
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 1.4473241359066447e-06,
+            "normal_MSE": 2.775942243754862e-06,
+            "anomaly_MSE": 1.1870602805842718e-07
+          }
+        ]
+      },
+      "G_ONLY": {
+        "AUROC": 0.9978666666666666,
+        "Brier": 0.03395372083437739,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 1.0,
+            "Brier": 0.015266817198679826,
+            "normal_MSE": 0.023011393698159573,
+            "anomaly_MSE": 0.007522240699200079
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 0.9936,
+            "Brier": 0.08656323912147884,
+            "normal_MSE": 0.00230947060775073,
+            "anomaly_MSE": 0.17081700763520696
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 3.110618297350746e-05,
+            "normal_MSE": 5.9605918338546906e-05,
+            "anomaly_MSE": 2.6064476084680205e-06
+          }
+        ]
+      },
+      "REFIT_G_RGB": {
+        "AUROC": 0.9981333333333334,
+        "Brier": 0.029376875146306127,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9944000000000001,
+            "Brier": 0.04656987132092093,
+            "normal_MSE": 0.04741195102654008,
+            "anomaly_MSE": 0.04572779161530177
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.040847445734294455,
+            "normal_MSE": 0.0021515027563906394,
+            "anomaly_MSE": 0.07954338871219827
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 0.0007133083837029912,
+            "normal_MSE": 0.0005133129814415236,
+            "anomaly_MSE": 0.000913303785964459
+          }
+        ]
+      },
+      "RGB_ONLY": {
+        "AUROC": 0.9704,
+        "Brier": 0.06183797784998985,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9112,
+            "Brier": 0.13663869584354363,
+            "normal_MSE": 0.07613843575680343,
+            "anomaly_MSE": 0.19713895593028383
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "Brier": 0.04887066651245789,
+            "normal_MSE": 1.5237939546924026e-07,
+            "anomaly_MSE": 0.09774118064552031
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "Brier": 4.571193968049299e-06,
+            "normal_MSE": 1.1754707834770713e-11,
+            "anomaly_MSE": 9.142376181390762e-06
+          }
+        ]
+      }
+    }
+  },
+  "contrasts": {
+    "ALL": {
+      "G_ONLY": {
+        "AUROC": {
+          "delta": 0.0010666666666666602,
+          "CI95": [
+            0.0,
+            0.0033333333333334103
+          ]
+        },
+        "Brier": {
+          "delta": -0.007979966257433819,
+          "CI95": [
+            -0.012933166626704889,
+            -0.0020190871715451077
+          ]
+        }
+      },
+      "REFIT_G_RGB": {
+        "AUROC": {
+          "delta": 0.0014666666666666162,
+          "CI95": [
+            0.0,
+            0.004933333333333237
+          ]
+        },
+        "Brier": {
+          "delta": -0.005711196281826699,
+          "CI95": [
+            -0.010132211082399032,
+            -0.001501499109138753
+          ]
+        }
+      },
+      "RGB_ONLY": {
+        "AUROC": {
+          "delta": 0.02173333333333327,
+          "CI95": [
+            0.0007999999999999119,
+            0.05280000000000007
+          ]
+        },
+        "Brier": {
+          "delta": -0.021510610301916783,
+          "CI95": [
+            -0.0367342731478104,
+            -0.008008428255239734
+          ]
+        }
+      }
+    },
+    "KNOWN": {
+      "G_ONLY": {
+        "AUROC": {
+          "delta": 0.0,
+          "CI95": [
+            0.0,
+            0.0
+          ]
+        },
+        "Brier": {
+          "delta": -0.006664217022487212,
+          "CI95": [
+            -0.01160249798635949,
+            -0.001008907039828065
+          ]
+        }
+      },
+      "REFIT_G_RGB": {
+        "AUROC": {
+          "delta": 0.0010666666666667712,
+          "CI95": [
+            0.0,
+            0.004266666666666641
+          ]
+        },
+        "Brier": {
+          "delta": -0.006699624733508798,
+          "CI95": [
+            -0.010294647767717687,
+            -0.004069493197464534
+          ]
+        }
+      },
+      "RGB_ONLY": {
+        "AUROC": {
+          "delta": 0.013866666666666694,
+          "CI95": [
+            0.0,
+            0.036533333333333314
+          ]
+        },
+        "Brier": {
+          "delta": -0.005841378096792405,
+          "CI95": [
+            -0.018725256442473893,
+            0.0030331724223786466
+          ]
+        }
+      }
+    },
+    "EXCLUDED": {
+      "G_ONLY": {
+        "AUROC": {
+          "delta": 0.0021333333333334314,
+          "CI95": [
+            0.0,
+            0.006666666666666599
+          ]
+        },
+        "Brier": {
+          "delta": -0.009295702114511289,
+          "CI95": [
+            -0.015406330150548752,
+            -0.002479559258076142
+          ]
+        }
+      },
+      "REFIT_G_RGB": {
+        "AUROC": {
+          "delta": 0.001866666666666572,
+          "CI95": [
+            0.0,
+            0.006666666666666821
+          ]
+        },
+        "Brier": {
+          "delta": -0.004718856426440023,
+          "CI95": [
+            -0.011322100475254364,
+            0.002371823070879894
+          ]
+        }
+      },
+      "RGB_ONLY": {
+        "AUROC": {
+          "delta": 0.02959999999999996,
+          "CI95": [
+            0.0018666666666666775,
+            0.06933333333333347
+          ]
+        },
+        "Brier": {
+          "delta": -0.037179959130123744,
+          "CI95": [
+            -0.058820368390002126,
+            -0.017547468784183073
+          ]
+        }
+      }
+    }
+  },
+  "actual": {
+    "base_fits": 49,
+    "residual_fits": 16,
+    "total_fits": 65
+  },
+  "NN_updates": 0,
+  "new_image_forwards": 0,
+  "scope": "Original C63 known-type labels only; no pit/impact/Eye/SiM/new labels. Existing350 historically exposed DEV, not confirmation. RGB feature means/scales and base geometry heads learned only in training fold. OuterC3fold selection; within each outer train fold a separate3fold chooses baseG L2 among original5, then refit baseG in outertrain. This avoids using outerC outcome to choose its geometry base. FullC geometry L2 reuses prior C3fold selection, final head reproduced. 5000 paired within-category/label acquisition-group bootstrap;fixed3classes/frozen models/selected heads, no training/selection/physical-unit proof/multiple-comparison correction. Exploratory. Freeze selection/all coefficients and C curves before DEV arrays; evaluate only selected rule and fixed controls once. No alpha-grid onV or class routing. Even if selected alpha0 report it as no added RGB evidence. No Eye optimization or downloads."
+}

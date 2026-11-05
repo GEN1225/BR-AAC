@@ -1,0 +1,2216 @@
+{
+  "created": "2026-10-27T12:23:08.590882+08:00",
+  "status": "COMPLETE_FROZEN_SIM3D_INDEPENDENT_COMPARISON",
+  "object_states": 35,
+  "normal_states": 16,
+  "bad_states": 19,
+  "conservative_identity_groups": {
+    "plastic_stool": 11,
+    "wooden_stool": 8
+  },
+  "actual_test_views": 420,
+  "view_counts": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12
+  ],
+  "metrics": {
+    "SEED1__ORIGINAL__PAIR_ACT__C0MEM": {
+      "AUROC": 0.8732954545454545,
+      "Brier": 0.3091511810525601,
+      "normal_MSE": 0.6145838865424278,
+      "anomaly_MSE": 0.003718475562692578,
+      "standard_Brier": 0.28417809955771767,
+      "standard_pooled_Brier": 0.3020904968811295,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8090909090909091,
+          "Brier": 0.3924002483213439,
+          "normal_MSE": 0.7842636533992554,
+          "anomaly_MSE": 0.0005368432434324139,
+          "standard_Brier": 0.3737400861747766
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.2259021137837764,
+          "normal_MSE": 0.44490411968560006,
+          "anomaly_MSE": 0.0069001078819527426,
+          "standard_Brier": 0.19461611294065875
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8164483375420875,
+        "Brier": 0.24169042250292672,
+        "normal_MSE": 0.4485892471671034,
+        "anomaly_MSE": 0.03479159783875001
+      }
+    },
+    "SEED1__ORIGINAL__PAIR_IND__C0MEM": {
+      "AUROC": 0.8823863636363636,
+      "Brier": 0.37131237746422396,
+      "normal_MSE": 0.7388996267498749,
+      "anomaly_MSE": 0.0037251281785729406,
+      "standard_Brier": 0.34056315815239413,
+      "standard_pooled_Brier": 0.35951091134109836,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8272727272727274,
+          "Brier": 0.45706516896774974,
+          "normal_MSE": 0.9140933112762789,
+          "anomaly_MSE": 3.702665922053557e-05,
+          "standard_Brier": 0.43530192409591484
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.28555958596069814,
+          "normal_MSE": 0.5637059422234709,
+          "anomaly_MSE": 0.0074132296979253455,
+          "standard_Brier": 0.24582439220887348
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8319049873737375,
+        "Brier": 0.28839126962782213,
+        "normal_MSE": 0.556586965478772,
+        "anomaly_MSE": 0.020195573776872276
+      }
+    },
+    "SEED1__ORIGINAL__POP_ENERGY__C0MEM": {
+      "AUROC": 0.8875,
+      "Brier": 0.4579980095066636,
+      "normal_MSE": 0.9154292123174017,
+      "anomaly_MSE": 0.0005668066959254992,
+      "standard_Brier": 0.4154050102870913,
+      "standard_pooled_Brier": 0.4233576310334222,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9,
+          "Brier": 0.47792242948642194,
+          "normal_MSE": 0.9557630543076187,
+          "anomaly_MSE": 8.180466522518419e-05,
+          "standard_Brier": 0.4551681140187459
+        },
+        "wooden_stool": {
+          "AUROC": 0.875,
+          "Brier": 0.4380735895269053,
+          "normal_MSE": 0.8750953703271848,
+          "anomaly_MSE": 0.0010518087266258142,
+          "standard_Brier": 0.3756419065554368
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8073271780303032,
+        "Brier": 0.4037204036195928,
+        "normal_MSE": 0.7982910608986773,
+        "anomaly_MSE": 0.009149746340508337
+      }
+    },
+    "SEED1__ORIGINAL__CFM_PRODUCT__C0MEM": {
+      "AUROC": 0.9272727272727274,
+      "Brier": 0.16538522129416522,
+      "normal_MSE": 0.2701659855303214,
+      "anomaly_MSE": 0.06060445705800904,
+      "standard_Brier": 0.15690800192723967,
+      "standard_pooled_Brier": 0.16943189657438493,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8545454545454547,
+          "Brier": 0.22601893640120574,
+          "normal_MSE": 0.3623396224042368,
+          "anomaly_MSE": 0.0896982503981747,
+          "standard_Brier": 0.2195274751629662
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.10475150618712471,
+          "normal_MSE": 0.17799234865640604,
+          "anomaly_MSE": 0.0315106637178434,
+          "standard_Brier": 0.09428852869151313
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8615885416666665,
+        "Brier": 0.15700527804099326,
+        "normal_MSE": 0.07588692856066194,
+        "anomaly_MSE": 0.23812362752132457
+      }
+    },
+    "SEED1__ORIGINAL__CFM_AUTHOR__C0MEM": {
+      "AUROC": 0.8772727272727272,
+      "Brier": 0.18717202090424814,
+      "normal_MSE": 0.30548614671441227,
+      "anomaly_MSE": 0.06885789509408399,
+      "standard_Brier": 0.1770686039914098,
+      "standard_pooled_Brier": 0.1907896757629944,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.7545454545454545,
+          "Brier": 0.252472563909375,
+          "normal_MSE": 0.3952431861702629,
+          "anomaly_MSE": 0.1097019416484871,
+          "standard_Brier": 0.24567396284933268
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.12187147789912127,
+          "normal_MSE": 0.21572910725856165,
+          "anomaly_MSE": 0.028013848539680895,
+          "standard_Brier": 0.10846324513348693
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8304779566498317,
+        "Brier": 0.1703512675479779,
+        "normal_MSE": 0.10072940858006528,
+        "anomaly_MSE": 0.23997312651589053
+      }
+    },
+    "SEED1__ORIGINAL__G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.21909254492058122,
+      "normal_MSE": 0.42569557003768116,
+      "anomaly_MSE": 0.012489519803481265,
+      "standard_Brier": 0.2045167596847563,
+      "standard_pooled_Brier": 0.22385916961714866,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.31616774198476477,
+          "normal_MSE": 0.6298853273837414,
+          "anomaly_MSE": 0.0024501565857881387,
+          "standard_Brier": 0.30122880934671825
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.12201734785639769,
+          "normal_MSE": 0.22150581269162098,
+          "anomaly_MSE": 0.02252888302117439,
+          "standard_Brier": 0.10780471002279436
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9433238636363638,
+        "Brier": 0.13580399408333224,
+        "normal_MSE": 0.1786373065414719,
+        "anomaly_MSE": 0.09297068162519259
+      }
+    },
+    "SEED1__ORIGINAL__CONDITIONAL__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.1937558516490223,
+      "normal_MSE": 0.3699686853868924,
+      "anomaly_MSE": 0.017543017911152186,
+      "standard_Brier": 0.18121490088560815,
+      "standard_pooled_Brier": 0.19637713743398053,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.2696583948266088,
+          "normal_MSE": 0.5349369300085222,
+          "anomaly_MSE": 0.004379859644695475,
+          "standard_Brier": 0.2570260836274701
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.11785330847143577,
+          "normal_MSE": 0.20500044076526264,
+          "anomaly_MSE": 0.030706176177608895,
+          "standard_Brier": 0.10540371814374623
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9508680555555555,
+        "Brier": 0.1256232997163813,
+        "normal_MSE": 0.14314290327974893,
+        "anomaly_MSE": 0.10810369615301368
+      }
+    },
+    "SEED1__ORIGINAL__GAP_G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.21130623935537537,
+      "normal_MSE": 0.410834971565996,
+      "anomaly_MSE": 0.011777507144754699,
+      "standard_Brier": 0.1980850267133448,
+      "standard_pooled_Brier": 0.21992147169183873,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.32255014356530115,
+          "normal_MSE": 0.6434908747145206,
+          "anomaly_MSE": 0.001609412416081662,
+          "standard_Brier": 0.30726725160581453
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.10006233514544959,
+          "normal_MSE": 0.17817906841747144,
+          "anomaly_MSE": 0.021945601873427735,
+          "standard_Brier": 0.08890280182087507
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.943898621632997,
+        "Brier": 0.13984976473703478,
+        "normal_MSE": 0.17931304098142464,
+        "anomaly_MSE": 0.10038648849264495
+      }
+    },
+    "SEED1__ORIGINAL__RGB_ONLY": {
+      "AUROC": 0.8909090909090909,
+      "Brier": 0.2000994076718228,
+      "normal_MSE": 0.3453845988167726,
+      "anomaly_MSE": 0.05481421652687303,
+      "standard_Brier": 0.18724217472055518,
+      "standard_pooled_Brier": 0.19860459505931918,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.7818181818181819,
+          "Brier": 0.25195207076952897,
+          "normal_MSE": 0.41780575222775895,
+          "anomaly_MSE": 0.08609838931129903,
+          "standard_Brier": 0.2440542764143751
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.14824674457411663,
+          "normal_MSE": 0.2729634454057862,
+          "anomaly_MSE": 0.02353004374244703,
+          "standard_Brier": 0.13043007302673526
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8444668034511784,
+        "Brier": 0.15873364903541223,
+        "normal_MSE": 0.10950912897977469,
+        "anomaly_MSE": 0.2079581690910498
+      }
+    },
+    "SEED1__KDE_LOGODDS__PAIR_ACT__C0MEM": {
+      "AUROC": 0.8732954545454545,
+      "Brier": 0.3586287958122343,
+      "normal_MSE": 0.7172552792191236,
+      "anomaly_MSE": 2.3124053449769233e-06,
+      "standard_Brier": 0.33002087304028915,
+      "standard_pooled_Brier": 0.3545144264341267,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8090909090909091,
+          "Brier": 0.47511307200994424,
+          "normal_MSE": 0.9502261440197644,
+          "anomaly_MSE": 1.2415121306426728e-13,
+          "standard_Brier": 0.4524886400094767
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.24214451961452432,
+          "normal_MSE": 0.48428441441848286,
+          "anomaly_MSE": 4.6248105658026334e-06,
+          "standard_Brier": 0.20755310607110164
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8164483375420875,
+        "Brier": 0.26158519500798444,
+        "normal_MSE": 0.4970293148625331,
+        "anomaly_MSE": 0.026141075153435785
+      }
+    },
+    "SEED1__KDE_LOGODDS__PAIR_IND__C0MEM": {
+      "AUROC": 0.8823863636363636,
+      "Brier": 0.45555299913256314,
+      "normal_MSE": 0.9111054913466892,
+      "anomaly_MSE": 5.069184370788616e-07,
+      "standard_Brier": 0.414259499507835,
+      "standard_pooled_Brier": 0.42654931094399884,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8272727272727274,
+          "Brier": 0.4994939845230872,
+          "normal_MSE": 0.9989879690461744,
+          "anomaly_MSE": 3.243328974772324e-18,
+          "standard_Brier": 0.4757085566886544
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.4116120137420391,
+          "normal_MSE": 0.8232230136472041,
+          "anomaly_MSE": 1.0138368741544798e-06,
+          "standard_Brier": 0.3528104423270156
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8319049873737375,
+        "Brier": 0.331940016341955,
+        "normal_MSE": 0.655477762926409,
+        "anomaly_MSE": 0.008402269757500979
+      }
+    },
+    "SEED1__KDE_LOGODDS__POP_ENERGY__C0MEM": {
+      "AUROC": 0.8875,
+      "Brier": 0.4999773566637793,
+      "normal_MSE": 0.9999547133274302,
+      "anomaly_MSE": 1.2828756911957594e-13,
+      "standard_Brier": 0.45236113953256,
+      "standard_pooled_Brier": 0.4571253897661193,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9,
+          "Brier": 0.49999151023537314,
+          "normal_MSE": 0.9999830204707232,
+          "anomaly_MSE": 2.3137185982828525e-14,
+          "standard_Brier": 0.4761823907003564
+        },
+        "wooden_stool": {
+          "AUROC": 0.875,
+          "Brier": 0.4999632030921854,
+          "normal_MSE": 0.9999264061841373,
+          "anomaly_MSE": 2.334379522563234e-13,
+          "standard_Brier": 0.42853988836476364
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8073271780303032,
+        "Brier": 0.4778792090550198,
+        "normal_MSE": 0.9545137657972873,
+        "anomaly_MSE": 0.001244652312752266
+      }
+    },
+    "SEED1__KDE_LOGODDS__CFM_PRODUCT__C0MEM": {
+      "AUROC": 0.9272727272727274,
+      "Brier": 0.1372309385713393,
+      "normal_MSE": 0.2348509456571595,
+      "anomaly_MSE": 0.03961093148551911,
+      "standard_Brier": 0.13099262443046428,
+      "standard_pooled_Brier": 0.15123432838433185,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8545454545454547,
+          "Brier": 0.23990854535690143,
+          "normal_MSE": 0.4017639696559857,
+          "anomaly_MSE": 0.07805312105781716,
+          "standard_Brier": 0.23220114419980226
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.03455333178577718,
+          "normal_MSE": 0.06793792165833329,
+          "anomaly_MSE": 0.0011687419132210657,
+          "standard_Brier": 0.02978410466112631
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8615885416666665,
+        "Brier": 0.16260936848903193,
+        "normal_MSE": 0.04662289362883192,
+        "anomaly_MSE": 0.27859584334923193
+      }
+    },
+    "SEED1__KDE_LOGODDS__CFM_AUTHOR__C0MEM": {
+      "AUROC": 0.8772727272727272,
+      "Brier": 0.13484361757085067,
+      "normal_MSE": 0.1918694289776066,
+      "anomaly_MSE": 0.07781780616409475,
+      "standard_Brier": 0.12942263757092284,
+      "standard_pooled_Brier": 0.1452389623412778,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.7545454545454545,
+          "Brier": 0.21122982590944922,
+          "normal_MSE": 0.26846668013123276,
+          "anomaly_MSE": 0.15399297168766568,
+          "standard_Brier": 0.2085042614226976
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.05845740923225212,
+          "normal_MSE": 0.11527217782398042,
+          "anomaly_MSE": 0.001642640640523833,
+          "standard_Brier": 0.05034101371914808
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8304779566498317,
+        "Brier": 0.1763135337144575,
+        "normal_MSE": 0.04860559778440807,
+        "anomaly_MSE": 0.30402146964450694
+      }
+    },
+    "SEED1__KDE_LOGODDS__G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.2621016232950156,
+      "normal_MSE": 0.5241822098336462,
+      "anomaly_MSE": 2.103675638506803e-05,
+      "standard_Brier": 0.24302905775301337,
+      "standard_pooled_Brier": 0.2678975216815468,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.38573889564491126,
+          "normal_MSE": 0.7714567788787554,
+          "anomaly_MSE": 2.1012411067148763e-05,
+          "standard_Brier": 0.36737137739568065
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.13846435094511989,
+          "normal_MSE": 0.2769076407885368,
+          "anomaly_MSE": 2.10611017029873e-05,
+          "standard_Brier": 0.1186867381103461
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9433238636363638,
+        "Brier": 0.13476974270115782,
+        "normal_MSE": 0.1965699132424724,
+        "anomaly_MSE": 0.07296957215984327
+      }
+    },
+    "SEED1__KDE_LOGODDS__CONDITIONAL__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.20960890406991864,
+      "normal_MSE": 0.41908826060644677,
+      "anomaly_MSE": 0.00012954753339048286,
+      "standard_Brier": 0.19450014329630633,
+      "standard_pooled_Brier": 0.21490214704746063,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.31132702364082665,
+          "normal_MSE": 0.6224811170045518,
+          "anomaly_MSE": 0.00017293027710152127,
+          "standard_Brier": 0.2965101620520779
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.10789078449901063,
+          "normal_MSE": 0.21569540420834182,
+          "anomaly_MSE": 8.616478967944443e-05,
+          "standard_Brier": 0.09249012454053476
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9508680555555555,
+        "Brier": 0.10637605108166716,
+        "normal_MSE": 0.12200222727253657,
+        "anomaly_MSE": 0.09074987489079775
+      }
+    },
+    "SEED1__KDE_LOGODDS__GAP_G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.2174071077066898,
+      "normal_MSE": 0.4345509882173679,
+      "anomaly_MSE": 0.00026322719601172393,
+      "standard_Brier": 0.20558188653209777,
+      "standard_pooled_Brier": 0.2412468633595237,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.40310210385330375,
+          "normal_MSE": 0.8062041007189055,
+          "anomaly_MSE": 1.0698770202666081e-07,
+          "standard_Brier": 0.38390677066922746
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.031712111560075834,
+          "normal_MSE": 0.06289787571583025,
+          "anomaly_MSE": 0.0005263474043214212,
+          "standard_Brier": 0.027257002394968064
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.943898621632997,
+        "Brier": 0.15480511526179203,
+        "normal_MSE": 0.189981597904318,
+        "anomaly_MSE": 0.119628632619266
+      }
+    },
+    "SEED1__KDE_LOGODDS__RGB_ONLY": {
+      "AUROC": 0.8909090909090909,
+      "Brier": 0.22393414635631437,
+      "normal_MSE": 0.40970212332624906,
+      "anomaly_MSE": 0.03816616938637974,
+      "standard_Brier": 0.20578458035052136,
+      "standard_pooled_Brier": 0.2134415771838903,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.7818181818181819,
+          "Brier": 0.25245828093584943,
+          "normal_MSE": 0.4286213257240008,
+          "anomaly_MSE": 0.07629523614769812,
+          "standard_Brier": 0.24406956451736597
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.19541001177677933,
+          "normal_MSE": 0.3907829209284973,
+          "anomaly_MSE": 3.710262506135527e-05,
+          "standard_Brier": 0.16749959618367674
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8444668034511784,
+        "Brier": 0.14542844573870298,
+        "normal_MSE": 0.10244364310523874,
+        "anomaly_MSE": 0.18841324837216722
+      }
+    },
+    "SEED115__ORIGINAL__PAIR_ACT__C0MEM": {
+      "AUROC": 0.8732954545454545,
+      "Brier": 0.2968105299669862,
+      "normal_MSE": 0.5897713201438263,
+      "anomaly_MSE": 0.003849739790146078,
+      "standard_Brier": 0.2735584065419294,
+      "standard_pooled_Brier": 0.2933619477099706,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8090909090909091,
+          "Brier": 0.3911755304109128,
+          "normal_MSE": 0.7817633090152405,
+          "anomaly_MSE": 0.0005877518065851488,
+          "standard_Brier": 0.3725761123821353
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.20244552952305955,
+          "normal_MSE": 0.3977793312724121,
+          "anomaly_MSE": 0.007111727773707007,
+          "standard_Brier": 0.17454070070172353
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.818911773989899,
+        "Brier": 0.23865336164343484,
+        "normal_MSE": 0.4428694950088262,
+        "anomaly_MSE": 0.03443722827804348
+      }
+    },
+    "SEED115__ORIGINAL__PAIR_IND__C0MEM": {
+      "AUROC": 0.8823863636363636,
+      "Brier": 0.3704367380468963,
+      "normal_MSE": 0.737074931581887,
+      "anomaly_MSE": 0.003798544511905669,
+      "standard_Brier": 0.33983881368647023,
+      "standard_pooled_Brier": 0.3589937174707543,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8272727272727274,
+          "Brier": 0.4573922930381774,
+          "normal_MSE": 0.9147504620742025,
+          "anomaly_MSE": 3.412400215230077e-05,
+          "standard_Brier": 0.4356133326078905
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.2834811830556152,
+          "normal_MSE": 0.5593994010895714,
+          "anomaly_MSE": 0.007562965021659037,
+          "standard_Brier": 0.24406429476504998
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8323390151515153,
+        "Brier": 0.2859398102312492,
+        "normal_MSE": 0.5499223035387872,
+        "anomaly_MSE": 0.021957316923711147
+      }
+    },
+    "SEED115__ORIGINAL__POP_ENERGY__C0MEM": {
+      "AUROC": 0.8875,
+      "Brier": 0.45345869879093514,
+      "normal_MSE": 0.9061924696554522,
+      "anomaly_MSE": 0.0007249279264180974,
+      "standard_Brier": 0.41138540504947574,
+      "standard_pooled_Brier": 0.4195427439635885,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9,
+          "Brier": 0.4747750588592254,
+          "normal_MSE": 0.9494372028821294,
+          "anomaly_MSE": 0.00011291483632133992,
+          "standard_Brier": 0.45217209962003946
+        },
+        "wooden_stool": {
+          "AUROC": 0.875,
+          "Brier": 0.4321423387226449,
+          "normal_MSE": 0.862947736428775,
+          "anomaly_MSE": 0.001336941016514855,
+          "standard_Brier": 0.370598710478912
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8073271780303032,
+        "Brier": 0.3984409463258846,
+        "normal_MSE": 0.786886461899666,
+        "anomaly_MSE": 0.00999543075210323
+      }
+    },
+    "SEED115__ORIGINAL__CFM_PRODUCT__C0MEM": {
+      "AUROC": 0.9318181818181819,
+      "Brier": 0.11845306984593851,
+      "normal_MSE": 0.18107705049912323,
+      "anomaly_MSE": 0.0558290891927538,
+      "standard_Brier": 0.11452430721308751,
+      "standard_pooled_Brier": 0.1282000915363952,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8636363636363638,
+          "Brier": 0.18792074914722998,
+          "normal_MSE": 0.29328867581691304,
+          "anomaly_MSE": 0.08255282247754692,
+          "standard_Brier": 0.18290322882962604
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.04898539054464704,
+          "normal_MSE": 0.06886542518133341,
+          "anomaly_MSE": 0.02910535590796067,
+          "standard_Brier": 0.046145385596548995
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8898792613636364,
+        "Brier": 0.1455010119445403,
+        "normal_MSE": 0.05628930726995083,
+        "anomaly_MSE": 0.23471271661912974
+      }
+    },
+    "SEED115__ORIGINAL__CFM_AUTHOR__C0MEM": {
+      "AUROC": 0.8954545454545455,
+      "Brier": 0.15908950381592274,
+      "normal_MSE": 0.2560492710204586,
+      "anomaly_MSE": 0.06212973661138689,
+      "standard_Brier": 0.15064145853399968,
+      "standard_pooled_Brier": 0.1621625639120338,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.790909090909091,
+          "Brier": 0.21365033545718082,
+          "normal_MSE": 0.32712068615040374,
+          "anomaly_MSE": 0.10017998476395788,
+          "standard_Brier": 0.20824698542417022
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.10452867217466469,
+          "normal_MSE": 0.18497785589051347,
+          "anomaly_MSE": 0.024079488458815905,
+          "standard_Brier": 0.09303593164382916
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8584411826599326,
+        "Brier": 0.15835776933693843,
+        "normal_MSE": 0.08309274061067093,
+        "anomaly_MSE": 0.23362279806320593
+      }
+    },
+    "SEED115__ORIGINAL__G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.17870992725937956,
+      "normal_MSE": 0.3444578550571017,
+      "anomaly_MSE": 0.012961999461657391,
+      "standard_Brier": 0.1689853204644315,
+      "standard_pooled_Brier": 0.19150211115090268,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.295522942501514,
+          "normal_MSE": 0.588549983200772,
+          "anomaly_MSE": 0.0024959018022560208,
+          "standard_Brier": 0.2815692738967874
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.06189691201724509,
+          "normal_MSE": 0.10036572691343143,
+          "anomaly_MSE": 0.023428097121058762,
+          "standard_Brier": 0.05640136703207562
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9512770938552191,
+        "Brier": 0.12576315399219995,
+        "normal_MSE": 0.15326217009837664,
+        "anomaly_MSE": 0.09826413788602328
+      }
+    },
+    "SEED115__ORIGINAL__CONDITIONAL__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.16570959523004827,
+      "normal_MSE": 0.31533319735672727,
+      "anomaly_MSE": 0.016085993103369257,
+      "standard_Brier": 0.15659715663192736,
+      "standard_pooled_Brier": 0.1750968774952475,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.2613581226542183,
+          "normal_MSE": 0.5188677184737159,
+          "anomaly_MSE": 0.00384852683472069,
+          "standard_Brier": 0.24909576094852795
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.07006106780587824,
+          "normal_MSE": 0.11179867623973866,
+          "anomaly_MSE": 0.028323459372017825,
+          "standard_Brier": 0.06409855231532675
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9601970223063974,
+        "Brier": 0.11530688202107345,
+        "normal_MSE": 0.12439088830189143,
+        "anomaly_MSE": 0.10622287574025548
+      }
+    },
+    "SEED115__ORIGINAL__GAP_G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.18269443246086806,
+      "normal_MSE": 0.35378991536490323,
+      "anomaly_MSE": 0.011598949556832905,
+      "standard_Brier": 0.17315249246793293,
+      "standard_pooled_Brier": 0.1984381562984078,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.3144810834708057,
+          "normal_MSE": 0.6273867923312734,
+          "anomaly_MSE": 0.0015753746103381106,
+          "standard_Brier": 0.2995808116203073
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.050907781450930396,
+          "normal_MSE": 0.08019303839853309,
+          "anomaly_MSE": 0.0216225245033277,
+          "standard_Brier": 0.04672417331555857
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9511666140572395,
+        "Brier": 0.13207969937045025,
+        "normal_MSE": 0.16239636916873157,
+        "anomaly_MSE": 0.1017630295721689
+      }
+    },
+    "SEED115__ORIGINAL__RGB_ONLY": {
+      "AUROC": 0.9090909090909092,
+      "Brier": 0.14865739105008485,
+      "normal_MSE": 0.23938444438859155,
+      "anomaly_MSE": 0.057930337711578135,
+      "standard_Brier": 0.14145338857100373,
+      "standard_pooled_Brier": 0.1534335541184668,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8181818181818182,
+          "Brier": 0.20711122144902439,
+          "normal_MSE": 0.3280083294038413,
+          "anomaly_MSE": 0.08621411349420752,
+          "standard_Brier": 0.20135421630831882
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.09020356065114529,
+          "normal_MSE": 0.15076055937334182,
+          "anomaly_MSE": 0.029646561928948757,
+          "standard_Brier": 0.08155256083368864
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8731968118686869,
+        "Brier": 0.14542751726780737,
+        "normal_MSE": 0.0892642022704964,
+        "anomaly_MSE": 0.2015908322651183
+      }
+    },
+    "SEED115__KDE_LOGODDS__PAIR_ACT__C0MEM": {
+      "AUROC": 0.8732954545454545,
+      "Brier": 0.3495126790233023,
+      "normal_MSE": 0.6990252169479529,
+      "anomaly_MSE": 1.4109865160680103e-07,
+      "standard_Brier": 0.3228824015763848,
+      "standard_pooled_Brier": 0.3515062617160957,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8090909090909091,
+          "Brier": 0.48930178738868624,
+          "normal_MSE": 0.9786035747773725,
+          "anomaly_MSE": 5.480649905475196e-19,
+          "standard_Brier": 0.46600170227493926
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.2097235706579183,
+          "normal_MSE": 0.4194468591185334,
+          "anomaly_MSE": 2.8219730321305397e-07,
+          "standard_Brier": 0.17976310087783043
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.818911773989899,
+        "Brier": 0.26503903942394613,
+        "normal_MSE": 0.5064377174985017,
+        "anomaly_MSE": 0.02364036134939062
+      }
+    },
+    "SEED115__KDE_LOGODDS__PAIR_IND__C0MEM": {
+      "AUROC": 0.8823863636363636,
+      "Brier": 0.4330499895557251,
+      "normal_MSE": 0.8660672632999363,
+      "anomaly_MSE": 3.271581151387346e-05,
+      "standard_Brier": 0.3949205657586995,
+      "standard_pooled_Brier": 0.4108571995584069,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8272727272727274,
+          "Brier": 0.49833392149509803,
+          "normal_MSE": 0.9966678429901941,
+          "anomaly_MSE": 2.0225986379665982e-15,
+          "standard_Brier": 0.47460373475723633
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.36776605761635217,
+          "normal_MSE": 0.7354666836096786,
+          "anomaly_MSE": 6.543162302572433e-05,
+          "standard_Brier": 0.31523739676016266
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8323390151515153,
+        "Brier": 0.31660891899245913,
+        "normal_MSE": 0.619541894924122,
+        "anomaly_MSE": 0.01367594306079611
+      }
+    },
+    "SEED115__KDE_LOGODDS__POP_ENERGY__C0MEM": {
+      "AUROC": 0.8875,
+      "Brier": 0.4996951610339416,
+      "normal_MSE": 0.9993903214653237,
+      "anomaly_MSE": 6.025595220909759e-10,
+      "standard_Brier": 0.4521179956257946,
+      "standard_pooled_Brier": 0.45692582654331376,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9,
+          "Brier": 0.4999650077240123,
+          "normal_MSE": 0.9999300154470707,
+          "anomaly_MSE": 9.538821927475286e-13,
+          "standard_Brier": 0.47615715021339045
+        },
+        "wooden_stool": {
+          "AUROC": 0.875,
+          "Brier": 0.4994253143438709,
+          "normal_MSE": 0.9988506274835766,
+          "anomaly_MSE": 1.2041651619892043e-09,
+          "standard_Brier": 0.42807884103819865
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8073271780303032,
+        "Brier": 0.47026992645507987,
+        "normal_MSE": 0.9384126278801193,
+        "anomaly_MSE": 0.0021272250300404284
+      }
+    },
+    "SEED115__KDE_LOGODDS__CFM_PRODUCT__C0MEM": {
+      "AUROC": 0.9318181818181819,
+      "Brier": 0.12857754339351954,
+      "normal_MSE": 0.22012669539331042,
+      "anomaly_MSE": 0.03702839139372866,
+      "standard_Brier": 0.12367130962927134,
+      "standard_pooled_Brier": 0.14643107044322742,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8636363636363638,
+          "Brier": 0.24564233022048787,
+          "normal_MSE": 0.41725887717064847,
+          "anomaly_MSE": 0.07402578327032726,
+          "standard_Brier": 0.23747011369905163
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.011512756566551216,
+          "normal_MSE": 0.02299451361597236,
+          "anomaly_MSE": 3.09995171300714e-05,
+          "standard_Brier": 0.009872505559491054
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8898792613636364,
+        "Brier": 0.14441044732202218,
+        "normal_MSE": 0.04892634725629461,
+        "anomaly_MSE": 0.23989454738774973
+      }
+    },
+    "SEED115__KDE_LOGODDS__CFM_AUTHOR__C0MEM": {
+      "AUROC": 0.8954545454545455,
+      "Brier": 0.13102329716948832,
+      "normal_MSE": 0.19167410870276155,
+      "anomaly_MSE": 0.07037248563621507,
+      "standard_Brier": 0.12525496600278202,
+      "standard_pooled_Brier": 0.13974717556894192,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.790909090909091,
+          "Brier": 0.2006120843144858,
+          "normal_MSE": 0.2614295644134738,
+          "anomaly_MSE": 0.13979460421549778,
+          "standard_Brier": 0.19771601383358156
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.06143451002449083,
+          "normal_MSE": 0.12191865299204929,
+          "anomaly_MSE": 0.0009503670569323653,
+          "standard_Brier": 0.052793918171982486
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8584411826599326,
+        "Brier": 0.16792258854551192,
+        "normal_MSE": 0.04634440786581633,
+        "anomaly_MSE": 0.2895007692252075
+      }
+    },
+    "SEED115__KDE_LOGODDS__G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.2210826298693255,
+      "normal_MSE": 0.4421625283325703,
+      "anomaly_MSE": 2.7314060806837083e-06,
+      "standard_Brier": 0.20778423784431882,
+      "standard_pooled_Brier": 0.2393654586862111,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.38397479266637996,
+          "normal_MSE": 0.7679482555309743,
+          "anomaly_MSE": 1.329801785586386e-06,
+          "standard_Brier": 0.3656903420537802
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.05819046707227105,
+          "normal_MSE": 0.11637680113416632,
+          "anomaly_MSE": 4.1330103757810306e-06,
+          "standard_Brier": 0.049878133634857436
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9512770938552191,
+        "Brier": 0.12859233427635997,
+        "normal_MSE": 0.19438250621076275,
+        "anomaly_MSE": 0.06280216234195718
+      }
+    },
+    "SEED115__KDE_LOGODDS__CONDITIONAL__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.1921420108048639,
+      "normal_MSE": 0.3842353517355587,
+      "anomaly_MSE": 4.866987416914467e-05,
+      "standard_Brier": 0.18042753012460885,
+      "standard_pooled_Brier": 0.20726304546081598,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.33033253197263146,
+          "normal_MSE": 0.6606084604793592,
+          "anomaly_MSE": 5.6603465903778665e-05,
+          "standard_Brier": 0.31460510680564446
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.05395148963709634,
+          "normal_MSE": 0.10786224299175817,
+          "anomaly_MSE": 4.073628243451067e-05,
+          "standard_Brier": 0.04624995344357322
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9601970223063974,
+        "Brier": 0.10339897747862606,
+        "normal_MSE": 0.1310094272875408,
+        "anomaly_MSE": 0.07578852766971128
+      }
+    },
+    "SEED115__KDE_LOGODDS__GAP_G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.2172259044316968,
+      "normal_MSE": 0.43444660611277125,
+      "anomaly_MSE": 5.202750622314707e-06,
+      "standard_Brier": 0.2056711526677699,
+      "standard_pooled_Brier": 0.24244403159000777,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.40901232432661483,
+          "normal_MSE": 0.8180246423273743,
+          "anomaly_MSE": 6.3258553744488716e-09,
+          "standard_Brier": 0.38953554727895956
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.025439484536778745,
+          "normal_MSE": 0.05086856989816824,
+          "anomaly_MSE": 1.0399175389254965e-05,
+          "standard_Brier": 0.021806758056580246
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9511666140572395,
+        "Brier": 0.14905067024866048,
+        "normal_MSE": 0.2195945267387229,
+        "anomaly_MSE": 0.07850681375859808
+      }
+    },
+    "SEED115__KDE_LOGODDS__RGB_ONLY": {
+      "AUROC": 0.9090909090909092,
+      "Brier": 0.13875245305881853,
+      "normal_MSE": 0.2391979091223678,
+      "anomaly_MSE": 0.03830699699526926,
+      "standard_Brier": 0.13041014766965658,
+      "standard_pooled_Brier": 0.14365017386513404,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8181818181818182,
+          "Brier": 0.20261732412410338,
+          "normal_MSE": 0.32876527914234976,
+          "anomaly_MSE": 0.076469369105857,
+          "standard_Brier": 0.19661027864704406
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.07488758199353368,
+          "normal_MSE": 0.14963053910238583,
+          "anomaly_MSE": 0.00014462488468152494,
+          "standard_Brier": 0.06421001669226908
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8731968118686869,
+        "Brier": 0.1307558685966338,
+        "normal_MSE": 0.0753740041196299,
+        "anomaly_MSE": 0.18613773307363768
+      }
+    },
+    "SEED811__ORIGINAL__PAIR_ACT__C0MEM": {
+      "AUROC": 0.8732954545454545,
+      "Brier": 0.2914349369021543,
+      "normal_MSE": 0.5792504412616151,
+      "anomaly_MSE": 0.003619432542693587,
+      "standard_Brier": 0.2690025439846708,
+      "standard_pooled_Brier": 0.2900283366556551,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8090909090909091,
+          "Brier": 0.39281561504488904,
+          "normal_MSE": 0.7851818768561172,
+          "anomaly_MSE": 0.0004493532336608767,
+          "standard_Brier": 0.37413150733959244
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.19005425875941956,
+          "normal_MSE": 0.37331900566711285,
+          "anomaly_MSE": 0.006789511851726297,
+          "standard_Brier": 0.16387358062974916
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8184869528619528,
+        "Brier": 0.23741792496357295,
+        "normal_MSE": 0.43690227397612824,
+        "anomaly_MSE": 0.037933575951017665
+      }
+    },
+    "SEED811__ORIGINAL__PAIR_IND__C0MEM": {
+      "AUROC": 0.8823863636363636,
+      "Brier": 0.3790163632308444,
+      "normal_MSE": 0.7550126882133035,
+      "anomaly_MSE": 0.0030200382483854824,
+      "standard_Brier": 0.34759097437217,
+      "standard_pooled_Brier": 0.3672283603091681,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8272727272727274,
+          "Brier": 0.4680662759102659,
+          "normal_MSE": 0.9361220848254799,
+          "anomaly_MSE": 1.0466995051871222e-05,
+          "standard_Brier": 0.44577790405716045
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.289966450551423,
+          "normal_MSE": 0.573903291601127,
+          "anomaly_MSE": 0.006029609501719093,
+          "standard_Brier": 0.2494040446871796
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8326283670033672,
+        "Brier": 0.2909882633690058,
+        "normal_MSE": 0.5603830803844383,
+        "anomaly_MSE": 0.021593446353573333
+      }
+    },
+    "SEED811__ORIGINAL__POP_ENERGY__C0MEM": {
+      "AUROC": 0.8875,
+      "Brier": 0.46104341843616237,
+      "normal_MSE": 0.9216250558875563,
+      "anomaly_MSE": 0.00046178098476849463,
+      "standard_Brier": 0.4181213929808859,
+      "standard_pooled_Brier": 0.4260103260591241,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9,
+          "Brier": 0.48044140969557114,
+          "normal_MSE": 0.9608237874889463,
+          "anomaly_MSE": 5.9031902196074594e-05,
+          "standard_Brier": 0.45756605837207714
+        },
+        "wooden_stool": {
+          "AUROC": 0.875,
+          "Brier": 0.44164542717675354,
+          "normal_MSE": 0.8824263242861662,
+          "anomaly_MSE": 0.0008645300673409147,
+          "standard_Brier": 0.3786767275896946
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8073271780303032,
+        "Brier": 0.4054223370315794,
+        "normal_MSE": 0.8015666355745659,
+        "anomaly_MSE": 0.009278038488593026
+      }
+    },
+    "SEED811__ORIGINAL__CFM_PRODUCT__C0MEM": {
+      "AUROC": 0.9272727272727274,
+      "Brier": 0.12332690438445235,
+      "normal_MSE": 0.1817009959682156,
+      "anomaly_MSE": 0.0649528128006891,
+      "standard_Brier": 0.12043497368328103,
+      "standard_pooled_Brier": 0.1382431277472783,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8545454545454547,
+          "Brier": 0.21492296924263368,
+          "normal_MSE": 0.32931469926932583,
+          "anomaly_MSE": 0.10053123921594155,
+          "standard_Brier": 0.20947574400326738
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.03173083952627102,
+          "normal_MSE": 0.03408729266710539,
+          "anomaly_MSE": 0.029374386385436647,
+          "standard_Brier": 0.031394203363294675
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8648674242424239,
+        "Brier": 0.15816407614511552,
+        "normal_MSE": 0.056181407073540544,
+        "anomaly_MSE": 0.26014674521669046
+      }
+    },
+    "SEED811__ORIGINAL__CFM_AUTHOR__C0MEM": {
+      "AUROC": 0.8863636363636365,
+      "Brier": 0.16666215230078046,
+      "normal_MSE": 0.25795037988439895,
+      "anomaly_MSE": 0.07537392471716203,
+      "standard_Brier": 0.15910804041086424,
+      "standard_pooled_Brier": 0.17406452259653069,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.7727272727272728,
+          "Brier": 0.23937751481836864,
+          "normal_MSE": 0.35460584788098315,
+          "anomaly_MSE": 0.12414918175575414,
+          "standard_Brier": 0.2338904513391965
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.0939467897831923,
+          "normal_MSE": 0.1612949118878147,
+          "anomaly_MSE": 0.026598667678569915,
+          "standard_Brier": 0.08432562948253196
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8303372264309762,
+        "Brier": 0.1722468836651916,
+        "normal_MSE": 0.07870831575460617,
+        "anomaly_MSE": 0.26578545157577704
+      }
+    },
+    "SEED811__ORIGINAL__G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.17527752118588869,
+      "normal_MSE": 0.3401221362154918,
+      "anomaly_MSE": 0.010432906156285553,
+      "standard_Brier": 0.16651077727228952,
+      "standard_pooled_Brier": 0.19270658925901385,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.3122723240108268,
+          "normal_MSE": 0.6227045469140539,
+          "anomaly_MSE": 0.0018401011075996963,
+          "standard_Brier": 0.2974898372059112
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.03828271836095058,
+          "normal_MSE": 0.05753972551692976,
+          "anomaly_MSE": 0.01902571120497141,
+          "standard_Brier": 0.03553171733866785
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9493226536195286,
+        "Brier": 0.12988176598500856,
+        "normal_MSE": 0.15572076269534818,
+        "anomaly_MSE": 0.10404276927466892
+      }
+    },
+    "SEED811__ORIGINAL__CONDITIONAL__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.1580247979279133,
+      "normal_MSE": 0.30179119120372033,
+      "anomaly_MSE": 0.014258404652106262,
+      "standard_Brier": 0.15004739227164898,
+      "standard_pooled_Brier": 0.17088943899408177,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.2668182764098068,
+          "normal_MSE": 0.5305919374556769,
+          "anomaly_MSE": 0.003044615363936761,
+          "standard_Brier": 0.254257625883813
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.04923131944601979,
+          "normal_MSE": 0.07299044495176382,
+          "anomaly_MSE": 0.025472193940275764,
+          "standard_Brier": 0.045837158659484935
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9557015467171716,
+        "Brier": 0.11848373949871838,
+        "normal_MSE": 0.11939122352328237,
+        "anomaly_MSE": 0.11757625547415436
+      }
+    },
+    "SEED811__ORIGINAL__GAP_G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.1731767309699104,
+      "normal_MSE": 0.33344000873008417,
+      "anomaly_MSE": 0.012913453209736666,
+      "standard_Brier": 0.16503949889182187,
+      "standard_pooled_Brier": 0.1914083205108373,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.31164112887454937,
+          "normal_MSE": 0.6215490885152113,
+          "anomaly_MSE": 0.0017331692338874956,
+          "standard_Brier": 0.2968836069868988
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.03471233306527144,
+          "normal_MSE": 0.04533092894495705,
+          "anomaly_MSE": 0.024093737185585835,
+          "standard_Brier": 0.033195390796744925
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9486676662457915,
+        "Brier": 0.1348226204668629,
+        "normal_MSE": 0.15637413549733895,
+        "anomaly_MSE": 0.11327110543638691
+      }
+    },
+    "SEED811__ORIGINAL__RGB_ONLY": {
+      "AUROC": 0.8954545454545455,
+      "Brier": 0.15135076369595113,
+      "normal_MSE": 0.2443744425270437,
+      "anomaly_MSE": 0.05832708486485852,
+      "standard_Brier": 0.14570023916565508,
+      "standard_pooled_Brier": 0.16666573005364016,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.790909090909091,
+          "Brier": 0.2581662660511546,
+          "normal_MSE": 0.41857628740821645,
+          "anomaly_MSE": 0.09775624469409273,
+          "standard_Brier": 0.2505276936055802
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.044535261340747624,
+          "normal_MSE": 0.07017259764587094,
+          "anomaly_MSE": 0.018897925035624305,
+          "standard_Brier": 0.04087278472572999
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.848175768097643,
+        "Brier": 0.15716514787259284,
+        "normal_MSE": 0.07693932400523482,
+        "anomaly_MSE": 0.23739097173995086
+      }
+    },
+    "SEED811__KDE_LOGODDS__PAIR_ACT__C0MEM": {
+      "AUROC": 0.8732954545454545,
+      "Brier": 0.3374398009084155,
+      "normal_MSE": 0.6747937887616731,
+      "anomaly_MSE": 8.58130551580203e-05,
+      "standard_Brier": 0.31273404489638706,
+      "standard_pooled_Brier": 0.3441379192137144,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8090909090909091,
+          "Brier": 0.4932410873071751,
+          "normal_MSE": 0.9864821746143502,
+          "anomaly_MSE": 2.831710573012851e-18,
+          "standard_Brier": 0.4697534164830238
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.18163851450965593,
+          "normal_MSE": 0.36310540290899584,
+          "anomaly_MSE": 0.00017162611031603777,
+          "standard_Brier": 0.15571467330975028
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8184869528619528,
+        "Brier": 0.27353388170553133,
+        "normal_MSE": 0.5106464338743882,
+        "anomaly_MSE": 0.03642132953667439
+      }
+    },
+    "SEED811__KDE_LOGODDS__PAIR_IND__C0MEM": {
+      "AUROC": 0.8823863636363636,
+      "Brier": 0.4307002399030474,
+      "normal_MSE": 0.8613949316630312,
+      "anomaly_MSE": 5.548143063648331e-06,
+      "standard_Brier": 0.3929816851085157,
+      "standard_pooled_Brier": 0.40962238134296225,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8272727272727274,
+          "Brier": 0.4999944245947859,
+          "normal_MSE": 0.9999888491895718,
+          "anomaly_MSE": 2.5212173817432906e-29,
+          "standard_Brier": 0.47618516628074836
+        },
+        "wooden_stool": {
+          "AUROC": 0.9374999999999999,
+          "Brier": 0.361406055211309,
+          "normal_MSE": 0.7228010141364907,
+          "anomaly_MSE": 1.1096286127296662e-05,
+          "standard_Brier": 0.3097782039362831
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8326283670033672,
+        "Brier": 0.3379190383543387,
+        "normal_MSE": 0.6580649705333167,
+        "anomaly_MSE": 0.017773106175360612
+      }
+    },
+    "SEED811__KDE_LOGODDS__POP_ENERGY__C0MEM": {
+      "AUROC": 0.8875,
+      "Brier": 0.49983081304331684,
+      "normal_MSE": 0.9996616260337257,
+      "anomaly_MSE": 5.290795561906097e-11,
+      "standard_Brier": 0.45223591436373595,
+      "standard_pooled_Brier": 0.45702674419575623,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9,
+          "Brier": 0.49999956670002904,
+          "normal_MSE": 0.9999991334000581,
+          "anomaly_MSE": 5.7600325690400715e-18,
+          "standard_Brier": 0.47619006352383714
+        },
+        "wooden_stool": {
+          "AUROC": 0.875,
+          "Brier": 0.49966205938660463,
+          "normal_MSE": 0.9993241186673933,
+          "anomaly_MSE": 1.0581590547808938e-10,
+          "standard_Brier": 0.42828176520363476
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8073271780303032,
+        "Brier": 0.4667469855154966,
+        "normal_MSE": 0.9293836125409743,
+        "anomaly_MSE": 0.004110358490018841
+      }
+    },
+    "SEED811__KDE_LOGODDS__CFM_PRODUCT__C0MEM": {
+      "AUROC": 0.9272727272727274,
+      "Brier": 0.1461659707717142,
+      "normal_MSE": 0.2491155080852474,
+      "anomaly_MSE": 0.04321643345818102,
+      "standard_Brier": 0.14122701003993415,
+      "standard_pooled_Brier": 0.169076652393895,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.8545454545454547,
+          "Brier": 0.29024333783703443,
+          "normal_MSE": 0.49537377441025265,
+          "anomaly_MSE": 0.08511290126381624,
+          "standard_Brier": 0.2804752218097384
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.0020886037063939647,
+          "normal_MSE": 0.0028572417602421344,
+          "anomaly_MSE": 0.0013199656525457954,
+          "standard_Brier": 0.0019787982701299405
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8648674242424239,
+        "Brier": 0.17435368097100556,
+        "normal_MSE": 0.061415406431758884,
+        "anomaly_MSE": 0.2872919555102522
+      }
+    },
+    "SEED811__KDE_LOGODDS__CFM_AUTHOR__C0MEM": {
+      "AUROC": 0.8863636363636365,
+      "Brier": 0.12556853226530879,
+      "normal_MSE": 0.17969186978699914,
+      "anomaly_MSE": 0.0714451947436184,
+      "standard_Brier": 0.12205510551836639,
+      "standard_pooled_Brier": 0.14257593933151283,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.7727272727272728,
+          "Brier": 0.22887775319739767,
+          "normal_MSE": 0.31746580407667874,
+          "anomaly_MSE": 0.14028970231811658,
+          "standard_Brier": 0.22465927458409857
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.022259311333219883,
+          "normal_MSE": 0.041917935497319515,
+          "anomaly_MSE": 0.002600687169120247,
+          "standard_Brier": 0.019450936452634217
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.8303372264309762,
+        "Brier": 0.188263920616632,
+        "normal_MSE": 0.045149911244319024,
+        "anomaly_MSE": 0.331377929988945
+      }
+    },
+    "SEED811__KDE_LOGODDS__G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.209212821954093,
+      "normal_MSE": 0.4184014315925322,
+      "anomaly_MSE": 2.4212315653844047e-05,
+      "standard_Brier": 0.19845932988418313,
+      "standard_pooled_Brier": 0.23528985950564935,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.4017425730128098,
+          "normal_MSE": 0.8034850684600189,
+          "anomaly_MSE": 7.756560077564427e-08,
+          "standard_Brier": 0.38261197799151425
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.0166830708953762,
+          "normal_MSE": 0.033317794725045494,
+          "anomaly_MSE": 4.834706570691245e-05,
+          "standard_Brier": 0.01430668177685202
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9493226536195286,
+        "Brier": 0.15005367201222736,
+        "normal_MSE": 0.21305730771781853,
+        "anomaly_MSE": 0.08705003630663619
+      }
+    },
+    "SEED811__KDE_LOGODDS__CONDITIONAL__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.1997666105980096,
+      "normal_MSE": 0.39949145355105015,
+      "anomaly_MSE": 4.176764496906691e-05,
+      "standard_Brier": 0.18924855520475786,
+      "standard_pooled_Brier": 0.2234551427950281,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.37829555818472027,
+          "normal_MSE": 0.7565909237855565,
+          "anomaly_MSE": 1.925838841044524e-07,
+          "standard_Brier": 0.36028149315610897
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.021237663011298907,
+          "normal_MSE": 0.042391983316543785,
+          "anomaly_MSE": 8.334270605402937e-05,
+          "standard_Brier": 0.018215617253406785
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9557015467171716,
+        "Brier": 0.13024483212810797,
+        "normal_MSE": 0.16472717713162835,
+        "anomaly_MSE": 0.09576248712458763
+      }
+    },
+    "SEED811__KDE_LOGODDS__GAP_G__C0MEM": {
+      "AUROC": 0.9863636363636363,
+      "Brier": 0.2139101291927491,
+      "normal_MSE": 0.4273726635610314,
+      "anomaly_MSE": 0.0004475948244668155,
+      "standard_Brier": 0.20342693813639,
+      "standard_pooled_Brier": 0.2427873773515474,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.9727272727272727,
+          "Brier": 0.42024059092271526,
+          "normal_MSE": 0.8404811818440215,
+          "anomaly_MSE": 1.4089722773183212e-12,
+          "standard_Brier": 0.4002291342121769
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.007579667462782911,
+          "normal_MSE": 0.014264145278041164,
+          "anomaly_MSE": 0.0008951896475246587,
+          "standard_Brier": 0.006624742060603162
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.9486676662457915,
+        "Brier": 0.18006720418848318,
+        "normal_MSE": 0.2477114968062301,
+        "anomaly_MSE": 0.11242291157073625
+      }
+    },
+    "SEED811__KDE_LOGODDS__RGB_ONLY": {
+      "AUROC": 0.8954545454545455,
+      "Brier": 0.16449358903297595,
+      "normal_MSE": 0.2860293918623946,
+      "anomaly_MSE": 0.042957786203557266,
+      "standard_Brier": 0.1575143667123838,
+      "standard_pooled_Brier": 0.18467214658020878,
+      "categories": {
+        "plastic_stool": {
+          "AUROC": 0.790909090909091,
+          "Brier": 0.3036863012779762,
+          "normal_MSE": 0.5217300410337966,
+          "anomaly_MSE": 0.08564256152215573,
+          "standard_Brier": 0.2933032660515086
+        },
+        "wooden_stool": {
+          "AUROC": 1.0,
+          "Brier": 0.025300876787975737,
+          "normal_MSE": 0.05032874269099267,
+          "anomaly_MSE": 0.0002730108849588057,
+          "standard_Brier": 0.021725467373259037
+        }
+      },
+      "view_diagnostic": {
+        "AUROC": 0.848175768097643,
+        "Brier": 0.1522638009458114,
+        "normal_MSE": 0.0754790532677194,
+        "anomaly_MSE": 0.22904854862390345
+      }
+    }
+  },
+  "three_seed_summary": {
+    "ORIGINAL": {
+      "PAIR_ACT__C0MEM": {
+        "AUROC": {
+          "mean": 0.8732954545454547,
+          "sample_SD": 1.3597399555105182e-16,
+          "values": [
+            0.8732954545454545,
+            0.8732954545454545,
+            0.8732954545454545
+          ]
+        },
+        "Brier": {
+          "mean": 0.2991322159739002,
+          "sample_SD": 0.009083446269738294,
+          "values": [
+            0.3091511810525601,
+            0.2968105299669862,
+            0.2914349369021543
+          ]
+        }
+      },
+      "PAIR_IND__C0MEM": {
+        "AUROC": {
+          "mean": 0.8823863636363636,
+          "sample_SD": 0.0,
+          "values": [
+            0.8823863636363636,
+            0.8823863636363636,
+            0.8823863636363636
+          ]
+        },
+        "Brier": {
+          "mean": 0.37358849291398827,
+          "sample_SD": 0.00472101877032393,
+          "values": [
+            0.37131237746422396,
+            0.3704367380468963,
+            0.3790163632308444
+          ]
+        }
+      },
+      "POP_ENERGY__C0MEM": {
+        "AUROC": {
+          "mean": 0.8874999999999998,
+          "sample_SD": 1.3597399555105182e-16,
+          "values": [
+            0.8875,
+            0.8875,
+            0.8875
+          ]
+        },
+        "Brier": {
+          "mean": 0.457500042244587,
+          "sample_SD": 0.003816801222194962,
+          "values": [
+            0.4579980095066636,
+            0.45345869879093514,
+            0.46104341843616237
+          ]
+        }
+      },
+      "CFM_PRODUCT__C0MEM": {
+        "AUROC": {
+          "mean": 0.9287878787878788,
+          "sample_SD": 0.0026243194054073747,
+          "values": [
+            0.9272727272727274,
+            0.9318181818181819,
+            0.9272727272727274
+          ]
+        },
+        "Brier": {
+          "mean": 0.1357217318415187,
+          "sample_SD": 0.025804660832060098,
+          "values": [
+            0.16538522129416522,
+            0.11845306984593851,
+            0.12332690438445235
+          ]
+        }
+      },
+      "CFM_AUTHOR__C0MEM": {
+        "AUROC": {
+          "mean": 0.8863636363636364,
+          "sample_SD": 0.00909090909090915,
+          "values": [
+            0.8772727272727272,
+            0.8954545454545455,
+            0.8863636363636365
+          ]
+        },
+        "Brier": {
+          "mean": 0.17097455900698377,
+          "sample_SD": 0.014529438399463435,
+          "values": [
+            0.18717202090424814,
+            0.15908950381592274,
+            0.16666215230078046
+          ]
+        }
+      },
+      "G__C0MEM": {
+        "AUROC": {
+          "mean": 0.9863636363636363,
+          "sample_SD": 0.0,
+          "values": [
+            0.9863636363636363,
+            0.9863636363636363,
+            0.9863636363636363
+          ]
+        },
+        "Brier": {
+          "mean": 0.19102666445528316,
+          "sample_SD": 0.024366279723885505,
+          "values": [
+            0.21909254492058122,
+            0.17870992725937956,
+            0.17527752118588869
+          ]
+        }
+      },
+      "CONDITIONAL__C0MEM": {
+        "AUROC": {
+          "mean": 0.9863636363636363,
+          "sample_SD": 0.0,
+          "values": [
+            0.9863636363636363,
+            0.9863636363636363,
+            0.9863636363636363
+          ]
+        },
+        "Brier": {
+          "mean": 0.1724967482689946,
+          "sample_SD": 0.018807608428126985,
+          "values": [
+            0.1937558516490223,
+            0.16570959523004827,
+            0.1580247979279133
+          ]
+        }
+      },
+      "GAP_G__C0MEM": {
+        "AUROC": {
+          "mean": 0.9863636363636363,
+          "sample_SD": 0.0,
+          "values": [
+            0.9863636363636363,
+            0.9863636363636363,
+            0.9863636363636363
+          ]
+        },
+        "Brier": {
+          "mean": 0.18905913426205126,
+          "sample_SD": 0.019845576942805157,
+          "values": [
+            0.21130623935537537,
+            0.18269443246086806,
+            0.1731767309699104
+          ]
+        }
+      },
+      "RGB_ONLY": {
+        "AUROC": {
+          "mean": 0.8984848484848484,
+          "sample_SD": 0.009462118179391564,
+          "values": [
+            0.8909090909090909,
+            0.9090909090909092,
+            0.8954545454545455
+          ]
+        },
+        "Brier": {
+          "mean": 0.16670252080595294,
+          "sample_SD": 0.02895388753347569,
+          "values": [
+            0.2000994076718228,
+            0.14865739105008485,
+            0.15135076369595113
+          ]
+        }
+      }
+    },
+    "KDE_LOGODDS": {
+      "PAIR_ACT__C0MEM": {
+        "AUROC": {
+          "mean": 0.8732954545454547,
+          "sample_SD": 1.3597399555105182e-16,
+          "values": [
+            0.8732954545454545,
+            0.8732954545454545,
+            0.8732954545454545
+          ]
+        },
+        "Brier": {
+          "mean": 0.34852709191465064,
+          "sample_SD": 0.01062882461611205,
+          "values": [
+            0.3586287958122343,
+            0.3495126790233023,
+            0.3374398009084155
+          ]
+        }
+      },
+      "PAIR_IND__C0MEM": {
+        "AUROC": {
+          "mean": 0.8823863636363636,
+          "sample_SD": 0.0,
+          "values": [
+            0.8823863636363636,
+            0.8823863636363636,
+            0.8823863636363636
+          ]
+        },
+        "Brier": {
+          "mean": 0.43976774286377857,
+          "sample_SD": 0.013720826048783186,
+          "values": [
+            0.45555299913256314,
+            0.4330499895557251,
+            0.4307002399030474
+          ]
+        }
+      },
+      "POP_ENERGY__C0MEM": {
+        "AUROC": {
+          "mean": 0.8874999999999998,
+          "sample_SD": 1.3597399555105182e-16,
+          "values": [
+            0.8875,
+            0.8875,
+            0.8875
+          ]
+        },
+        "Brier": {
+          "mean": 0.4998344435803459,
+          "sample_SD": 0.00014113284158624834,
+          "values": [
+            0.4999773566637793,
+            0.4996951610339416,
+            0.49983081304331684
+          ]
+        }
+      },
+      "CFM_PRODUCT__C0MEM": {
+        "AUROC": {
+          "mean": 0.9287878787878788,
+          "sample_SD": 0.0026243194054073747,
+          "values": [
+            0.9272727272727274,
+            0.9318181818181819,
+            0.9272727272727274
+          ]
+        },
+        "Brier": {
+          "mean": 0.1373248175788577,
+          "sample_SD": 0.008794589493577648,
+          "values": [
+            0.1372309385713393,
+            0.12857754339351954,
+            0.1461659707717142
+          ]
+        }
+      },
+      "CFM_AUTHOR__C0MEM": {
+        "AUROC": {
+          "mean": 0.8863636363636364,
+          "sample_SD": 0.00909090909090915,
+          "values": [
+            0.8772727272727272,
+            0.8954545454545455,
+            0.8863636363636365
+          ]
+        },
+        "Brier": {
+          "mean": 0.13047848233521592,
+          "sample_SD": 0.004661482517290202,
+          "values": [
+            0.13484361757085067,
+            0.13102329716948832,
+            0.12556853226530879
+          ]
+        }
+      },
+      "G__C0MEM": {
+        "AUROC": {
+          "mean": 0.9863636363636363,
+          "sample_SD": 0.0,
+          "values": [
+            0.9863636363636363,
+            0.9863636363636363,
+            0.9863636363636363
+          ]
+        },
+        "Brier": {
+          "mean": 0.23079902503947802,
+          "sample_SD": 0.02775090229428254,
+          "values": [
+            0.2621016232950156,
+            0.2210826298693255,
+            0.209212821954093
+          ]
+        }
+      },
+      "CONDITIONAL__C0MEM": {
+        "AUROC": {
+          "mean": 0.9863636363636363,
+          "sample_SD": 0.0,
+          "values": [
+            0.9863636363636363,
+            0.9863636363636363,
+            0.9863636363636363
+          ]
+        },
+        "Brier": {
+          "mean": 0.20050584182426404,
+          "sample_SD": 0.008756879420638719,
+          "values": [
+            0.20960890406991864,
+            0.1921420108048639,
+            0.1997666105980096
+          ]
+        }
+      },
+      "GAP_G__C0MEM": {
+        "AUROC": {
+          "mean": 0.9863636363636363,
+          "sample_SD": 0.0,
+          "values": [
+            0.9863636363636363,
+            0.9863636363636363,
+            0.9863636363636363
+          ]
+        },
+        "Brier": {
+          "mean": 0.21618104711037855,
+          "sample_SD": 0.001968758440788244,
+          "values": [
+            0.2174071077066898,
+            0.2172259044316968,
+            0.2139101291927491
+          ]
+        }
+      },
+      "RGB_ONLY": {
+        "AUROC": {
+          "mean": 0.8984848484848484,
+          "sample_SD": 0.009462118179391564,
+          "values": [
+            0.8909090909090909,
+            0.9090909090909092,
+            0.8954545454545455
+          ]
+        },
+        "Brier": {
+          "mean": 0.17572672948270296,
+          "sample_SD": 0.04368773056053188,
+          "values": [
+            0.22393414635631437,
+            0.13875245305881853,
+            0.16449358903297595
+          ]
+        }
+      }
+    }
+  },
+  "effects": [
+    {
+      "mode": "ORIGINAL",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "PAIR_IND__C0MEM",
+      "delta_AUROC": -0.009090909090909038,
+      "CI95_AUROC": [
+        -0.036363636363636376,
+        0.0
+      ],
+      "delta_Brier": -0.07445627694008804,
+      "CI95_Brier": [
+        -0.10856191364480502,
+        -0.040899181626868404
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "ORIGINAL",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "POP_ENERGY__C0MEM",
+      "delta_AUROC": -0.014204545454545414,
+      "CI95_AUROC": [
+        -0.10876623376623384,
+        0.09769849468713104
+      ],
+      "delta_Brier": -0.15836782627068682,
+      "CI95_Brier": [
+        -0.23038600455161062,
+        -0.0774013485441457
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "ORIGINAL",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "CFM_AUTHOR__C0MEM",
+      "delta_AUROC": -0.013068181818181849,
+      "CI95_AUROC": [
+        -0.15070481601731608,
+        0.12672176308539937
+      ],
+      "delta_Brier": 0.12815765696691642,
+      "CI95_Brier": [
+        0.038553886781771185,
+        0.22443714602512024
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "ORIGINAL",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "GAP_G__C0MEM",
+      "delta_AUROC": -0.11306818181818179,
+      "CI95_AUROC": [
+        -0.18993731962481955,
+        -0.03181818181818186
+      ],
+      "delta_Brier": 0.11007308171184893,
+      "CI95_Brier": [
+        0.03213664836972441,
+        0.1985397241442496
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "ORIGINAL",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "RGB_ONLY",
+      "delta_AUROC": -0.025189393939393973,
+      "CI95_AUROC": [
+        -0.1527150974025974,
+        0.10368371212121177
+      ],
+      "delta_Brier": 0.13242969516794725,
+      "CI95_Brier": [
+        0.04729618835362247,
+        0.22848137688710837
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "KDE_LOGODDS",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "PAIR_IND__C0MEM",
+      "delta_AUROC": -0.009090909090909038,
+      "CI95_AUROC": [
+        -0.036363636363636376,
+        0.0
+      ],
+      "delta_Brier": -0.09124065094912785,
+      "CI95_Brier": [
+        -0.14548558903279246,
+        -0.03414452266404868
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "KDE_LOGODDS",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "POP_ENERGY__C0MEM",
+      "delta_AUROC": -0.014204545454545414,
+      "CI95_AUROC": [
+        -0.10876623376623384,
+        0.09769849468713104
+      ],
+      "delta_Brier": -0.15130735166569523,
+      "CI95_Brier": [
+        -0.23327432364911468,
+        -0.061484183526960216
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "KDE_LOGODDS",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "CFM_AUTHOR__C0MEM",
+      "delta_AUROC": -0.013068181818181849,
+      "CI95_AUROC": [
+        -0.15070481601731608,
+        0.12672176308539937
+      ],
+      "delta_Brier": 0.2180486095794348,
+      "CI95_Brier": [
+        0.1172164975187458,
+        0.32408135626703394
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "KDE_LOGODDS",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "GAP_G__C0MEM",
+      "delta_AUROC": -0.11306818181818179,
+      "CI95_AUROC": [
+        -0.18993731962481955,
+        -0.03181818181818186
+      ],
+      "delta_Brier": 0.13234604480427214,
+      "CI95_Brier": [
+        0.03904074871625511,
+        0.2405802447182261
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    },
+    {
+      "mode": "KDE_LOGODDS",
+      "left": "PAIR_ACT__C0MEM",
+      "control": "RGB_ONLY",
+      "delta_AUROC": -0.025189393939393973,
+      "CI95_AUROC": [
+        -0.1527150974025974,
+        0.10368371212121177
+      ],
+      "delta_Brier": 0.17280036243194774,
+      "CI95_Brier": [
+        0.08185903752331729,
+        0.2740778606221434
+      ],
+      "scope": "5000withinclassjoint-conservative-identitydraws;fixed3seedmetricmean;conditional-on-models-and-normalreferences;nomultiplicitycorrection"
+    }
+  ],
+  "cluster_bootstrap_draws": 5000,
+  "missing_label_bootstrap_redraws": {
+    "plastic_stool": 0,
+    "wooden_stool": 0
+  },
+  "prediction_seal": {
+    "created": "2026-10-27T12:23:08.416871+08:00",
+    "prediction_sha256": "d821ff5db591a6211b0706f4eb0934cfb17a1485954755484a9c1a48dfd79f09",
+    "raw_sha256": "0e6b12f5096cb5e2363180c6be71b6742cd92697108e20d1a3fe8862401c90b8",
+    "actual_test_views": 420,
+    "actual_test_DINO_image_FW": 1680,
+    "actual_test_C0_decoder_image_FW": 1260,
+    "new_fits": 0,
+    "GT_masks_read": 0
+  },
+  "new_target_label_fits": 0,
+  "scope": "Prospectiveindependentcomparisonprotocol, not independentresult orclosedmaincontribution. OnlynormalandpreviousDEVfilesread bythismodule. Initialconfirmationoffrozenmaincandidatewouldbe validwithinitsdeclaredcondition; anyfutureEyeoptimizationnotretroactivelyconfirmed."
+}

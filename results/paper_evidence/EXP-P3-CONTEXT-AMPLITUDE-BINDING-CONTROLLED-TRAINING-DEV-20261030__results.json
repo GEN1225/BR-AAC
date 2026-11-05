@@ -1,0 +1,966 @@
+{
+  "status": "COMPLETE",
+  "completed": "2026-10-30T01:16:23.750134+08:00",
+  "results": {
+    "ALL": {
+      "n": 350,
+      "metrics": {
+        "PRESET_20261017": {
+          "AUROC": 0.9550666666666666,
+          "Brier": 0.0536641751080131,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 0.9912,
+              "Brier": 0.041642061528835
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.874,
+              "Brier": 0.11920686954246064
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 0.00014359425274364796
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_20261017": {
+          "AUROC": 0.9286666666666666,
+          "Brier": 0.05608551462147241,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 0.992,
+              "Brier": 0.03567641932932529
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.794,
+              "Brier": 0.13246959366299998
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 0.00011053087209194364
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_20261017": {
+          "AUROC": 0.9522666666666666,
+          "Brier": 0.04366054098259009,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 1.0,
+              "Brier": 0.011848867693706095
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.8568,
+              "Brier": 0.11913254561510007
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 2.0963896409908485e-07
+            }
+          ]
+        },
+        "PRESET_20261018": {
+          "AUROC": 0.9812,
+          "Brier": 0.0341089371569358,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 0.996,
+              "Brier": 0.03247105248899071
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.9476,
+              "Brier": 0.06981654218525826
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 3.921679655842863e-05
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_20261018": {
+          "AUROC": 0.9269333333333334,
+          "Brier": 0.04691873455231701,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 0.998,
+              "Brier": 0.010573292233994693
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.7828,
+              "Brier": 0.1301807841891521
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 2.1272338042055655e-06
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_20261018": {
+          "AUROC": 0.9316,
+          "Brier": 0.051293091484770625,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 0.998,
+              "Brier": 0.0226670382705862
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.7968,
+              "Brier": 0.1311901490192547
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 2.208716447098565e-05
+            }
+          ]
+        },
+        "PRESET_ENSEMBLE": {
+          "AUROC": 0.9721333333333333,
+          "Brier": 0.041200071790759775,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 0.9955999999999999,
+              "Brier": 0.032530926752092765
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.9208,
+              "Brier": 0.09102798366558199
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 4.1304954604586096e-05
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_ENSEMBLE": {
+          "AUROC": 0.9304,
+          "Brier": 0.049020082849532375,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 0.9995999999999999,
+              "Brier": 0.016733845558638633
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.7916,
+              "Brier": 0.13030531702609127
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 2.1085963867211857e-05
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE": {
+          "AUROC": 0.9442666666666666,
+          "Brier": 0.046731370550538553,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 125,
+              "AUROC": 1.0,
+              "Brier": 0.015566209964822199
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 125,
+              "AUROC": 0.8328,
+              "Brier": 0.12462233630971026
+            },
+            {
+              "category": "lego_propeller",
+              "n": 100,
+              "AUROC": 1.0,
+              "Brier": 5.565377083212643e-06
+            }
+          ]
+        }
+      },
+      "contrasts": {
+        "CONTEXT_PERMUTED_20261017_minus_CONTEXT_PAIRED_20261017": {
+          "AUROC": {
+            "delta": 0.023599999999999954,
+            "conditional_CI95": [
+              0.012399999999999967,
+              0.03693333333333326
+            ]
+          },
+          "Brier": {
+            "delta": -0.012424973638882321,
+            "conditional_CI95": [
+              -0.02348396555055198,
+              -0.004987090170302152
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261017_minus_PRESET_20261017": {
+          "AUROC": {
+            "delta": -0.0028000000000000247,
+            "conditional_CI95": [
+              -0.010266666666666646,
+              0.0052000000000000934
+            ]
+          },
+          "Brier": {
+            "delta": -0.01000363412542301,
+            "conditional_CI95": [
+              -0.023688717556774645,
+              0.0010523197435383955
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261018_minus_CONTEXT_PAIRED_20261018": {
+          "AUROC": {
+            "delta": 0.004666666666666597,
+            "conditional_CI95": [
+              -0.0009333333333332305,
+              0.01146666666666652
+            ]
+          },
+          "Brier": {
+            "delta": 0.004374356932453617,
+            "conditional_CI95": [
+              0.00011949973478400746,
+              0.009151213635192997
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261018_minus_PRESET_20261018": {
+          "AUROC": {
+            "delta": -0.04959999999999998,
+            "conditional_CI95": [
+              -0.07013666666666671,
+              -0.029996666666666526
+            ]
+          },
+          "Brier": {
+            "delta": 0.01718415432783483,
+            "conditional_CI95": [
+              0.006584926377747081,
+              0.02779234613483568
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE_minus_CONTEXT_PAIRED_ENSEMBLE": {
+          "AUROC": {
+            "delta": 0.013866666666666583,
+            "conditional_CI95": [
+              0.006263333333333311,
+              0.023066666666666576
+            ]
+          },
+          "Brier": {
+            "delta": -0.002288712298993821,
+            "conditional_CI95": [
+              -0.006355064404100922,
+              0.0010321997751826192
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE_minus_PRESET_ENSEMBLE": {
+          "AUROC": {
+            "delta": -0.027866666666666706,
+            "conditional_CI95": [
+              -0.04253333333333331,
+              -0.014796666666666645
+            ]
+          },
+          "Brier": {
+            "delta": 0.0055312987597787786,
+            "conditional_CI95": [
+              -0.005222261788088674,
+              0.014875530362768176
+            ]
+          }
+        }
+      }
+    },
+    "KNOWN": {
+      "n": 200,
+      "metrics": {
+        "PRESET_20261017": {
+          "AUROC": 0.9933333333333333,
+          "Brier": 0.027474073031846593,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.9823999999999999,
+              "Brier": 0.05275506512639444
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.9975999999999999,
+              "Brier": 0.029512889893901058
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 0.00015426407524428426
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_20261017": {
+          "AUROC": 0.9946666666666667,
+          "Brier": 0.023191779344252487,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.984,
+              "Brier": 0.04923166756058153
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.02024952210058989
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 9.414837158604045e-05
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_20261017": {
+          "AUROC": 1.0,
+          "Brier": 0.007189536848596812,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.017137056606737252
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.004431344468767363
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 2.0947028582014006e-07
+            }
+          ]
+        },
+        "PRESET_20261018": {
+          "AUROC": 0.9975999999999999,
+          "Brier": 0.018127879210918376,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.9928,
+              "Brier": 0.044353273106483175
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.009991222837034
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 3.914168923796068e-05
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_20261018": {
+          "AUROC": 0.9986666666666667,
+          "Brier": 0.01026871502306864,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.996,
+              "Brier": 0.019683015950248697
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.011121004144094074
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 2.1249748631474726e-06
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_20261018": {
+          "AUROC": 0.9997333333333334,
+          "Brier": 0.013957289531840536,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.9992,
+              "Brier": 0.02341958075770796
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.018430604434849313
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 2.1683402964336794e-05
+            }
+          ]
+        },
+        "PRESET_ENSEMBLE": {
+          "AUROC": 0.9970666666666667,
+          "Brier": 0.02020479098881721,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.9912,
+              "Brier": 0.0441308534160796
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.016442005168043523
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 4.151438232850912e-05
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_ENSEMBLE": {
+          "AUROC": 0.9997333333333334,
+          "Brier": 0.01281486418613375,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.9992,
+              "Brier": 0.02486082637487444
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.013562922192631846
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 2.084399089496332e-05
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE": {
+          "AUROC": 1.0,
+          "Brier": 0.009144157266543251,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.019948975456743137
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.007477964573840442
+            },
+            {
+              "category": "lego_propeller",
+              "n": 50,
+              "AUROC": 1.0,
+              "Brier": 5.5317690461691735e-06
+            }
+          ]
+        }
+      },
+      "contrasts": {
+        "CONTEXT_PERMUTED_20261017_minus_CONTEXT_PAIRED_20261017": {
+          "AUROC": {
+            "delta": 0.005333333333333301,
+            "conditional_CI95": [
+              0.0,
+              0.01760000000000006
+            ]
+          },
+          "Brier": {
+            "delta": -0.016002242495655676,
+            "conditional_CI95": [
+              -0.027556524473600224,
+              -0.00841951164704222
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261017_minus_PRESET_20261017": {
+          "AUROC": {
+            "delta": 0.00666666666666671,
+            "conditional_CI95": [
+              0.0,
+              0.01866666666666661
+            ]
+          },
+          "Brier": {
+            "delta": -0.020284536183249782,
+            "conditional_CI95": [
+              -0.03335809139620652,
+              -0.010374951579770081
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261018_minus_CONTEXT_PAIRED_20261018": {
+          "AUROC": {
+            "delta": 0.0010666666666666602,
+            "conditional_CI95": [
+              0.0,
+              0.004266666666666641
+            ]
+          },
+          "Brier": {
+            "delta": 0.003688574508771896,
+            "conditional_CI95": [
+              -0.0018119166184025041,
+              0.008895727374784307
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261018_minus_PRESET_20261018": {
+          "AUROC": {
+            "delta": 0.0021333333333334314,
+            "conditional_CI95": [
+              -0.0008000000000001339,
+              0.00773333333333337
+            ]
+          },
+          "Brier": {
+            "delta": -0.00417058967907784,
+            "conditional_CI95": [
+              -0.011725494472499676,
+              0.0035570873907702512
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE_minus_CONTEXT_PAIRED_ENSEMBLE": {
+          "AUROC": {
+            "delta": 0.0002666666666666373,
+            "conditional_CI95": [
+              0.0,
+              0.0016000000000000458
+            ]
+          },
+          "Brier": {
+            "delta": -0.0036707069195904985,
+            "conditional_CI95": [
+              -0.008284912266615567,
+              0.00016502216534167258
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE_minus_PRESET_ENSEMBLE": {
+          "AUROC": {
+            "delta": 0.0029333333333333433,
+            "conditional_CI95": [
+              0.0,
+              0.010666666666666824
+            ]
+          },
+          "Brier": {
+            "delta": -0.011060633722273958,
+            "conditional_CI95": [
+              -0.019657467594995832,
+              -0.004466412015327858
+            ]
+          }
+        }
+      }
+    },
+    "EXCLUDED": {
+      "n": 225,
+      "metrics": {
+        "PRESET_20261017": {
+          "AUROC": 0.9168,
+          "Brier": 0.07985605548792969,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.03052905793127556
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.7504,
+              "Brier": 0.2089008491910202
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.00013825934149332982
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_20261017": {
+          "AUROC": 0.8626666666666667,
+          "Brier": 0.08897651948194134,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.022121171098069048
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.588,
+              "Brier": 0.24468966522541005
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.00011872212234489522
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_20261017": {
+          "AUROC": 0.9045333333333333,
+          "Brier": 0.08013154508847031,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.006560678780674939
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.7135999999999999,
+              "Brier": 0.23383374676143276
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 2.0972330323855724e-07
+            }
+          ]
+        },
+        "PRESET_20261018": {
+          "AUROC": 0.9648,
+          "Brier": 0.05008998258506648,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.9992,
+              "Brier": 0.020588831871498237
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.8952,
+              "Brier": 0.12964186153348253
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 3.9254350218662604e-05
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_20261018": {
+          "AUROC": 0.8552,
+          "Brier": 0.08356875370507517,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.0014635685177406856
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.5656,
+              "Brier": 0.24924056423421012
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 2.128363274734612e-06
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_20261018": {
+          "AUROC": 0.8634666666666667,
+          "Brier": 0.08862882614411628,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 0.9968,
+              "Brier": 0.021914495783464435
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.5936000000000001,
+              "Brier": 0.2439496936036601
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 2.228904522431008e-05
+            }
+          ]
+        },
+        "PRESET_ENSEMBLE": {
+          "AUROC": 0.9472,
+          "Brier": 0.062195387497322986,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.020931000088105924
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.8416,
+              "Brier": 0.16561396216312044
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 4.1200240742624585e-05
+            }
+          ]
+        },
+        "CONTEXT_PAIRED_ENSEMBLE": {
+          "AUROC": 0.8610666666666665,
+          "Brier": 0.0852252611841023,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.008606864742402826
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.5831999999999999,
+              "Brier": 0.24704771185955074
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 2.1206950353336127e-05
+            }
+          ]
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE": {
+          "AUROC": 0.8885333333333333,
+          "Brier": 0.08431857823319437,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 0.011183444472901262
+            },
+            {
+              "category": "humidity_sensor",
+              "n": 75,
+              "AUROC": 0.6656000000000001,
+              "Brier": 0.2417667080455801
+            },
+            {
+              "category": "lego_propeller",
+              "n": 75,
+              "AUROC": 1.0,
+              "Brier": 5.582181101734377e-06
+            }
+          ]
+        }
+      },
+      "contrasts": {
+        "CONTEXT_PERMUTED_20261017_minus_CONTEXT_PAIRED_20261017": {
+          "AUROC": {
+            "delta": 0.04186666666666661,
+            "conditional_CI95": [
+              0.022133333333333338,
+              0.06533333333333324
+            ]
+          },
+          "Brier": {
+            "delta": -0.008844974393471025,
+            "conditional_CI95": [
+              -0.02096548207692597,
+              -0.00035400971055491863
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261017_minus_PRESET_20261017": {
+          "AUROC": {
+            "delta": -0.012266666666666648,
+            "conditional_CI95": [
+              -0.02506666666666657,
+              -0.0018666666666666831
+            ]
+          },
+          "Brier": {
+            "delta": 0.000275489600540621,
+            "conditional_CI95": [
+              -0.014713303259049224,
+              0.013865807130896383
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261018_minus_CONTEXT_PAIRED_20261018": {
+          "AUROC": {
+            "delta": 0.008266666666666755,
+            "conditional_CI95": [
+              -0.0031999999999998696,
+              0.022133333333333338
+            ]
+          },
+          "Brier": {
+            "delta": 0.005060072439041108,
+            "conditional_CI95": [
+              4.043748241455185e-05,
+              0.01122744280825752
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_20261018_minus_PRESET_20261018": {
+          "AUROC": {
+            "delta": -0.10133333333333328,
+            "conditional_CI95": [
+              -0.13840000000000008,
+              -0.06799333333333328
+            ]
+          },
+          "Brier": {
+            "delta": 0.0385388435590498,
+            "conditional_CI95": [
+              0.02132998332790956,
+              0.05652267719498271
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE_minus_CONTEXT_PAIRED_ENSEMBLE": {
+          "AUROC": {
+            "delta": 0.02746666666666675,
+            "conditional_CI95": [
+              0.012259999999999984,
+              0.04559999999999987
+            ]
+          },
+          "Brier": {
+            "delta": -0.0009066829509079277,
+            "conditional_CI95": [
+              -0.0052269700273925275,
+              0.0027159085076871544
+            ]
+          }
+        },
+        "CONTEXT_PERMUTED_ENSEMBLE_minus_PRESET_ENSEMBLE": {
+          "AUROC": {
+            "delta": -0.058666666666666756,
+            "conditional_CI95": [
+              -0.08560666666666678,
+              -0.0351999999999999
+            ]
+          },
+          "Brier": {
+            "delta": 0.022123190735871386,
+            "conditional_CI95": [
+              0.007128929845696439,
+              0.03694857046125717
+            ]
+          }
+        }
+      }
+    }
+  },
+  "NN_updates": 12000,
+  "calibration_fits": 9,
+  "scope": "Existing exposedV350 ALL/KNOWN/EXCLUDEDpit-impact225,macroclass logitAUROC andclass/label-balancedBrier;allclasses,seeds,ensemble. Primary contrast paired vs permuted; secondary preset vs permuted.5000within-category/label paired group resamples, fixed heads/models;unadjusted exploratory. No selecting arm, seed, step or readout byV. Exactly3arms2seeds2000steps,onefixedCmapping opportunity;no moredata/Eye/DAS3D. Do notreplace currentmainmethod from this alreadyexposedDEV comparison. Newneverdeveloped confirmation still separate and absent."
+}

@@ -1,0 +1,35 @@
+{
+  "status": "COMPLETE",
+  "macro_metric_values_checked": 168,
+  "max_abs_metric_error": 0.0,
+  "fixed_head_probability_replay": {
+    "ORIGINAL": {
+      "ENSEMBLE": {
+        "V": 0.0,
+        "HOLD": 0.0
+      },
+      "20261017": {
+        "V": 0.0,
+        "HOLD": 0.0
+      },
+      "20261018": {
+        "V": 0.0,
+        "HOLD": 0.0
+      }
+    },
+    "CANONICAL": {
+      "ENSEMBLE": {
+        "V": 0.0,
+        "HOLD": 0.0
+      },
+      "20261017": {
+        "V": 0.0,
+        "HOLD": 0.0
+      },
+      "20261018": {
+        "V": 0.0,
+        "HOLD": 0.0
+      }
+    }
+  }
+}

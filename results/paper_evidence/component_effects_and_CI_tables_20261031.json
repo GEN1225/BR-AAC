@@ -1,0 +1,284 @@
+{
+  "main_effect_tables": {
+    "2": [
+      [
+        "Anchored minus surface, Real-IAD350",
+        "Brier",
+        "-0.007980",
+        "[-0.012933, -0.002019]"
+      ]
+    ],
+    "3": [
+      [
+        "Scale-by-editor interaction",
+        "AUROC (pp)",
+        "+9.60",
+        "[5.87, 13.76]"
+      ]
+    ],
+    "4": [
+      [
+        "Anchored minus free, Real-IAD seed 20261018, deformation",
+        "Brier",
+        "+0.010499",
+        "[0.000534, 0.021145]"
+      ],
+      [
+        "Anchored minus free, PD-REAL seed 20261017, known types",
+        "Brier",
+        "+0.015753",
+        "[0.003256, 0.030903]"
+      ]
+    ],
+    "5": [
+      [
+        "Base anchored minus 3DSR + base appearance",
+        "AUROC (pp)",
+        "+1.6133",
+        "[0.3867, 3.1867]"
+      ],
+      [
+        "Base anchored minus 3DSR + base appearance",
+        "Brier",
+        "-0.032810",
+        "[-0.061562, -0.007788]"
+      ],
+      [
+        "Extended anchored minus 3DSR + extended appearance",
+        "AUROC (pp)",
+        "+2.1200",
+        "[0.8267, 3.7067]"
+      ],
+      [
+        "Extended anchored minus 3DSR + extended appearance",
+        "Brier",
+        "-0.030434",
+        "[-0.043069, -0.018526]"
+      ],
+      [
+        "Common-fold selected minus selected 3DSR + extended appearance",
+        "AUROC",
+        "+0.014800",
+        "[-0.000267, 0.032000]"
+      ],
+      [
+        "Common-fold selected minus selected 3DSR + extended appearance",
+        "Brier",
+        "-0.004813",
+        "[-0.020878, 0.013344]"
+      ]
+    ],
+    "7": [
+      [
+        "PD canonical minus original, same normal-covered appearance",
+        "Brier",
+        "+0.026039",
+        "[-0.003043, 0.056615]"
+      ],
+      [
+        "PD canonical minus original, same normal-covered appearance",
+        "AUROC",
+        "-0.013931",
+        "[-0.048950, 0.018687]"
+      ],
+      [
+        "PD canonical minus original, same normal-covered appearance",
+        "Normal MSE",
+        "+0.022770",
+        "[0.003505, 0.042093]"
+      ]
+    ],
+    "8": [
+      [
+        "Anchored minus centered",
+        "Brier",
+        "-0.012106",
+        "[-0.024642, -0.002368]"
+      ],
+      [
+        "Anchored minus free",
+        "Brier",
+        "-0.017298",
+        "[-0.030106, -0.006805]"
+      ]
+    ]
+  },
+  "supplement_effect_tables": {
+    "S1": [
+      [
+        "Selected free fusion: canonical minus original",
+        "Brier",
+        "+0.038288",
+        "[0.012690, 0.065515]"
+      ],
+      [
+        "Selected free fusion: canonical minus original",
+        "AUROC",
+        "-0.011616",
+        "[-0.039312, 0.013511]"
+      ]
+    ],
+    "S3": [
+      [
+        "Reassigned minus conditioned, deformation",
+        "AUROC (pp)",
+        "+2.7466",
+        "[1.23, 4.56]"
+      ],
+      [
+        "Reassigned minus conditioned, deformation",
+        "Brier",
+        "-0.000907",
+        "[-0.005227, 0.002716]"
+      ]
+    ]
+  },
+  "component_controls": [
+    {
+      "contrast": "Appearance increment: fused minus surface only",
+      "Brier": {
+        "delta": -0.02872839650169878,
+        "conditional95CI": [
+          -0.04214611462150058,
+          -0.017248251488917662
+        ]
+      },
+      "AUROC": {
+        "delta": 0.01200000000000001,
+        "conditional95CI": [
+          0.0031999999999999806,
+          0.023466666666666636
+        ]
+      }
+    },
+    {
+      "contrast": "Surface evidence: fused minus appearance only",
+      "Brier": {
+        "delta": -0.025620843227902108,
+        "conditional95CI": [
+          -0.03957817033217726,
+          -0.013426780592672527
+        ]
+      },
+      "AUROC": {
+        "delta": 0.006400000000000072,
+        "conditional95CI": [
+          0.0008000000000001339,
+          0.015066666666666673
+        ]
+      }
+    },
+    {
+      "contrast": "Anchoring: retained minus free fusion",
+      "Brier": {
+        "delta": -0.017297654835850648,
+        "conditional95CI": [
+          -0.030106186005404423,
+          -0.006804699462291763
+        ]
+      },
+      "AUROC": {
+        "delta": 0.0037333333333333663,
+        "conditional95CI": [
+          0.0002633333333332,
+          0.009733333333333372
+        ]
+      }
+    },
+    {
+      "contrast": "Anchoring: retained minus centered shrinkage",
+      "Brier": {
+        "delta": -0.012105937195436227,
+        "conditional95CI": [
+          -0.02464246804553628,
+          -0.0023683740026704237
+        ]
+      },
+      "AUROC": {
+        "delta": 0.002666666666666706,
+        "conditional95CI": [
+          0.0,
+          0.007466666666666627
+        ]
+      }
+    }
+  ],
+  "factorial_cells": [
+    [
+      "Original scalar + real-negative replay",
+      "0.999600",
+      "0.016841",
+      "0.732471"
+    ],
+    [
+      "Original scalar + normal coverage",
+      "0.998400",
+      "0.021758",
+      "0.076203"
+    ],
+    [
+      "Canonical scalar + real-negative replay",
+      "0.999733",
+      "0.015328",
+      "0.681427"
+    ],
+    [
+      "Canonical scalar + normal coverage",
+      "1.000000",
+      "0.008814",
+      "0.077914"
+    ]
+  ],
+  "factorial_effects": [
+    [
+      "Joint treatment minus original/replay",
+      "Brier",
+      "-0.008027",
+      "[-0.020192, 0.000715]"
+    ],
+    [
+      "Coverage minus replay, canonical scalar",
+      "Brier",
+      "-0.006514",
+      "[-0.021050, 0.004676]"
+    ],
+    [
+      "Canonical minus original, normal coverage",
+      "Brier",
+      "-0.012944",
+      "[-0.020261, -0.006083]"
+    ],
+    [
+      "Representation-by-coverage interaction",
+      "Brier",
+      "-0.011431",
+      "[-0.017977, -0.005307]"
+    ],
+    [
+      "Coverage minus replay, canonical scalar",
+      "Normal MSE",
+      "-0.603513",
+      "[-0.643244, -0.562091]"
+    ],
+    [
+      "Canonical minus original, normal coverage",
+      "Normal MSE",
+      "+0.001711",
+      "[-0.014138, 0.015890]"
+    ],
+    [
+      "Representation-by-coverage interaction",
+      "Normal MSE",
+      "+0.052755",
+      "[0.020791, 0.084575]"
+    ]
+  ],
+  "sources": {
+    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-SCALAR-GEOMETRY-NORMAL-RGB-COMBINATION-CPU-DEV-20261030/attempt001/results.json": "a92d42b3b865980c2d2f8e3bf997c41ce65252b3ce92109697731691ffdafc8e",
+    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-SCALAR-GEOMETRY-NORMAL-RGB-COMBINATION-CPU-DEV-20261030/attempt001/PAIRED_TWO_FACTOR_EFFECTS.json": "60d164c088d2b6a5cadba53bb84fd79d97f201392fce7f9f81ff48bedfe140f2",
+    "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030/attempt001/PAIRED_EFFECTS_AND_CLASS_SENSITIVITY.json": "8a9b891ef24a44c3c9bf4f6e967b5feef8e92b44098dc701f8e827784da5ab56"
+  },
+  "new_training": 0,
+  "new_fitting": 0,
+  "new_bootstrap": 0
+}

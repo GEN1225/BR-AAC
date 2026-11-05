@@ -1,0 +1,703 @@
+{
+  "status": "COMPLETE",
+  "code_sha256": "eb797f74b5be7b604641f0dad4468140ea1dbb840325eb9e4e1337ad2232e34d",
+  "bootstrap_helper_sha256": "ad30847886a2baa1b557706c1bfc75aa04966e3032db0afb1e5c2a9f40da6759",
+  "results_sha256": "4fd7b671bda099555abf6aec30491772310c9eed6f0ba2e866cf250774fd3dd2",
+  "bootstrap": 5000,
+  "results": {
+    "ENSEMBLE": {
+      "ALL": {
+        "n": 164,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.08746302457886976,
+            "AUROC": 0.9648148148148149
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.11568943899089439,
+            "AUROC": 0.9470538720538719
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.09207178383664281,
+            "AUROC": 0.9648569023569025
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.11811072875214501,
+            "AUROC": 0.950925925925926
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.030647704173275253,
+              "conditional95CI": [
+                -0.0023858280605074693,
+                0.06339015264031973
+              ]
+            },
+            "AUROC": {
+              "delta": -0.01388888888888895,
+              "conditional95CI": [
+                -0.04974852693602695,
+                0.01999263468013446
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.002421289761250625,
+              "conditional95CI": [
+                -0.014398754622856254,
+                0.01677333225979825
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0038720538720540265,
+              "conditional95CI": [
+                -0.016414141414141332,
+                0.02563446969696969
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": {
+              "delta": 0.026038944915502196,
+              "conditional95CI": [
+                -0.0030428384557697067,
+                0.05661470267730989
+              ]
+            },
+            "AUROC": {
+              "delta": -0.013930976430976516,
+              "conditional95CI": [
+                -0.048949915824915945,
+                0.01868686868686853
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "Brier": {
+              "delta": -0.0021874694965224317,
+              "conditional95CI": [
+                -0.012670009882233655,
+                0.006980897580283469
+              ]
+            },
+            "AUROC": {
+              "delta": 0.003829966329966461,
+              "conditional95CI": [
+                -0.01746632996632991,
+                0.028200757575757462
+              ]
+            }
+          }
+        }
+      },
+      "DENT92": {
+        "n": 92,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.07108391159312179,
+            "AUROC": 0.9768518518518517
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.11254946422528647,
+            "AUROC": 0.9467592592592593
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.06482161099685584,
+            "AUROC": 0.9861111111111112
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.11470895069383048,
+            "AUROC": 0.9436728395061729
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.043625039100708696,
+              "conditional95CI": [
+                -0.004651025640172011,
+                0.09664275140563934
+              ]
+            },
+            "AUROC": {
+              "delta": -0.03317901234567888,
+              "conditional95CI": [
+                -0.08641975308641969,
+                0.012345679012345628
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.0021594864685440113,
+              "conditional95CI": [
+                -0.018689012182722363,
+                0.020248897268486624
+              ]
+            },
+            "AUROC": {
+              "delta": -0.0030864197530864335,
+              "conditional95CI": [
+                -0.033950617283950546,
+                0.02083333333333337
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": {
+              "delta": 0.04988733969697465,
+              "conditional95CI": [
+                0.005242006784619876,
+                0.0987681828188893
+              ]
+            },
+            "AUROC": {
+              "delta": -0.042438271604938294,
+              "conditional95CI": [
+                -0.09336419753086433,
+                -0.002314814814814767
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "Brier": {
+              "delta": 0.008421787064809963,
+              "conditional95CI": [
+                -0.0049192940991320145,
+                0.021919751514839287
+              ]
+            },
+            "AUROC": {
+              "delta": -0.012345679012345845,
+              "conditional95CI": [
+                -0.04398148148148129,
+                0.011574074074074181
+              ]
+            }
+          }
+        }
+      },
+      "NORMAL_HOLD": {
+        "n": 320,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": 0.06030201151656943
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": 0.07949496329398367
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": 0.026961257501413306
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": 0.049731378650237176
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": {
+              "delta": -0.010570632866332252,
+              "conditional95CI": [
+                -0.035080188127805306,
+                0.014107988992711864
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": {
+              "delta": -0.029763584643746496,
+              "conditional95CI": [
+                -0.044389559294080685,
+                -0.016304994407306567
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": {
+              "delta": 0.02277012114882387,
+              "conditional95CI": [
+                0.0035045380887226926,
+                0.042092871866920775
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "normal_MSE": {
+              "delta": 0.0035771693714096303,
+              "conditional95CI": [
+                -0.006437594756982989,
+                0.01440115491180153
+              ]
+            }
+          }
+        }
+      }
+    },
+    "20261017": {
+      "ALL": {
+        "n": 164,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.09841540410220866,
+            "AUROC": 0.9708333333333334
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.1279929491341938,
+            "AUROC": 0.9449915824915825
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.10879835888568376,
+            "AUROC": 0.9735690235690235
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.13723297628137593,
+            "AUROC": 0.9613636363636363
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.03881757217916727,
+              "conditional95CI": [
+                0.0006496642394825568,
+                0.07755844018045552
+              ]
+            },
+            "AUROC": {
+              "delta": -0.009469696969697128,
+              "conditional95CI": [
+                -0.04697074915824929,
+                0.022475799663299597
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.00924002714718214,
+              "conditional95CI": [
+                -0.007437914517934674,
+                0.02542353206915079
+              ]
+            },
+            "AUROC": {
+              "delta": 0.01637205387205376,
+              "conditional95CI": [
+                -0.002989267676767562,
+                0.041542508417508395
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": {
+              "delta": 0.02843461739569217,
+              "conditional95CI": [
+                -0.009637987822665416,
+                0.06597401774485115
+              ]
+            },
+            "AUROC": {
+              "delta": -0.01220538720538722,
+              "conditional95CI": [
+                -0.04819234006734021,
+                0.020118897306397154
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "Brier": {
+              "delta": -0.0011429276362929647,
+              "conditional95CI": [
+                -0.011873715630215742,
+                0.009654181523319441
+              ]
+            },
+            "AUROC": {
+              "delta": 0.013636363636363669,
+              "conditional95CI": [
+                -0.015151515151515253,
+                0.04272095959595967
+              ]
+            }
+          }
+        }
+      },
+      "DENT92": {
+        "n": 92,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.08947365610619944,
+            "AUROC": 0.970679012345679
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.1311012954380219,
+            "AUROC": 0.9390432098765432
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.08328808955488765,
+            "AUROC": 0.9722222222222222
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.14067185274250876,
+            "AUROC": 0.9483024691358024
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.051198196636309326,
+              "conditional95CI": [
+                -0.011022925180172737,
+                0.11230768610831639
+              ]
+            },
+            "AUROC": {
+              "delta": -0.022376543209876587,
+              "conditional95CI": [
+                -0.07638888888888895,
+                0.02777777777777779
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.00957055730448686,
+              "conditional95CI": [
+                -0.011238480927153007,
+                0.02935440369670176
+              ]
+            },
+            "AUROC": {
+              "delta": 0.00925925925925919,
+              "conditional95CI": [
+                -0.004629629629629761,
+                0.02777777777777779
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": {
+              "delta": 0.05738376318762112,
+              "conditional95CI": [
+                -0.004306245169147593,
+                0.11713035486582754
+              ]
+            },
+            "AUROC": {
+              "delta": -0.023919753086419804,
+              "conditional95CI": [
+                -0.0771604938271605,
+                0.025205761316872355
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "Brier": {
+              "delta": 0.01575612385579865,
+              "conditional95CI": [
+                0.001061128451883113,
+                0.0321879895378016
+              ]
+            },
+            "AUROC": {
+              "delta": 0.007716049382715973,
+              "conditional95CI": [
+                -0.02958461934156393,
+                0.04655349794238673
+              ]
+            }
+          }
+        }
+      },
+      "NORMAL_HOLD": {
+        "n": 320,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": 0.06811248666453311
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": 0.07619541427931058
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": 0.03993393130860494
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": 0.042889735236035884
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": {
+              "delta": -0.025222751428497225,
+              "conditional95CI": [
+                -0.049290583212641736,
+                -0.0023235542420113214
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": {
+              "delta": -0.033305679043274694,
+              "conditional95CI": [
+                -0.04982109816995917,
+                -0.01794087451676093
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": {
+              "delta": 0.0029558039274309444,
+              "conditional95CI": [
+                -0.01628232342281203,
+                0.021923620432393792
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "normal_MSE": {
+              "delta": -0.005127123687346524,
+              "conditional95CI": [
+                -0.01716143934240718,
+                0.006380154523636811
+              ]
+            }
+          }
+        }
+      }
+    },
+    "20261018": {
+      "ALL": {
+        "n": 164,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.08829576799872273,
+            "AUROC": 0.9502946127946128
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.11231161415605888,
+            "AUROC": 0.954124579124579
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.10103670560865388,
+            "AUROC": 0.9510521885521885
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.12099359704090595,
+            "AUROC": 0.9455808080808079
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.03269782904218323,
+              "conditional95CI": [
+                0.004140194034807305,
+                0.061828949142200045
+              ]
+            },
+            "AUROC": {
+              "delta": -0.004713804713804892,
+              "conditional95CI": [
+                -0.04006734006734003,
+                0.031692971380471335
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.008681982884847075,
+              "conditional95CI": [
+                -0.010516259720394541,
+                0.02306028855226683
+              ]
+            },
+            "AUROC": {
+              "delta": -0.008543771043771131,
+              "conditional95CI": [
+                -0.032198021885521906,
+                0.013930976430976409
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": {
+              "delta": 0.019956891432252072,
+              "conditional95CI": [
+                -0.008552493858719581,
+                0.04818263625109069
+              ]
+            },
+            "AUROC": {
+              "delta": -0.005471380471380627,
+              "conditional95CI": [
+                -0.03451178451178438,
+                0.026853956228956033
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "Brier": {
+              "delta": -0.00405895472508408,
+              "conditional95CI": [
+                -0.024574614461799288,
+                0.012701722215075479
+              ]
+            },
+            "AUROC": {
+              "delta": -0.009301346801346866,
+              "conditional95CI": [
+                -0.030892255892255974,
+                0.012962962962962954
+              ]
+            }
+          }
+        }
+      },
+      "DENT92": {
+        "n": 92,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.06088305802964663,
+            "AUROC": 0.9699074074074073
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": 0.10981988277834942,
+            "AUROC": 0.9616769547325101
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.07464439985331238,
+            "AUROC": 0.9791666666666666
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "Brier": 0.12695057769249135,
+            "AUROC": 0.9495884773662551
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.06606751966284471,
+              "conditional95CI": [
+                0.023892828428409497,
+                0.11056839575337718
+              ]
+            },
+            "AUROC": {
+              "delta": -0.02031893004115226,
+              "conditional95CI": [
+                -0.07458847736625518,
+                0.023405349794238584
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "Brier": {
+              "delta": 0.01713069491414193,
+              "conditional95CI": [
+                -0.007073811020788159,
+                0.03923822056153648
+              ]
+            },
+            "AUROC": {
+              "delta": -0.012088477366255068,
+              "conditional95CI": [
+                -0.053240740740740596,
+                0.01620370370370361
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "Brier": {
+              "delta": 0.05230617783917897,
+              "conditional95CI": [
+                0.01740138508453682,
+                0.08678754497538309
+              ]
+            },
+            "AUROC": {
+              "delta": -0.02957818930041156,
+              "conditional95CI": [
+                -0.08179012345678993,
+                0.005144032921810648
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "Brier": {
+              "delta": 0.0033693530904761806,
+              "conditional95CI": [
+                -0.020766111090748218,
+                0.024950192000469988
+              ]
+            },
+            "AUROC": {
+              "delta": -0.02134773662551437,
+              "conditional95CI": [
+                -0.060699588477366125,
+                0.004629629629629761
+              ]
+            }
+          }
+        }
+      },
+      "NORMAL_HOLD": {
+        "n": 320,
+        "metrics": {
+          "ORIGINAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": 0.06204872636108233
+          },
+          "CANONICAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": 0.06707016647702971
+          },
+          "ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": 0.02603570379646524
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": 0.04056422980303077
+          }
+        },
+        "effects": {
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": {
+              "delta": -0.021484496558051562,
+              "conditional95CI": [
+                -0.045522556583450745,
+                0.0017657032202388788
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+            "normal_MSE": {
+              "delta": -0.02650593667399894,
+              "conditional95CI": [
+                -0.040276108324983524,
+                -0.014898342688662821
+              ]
+            }
+          },
+          "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+            "normal_MSE": {
+              "delta": 0.014528526006565526,
+              "conditional95CI": [
+                -0.0016993115552888763,
+                0.031175438694755843
+              ]
+            }
+          },
+          "two_factor_interaction": {
+            "normal_MSE": {
+              "delta": 0.009507085890618147,
+              "conditional95CI": [
+                0.0004847581531822507,
+                0.01976877509527545
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "scope": "Paired within-category/label unique registered acquisition groups, fixed10classes/models/heads,conditional,nottraining/selection/physicalunituncertainty.No multiplicityadjustment;DEVnotindependentconfirmation. MainminusALLcomparisonsnotpermissiontoretunesecondsource."
+}

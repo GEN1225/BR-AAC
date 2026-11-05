@@ -1,0 +1,73 @@
+{
+  "selection": "First registered V sample per predeclared category/type; no score-based screening; includes impact weak subtype and normal control",
+  "seed": 20261017,
+  "device": "cuda",
+  "model_refs": [
+    {
+      "arm": "G_GLOBAL_FIXED",
+      "seed": 20261017,
+      "phase": "FINAL",
+      "model": {
+        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-GEOMETRY-SUPERVISION-REPRESENTATION-FACTORIAL-DEV-20261018/attempt001/models/G_GLOBAL_FIXED_20261017_FINAL.pt",
+        "sha256": "aaac9ce0bd3ce3c8a403ea90ae0a060f87fbe29cd22be0a113e68db3e23981b4"
+      },
+      "alias": "G_GLOBAL_FIXED"
+    },
+    {
+      "arm": "G_LOCAL_FIXED",
+      "seed": 20261017,
+      "phase": "FINAL",
+      "model": {
+        "path": "${DRIVE_F}/\u8bba\u6587\u4e00~\u4e94/05_\u7ed3\u679c/\u6309\u5b9e\u9a8cID/EXP-P3-REALIAD-GEOMETRY-SUPERVISION-REPRESENTATION-FACTORIAL-DEV-20261018/attempt001/models/G_LOCAL_FIXED_20261017_FINAL.pt",
+        "sha256": "20c529afcf8572ef8d2ce6fcd3bb9831aaeb69da198f230109a338022918562f"
+      },
+      "alias": "G_LOCAL_FIXED"
+    }
+  ],
+  "records": [
+    {
+      "index": 175,
+      "sample_key": "humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_00000000000000",
+      "category": "humidity_sensor",
+      "label": 1,
+      "defect_type": "pit"
+    },
+    {
+      "index": 125,
+      "sample_key": "humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_00000000000000",
+      "category": "humidity_sensor",
+      "label": 1,
+      "defect_type": "impact_damage"
+    },
+    {
+      "index": 0,
+      "sample_key": "audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_00000000000000",
+      "category": "audio_jack_socket",
+      "label": 1,
+      "defect_type": "impact_damage"
+    },
+    {
+      "index": 225,
+      "sample_key": "humidity_sensor/OK/S0026/humidity_sensor_0026_OK_00000000000000",
+      "category": "humidity_sensor",
+      "label": 0,
+      "defect_type": "good"
+    }
+  ],
+  "scores": {
+    "G_GLOBAL_FIXED": [
+      10.36567497253418,
+      -12.330994606018066,
+      8.176053047180176,
+      -11.402422904968262
+    ],
+    "G_LOCAL_FIXED": [
+      18.383928298950195,
+      -3.9921875,
+      5.016262531280518,
+      -8.276137351989746
+    ]
+  },
+  "training_updates": 0,
+  "forward_batches": 2
+}

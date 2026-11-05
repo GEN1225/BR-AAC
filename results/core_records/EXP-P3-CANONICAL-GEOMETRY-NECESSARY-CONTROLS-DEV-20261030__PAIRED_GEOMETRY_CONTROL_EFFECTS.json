@@ -1,0 +1,1343 @@
+{
+  "status": "COMPLETE",
+  "code_sha256": "1faa378e86b9d4628c7aec1ae0a9cf34168c4e54de871e6b598710f75aacb107",
+  "parent_results_sha256": "a45793d64194944295bb0dbaec1c46ab792d409075a0bb059fc6161f928344fa",
+  "replicates": 5000,
+  "results": {
+    "ENSEMBLE": {
+      "G": {
+        "ALL": {
+          "n": 350,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.03754205036355195,
+              "AUROC": 0.988
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.0857915917875664,
+              "AUROC": 0.9490666666666666
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.038401331477198604,
+              "AUROC": 0.9849333333333333
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.04824954142401445,
+                "conditional95CI": [
+                  -0.07102866044172775,
+                  -0.026328151038586534
+                ]
+              },
+              "AUROC": {
+                "delta": 0.038933333333333375,
+                "conditional95CI": [
+                  0.008263333333333312,
+                  0.07453333333333345
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.000859281113646651,
+                "conditional95CI": [
+                  -0.018299617628702355,
+                  0.017682323088956037
+                ]
+              },
+              "AUROC": {
+                "delta": 0.003066666666666662,
+                "conditional95CI": [
+                  -0.012003333333333558,
+                  0.01893333333333347
+                ]
+              }
+            }
+          }
+        },
+        "EXCLUDED": {
+          "n": 225,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.022843546190815658,
+              "AUROC": 0.9994666666666667
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.09218729170535428,
+              "AUROC": 0.9498666666666667
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.05187062063094164,
+              "AUROC": 0.9733333333333333
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.06934374551453862,
+                "conditional95CI": [
+                  -0.0923686025752646,
+                  -0.04679392034368541
+                ]
+              },
+              "AUROC": {
+                "delta": 0.04959999999999998,
+                "conditional95CI": [
+                  0.016533333333333396,
+                  0.09013333333333351
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.02902707444012598,
+                "conditional95CI": [
+                  -0.04854579234167126,
+                  -0.008434163325612181
+                ]
+              },
+              "AUROC": {
+                "delta": 0.026133333333333453,
+                "conditional95CI": [
+                  0.00960000000000005,
+                  0.0496000000000002
+                ]
+              }
+            }
+          }
+        },
+        "HUMIDITY_IMPACT": {
+          "n": 50,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.039618776977260683,
+              "AUROC": 0.9968
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.24082834638990497,
+              "AUROC": 0.9312
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.22991396056862629,
+              "AUROC": 0.8416
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.20120956941264428,
+                "conditional95CI": [
+                  -0.2380318224382723,
+                  -0.16163609698205414
+                ]
+              },
+              "AUROC": {
+                "delta": 0.06559999999999999,
+                "conditional95CI": [
+                  0.009599999999999942,
+                  0.14400000000000002
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.1902951835913656,
+                "conditional95CI": [
+                  -0.26406018070399867,
+                  -0.11802486470061717
+                ]
+              },
+              "AUROC": {
+                "delta": 0.1552,
+                "conditional95CI": [
+                  0.060799999999999965,
+                  0.27680000000000016
+                ]
+              }
+            }
+          }
+        },
+        "NORMAL_HOLD": {
+          "n": 132,
+          "metrics": {
+            "MAIN": {
+              "normal_MSE": 0.250438302490319
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": 0.18318925662412786
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": 0.7253967130123905
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": {
+                "delta": 0.06724904586619115,
+                "conditional95CI": [
+                  0.04633958392469714,
+                  0.08745550815015374
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": {
+                "delta": -0.4749584105220715,
+                "conditional95CI": [
+                  -0.5194950669894762,
+                  -0.4333181412357343
+                ]
+              }
+            }
+          }
+        }
+      },
+      "H": {
+        "ALL": {
+          "n": 350,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.008813653861853173,
+              "AUROC": 1.0
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.04656642696567395,
+              "AUROC": 0.9935999999999999
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.026686047709838234,
+              "AUROC": 0.996
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.037752773103820775,
+                "conditional95CI": [
+                  -0.05487402394393325,
+                  -0.022801422647047896
+                ]
+              },
+              "AUROC": {
+                "delta": 0.006400000000000072,
+                "conditional95CI": [
+                  0.0,
+                  0.017066666666666785
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.01787239384798506,
+                "conditional95CI": [
+                  -0.027328846074145756,
+                  -0.009149813281750711
+                ]
+              },
+              "AUROC": {
+                "delta": 0.0040000000000000036,
+                "conditional95CI": [
+                  0.0006666666666667043,
+                  0.009333333333333416
+                ]
+              }
+            }
+          }
+        },
+        "EXCLUDED": {
+          "n": 225,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.011796235909870376,
+              "AUROC": 1.0
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.07848739825627295,
+              "AUROC": 0.9904000000000001
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.047444538728767034,
+              "AUROC": 0.992
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.06669116234640257,
+                "conditional95CI": [
+                  -0.08859918534606873,
+                  -0.04649452590958273
+                ]
+              },
+              "AUROC": {
+                "delta": 0.009599999999999942,
+                "conditional95CI": [
+                  0.0,
+                  0.024800000000000155
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.03564830281889666,
+                "conditional95CI": [
+                  -0.0517942008794787,
+                  -0.020181474149595757
+                ]
+              },
+              "AUROC": {
+                "delta": 0.008000000000000007,
+                "conditional95CI": [
+                  0.0013333333333331837,
+                  0.01894000000000014
+                ]
+              }
+            }
+          }
+        },
+        "HUMIDITY_IMPACT": {
+          "n": 50,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.04861666039648397,
+              "AUROC": 1.0
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.33606098165459664,
+              "AUROC": 1.0
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.25330324161268686,
+              "AUROC": 0.952
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.28744432125811265,
+                "conditional95CI": [
+                  -0.34885130839263995,
+                  -0.22427806387465998
+                ]
+              },
+              "AUROC": {
+                "delta": 0.0,
+                "conditional95CI": [
+                  0.0,
+                  0.0
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.2046865812162029,
+                "conditional95CI": [
+                  -0.2779071398610277,
+                  -0.13224243318913945
+                ]
+              },
+              "AUROC": {
+                "delta": 0.04800000000000004,
+                "conditional95CI": [
+                  0.009600000000000053,
+                  0.10720000000000018
+                ]
+              }
+            }
+          }
+        },
+        "NORMAL_HOLD": {
+          "n": 132,
+          "metrics": {
+            "MAIN": {
+              "normal_MSE": 0.07791394674643391
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": 0.04403329396779491
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": 0.6026637247321726
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": {
+                "delta": 0.033880652778639005,
+                "conditional95CI": [
+                  0.019466505147400802,
+                  0.04762154747096005
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": {
+                "delta": -0.5247497779857386,
+                "conditional95CI": [
+                  -0.5698288282307448,
+                  -0.478215476887405
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "20261017": {
+      "G": {
+        "ALL": {
+          "n": 350,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.03434710210742371,
+              "AUROC": 0.9892
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.11281819924051989,
+              "AUROC": 0.8846666666666666
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.03579902641158406,
+              "AUROC": 0.9817333333333332
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.07847109713309618,
+                "conditional95CI": [
+                  -0.10209145251635786,
+                  -0.056523453781116034
+                ]
+              },
+              "AUROC": {
+                "delta": 0.10453333333333337,
+                "conditional95CI": [
+                  0.06199666666666662,
+                  0.15320000000000022
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.00145192430416035,
+                "conditional95CI": [
+                  -0.018468542579307044,
+                  0.01566712600688917
+                ]
+              },
+              "AUROC": {
+                "delta": 0.0074666666666667325,
+                "conditional95CI": [
+                  -0.007870000000000018,
+                  0.024266666666666773
+                ]
+              }
+            }
+          }
+        },
+        "EXCLUDED": {
+          "n": 225,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.01838045277826877,
+              "AUROC": 0.9992000000000001
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.13769451855089587,
+              "AUROC": 0.8189333333333333
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.05475696666795271,
+              "AUROC": 0.9655999999999999
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.1193140657726271,
+                "conditional95CI": [
+                  -0.1433499436419652,
+                  -0.09676835260748705
+                ]
+              },
+              "AUROC": {
+                "delta": 0.1802666666666668,
+                "conditional95CI": [
+                  0.12213333333333365,
+                  0.24560000000000015
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.03637651388968394,
+                "conditional95CI": [
+                  -0.0573129378528922,
+                  -0.016204608903840567
+                ]
+              },
+              "AUROC": {
+                "delta": 0.033600000000000185,
+                "conditional95CI": [
+                  0.013333333333333308,
+                  0.058400000000000125
+                ]
+              }
+            }
+          }
+        },
+        "HUMIDITY_IMPACT": {
+          "n": 50,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.039837305991651764,
+              "AUROC": 0.9952
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.3344805906301705,
+              "AUROC": 0.224
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.2673914673952346,
+              "AUROC": 0.7968
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.29464328463851874,
+                "conditional95CI": [
+                  -0.32027628249503826,
+                  -0.26034128828206404
+                ]
+              },
+              "AUROC": {
+                "delta": 0.7712,
+                "conditional95CI": [
+                  0.6319999999999999,
+                  0.8960000000000002
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.22755416140358287,
+                "conditional95CI": [
+                  -0.31150446044167995,
+                  -0.14137171381492258
+                ]
+              },
+              "AUROC": {
+                "delta": 0.19840000000000002,
+                "conditional95CI": [
+                  0.0848000000000001,
+                  0.3296
+                ]
+              }
+            }
+          }
+        },
+        "NORMAL_HOLD": {
+          "n": 132,
+          "metrics": {
+            "MAIN": {
+              "normal_MSE": 0.2364600435395169
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": 0.17179431635120276
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": 0.7844503106334978
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": {
+                "delta": 0.06466572718831415,
+                "conditional95CI": [
+                  0.045458904784888426,
+                  0.0834671795443012
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": {
+                "delta": -0.5479902670939809,
+                "conditional95CI": [
+                  -0.5966915754582615,
+                  -0.5001458373654257
+                ]
+              }
+            }
+          }
+        }
+      },
+      "H": {
+        "ALL": {
+          "n": 350,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.010844944416385621,
+              "AUROC": 0.9996
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.09743276447761495,
+              "AUROC": 0.9753333333333334
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.03119518992926824,
+              "AUROC": 0.9878666666666667
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.08658782006122934,
+                "conditional95CI": [
+                  -0.10524229197946604,
+                  -0.06894795277737359
+                ]
+              },
+              "AUROC": {
+                "delta": 0.02426666666666666,
+                "conditional95CI": [
+                  0.010796666666666597,
+                  0.04026666666666656
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.02035024551288262,
+                "conditional95CI": [
+                  -0.03156379062571568,
+                  -0.010584311673697923
+                ]
+              },
+              "AUROC": {
+                "delta": 0.011733333333333373,
+                "conditional95CI": [
+                  0.0040000000000000036,
+                  0.022666666666666616
+                ]
+              }
+            }
+          }
+        },
+        "EXCLUDED": {
+          "n": 225,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.01779490426810211,
+              "AUROC": 0.9992
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.18458876842508806,
+              "AUROC": 0.9522666666666666
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.06145203819986355,
+              "AUROC": 0.9757333333333333
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.16679386415698594,
+                "conditional95CI": [
+                  -0.18889605097023035,
+                  -0.14538698254292545
+                ]
+              },
+              "AUROC": {
+                "delta": 0.04693333333333338,
+                "conditional95CI": [
+                  0.022400000000000194,
+                  0.07839999999999991
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.04365713393176144,
+                "conditional95CI": [
+                  -0.06281301441684539,
+                  -0.02615014703089403
+                ]
+              },
+              "AUROC": {
+                "delta": 0.023466666666666636,
+                "conditional95CI": [
+                  0.008000000000000007,
+                  0.044266666666666676
+                ]
+              }
+            }
+          }
+        },
+        "HUMIDITY_IMPACT": {
+          "n": 50,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.08343591563080713,
+              "AUROC": 0.9968
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.4897670508539299,
+              "AUROC": 0.8352
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.3455678054318424,
+              "AUROC": 0.8576
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.4063311352231228,
+                "conditional95CI": [
+                  -0.45828729338545815,
+                  -0.34693760207136315
+                ]
+              },
+              "AUROC": {
+                "delta": 0.16159999999999997,
+                "conditional95CI": [
+                  0.05920000000000003,
+                  0.2799999999999999
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.2621318898010353,
+                "conditional95CI": [
+                  -0.33785472182965487,
+                  -0.18469945850048214
+                ]
+              },
+              "AUROC": {
+                "delta": 0.1392,
+                "conditional95CI": [
+                  0.04959999999999998,
+                  0.24960000000000004
+                ]
+              }
+            }
+          }
+        },
+        "NORMAL_HOLD": {
+          "n": 132,
+          "metrics": {
+            "MAIN": {
+              "normal_MSE": 0.059275390835642226
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": 0.01924543849844093
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": 0.6334681194827235
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": {
+                "delta": 0.040029952337201295,
+                "conditional95CI": [
+                  0.03120168435050772,
+                  0.04944471549654317
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": {
+                "delta": -0.5741927286470813,
+                "conditional95CI": [
+                  -0.632286754366001,
+                  -0.5196018877567152
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "20261018": {
+      "G": {
+        "ALL": {
+          "n": 350,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.04371426732334236,
+              "AUROC": 0.9817333333333332
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.06901981458142564,
+              "AUROC": 0.956
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.06339971689176525,
+              "AUROC": 0.9670666666666667
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.02530554725808328,
+                "conditional95CI": [
+                  -0.04750729636372763,
+                  -0.0024940032625048025
+                ]
+              },
+              "AUROC": {
+                "delta": 0.025733333333333275,
+                "conditional95CI": [
+                  0.0030666666666667704,
+                  0.05200000000000027
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.019685449568422893,
+                "conditional95CI": [
+                  -0.04680782562114712,
+                  0.006162188511718389
+                ]
+              },
+              "AUROC": {
+                "delta": 0.014666666666666495,
+                "conditional95CI": [
+                  -0.007199999999999873,
+                  0.03813333333333325
+                ]
+              }
+            }
+          }
+        },
+        "EXCLUDED": {
+          "n": 225,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.02922428431996428,
+              "AUROC": 0.9975999999999999
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.055120250296629564,
+              "AUROC": 0.9821333333333332
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.06278792137336416,
+              "AUROC": 0.9696000000000001
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.025895965976665283,
+                "conditional95CI": [
+                  -0.048697140671032875,
+                  -0.0019364753543050545
+                ]
+              },
+              "AUROC": {
+                "delta": 0.01546666666666674,
+                "conditional95CI": [
+                  -0.000266666666666418,
+                  0.03626666666666667
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.033563637053399875,
+                "conditional95CI": [
+                  -0.06086846298554636,
+                  -0.00773997773527091
+                ]
+              },
+              "AUROC": {
+                "delta": 0.027999999999999803,
+                "conditional95CI": [
+                  0.008533333333333282,
+                  0.0536000000000002
+                ]
+              }
+            }
+          }
+        },
+        "HUMIDITY_IMPACT": {
+          "n": 50,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.04608714411054059,
+              "AUROC": 0.9984
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.08773556949665616,
+              "AUROC": 0.9808
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.18335963790101872,
+              "AUROC": 0.8176
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.04164842538611557,
+                "conditional95CI": [
+                  -0.09648441356388239,
+                  0.012056326835434774
+                ]
+              },
+              "AUROC": {
+                "delta": 0.01759999999999995,
+                "conditional95CI": [
+                  -0.0031999999999999806,
+                  0.05599999999999994
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.13727249379047812,
+                "conditional95CI": [
+                  -0.21153369798501648,
+                  -0.07073089283701449
+                ]
+              },
+              "AUROC": {
+                "delta": 0.18079999999999996,
+                "conditional95CI": [
+                  0.07519999999999993,
+                  0.31679999999999997
+                ]
+              }
+            }
+          }
+        },
+        "NORMAL_HOLD": {
+          "n": 132,
+          "metrics": {
+            "MAIN": {
+              "normal_MSE": 0.2577176096312221
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": 0.248554588805647
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": 0.6325767913033262
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": {
+                "delta": 0.009163020825575102,
+                "conditional95CI": [
+                  -0.018794045280647136,
+                  0.03631090654725451
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": {
+                "delta": -0.37485918167210414,
+                "conditional95CI": [
+                  -0.41098238898469563,
+                  -0.3416230299005927
+                ]
+              }
+            }
+          }
+        }
+      },
+      "H": {
+        "ALL": {
+          "n": 350,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.016966142982874684,
+              "AUROC": 0.9992000000000001
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.020901351078039438,
+              "AUROC": 0.9913333333333334
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.029830073518597372,
+              "AUROC": 0.9955999999999999
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.003935208095164754,
+                "conditional95CI": [
+                  -0.015451958388527327,
+                  0.00797308326511342
+                ]
+              },
+              "AUROC": {
+                "delta": 0.007866666666666688,
+                "conditional95CI": [
+                  -0.0005333333333332774,
+                  0.02213333333333334
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.012863930535722688,
+                "conditional95CI": [
+                  -0.02573766310825294,
+                  0.00010901575548071495
+                ]
+              },
+              "AUROC": {
+                "delta": 0.0036000000000001586,
+                "conditional95CI": [
+                  -0.0001366666666668614,
+                  0.009070000000000165
+                ]
+              }
+            }
+          }
+        },
+        "EXCLUDED": {
+          "n": 225,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.01578316672030049,
+              "AUROC": 1.0
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.018563695769548118,
+              "AUROC": 0.9935999999999999
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.03167222296607835,
+              "AUROC": 0.9954666666666667
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.002780529049247627,
+                "conditional95CI": [
+                  -0.01409930305983696,
+                  0.009436153041756908
+                ]
+              },
+              "AUROC": {
+                "delta": 0.006400000000000072,
+                "conditional95CI": [
+                  0.0,
+                  0.01974000000000016
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.01588905624577786,
+                "conditional95CI": [
+                  -0.03078146104803,
+                  -0.0008417121627353255
+                ]
+              },
+              "AUROC": {
+                "delta": 0.004533333333333278,
+                "conditional95CI": [
+                  0.0002666666666667483,
+                  0.01226666666666643
+                ]
+              }
+            }
+          }
+        },
+        "HUMIDITY_IMPACT": {
+          "n": 50,
+          "metrics": {
+            "MAIN": {
+              "Brier": 0.019645104546046607,
+              "AUROC": 1.0
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": 0.023398439870692813,
+              "AUROC": 1.0
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": 0.0835892929604275,
+              "AUROC": 0.9728
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "Brier": {
+                "delta": -0.0037533353246462058,
+                "conditional95CI": [
+                  -0.01926531810703964,
+                  0.015679084637194064
+                ]
+              },
+              "AUROC": {
+                "delta": 0.0,
+                "conditional95CI": [
+                  0.0,
+                  0.0
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "Brier": {
+                "delta": -0.06394418841438089,
+                "conditional95CI": [
+                  -0.12048635688995182,
+                  -0.014677455880064064
+                ]
+              },
+              "AUROC": {
+                "delta": 0.027200000000000002,
+                "conditional95CI": [
+                  0.0016000000000000458,
+                  0.07199999999999995
+                ]
+              }
+            }
+          }
+        },
+        "NORMAL_HOLD": {
+          "n": 132,
+          "metrics": {
+            "MAIN": {
+              "normal_MSE": 0.15179388063371177
+            },
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": 0.1553768901694825
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": 0.5739541103245704
+            }
+          },
+          "main_minus_control": {
+            "FIXED_FIT_RMS_EDIT": {
+              "normal_MSE": {
+                "delta": -0.0035830095357707314,
+                "conditional95CI": [
+                  -0.028703427613107305,
+                  0.01946741778641329
+                ]
+              }
+            },
+            "LOCAL_REAL_E_ONLY": {
+              "normal_MSE": {
+                "delta": -0.42216022969085865,
+                "conditional95CI": [
+                  -0.45851906413075144,
+                  -0.38825180988653346
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "main_per_category": {
+    "ENSEMBLE": {
+      "G": {
+        "AUROC": 0.988,
+        "probability_AUROC": 0.988,
+        "Brier": 0.03754205036355195,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9872,
+            "probability_AUROC": 0.9872,
+            "Brier": 0.05423463638426669,
+            "normal_MSE": 0.07879149447771092,
+            "anomaly_MSE": 0.02967777829082247
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 0.9768,
+            "probability_AUROC": 0.9768,
+            "Brier": 0.05750515271307963,
+            "normal_MSE": 0.032570954761160224,
+            "anomaly_MSE": 0.08243935066499902
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 0.0008863619933095535,
+            "normal_MSE": 0.001758300020558498,
+            "anomaly_MSE": 1.4423966060609107e-05
+          }
+        ]
+      },
+      "H": {
+        "AUROC": 1.0,
+        "probability_AUROC": 1.0,
+        "Brier": 0.008813653861853173,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 0.012420955046089008,
+            "normal_MSE": 0.019835554756678163,
+            "anomaly_MSE": 0.005006355335499855
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 0.01401852527647348,
+            "normal_MSE": 0.000252452730920725,
+            "anomaly_MSE": 0.027784597822026236
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 1.4812629970301688e-06,
+            "normal_MSE": 2.8955028055117493e-06,
+            "anomaly_MSE": 6.70231885485883e-08
+          }
+        ]
+      }
+    },
+    "20261017": {
+      "G": {
+        "AUROC": 0.9892,
+        "probability_AUROC": 0.9892,
+        "Brier": 0.03434710210742371,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.992,
+            "probability_AUROC": 0.992,
+            "Brier": 0.04299570636620298,
+            "normal_MSE": 0.04424943763059404,
+            "anomaly_MSE": 0.04174197510181192
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 0.9755999999999999,
+            "probability_AUROC": 0.9755999999999999,
+            "Brier": 0.05898222892547461,
+            "normal_MSE": 0.04479623184573209,
+            "anomaly_MSE": 0.07316822600521714
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 0.0010633710305935496,
+            "normal_MSE": 0.0020887604757853636,
+            "anomaly_MSE": 3.798158540173561e-05
+          }
+        ]
+      },
+      "H": {
+        "AUROC": 0.9996,
+        "probability_AUROC": 0.9996,
+        "Brier": 0.010844944416385621,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9995999999999999,
+            "probability_AUROC": 0.9995999999999999,
+            "Brier": 0.01031965792453674,
+            "normal_MSE": 0.005383816307548555,
+            "anomaly_MSE": 0.015255499541524926
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 0.9992,
+            "probability_AUROC": 0.9992,
+            "Brier": 0.022213073629080662,
+            "normal_MSE": 0.0012680684154825054,
+            "anomaly_MSE": 0.04315807884267882
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 2.101695539457229e-06,
+            "normal_MSE": 4.016382352453964e-06,
+            "anomaly_MSE": 1.870087264604945e-07
+          }
+        ]
+      }
+    },
+    "20261018": {
+      "G": {
+        "AUROC": 0.9817333333333332,
+        "probability_AUROC": 0.9817333333333332,
+        "Brier": 0.04371426732334236,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9783999999999999,
+            "probability_AUROC": 0.9783999999999999,
+            "Brier": 0.06881452389663661,
+            "normal_MSE": 0.11369352180006638,
+            "anomaly_MSE": 0.023935525993206853
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 0.9668,
+            "probability_AUROC": 0.9668,
+            "Brier": 0.06163035539297198,
+            "normal_MSE": 0.027533551264239314,
+            "anomaly_MSE": 0.09572715952170464
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 0.0006979226804184846,
+            "normal_MSE": 0.0013793120146114244,
+            "anomaly_MSE": 1.6533346225544788e-05
+          }
+        ]
+      },
+      "H": {
+        "AUROC": 0.9992000000000001,
+        "probability_AUROC": 0.9992000000000001,
+        "Brier": 0.016966142982874684,
+        "per_category": [
+          {
+            "category": "audio_jack_socket",
+            "AUROC": 0.9976,
+            "probability_AUROC": 0.9976,
+            "Brier": 0.0392801884408181,
+            "normal_MSE": 0.07486085898633113,
+            "anomaly_MSE": 0.0036995178953050643
+          },
+          {
+            "category": "humidity_sensor",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 0.011615915719306466,
+            "normal_MSE": 0.0003191469476130216,
+            "anomaly_MSE": 0.02291268449099991
+          },
+          {
+            "category": "lego_propeller",
+            "AUROC": 1.0,
+            "probability_AUROC": 1.0,
+            "Brier": 2.3247884994951327e-06,
+            "normal_MSE": 4.580046281318092e-06,
+            "anomaly_MSE": 6.953071767217317e-08
+          }
+        ]
+      }
+    }
+  },
+  "scope": "Sameunits andlegalinformation. LocalvsfixedFIT usesdifferentnormalfeaturegains bysametrainingestimationrule; cannotseparatewholegainintoeachsubtransform. RealEonly hasmoreEupdates andno normaledits,notpure editablation/FLOPmatch. Pairedacquisitiongroupbootstrapfixedclasses, conditionalfrozenNNandheads, no multiplicity/training/selection/physicalidentitycoverage. DEVonly, no promotion."
+}

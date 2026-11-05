@@ -1,0 +1,70 @@
+{
+  "expected": {
+    "Table8|ORIGINAL__E_NEGATIVE_REPLAY|Real-IAD|V": {
+      "n": 350,
+      "AUROC": 0.9996,
+      "Brier": 0.016840867310911768
+    },
+    "Table8|ORIGINAL__E_NEGATIVE_REPLAY|Real-IAD|HOLD": {
+      "n": 132,
+      "Normal_MSE": 0.7324706538931346
+    },
+    "Table8|ORIGINAL__NORMAL_FIT_COVERAGE|Real-IAD|V": {
+      "n": 350,
+      "AUROC": 0.9984000000000001,
+      "Brier": 0.021757722119951712
+    },
+    "Table8|ORIGINAL__NORMAL_FIT_COVERAGE|Real-IAD|HOLD": {
+      "n": 132,
+      "Normal_MSE": 0.07620289346381483
+    },
+    "Table8|CANONICAL__E_NEGATIVE_REPLAY|Real-IAD|V": {
+      "n": 350,
+      "AUROC": 0.9997333333333334,
+      "Brier": 0.015327921144595741
+    },
+    "Table8|CANONICAL__E_NEGATIVE_REPLAY|Real-IAD|HOLD": {
+      "n": 132,
+      "Normal_MSE": 0.68142672381583
+    },
+    "Table8|CANONICAL__NORMAL_FIT_COVERAGE|Real-IAD|V": {
+      "n": 350,
+      "AUROC": 1.0,
+      "Brier": 0.008813653861853173
+    },
+    "Table8|CANONICAL__NORMAL_FIT_COVERAGE|Real-IAD|HOLD": {
+      "n": 132,
+      "Normal_MSE": 0.07791394674643391
+    },
+    "Table4|SOFT_CENTERED|Real-IAD|V": {
+      "n": 350,
+      "AUROC": 0.9990666666666667,
+      "Brier": 0.018257915672916483
+    },
+    "Table4|HARD_FIXED|Real-IAD|V": {
+      "n": 350,
+      "AUROC": 0.9996,
+      "Brier": 0.016495657193749874
+    },
+    "Table4|SOFT_CENTERED|PD-REAL|V": {
+      "n": 164,
+      "AUROC": 0.9689814814814814,
+      "Brier": 0.09500826766711706
+    },
+    "Table4|HARD_FIXED|PD-REAL|V": {
+      "n": 164,
+      "AUROC": 0.9715488215488215,
+      "Brier": 0.0929426506735768
+    }
+  },
+  "delivered_sha256": {
+    "frozen_predictions.csv": "b8deb265d01ce75811e3745a9584de2da5e9cfb323ad01e0fdabdd957b815cfa",
+    "role_sample_manifest.csv": "852306f1b12f09dab24b1cb83371fbce5fc0e06e7e593ce9045d2827c9258600"
+  },
+  "source_experiments": [
+    "EXP-P3-GEOMETRY-CENTERED-SHRINKAGE-CONTROL-DEV-20261029",
+    "EXP-P3-SCALAR-GEOMETRY-NORMAL-RGB-COMBINATION-CPU-DEV-20261030"
+  ],
+  "ordering": "Original exporter uses V config records, CORE config normal_subrole==HOLD, PD config V_records, in their stored order. Every exported identity checked against the role manifest.",
+  "scope": "Saved ensemble outputs only; no model fits or new inference. HOLD logits were not saved in these artifacts and are left empty; only probability squared is used."
+}

@@ -1,0 +1,52 @@
+{
+  "source": "${DRIVE_F}/论文一~五/05_结果/按实验ID/EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030/attempt001/ALL_MATCHED_C_HEADS_BEFORE_NEW_V.json",
+  "source_sha256": "dc4a04d70631be8fe79e179e2c4d52dd97845a5878b6a3745bb0329fb647311f",
+  "n": 63,
+  "results": {
+    "RGB_ONLY": {
+      "OOF_Brier": 0.017967260965444324,
+      "factor": null,
+      "normal_MSE": 0.008560381390987607,
+      "anomaly_MSE": 0.027374140539901042,
+      "fold_Brier": [
+        0.0002587298162296794,
+        0.014593117529876258,
+        0.04695702166295241
+      ]
+    },
+    "HARD_FIXED": {
+      "OOF_Brier": 0.04126750588910923,
+      "factor": "0.01",
+      "normal_MSE": 0.04481806652392839,
+      "anomaly_MSE": 0.03771694525429006,
+      "fold_Brier": [
+        2.5160473519520598e-05,
+        0.08252629284159323,
+        0.05821035450965842
+      ]
+    },
+    "SOFT_CENTERED": {
+      "OOF_Brier": 0.0375756476328775,
+      "factor": "0.01",
+      "normal_MSE": 0.04607739573783037,
+      "anomaly_MSE": 0.02907389952792462,
+      "fold_Brier": [
+        0.0002476777520255511,
+        0.08028102238936256,
+        0.0495255599350131
+      ]
+    },
+    "FREE_FUSION": {
+      "OOF_Brier": 0.018098117602838953,
+      "factor": "0.1",
+      "normal_MSE": 0.006542672381335611,
+      "anomaly_MSE": 0.029653562824342294,
+      "fold_Brier": [
+        0.0006217841996833795,
+        0.011110509997975039,
+        0.04960342632294588
+      ]
+    }
+  },
+  "scope": "Saved fold heads, fixed best candidate per family; descriptive fold and label decomposition, no refitting/resampling/selection modification/test access"
+}

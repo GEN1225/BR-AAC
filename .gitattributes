@@ -1,0 +1,2 @@
+# Preserve file bytes used by artifact checksum records.
+* -text

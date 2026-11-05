@@ -1,0 +1,1158 @@
+{
+  "status": "COMPLETE",
+  "results": {
+    "ORIGINAL__E_NEGATIVE_REPLAY": {
+      "ENSEMBLE": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.7324706538931346,
+          "above_half": 126,
+          "negative_RGB_corrections": 6
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9996,
+              "probability_AUROC": 0.9996,
+              "Brier": 0.016840867310911768,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9987999999999999,
+                  "probability_AUROC": 0.9987999999999999,
+                  "Brier": 0.03569838230320257,
+                  "normal_MSE": 0.07010466414106704,
+                  "anomaly_MSE": 0.0012921004653380977
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.014824062381278695,
+                  "normal_MSE": 0.00014559712149041053,
+                  "anomaly_MSE": 0.029502527641066978
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.572482540339923e-07,
+                  "normal_MSE": 1.9336437722690202e-07,
+                  "anomaly_MSE": 1.2113213084108256e-07
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.02162782504259587,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.03531552887022024,
+                  "normal_MSE": 0.07010466414106704,
+                  "anomaly_MSE": 0.0005263935993734352
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.029567800603646877,
+                  "normal_MSE": 0.00014559712149041053,
+                  "anomaly_MSE": 0.05899000408580334
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.4565392049276059e-07,
+                  "normal_MSE": 1.9336437722690202e-07,
+                  "anomaly_MSE": 9.794346375861914e-08
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.05906217741265324,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.05906217741265324,
+                  "normal_MSE": 0.00014559712149041053,
+                  "anomaly_MSE": 0.11797875770381606
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261017": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.7223107131994281,
+          "above_half": 117,
+          "negative_RGB_corrections": 17
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9979999999999999,
+              "probability_AUROC": 0.9979999999999999,
+              "Brier": 0.025696006813952715,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9984,
+                  "probability_AUROC": 0.9984,
+                  "Brier": 0.034393765968704616,
+                  "normal_MSE": 0.0680057332891486,
+                  "anomaly_MSE": 0.0007817986482606238
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9955999999999999,
+                  "probability_AUROC": 0.9955999999999999,
+                  "Brier": 0.04269422517393565,
+                  "normal_MSE": 0.00018269738822978982,
+                  "anomaly_MSE": 0.08520575295964151
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 2.9299217871692667e-08,
+                  "normal_MSE": 4.1963475341536654e-08,
+                  "anomaly_MSE": 1.6634960401848676e-08
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 0.9968,
+              "probability_AUROC": 0.9968,
+              "Brier": 0.03983361417167078,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9992,
+                  "probability_AUROC": 0.9992,
+                  "Brier": 0.03423156034839729,
+                  "normal_MSE": 0.0680057332891486,
+                  "anomaly_MSE": 0.0004573874076459802
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9912,
+                  "probability_AUROC": 0.9912,
+                  "Brier": 0.08526925188674139,
+                  "normal_MSE": 0.00018269738822978982,
+                  "anomaly_MSE": 0.170355806385253
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 3.027987365512285e-08,
+                  "normal_MSE": 4.1963475341536654e-08,
+                  "anomaly_MSE": 1.8596271968709045e-08
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 0.9823999999999999,
+              "probability_AUROC": 0.9823999999999999,
+              "Brier": 0.17044689973306607,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9823999999999999,
+                  "probability_AUROC": 0.9823999999999999,
+                  "Brier": 0.17044689973306607,
+                  "normal_MSE": 0.00018269738822978982,
+                  "anomaly_MSE": 0.34071110207790234
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261018": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.741192916520176,
+          "above_half": 130,
+          "negative_RGB_corrections": 6
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9986666666666667,
+              "probability_AUROC": 0.9986666666666667,
+              "Brier": 0.016156693466222782,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.996,
+                  "probability_AUROC": 0.996,
+                  "Brier": 0.04424828254015581,
+                  "normal_MSE": 0.08406080201590582,
+                  "anomaly_MSE": 0.004435763064405791
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.004220700991839946,
+                  "normal_MSE": 0.0004973255356024928,
+                  "anomaly_MSE": 0.0079440764480774
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.096866672590629e-06,
+                  "normal_MSE": 1.1669623160901473e-06,
+                  "anomaly_MSE": 1.0267710290911106e-06
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 0.9986666666666667,
+              "probability_AUROC": 0.9986666666666667,
+              "Brier": 0.017416264356434747,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.996,
+                  "probability_AUROC": 0.996,
+                  "Brier": 0.0440686492383013,
+                  "normal_MSE": 0.08406080201590582,
+                  "anomaly_MSE": 0.004076496460696769
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.00817933656604715,
+                  "normal_MSE": 0.0004973255356024928,
+                  "anomaly_MSE": 0.01586134759649181
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 8.072649557986695e-07,
+                  "normal_MSE": 1.1669623160901473e-06,
+                  "anomaly_MSE": 4.475675955071917e-07
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.016107334328093897,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.016107334328093897,
+                  "normal_MSE": 0.0004973255356024928,
+                  "anomaly_MSE": 0.0317173431205853
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ORIGINAL__NORMAL_FIT_COVERAGE": {
+      "ENSEMBLE": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.07620289346381483,
+          "above_half": 8,
+          "negative_RGB_corrections": 127
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9984000000000001,
+              "probability_AUROC": 0.9984000000000001,
+              "Brier": 0.021757722119951712,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9992000000000001,
+                  "probability_AUROC": 0.9992000000000001,
+                  "Brier": 0.012269473918260585,
+                  "normal_MSE": 0.01225627632243345,
+                  "anomaly_MSE": 0.012282671514087719
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.996,
+                  "probability_AUROC": 0.996,
+                  "Brier": 0.05300349520047213,
+                  "normal_MSE": 0.00015530587248173132,
+                  "anomaly_MSE": 0.10585168452846253
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.9724112242189544e-07,
+                  "normal_MSE": 1.6056944570486568e-07,
+                  "anomaly_MSE": 2.3391279913892518e-07
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 0.9968,
+              "probability_AUROC": 0.9968,
+              "Brier": 0.039829559154323145,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9984000000000001,
+                  "probability_AUROC": 0.9984000000000001,
+                  "Brier": 0.013575756621931712,
+                  "normal_MSE": 0.01225627632243345,
+                  "anomaly_MSE": 0.014895236921429975
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.992,
+                  "probability_AUROC": 0.992,
+                  "Brier": 0.10591274563493426,
+                  "normal_MSE": 0.00015530587248173132,
+                  "anomaly_MSE": 0.2116701853973868
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.7520610347715914e-07,
+                  "normal_MSE": 1.6056944570486568e-07,
+                  "anomaly_MSE": 1.898427612494526e-07
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 0.984,
+              "probability_AUROC": 0.984,
+              "Brier": 0.21110653782904693,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.984,
+                  "probability_AUROC": 0.984,
+                  "Brier": 0.21110653782904693,
+                  "normal_MSE": 0.00015530587248173132,
+                  "anomaly_MSE": 0.4220577697856121
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261017": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.07660228161267867,
+          "above_half": 9,
+          "negative_RGB_corrections": 129
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9893333333333333,
+              "probability_AUROC": 0.9893333333333333,
+              "Brier": 0.032540635845881676,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.011761413660326528,
+                  "normal_MSE": 0.004579221431034856,
+                  "anomaly_MSE": 0.0189436058896182
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.968,
+                  "probability_AUROC": 0.968,
+                  "Brier": 0.08586035058855272,
+                  "normal_MSE": 0.00020636376315005564,
+                  "anomaly_MSE": 0.1715143374139554
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.4328876577966818e-07,
+                  "normal_MSE": 1.5340488630568342e-07,
+                  "anomaly_MSE": 1.3317264525365297e-07
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 0.9786666666666667,
+              "probability_AUROC": 0.9786666666666667,
+              "Brier": 0.06299550428035625,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.01772779696903576,
+                  "normal_MSE": 0.004579221431034856,
+                  "anomaly_MSE": 0.03087637250703666
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.936,
+                  "probability_AUROC": 0.936,
+                  "Brier": 0.17125856362801475,
+                  "normal_MSE": 0.00020636376315005564,
+                  "anomaly_MSE": 0.3423107634928795
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.5224401823165518e-07,
+                  "normal_MSE": 1.5340488630568342e-07,
+                  "anomaly_MSE": 1.5108315015762695e-07
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 0.8719999999999999,
+              "probability_AUROC": 0.8719999999999999,
+              "Brier": 0.34126737476192653,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.8719999999999999,
+                  "probability_AUROC": 0.8719999999999999,
+                  "Brier": 0.34126737476192653,
+                  "normal_MSE": 0.00020636376315005564,
+                  "anomaly_MSE": 0.682328385760703
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261018": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.16545163912779118,
+          "above_half": 29,
+          "negative_RGB_corrections": 109
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9979999999999999,
+              "probability_AUROC": 0.9979999999999999,
+              "Brier": 0.014650557884304789,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9968,
+                  "probability_AUROC": 0.9968,
+                  "Brier": 0.028969952541996993,
+                  "normal_MSE": 0.0455444977190088,
+                  "anomaly_MSE": 0.012395407364985183
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9972,
+                  "probability_AUROC": 0.9972,
+                  "Brier": 0.014980903373092021,
+                  "normal_MSE": 0.0005111119706669957,
+                  "anomaly_MSE": 0.029450694775517046
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 8.177378253522491e-07,
+                  "normal_MSE": 5.972035915555804e-07,
+                  "anomaly_MSE": 1.038272059148918e-06
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 0.9978666666666666,
+              "probability_AUROC": 0.9978666666666666,
+              "Brier": 0.018356257525560405,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9992,
+                  "probability_AUROC": 0.9992,
+                  "Brier": 0.025489228414831158,
+                  "normal_MSE": 0.0455444977190088,
+                  "anomaly_MSE": 0.005433959110653515
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9944,
+                  "probability_AUROC": 0.9944,
+                  "Brier": 0.0295790016733473,
+                  "normal_MSE": 0.0005111119706669957,
+                  "anomaly_MSE": 0.058646891376027604
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 5.424885027499243e-07,
+                  "normal_MSE": 5.972035915555804e-07,
+                  "anomaly_MSE": 4.877734139442683e-07
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 0.9888,
+              "probability_AUROC": 0.9888,
+              "Brier": 0.058682987021162356,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9888,
+                  "probability_AUROC": 0.9888,
+                  "Brier": 0.058682987021162356,
+                  "normal_MSE": 0.0005111119706669957,
+                  "anomaly_MSE": 0.11685486207165771
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "CANONICAL__E_NEGATIVE_REPLAY": {
+      "ENSEMBLE": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.68142672381583,
+          "above_half": 113,
+          "negative_RGB_corrections": 6
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9997333333333334,
+              "probability_AUROC": 0.9997333333333334,
+              "Brier": 0.015327921144595741,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9992000000000001,
+                  "probability_AUROC": 0.9992000000000001,
+                  "Brier": 0.04437314238986503,
+                  "normal_MSE": 0.08853180983657487,
+                  "anomaly_MSE": 0.0002144749431551974
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.0016103869646504323,
+                  "normal_MSE": 0.0001253905867949527,
+                  "anomaly_MSE": 0.003095383342505912
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 2.3407927175463e-07,
+                  "normal_MSE": 4.642445548323748e-07,
+                  "anomaly_MSE": 3.913988676885201e-09
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.015706256759857106,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.04426937094121958,
+                  "normal_MSE": 0.08853180983657487,
+                  "anomaly_MSE": 6.93204586428814e-06
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.002849166379228456,
+                  "normal_MSE": 0.0001253905867949527,
+                  "anomaly_MSE": 0.00557294217166196
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 2.3295912328835422e-07,
+                  "normal_MSE": 4.642445548323748e-07,
+                  "anomaly_MSE": 1.6736917443336424e-09
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0056356374536107486,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.0056356374536107486,
+                  "normal_MSE": 0.0001253905867949527,
+                  "anomaly_MSE": 0.011145884320426545
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261017": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.6186550234801593,
+          "above_half": 97,
+          "negative_RGB_corrections": 17
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9993333333333334,
+              "probability_AUROC": 0.9993333333333334,
+              "Brier": 0.022606964556314665,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.998,
+                  "probability_AUROC": 0.998,
+                  "Brier": 0.059110161821618136,
+                  "normal_MSE": 0.11790199988607629,
+                  "anomaly_MSE": 0.0003183237571599767
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.008710646944308783,
+                  "normal_MSE": 0.00020274775140781103,
+                  "anomaly_MSE": 0.017218546137209755
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 8.490301707696047e-08,
+                  "normal_MSE": 1.6688355912187734e-07,
+                  "anomaly_MSE": 2.9224750320436014e-09
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 0.9997333333333334,
+              "probability_AUROC": 0.9997333333333334,
+              "Brier": 0.025401233768790856,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9992,
+                  "probability_AUROC": 0.9992,
+                  "Brier": 0.05901305810952719,
+                  "normal_MSE": 0.11790199988607629,
+                  "anomaly_MSE": 0.00012411633297809815
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.01719055954064729,
+                  "normal_MSE": 0.00020274775140781103,
+                  "anomaly_MSE": 0.03417837132988676
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 8.365619808507147e-08,
+                  "normal_MSE": 1.6688355912187734e-07,
+                  "anomaly_MSE": 4.288370482656116e-10
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.03427974505669923,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.03427974505669923,
+                  "normal_MSE": 0.00020274775140781103,
+                  "anomaly_MSE": 0.06835674236199064
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261018": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.7289666754631501,
+          "above_half": 117,
+          "negative_RGB_corrections": 6
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9997333333333334,
+              "probability_AUROC": 0.9997333333333334,
+              "Brier": 0.01927826966046082,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9992,
+                  "probability_AUROC": 0.9992,
+                  "Brier": 0.05725989885322903,
+                  "normal_MSE": 0.11425997415232944,
+                  "anomaly_MSE": 0.0002598235541286222
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.0005743176899854761,
+                  "normal_MSE": 0.0001946067447452238,
+                  "anomaly_MSE": 0.0009540286352257282
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 5.924381679450023e-07,
+                  "normal_MSE": 1.1711137992686571e-06,
+                  "anomaly_MSE": 1.3762536621347302e-08
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.019095940663758314,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.0571320532788332,
+                  "normal_MSE": 0.11425997415232944,
+                  "anomaly_MSE": 4.132405336969277e-06
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.00015517606324213997,
+                  "normal_MSE": 0.0001946067447452238,
+                  "anomaly_MSE": 0.00011574538173905615
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 5.926491995994575e-07,
+                  "normal_MSE": 1.1711137992686571e-06,
+                  "anomaly_MSE": 1.4184599930257839e-08
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.00021304874747932675,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.00021304874747932675,
+                  "normal_MSE": 0.0001946067447452238,
+                  "anomaly_MSE": 0.0002314907502134297
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "CANONICAL__NORMAL_FIT_COVERAGE": {
+      "ENSEMBLE": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.07791394674643391,
+          "above_half": 8,
+          "negative_RGB_corrections": 127
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.008813653861853173,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.012420955046089008,
+                  "normal_MSE": 0.019835554756678163,
+                  "anomaly_MSE": 0.005006355335499855
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.01401852527647348,
+                  "normal_MSE": 0.000252452730920725,
+                  "anomaly_MSE": 0.027784597822026236
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.4812629970301688e-06,
+                  "normal_MSE": 2.8955028055117493e-06,
+                  "anomaly_MSE": 6.70231885485883e-08
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.011796235909870376,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.01101558740621457,
+                  "normal_MSE": 0.019835554756678163,
+                  "anomaly_MSE": 0.0021956200557509773
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.02437167016581865,
+                  "normal_MSE": 0.000252452730920725,
+                  "anomaly_MSE": 0.04849088760071657
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 1.450157577907617e-06,
+                  "normal_MSE": 2.8955028055117493e-06,
+                  "anomaly_MSE": 4.812350303484724e-09
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.04861666039648397,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.04861666039648397,
+                  "normal_MSE": 0.000252452730920725,
+                  "anomaly_MSE": 0.09698086806204721
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261017": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.059275390835642226,
+          "above_half": 7,
+          "negative_RGB_corrections": 129
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9996,
+              "probability_AUROC": 0.9996,
+              "Brier": 0.010844944416385621,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9995999999999999,
+                  "probability_AUROC": 0.9995999999999999,
+                  "Brier": 0.01031965792453674,
+                  "normal_MSE": 0.005383816307548555,
+                  "anomaly_MSE": 0.015255499541524926
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9992,
+                  "probability_AUROC": 0.9992,
+                  "Brier": 0.022213073629080662,
+                  "normal_MSE": 0.0012680684154825054,
+                  "anomaly_MSE": 0.04315807884267882
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 2.101695539457229e-06,
+                  "normal_MSE": 4.016382352453964e-06,
+                  "anomaly_MSE": 1.870087264604945e-07
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 0.9992,
+              "probability_AUROC": 0.9992,
+              "Brier": 0.01779490426810211,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9992,
+                  "probability_AUROC": 0.9992,
+                  "Brier": 0.011345907122520477,
+                  "normal_MSE": 0.005383816307548555,
+                  "anomaly_MSE": 0.017307997937492398
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9984,
+                  "probability_AUROC": 0.9984,
+                  "Brier": 0.042036795638653965,
+                  "normal_MSE": 0.0012680684154825054,
+                  "anomaly_MSE": 0.08280552286182542
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 2.0100431318927216e-06,
+                  "normal_MSE": 4.016382352453964e-06,
+                  "anomaly_MSE": 3.703911331479765e-09
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 0.9967999999999999,
+              "probability_AUROC": 0.9967999999999999,
+              "Brier": 0.08343591563080713,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 0.9967999999999999,
+                  "probability_AUROC": 0.9967999999999999,
+                  "Brier": 0.08343591563080713,
+                  "normal_MSE": 0.0012680684154825054,
+                  "anomaly_MSE": 0.16560376284613176
+                }
+              ]
+            }
+          }
+        }
+      },
+      "20261018": {
+        "normal_HOLD": {
+          "macro_normal_MSE": 0.15179388063371177,
+          "above_half": 28,
+          "negative_RGB_corrections": 109
+        },
+        "cohorts": {
+          "ALL": {
+            "n": 350,
+            "H": {
+              "AUROC": 0.9992000000000001,
+              "probability_AUROC": 0.9992000000000001,
+              "Brier": 0.016966142982874684,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 0.9976,
+                  "probability_AUROC": 0.9976,
+                  "Brier": 0.0392801884408181,
+                  "normal_MSE": 0.07486085898633113,
+                  "anomaly_MSE": 0.0036995178953050643
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.011615915719306466,
+                  "normal_MSE": 0.0003191469476130216,
+                  "anomaly_MSE": 0.02291268449099991
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 2.3247884994951327e-06,
+                  "normal_MSE": 4.580046281318092e-06,
+                  "anomaly_MSE": 6.953071767217317e-08
+                }
+              ]
+            }
+          },
+          "EXCLUDED": {
+            "n": 225,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.01578316672030049,
+              "per_category": [
+                {
+                  "category": "audio_jack_socket",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.03744484186152548,
+                  "normal_MSE": 0.07486085898633113,
+                  "anomaly_MSE": 2.882473671983682e-05
+                },
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.009902356833493128,
+                  "normal_MSE": 0.0003191469476130216,
+                  "anomaly_MSE": 0.019485566719373234
+                },
+                {
+                  "category": "lego_propeller",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 2.3014658828631224e-06,
+                  "normal_MSE": 4.580046281318092e-06,
+                  "anomaly_MSE": 2.2885484408152485e-08
+                }
+              ]
+            }
+          },
+          "HUMIDITY_IMPACT": {
+            "n": 50,
+            "H": {
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.019645104546046607,
+              "per_category": [
+                {
+                  "category": "humidity_sensor",
+                  "AUROC": 1.0,
+                  "probability_AUROC": 1.0,
+                  "Brier": 0.019645104546046607,
+                  "normal_MSE": 0.0003191469476130216,
+                  "anomaly_MSE": 0.03897106214448019
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "actual_C_fits": 12,
+  "NN_updates": 0,
+  "image_forwards": 0,
+  "promoted": false,
+  "independent_confirmation": false
+}

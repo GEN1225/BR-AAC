@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "source": "Existing C63 frozen geometry scores only",
+  "draws_compared": 75,
+  "max_abs_error": 1.1102230246251565e-16,
+  "reference": "sklearn roc_auc_score on literal repeated rows",
+  "code_sha256": "dadc99196ea4700a4b97c394f1bc07a3bd990e0ddcd299ec4251c65210bec510",
+  "fits": 0,
+  "new_V_reads": 0
+}

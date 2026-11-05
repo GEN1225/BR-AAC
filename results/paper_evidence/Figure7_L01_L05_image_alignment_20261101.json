@@ -1,0 +1,59 @@
+[
+  {
+    "sample": "humidity_sensor/NG/pit/S0026/humidity_sensor_0026_NG_pit_00000000000000",
+    "method": "ORB matching and Euclidean RANSAC;512grid;seed20261101",
+    "matches": 67,
+    "inliers": 53,
+    "inlier_ratio": 0.7910447761194029,
+    "median_fit_residual_px224": 0.04425606853446801,
+    "median_identity_displacement_px224": 0.0,
+    "fitted_translation_px224": [
+      0.10062668074753489,
+      -0.0852834289235691
+    ],
+    "fitted_rotation_deg": 0.036416570450229384,
+    "max_corner_shift_px224": 0.1319052391955216,
+    "matched_extent_px224": [
+      127.3125,
+      102.4625
+    ]
+  },
+  {
+    "sample": "humidity_sensor/NG/impact_damage/S0026/humidity_sensor_0026_NG_impact_damage_00000000000000",
+    "method": "ORB matching and Euclidean RANSAC;512grid;seed20261101",
+    "matches": 60,
+    "inliers": 41,
+    "inlier_ratio": 0.6833333333333333,
+    "median_fit_residual_px224": 0.1012663784287173,
+    "median_identity_displacement_px224": 0.0,
+    "fitted_translation_px224": [
+      0.09177905648648377,
+      0.01349317886637813
+    ],
+    "fitted_rotation_deg": -0.00597179609755205,
+    "max_corner_shift_px224": 0.11586861386165495,
+    "matched_extent_px224": [
+      202.125,
+      102.68052479999996
+    ]
+  },
+  {
+    "sample": "audio_jack_socket/NG/impact_damage/S0026/audio_jack_socket_0026_NG_impact_damage_00000000000000",
+    "method": "ORB matching and Euclidean RANSAC;512grid;seed20261101",
+    "matches": 121,
+    "inliers": 91,
+    "inlier_ratio": 0.7520661157024794,
+    "median_fit_residual_px224": 0.03650391243074371,
+    "median_identity_displacement_px224": 0.0,
+    "fitted_translation_px224": [
+      -0.08043379409731699,
+      0.1761697105511253
+    ],
+    "fitted_rotation_deg": -0.061255080705078783,
+    "max_corner_shift_px224": 0.23693370221053714,
+    "matched_extent_px224": [
+      150.9375,
+      154.28616
+    ]
+  }
+]

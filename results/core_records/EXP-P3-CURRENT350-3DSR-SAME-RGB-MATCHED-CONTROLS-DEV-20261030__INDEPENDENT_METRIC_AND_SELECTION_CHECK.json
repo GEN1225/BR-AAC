@@ -1,0 +1,32 @@
+{
+  "status": "COMPLETE",
+  "metric_values": 24,
+  "max_abs_error": 0.0,
+  "C_choices": {
+    "V0_OWN": {
+      "HARD_FIXED": "0.01",
+      "SOFT_CENTERED": "RGB_ONLY",
+      "FREE_FUSION": "1.0"
+    },
+    "V0_3DSR": {
+      "HARD_FIXED": "0.01",
+      "SOFT_CENTERED": "0.01",
+      "FREE_FUSION": "0.01"
+    },
+    "V1_OWN": {
+      "HARD_FIXED": "RGB_ONLY",
+      "SOFT_CENTERED": "RGB_ONLY",
+      "FREE_FUSION": "RGB_ONLY"
+    },
+    "V1_3DSR": {
+      "HARD_FIXED": "0.01",
+      "SOFT_CENTERED": "0.01",
+      "FREE_FUSION": "0.1"
+    }
+  },
+  "primary_probability_replay_error": 1.1102230246251565e-16,
+  "table_rows": 104,
+  "C_heads_file_sha256": "dc4a04d70631be8fe79e179e2c4d52dd97845a5878b6a3745bb0329fb647311f",
+  "fixed_GC_model_calibration_not_changed": true,
+  "statistical_limits": "No new physical identities or independent data. Newfamily/fallbackselection uses C only; chosenfixed.1 is retainedhistoricalrecipe, not latestC-selected rule."
+}

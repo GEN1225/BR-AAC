@@ -1,0 +1,4593 @@
+{
+  "cohorts": {
+    "ALL": {
+      "macro": {
+        "G_LOCAL_FIXED__TOP49": {
+          "AUROC": 0.9985333333333334,
+          "Brier": 0.03801338606845093
+        },
+        "G_LOCAL_FIXED__MAX": {
+          "AUROC": 0.9733333333333333,
+          "Brier": 0.05533784140692637
+        },
+        "G_LOCAL_FIXED__REL_MAX": {
+          "AUROC": 0.9268,
+          "Brier": 0.08876945936254145
+        },
+        "G_GLOBAL_FIXED__TOP49": {
+          "AUROC": 0.9221333333333334,
+          "Brier": 0.05922902031982522
+        },
+        "G_GLOBAL_FIXED__MAX": {
+          "AUROC": 0.9058,
+          "Brier": 0.09138264584281126
+        },
+        "G_GLOBAL_FIXED__REL_MAX": {
+          "AUROC": 0.8577333333333333,
+          "Brier": 0.11857716169166559
+        },
+        "G_GLOBAL_CONTEXT__TOP49": {
+          "AUROC": 0.9218666666666667,
+          "Brier": 0.05703994771910905
+        },
+        "G_GLOBAL_CONTEXT__MAX": {
+          "AUROC": 0.9214000000000001,
+          "Brier": 0.08617316670120019
+        },
+        "G_GLOBAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.8624666666666667,
+          "Brier": 0.12370496606854962
+        },
+        "G_LOCAL_CONTEXT__TOP49": {
+          "AUROC": 0.9508000000000001,
+          "Brier": 0.05514169241132567
+        },
+        "G_LOCAL_CONTEXT__MAX": {
+          "AUROC": 0.9729333333333333,
+          "Brier": 0.058923806784933114
+        },
+        "G_LOCAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.9588000000000001,
+          "Brier": 0.07747861684845994
+        },
+        "JOINT_LOCAL_FIXED__TOP49": {
+          "AUROC": 0.9542666666666667,
+          "Brier": 0.054605319586410656
+        },
+        "JOINT_LOCAL_FIXED__MAX": {
+          "AUROC": 0.9643333333333333,
+          "Brier": 0.05139697005901561
+        },
+        "JOINT_LOCAL_FIXED__REL_MAX": {
+          "AUROC": 0.9658000000000001,
+          "Brier": 0.05987825233142648
+        },
+        "JOINT_LOCAL_CONTEXT__TOP49": {
+          "AUROC": 0.9584,
+          "Brier": 0.046547678388042
+        },
+        "JOINT_LOCAL_CONTEXT__MAX": {
+          "AUROC": 0.9436666666666667,
+          "Brier": 0.048627170137818886
+        },
+        "JOINT_LOCAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.9338000000000001,
+          "Brier": 0.06455676967662631
+        },
+        "JOINT_GLOBAL_CONTEXT__TOP49": {
+          "AUROC": 0.9918666666666667,
+          "Brier": 0.04353539089795549
+        },
+        "JOINT_GLOBAL_CONTEXT__MAX": {
+          "AUROC": 0.9514666666666667,
+          "Brier": 0.047111316861703084
+        },
+        "JOINT_GLOBAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.9418000000000001,
+          "Brier": 0.06368496797030453
+        },
+        "APPEARANCE_REAL__TOP49": {
+          "AUROC": 0.9778666666666668,
+          "Brier": 0.03477469755845982
+        },
+        "APPEARANCE_REAL__MAX": {
+          "AUROC": 0.9683999999999999,
+          "Brier": 0.053184408244662675
+        },
+        "APPEARANCE_REAL__REL_MAX": {
+          "AUROC": 0.912,
+          "Brier": 0.08093958421870089
+        },
+        "G_CLEAN_NORMAL_E__TOP49": {
+          "AUROC": 0.9257333333333334,
+          "Brier": 0.06802946432052652
+        },
+        "G_CLEAN_NORMAL_E__MAX": {
+          "AUROC": 0.8555333333333334,
+          "Brier": 0.14071132622345525
+        },
+        "G_CLEAN_NORMAL_E__REL_MAX": {
+          "AUROC": 0.8201777777777778,
+          "Brier": 0.16347985211998436
+        },
+        "MASK_E_ONLY__TOP49": {
+          "AUROC": 0.7701333333333333,
+          "Brier": 0.18067340147350305
+        },
+        "MASK_E_ONLY__MAX": {
+          "AUROC": 0.7335111111111111,
+          "Brier": 0.2081276344327768
+        },
+        "MASK_E_ONLY__REL_MAX": {
+          "AUROC": 0.7186,
+          "Brier": 0.21306179380771528
+        },
+        "MASK_NORMAL_E__TOP49": {
+          "AUROC": 0.8974666666666667,
+          "Brier": 0.10671296835737883
+        },
+        "MASK_NORMAL_E__MAX": {
+          "AUROC": 0.5,
+          "Brier": 0.25
+        },
+        "MASK_NORMAL_E__REL_MAX": {
+          "AUROC": 0.5,
+          "Brier": 0.25
+        },
+        "G_E_ONLY__TOP49": {
+          "AUROC": 0.9486666666666667,
+          "Brier": 0.050238905705603874
+        },
+        "G_E_ONLY__MAX": {
+          "AUROC": 0.8584666666666667,
+          "Brier": 0.11191353041364999
+        },
+        "G_E_ONLY__REL_MAX": {
+          "AUROC": 0.7428444444444443,
+          "Brier": 0.22210885777138903
+        },
+        "JOINT_E_ONLY__TOP49": {
+          "AUROC": 0.9802666666666667,
+          "Brier": 0.04530663698684461
+        },
+        "JOINT_E_ONLY__MAX": {
+          "AUROC": 0.9765999999999999,
+          "Brier": 0.0455165440550489
+        },
+        "JOINT_E_ONLY__REL_MAX": {
+          "AUROC": 0.963,
+          "Brier": 0.0648070930596748
+        },
+        "G_FIXED_RGB_MAX": {
+          "AUROC": 0.9894666666666666,
+          "Brier": 0.048941167384409845
+        },
+        "G_CONTEXT_RGB_MAX": {
+          "AUROC": 0.9946666666666667,
+          "Brier": 0.049078648748524016
+        }
+      },
+      "counts": {
+        "0": 75,
+        "1": 275
+      }
+    },
+    "KNOWN": {
+      "macro": {
+        "G_LOCAL_FIXED__TOP49": {
+          "AUROC": 0.9992,
+          "Brier": 0.0316376040237589
+        },
+        "G_LOCAL_FIXED__MAX": {
+          "AUROC": 0.9658666666666668,
+          "Brier": 0.06363266526723084
+        },
+        "G_LOCAL_FIXED__REL_MAX": {
+          "AUROC": 0.9039999999999999,
+          "Brier": 0.10656690040156143
+        },
+        "G_GLOBAL_FIXED__TOP49": {
+          "AUROC": 0.9989333333333333,
+          "Brier": 0.034009603706260605
+        },
+        "G_GLOBAL_FIXED__MAX": {
+          "AUROC": 0.9450666666666666,
+          "Brier": 0.07870218624162467
+        },
+        "G_GLOBAL_FIXED__REL_MAX": {
+          "AUROC": 0.8461333333333333,
+          "Brier": 0.12723498758225452
+        },
+        "G_GLOBAL_CONTEXT__TOP49": {
+          "AUROC": 0.9962666666666666,
+          "Brier": 0.034806014564306334
+        },
+        "G_GLOBAL_CONTEXT__MAX": {
+          "AUROC": 0.9554666666666667,
+          "Brier": 0.0784766324988828
+        },
+        "G_GLOBAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.8410666666666667,
+          "Brier": 0.13971720280775118
+        },
+        "G_LOCAL_CONTEXT__TOP49": {
+          "AUROC": 0.9975999999999999,
+          "Brier": 0.03530441715223246
+        },
+        "G_LOCAL_CONTEXT__MAX": {
+          "AUROC": 0.9734666666666666,
+          "Brier": 0.05492202187060621
+        },
+        "G_LOCAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.9344,
+          "Brier": 0.09011179860554917
+        },
+        "JOINT_LOCAL_FIXED__TOP49": {
+          "AUROC": 1.0,
+          "Brier": 0.014641917050993785
+        },
+        "JOINT_LOCAL_FIXED__MAX": {
+          "AUROC": 1.0,
+          "Brier": 0.012841403052434974
+        },
+        "JOINT_LOCAL_FIXED__REL_MAX": {
+          "AUROC": 0.9994666666666667,
+          "Brier": 0.023882966921306953
+        },
+        "JOINT_LOCAL_CONTEXT__TOP49": {
+          "AUROC": 0.9994666666666667,
+          "Brier": 0.01103458903532586
+        },
+        "JOINT_LOCAL_CONTEXT__MAX": {
+          "AUROC": 1.0,
+          "Brier": 0.010910022669777239
+        },
+        "JOINT_LOCAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.9981333333333332,
+          "Brier": 0.027066704853721407
+        },
+        "JOINT_GLOBAL_CONTEXT__TOP49": {
+          "AUROC": 1.0,
+          "Brier": 0.009772527000822132
+        },
+        "JOINT_GLOBAL_CONTEXT__MAX": {
+          "AUROC": 1.0,
+          "Brier": 0.0118330165576453
+        },
+        "JOINT_GLOBAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.9965333333333334,
+          "Brier": 0.029735848779815704
+        },
+        "APPEARANCE_REAL__TOP49": {
+          "AUROC": 0.9853333333333333,
+          "Brier": 0.02548181707927064
+        },
+        "APPEARANCE_REAL__MAX": {
+          "AUROC": 0.9818666666666666,
+          "Brier": 0.049080127100766056
+        },
+        "APPEARANCE_REAL__REL_MAX": {
+          "AUROC": 0.9144,
+          "Brier": 0.08219552121360735
+        },
+        "G_CLEAN_NORMAL_E__TOP49": {
+          "AUROC": 0.9888,
+          "Brier": 0.0488526966975407
+        },
+        "G_CLEAN_NORMAL_E__MAX": {
+          "AUROC": 0.8637333333333332,
+          "Brier": 0.1392607142511855
+        },
+        "G_CLEAN_NORMAL_E__REL_MAX": {
+          "AUROC": 0.8226666666666667,
+          "Brier": 0.16601108971044184
+        },
+        "MASK_E_ONLY__TOP49": {
+          "AUROC": 0.8104,
+          "Brier": 0.15509038258365446
+        },
+        "MASK_E_ONLY__MAX": {
+          "AUROC": 0.7708,
+          "Brier": 0.19638443877011982
+        },
+        "MASK_E_ONLY__REL_MAX": {
+          "AUROC": 0.7545333333333334,
+          "Brier": 0.2021964422463923
+        },
+        "MASK_NORMAL_E__TOP49": {
+          "AUROC": 0.8925333333333333,
+          "Brier": 0.11243461031764862
+        },
+        "MASK_NORMAL_E__MAX": {
+          "AUROC": 0.5,
+          "Brier": 0.25
+        },
+        "MASK_NORMAL_E__REL_MAX": {
+          "AUROC": 0.5,
+          "Brier": 0.25
+        },
+        "G_E_ONLY__TOP49": {
+          "AUROC": 0.9989333333333333,
+          "Brier": 0.015361333602426088
+        },
+        "G_E_ONLY__MAX": {
+          "AUROC": 0.9293333333333332,
+          "Brier": 0.0751539768309744
+        },
+        "G_E_ONLY__REL_MAX": {
+          "AUROC": 0.8207999999999999,
+          "Brier": 0.19792230529577037
+        },
+        "JOINT_E_ONLY__TOP49": {
+          "AUROC": 0.9994666666666667,
+          "Brier": 0.010458869460554616
+        },
+        "JOINT_E_ONLY__MAX": {
+          "AUROC": 0.9997333333333334,
+          "Brier": 0.014626956844238204
+        },
+        "JOINT_E_ONLY__REL_MAX": {
+          "AUROC": 0.9781333333333334,
+          "Brier": 0.05052779261584142
+        },
+        "G_FIXED_RGB_MAX": {
+          "AUROC": 0.9895999999999999,
+          "Brier": 0.04641412320286939
+        },
+        "G_CONTEXT_RGB_MAX": {
+          "AUROC": 0.9909333333333333,
+          "Brier": 0.04845747956783289
+        }
+      },
+      "counts": {
+        "0": 75,
+        "1": 125
+      }
+    },
+    "EXCLUDED": {
+      "macro": {
+        "G_LOCAL_FIXED__TOP49": {
+          "AUROC": 0.9978666666666666,
+          "Brier": 0.04437897234916879
+        },
+        "G_LOCAL_FIXED__MAX": {
+          "AUROC": 0.9808,
+          "Brier": 0.04701794459549626
+        },
+        "G_LOCAL_FIXED__REL_MAX": {
+          "AUROC": 0.9495999999999999,
+          "Brier": 0.0709026428366047
+        },
+        "G_GLOBAL_FIXED__TOP49": {
+          "AUROC": 0.8453333333333334,
+          "Brier": 0.08444172331642148
+        },
+        "G_GLOBAL_FIXED__MAX": {
+          "AUROC": 0.8665333333333334,
+          "Brier": 0.10403762937572386
+        },
+        "G_GLOBAL_FIXED__REL_MAX": {
+          "AUROC": 0.8693333333333334,
+          "Brier": 0.10985111401291507
+        },
+        "G_GLOBAL_CONTEXT__TOP49": {
+          "AUROC": 0.8474666666666666,
+          "Brier": 0.0792960760389463
+        },
+        "G_GLOBAL_CONTEXT__MAX": {
+          "AUROC": 0.8873333333333333,
+          "Brier": 0.09385085234167014
+        },
+        "G_GLOBAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.8838666666666667,
+          "Brier": 0.10761238559344129
+        },
+        "G_LOCAL_CONTEXT__TOP49": {
+          "AUROC": 0.9039999999999999,
+          "Brier": 0.07497097339252719
+        },
+        "G_LOCAL_CONTEXT__MAX": {
+          "AUROC": 0.9724,
+          "Brier": 0.06292138038935456
+        },
+        "G_LOCAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.9832000000000001,
+          "Brier": 0.06483165801264124
+        },
+        "JOINT_LOCAL_FIXED__TOP49": {
+          "AUROC": 0.9085333333333333,
+          "Brier": 0.0945559072231384
+        },
+        "JOINT_LOCAL_FIXED__MAX": {
+          "AUROC": 0.9286666666666666,
+          "Brier": 0.09000216022417157
+        },
+        "JOINT_LOCAL_FIXED__REL_MAX": {
+          "AUROC": 0.9321333333333334,
+          "Brier": 0.0959196859078839
+        },
+        "JOINT_LOCAL_CONTEXT__TOP49": {
+          "AUROC": 0.9173333333333332,
+          "Brier": 0.08210707113411128
+        },
+        "JOINT_LOCAL_CONTEXT__MAX": {
+          "AUROC": 0.8873333333333333,
+          "Brier": 0.08634670942235827
+        },
+        "JOINT_LOCAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.8694666666666667,
+          "Brier": 0.10204084357553404
+        },
+        "JOINT_GLOBAL_CONTEXT__TOP49": {
+          "AUROC": 0.9837333333333333,
+          "Brier": 0.07735522762081497
+        },
+        "JOINT_GLOBAL_CONTEXT__MAX": {
+          "AUROC": 0.9029333333333334,
+          "Brier": 0.082455046819328
+        },
+        "JOINT_GLOBAL_CONTEXT__REL_MAX": {
+          "AUROC": 0.8870666666666667,
+          "Brier": 0.09773784827387849
+        },
+        "APPEARANCE_REAL__TOP49": {
+          "AUROC": 0.9704,
+          "Brier": 0.04407164118119478
+        },
+        "APPEARANCE_REAL__MAX": {
+          "AUROC": 0.9549333333333333,
+          "Brier": 0.057286207753785866
+        },
+        "APPEARANCE_REAL__REL_MAX": {
+          "AUROC": 0.9096000000000001,
+          "Brier": 0.08083549519405876
+        },
+        "G_CLEAN_NORMAL_E__TOP49": {
+          "AUROC": 0.8626666666666667,
+          "Brier": 0.08720698979180176
+        },
+        "G_CLEAN_NORMAL_E__MAX": {
+          "AUROC": 0.8462666666666666,
+          "Brier": 0.1422361583250874
+        },
+        "G_CLEAN_NORMAL_E__REL_MAX": {
+          "AUROC": 0.8177333333333333,
+          "Brier": 0.16125199027706377
+        },
+        "MASK_E_ONLY__TOP49": {
+          "AUROC": 0.7298666666666667,
+          "Brier": 0.2061287239204774
+        },
+        "MASK_E_ONLY__MAX": {
+          "AUROC": 0.6970666666666667,
+          "Brier": 0.21977470774875477
+        },
+        "MASK_E_ONLY__REL_MAX": {
+          "AUROC": 0.6834666666666666,
+          "Brier": 0.22380382784918829
+        },
+        "MASK_NORMAL_E__TOP49": {
+          "AUROC": 0.9024000000000001,
+          "Brier": 0.1009932391500043
+        },
+        "MASK_NORMAL_E__MAX": {
+          "AUROC": 0.5,
+          "Brier": 0.25
+        },
+        "MASK_NORMAL_E__REL_MAX": {
+          "AUROC": 0.5,
+          "Brier": 0.25
+        },
+        "G_E_ONLY__TOP49": {
+          "AUROC": 0.8984,
+          "Brier": 0.08511268905951203
+        },
+        "G_E_ONLY__MAX": {
+          "AUROC": 0.7876,
+          "Brier": 0.1486565296578398
+        },
+        "G_E_ONLY__REL_MAX": {
+          "AUROC": 0.6650666666666667,
+          "Brier": 0.24589061012778554
+        },
+        "JOINT_E_ONLY__TOP49": {
+          "AUROC": 0.9610666666666666,
+          "Brier": 0.08015902929465292
+        },
+        "JOINT_E_ONLY__MAX": {
+          "AUROC": 0.9534666666666668,
+          "Brier": 0.07640526727717137
+        },
+        "JOINT_E_ONLY__REL_MAX": {
+          "AUROC": 0.9478666666666666,
+          "Brier": 0.07900369369621914
+        },
+        "G_FIXED_RGB_MAX": {
+          "AUROC": 0.9893333333333333,
+          "Brier": 0.05145801580197614
+        },
+        "G_CONTEXT_RGB_MAX": {
+          "AUROC": 0.9984000000000001,
+          "Brier": 0.04969182365132343
+        }
+      },
+      "counts": {
+        "0": 75,
+        "1": 150
+      }
+    }
+  },
+  "rows": [
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 0.9987999999999999,
+      "Brier": 0.053340756680397935
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 0.9308,
+      "Brier": 0.1065209528159964
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.844,
+      "Brier": 0.16034057447878836
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 0.9984,
+      "Brier": 0.033228408611866427
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 0.9448000000000001,
+      "Brier": 0.10701253196242078
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 0.8896,
+      "Brier": 0.15251772582479808
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 0.9944000000000001,
+      "Brier": 0.04582788050069855
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.918,
+      "Brier": 0.11863919473193792
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.7912,
+      "Brier": 0.1771875890369634
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.9964,
+      "Brier": 0.048129432991569146
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.9594,
+      "Brier": 0.08912985503297657
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9132,
+      "Brier": 0.1255598286836879
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.049870719088719026
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.044311693727327274
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.996,
+      "Brier": 0.06715655036923683
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.9992000000000001,
+      "Brier": 0.025307785722242168
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.025833327446018125
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9856,
+      "Brier": 0.061549158976444265
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.021120062749441743
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.02349939427295997
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.994,
+      "Brier": 0.05516589591138369
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 0.9336,
+      "Brier": 0.08479310301395157
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 0.9072,
+      "Brier": 0.1284272849416995
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 0.7684000000000001,
+      "Brier": 0.153515196404169
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 0.976,
+      "Brier": 0.06051848306308932
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.8765999999999999,
+      "Brier": 0.15274600571060953
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.8524,
+      "Brier": 0.163622055099248
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 0.9356,
+      "Brier": 0.11344837215302525
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.7956,
+      "Brier": 0.1856083418253539
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.7916,
+      "Brier": 0.18892236785262068
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 0.9500000000000001,
+      "Brier": 0.08108418916174774
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 0.9984,
+      "Brier": 0.03793419459198188
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 0.7778,
+      "Brier": 0.17242606996101295
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.564,
+      "Brier": 0.2606881559666788
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 0.9992000000000001,
+      "Brier": 0.026972662865939488
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 0.9995999999999999,
+      "Brier": 0.034358156380977056
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 0.944,
+      "Brier": 0.09085079954722389
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 0.97,
+      "Brier": 0.11493237367564373
+    },
+    {
+      "cohort": "ALL",
+      "category": "audio_jack_socket",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 0.9863999999999999,
+      "Brier": 0.10775895046053668
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 0.9968,
+      "Brier": 0.05795285568390918
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 0.9892000000000001,
+      "Brier": 0.056306909398688175
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.9363999999999999,
+      "Brier": 0.09870589297116353
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 0.768,
+      "Brier": 0.1418292210687159
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 0.7726000000000001,
+      "Brier": 0.1639870150014838
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 0.6836000000000001,
+      "Brier": 0.195451875964047
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 0.7712,
+      "Brier": 0.12206150471833337
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.8462000000000001,
+      "Brier": 0.1278581432155783
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.7962,
+      "Brier": 0.1584243306205274
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.8560000000000001,
+      "Brier": 0.11455713598981844
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.9594,
+      "Brier": 0.0823992197818106
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9632000000000001,
+      "Brier": 0.09579254677877679
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 0.8628,
+      "Brier": 0.11115230759483359
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 0.893,
+      "Brier": 0.10554259444527263
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.9014000000000001,
+      "Brier": 0.10528671309048851
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.876,
+      "Brier": 0.11194197276188739
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.831,
+      "Brier": 0.11732587404012548
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.8158,
+      "Brier": 0.12805180486950857
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 0.9756,
+      "Brier": 0.10707414573057208
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.8544,
+      "Brier": 0.1149580958587725
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.8313999999999999,
+      "Brier": 0.13155506106884737
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.016060026175930945
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 0.998,
+      "Brier": 0.025712232779429044
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 0.9676,
+      "Brier": 0.05711394907626802
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 0.8012,
+      "Brier": 0.14064750063629003
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.7116,
+      "Brier": 0.22061919104043254
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.6972,
+      "Brier": 0.21607672092796892
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 0.37479999999999997,
+      "Brier": 0.40387875059683886
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.5124,
+      "Brier": 0.28111715815600546
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.5146,
+      "Brier": 0.2780772264779917
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 0.7424,
+      "Brier": 0.23192456128413688
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 0.8476,
+      "Brier": 0.11122910925793407
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 0.7976,
+      "Brier": 0.15819416499557867
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.744,
+      "Brier": 0.2159630597469212
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 0.9416,
+      "Brier": 0.1067311233061323
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 0.9301999999999999,
+      "Brier": 0.09956228565997587
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 0.945,
+      "Brier": 0.09297122635557796
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 0.9984,
+      "Brier": 0.02914458263654013
+    },
+    {
+      "cohort": "ALL",
+      "category": "humidity_sensor",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 0.9976,
+      "Brier": 0.036738487532445935
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.00274654584104567
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0031856620060945547
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.007261910637672535
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002629431278893348
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.003148390564529214
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.007761883286151674
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0032304579382952496
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.012022162156084377
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.03550297854815805
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0027385082525894127
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005242345540012166
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.011083475082915158
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0027929320756793605
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004336622004446926
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0071914935345541225
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002393276679996457
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0027223089273130277
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004069345183926131
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0024119642138526126
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.00287646045337679
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004333946930682524
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.003470963485496946
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005413707012859491
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.03218960717566566
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002922409262200216
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.9783999999999999,
+      "Brier": 0.048768781919323656
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.9109333333333334,
+      "Brier": 0.11074078033273613
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.024693081670644997
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.8925333333333334,
+      "Brier": 0.15765740331697098
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.8496,
+      "Brier": 0.17218578709253352
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.007130154626251904
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0015534132668956863
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005120356284358301
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.9205333333333333,
+      "Brier": 0.1896753576005671
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0022161247884620247
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0026291901241937672
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.010599253276222565
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.00274654584104567
+    },
+    {
+      "cohort": "ALL",
+      "category": "lego_propeller",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0027385082525894127
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 0.9975999999999999,
+      "Brier": 0.06677830403696242
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 0.9168000000000001,
+      "Brier": 0.11456018731905114
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.8368,
+      "Brier": 0.16861267275891895
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 0.9967999999999999,
+      "Brier": 0.0480180277666367
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 0.8896000000000001,
+      "Brier": 0.13674001121099577
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 0.7856,
+      "Brier": 0.19932276383034503
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 0.9888,
+      "Brier": 0.0775048262892481
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.8696,
+      "Brier": 0.1688634108179568
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.6848,
+      "Brier": 0.23776600621079408
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.9928,
+      "Brier": 0.0681750067049787
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.9228000000000001,
+      "Brier": 0.11394420393360868
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.836,
+      "Brier": 0.16319686108930032
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.03324500773228494
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.023516099209393737
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.9984,
+      "Brier": 0.03512810586443138
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.9984000000000001,
+      "Brier": 0.021658310160993347
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.018266206829394723
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9952,
+      "Brier": 0.03310583441593838
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.022681717913276063
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.024058629089572243
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9896,
+      "Brier": 0.05082420047509861
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 0.9560000000000001,
+      "Brier": 0.06871544296357507
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 0.9456,
+      "Brier": 0.12616762561475559
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 0.7728,
+      "Brier": 0.15622225593185932
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 0.9664,
+      "Brier": 0.07773469164623573
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.8119999999999999,
+      "Brier": 0.1864936012966268
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.784,
+      "Brier": 0.19673197095311257
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 0.9672000000000001,
+      "Brier": 0.08062429046089309
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.8220000000000001,
+      "Brier": 0.17602367416386333
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.8152,
+      "Brier": 0.1807195922166143
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 0.9551999999999999,
+      "Brier": 0.07270087727549321
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 0.9967999999999999,
+      "Brier": 0.039894070307653094
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 0.7879999999999999,
+      "Brier": 0.17052744051712254
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.6312,
+      "Brier": 0.2342674905434462
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 0.9984000000000001,
+      "Brier": 0.025600852393897956
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 0.9992,
+      "Brier": 0.035415851727568684
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 0.9344,
+      "Brier": 0.10102490624516507
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 0.9688,
+      "Brier": 0.11499737462492624
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "audio_jack_socket",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 0.9728,
+      "Brier": 0.11530618818264586
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.02544913677711353
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 0.9808000000000001,
+      "Brier": 0.07330258418330073
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.8752,
+      "Brier": 0.14424237072959356
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.05142163377506186
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 0.9456,
+      "Brier": 0.09637101335899308
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 0.7527999999999999,
+      "Brier": 0.1750296463592364
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.023549588475168737
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.9968,
+      "Brier": 0.05465741589369207
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.8383999999999999,
+      "Brier": 0.14636468607974215
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.035047702166479504
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.9976,
+      "Brier": 0.04560478399763053
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9672,
+      "Brier": 0.09613772211680895
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.007964700737151779
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.010373748992012273
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.029052412366908274
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.008774359904868858
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.011727201353637574
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9992,
+      "Brier": 0.0440608805052829
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0038820619209807995
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.008171382208584035
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.03342683225515509
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.004234665927465138
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.015673938483323643
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 0.9704,
+      "Brier": 0.05126361271171097
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.06589644209444974
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.8072,
+      "Brier": 0.1820744387614316
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.7727999999999999,
+      "Brier": 0.18874026336025532
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 0.46399999999999997,
+      "Brier": 0.36071995427667036
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.5928,
+      "Brier": 0.25604897290959905
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.594,
+      "Brier": 0.254423852549129
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 0.7223999999999999,
+      "Brier": 0.2574613225338293
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.004659249728347272
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.04991345972235687
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.9096000000000001,
+      "Brier": 0.1722528684586307
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.003531882510193842
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0058410126130813795
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.04045541716987095
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.02155962372648119
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "humidity_sensor",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.02737570793561362
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0026853712572007535
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0030352242993406295
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.006845657716171781
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002589149577083261
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.002995534154885196
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.007352552557182163
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.003363628928502169
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.011909070784999493
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.03502091613271735
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0026905425852391854
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005217077680579387
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.011000812610538263
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0027160426835446333
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004634360955898909
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.007468382532581194
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0026710970401153766
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0027366598262994184
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004033399639942932
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002753801168209535
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0032690383747796203
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004956513609193419
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.003495342346771719
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005398817204218927
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.03910069499725177
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0029269563519366336
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.972,
+      "Brier": 0.049214102695498106
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.9112,
+      "Brier": 0.11256103481795768
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.023926903013399947
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.8976000000000001,
+      "Brier": 0.15708066923689715
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.8544,
+      "Brier": 0.17144588197343363
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.007141631143623355
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.001530680771277905
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0050210302534438095
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.9216,
+      "Brier": 0.18724655688523428
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.00224387347757205
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0026240061920645512
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.010103054432488238
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0026853712572007535
+    },
+    {
+      "cohort": "KNOWN",
+      "category": "lego_propeller",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0026905425852391854
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.03990320932383343
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 0.9448,
+      "Brier": 0.09848171831294164
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.8512,
+      "Brier": 0.15206847619865774
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.018438789457096153
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0772850527138458
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 0.9936,
+      "Brier": 0.10571268781925112
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.014150934712149028
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.9664,
+      "Brier": 0.06841497864591903
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.8976000000000001,
+      "Brier": 0.11660917186313276
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.02808385927815962
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.996,
+      "Brier": 0.06431550613234445
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9904000000000001,
+      "Brier": 0.08792279627807549
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.06649643044515313
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.06510728824526081
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.9936,
+      "Brier": 0.0991849948740423
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.02895726128349099
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.03340044806264153
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.976,
+      "Brier": 0.08999248353695015
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.01955840758560742
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.022940159456347697
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9984,
+      "Brier": 0.05950759134766879
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 0.9112,
+      "Brier": 0.10087076306432805
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 0.8688,
+      "Brier": 0.13068694426864338
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 0.764,
+      "Brier": 0.15080813687647865
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 0.9855999999999999,
+      "Brier": 0.04330227447994293
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.9412,
+      "Brier": 0.11899841012459227
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.9208000000000001,
+      "Brier": 0.13051213924538338
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 0.904,
+      "Brier": 0.1462724538451574
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.7692,
+      "Brier": 0.19519300948684445
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.7679999999999999,
+      "Brier": 0.19712514348862709
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 0.9448000000000001,
+      "Brier": 0.08946750104800226
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.035974318876310654
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 0.7676,
+      "Brier": 0.17432469940490336
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.49679999999999996,
+      "Brier": 0.2871088213899114
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.02834447333798102
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.033300461034385415
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 0.9536,
+      "Brier": 0.08067669284928272
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 0.9712000000000001,
+      "Brier": 0.11486737272636122
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "audio_jack_socket",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.10021171273842752
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 0.9936,
+      "Brier": 0.09045657459070482
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 0.9975999999999999,
+      "Brier": 0.03931123461407563
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.9975999999999999,
+      "Brier": 0.05316941521273348
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 0.536,
+      "Brier": 0.23223680836236993
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 0.5996,
+      "Brier": 0.2316030166439746
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 0.6144000000000001,
+      "Brier": 0.2158741055688576
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 0.5424,
+      "Brier": 0.22057342096149804
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.6956,
+      "Brier": 0.20105887053746457
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.754,
+      "Brier": 0.1704839751613127
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.712,
+      "Brier": 0.1940665698131574
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.9212,
+      "Brier": 0.11919365556599067
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.9592,
+      "Brier": 0.09544737144074458
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 0.7256,
+      "Brier": 0.21433991445251538
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 0.786,
+      "Brier": 0.20071143989853296
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 0.8028,
+      "Brier": 0.18152101381406877
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 0.752,
+      "Brier": 0.21510958561890586
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 0.662,
+      "Brier": 0.2229245467266134
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 0.6324,
+      "Brier": 0.21204272923373427
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 0.9511999999999999,
+      "Brier": 0.21026622954016333
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 0.7088,
+      "Brier": 0.22174480950896092
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 0.6628,
+      "Brier": 0.22968328988253964
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.02788538642439675
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 0.996,
+      "Brier": 0.035750527075534444
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 0.9648,
+      "Brier": 0.06296428544082505
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 0.6023999999999999,
+      "Brier": 0.21539855917813033
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.616,
+      "Brier": 0.2591639433194335
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.6215999999999999,
+      "Brier": 0.24341317849568256
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 0.2856,
+      "Brier": 0.44703754691700726
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.43200000000000005,
+      "Brier": 0.3061853434024119
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.4352,
+      "Brier": 0.3017306004068544
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 0.7624,
+      "Brier": 0.20638780003444446
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 0.6952,
+      "Brier": 0.21779896878752084
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 0.5952,
+      "Brier": 0.2664748702688005
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.5784,
+      "Brier": 0.2596732510352117
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 0.8832,
+      "Brier": 0.20993036410207075
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 0.8604,
+      "Brier": 0.1932835587068703
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 0.8899999999999999,
+      "Brier": 0.14548703554128495
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 0.9967999999999999,
+      "Brier": 0.03672954154659906
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "humidity_sensor",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 0.9952000000000001,
+      "Brier": 0.04610126712927824
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0027771331329681285
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0032608808594715172
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.007470037098422912
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002649572129798391
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0032248187693512237
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.00796654865063643
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0031638724431917904
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.012078707841626821
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.03574400975587841
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002762491086264526
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005254979469728555
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.011124806319103606
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002831376771746724
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004187752528720935
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_FIXED__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.007053049035540587
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002254366499936997
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.002715133477819833
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_LOCAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0040873179559177296
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002241045736674151
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0026801714926753756
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_GLOBAL_CONTEXT__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.004022663591427077
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.003458774054859559
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005421151917179773
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "APPEARANCE_REAL__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0287340632648726
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002920135717332007
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__MAX",
+      "AUROC": 0.9815999999999999,
+      "Brier": 0.04854612153123643
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_CLEAN_NORMAL_E__REL_MAX",
+      "AUROC": 0.9107999999999999,
+      "Brier": 0.10983065309012535
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.025076170999267518
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__MAX",
+      "AUROC": 0.8900000000000001,
+      "Brier": 0.1579457703570079
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "MASK_E_ONLY__REL_MAX",
+      "AUROC": 0.8472,
+      "Brier": 0.17255573965208343
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.007124416367566179
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "MASK_NORMAL_E__REL_MAX",
+      "AUROC": 0.5,
+      "Brier": 0.25
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.0015647795147045772
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.005170019299815548
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_E_ONLY__REL_MAX",
+      "AUROC": 0.92,
+      "Brier": 0.1908897579582335
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__TOP49",
+      "AUROC": 1.0,
+      "Brier": 0.002202250443907012
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__MAX",
+      "AUROC": 1.0,
+      "Brier": 0.002631782090258375
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "JOINT_E_ONLY__REL_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.010847352698089726
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_FIXED_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.0027771331329681285
+    },
+    {
+      "cohort": "EXCLUDED",
+      "category": "lego_propeller",
+      "method": "G_CONTEXT_RGB_MAX",
+      "AUROC": 1.0,
+      "Brier": 0.002762491086264526
+    }
+  ],
+  "effects": {
+    "ALL": {
+      "G_LOCAL_FIXED__TOP49": {
+        "delta_AUROC": 0.0,
+        "CI95_AUROC": [
+          0.0,
+          0.0
+        ],
+        "delta_Brier": 0.0,
+        "CI95_Brier": [
+          0.0,
+          0.0
+        ]
+      },
+      "G_LOCAL_FIXED__MAX": {
+        "delta_AUROC": 0.02520000000000011,
+        "CI95_AUROC": [
+          0.007333333333333409,
+          0.04913333333333326
+        ],
+        "delta_Brier": -0.017324455338475445,
+        "CI95_Brier": [
+          -0.031619448138522625,
+          -0.0049301865005940675
+        ]
+      },
+      "G_LOCAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.07173333333333343,
+        "CI95_AUROC": [
+          0.04093000000000016,
+          0.10720333333333325
+        ],
+        "delta_Brier": -0.05075607329409052,
+        "CI95_Brier": [
+          -0.06727769659076618,
+          -0.03506648457116468
+        ]
+      },
+      "G_GLOBAL_FIXED__TOP49": {
+        "delta_AUROC": 0.07640000000000002,
+        "CI95_AUROC": [
+          0.051066666666666594,
+          0.10386666666666677
+        ],
+        "delta_Brier": -0.021215634251374293,
+        "CI95_Brier": [
+          -0.03036554521312453,
+          -0.012400919021488634
+        ]
+      },
+      "G_GLOBAL_FIXED__MAX": {
+        "delta_AUROC": 0.09273333333333333,
+        "CI95_AUROC": [
+          0.06573000000000008,
+          0.12260333333333344
+        ],
+        "delta_Brier": -0.053369259774360335,
+        "CI95_Brier": [
+          -0.07030856427620169,
+          -0.037714486909042465
+        ]
+      },
+      "G_GLOBAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.14080000000000004,
+        "CI95_AUROC": [
+          0.10666333333333336,
+          0.17666666666666653
+        ],
+        "delta_Brier": -0.08056377562321465,
+        "CI95_Brier": [
+          -0.10017922435968322,
+          -0.06225385434185901
+        ]
+      },
+      "G_GLOBAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.07666666666666666,
+        "CI95_AUROC": [
+          0.051199999999999905,
+          0.10453333333333337
+        ],
+        "delta_Brier": -0.019026561650658122,
+        "CI95_Brier": [
+          -0.02864937053957722,
+          -0.00976205571664381
+        ]
+      },
+      "G_GLOBAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.07713333333333328,
+        "CI95_AUROC": [
+          0.04732999999999989,
+          0.11213499999999985
+        ],
+        "delta_Brier": -0.04815978063274926,
+        "CI95_Brier": [
+          -0.06472447782200047,
+          -0.033710294252511944
+        ]
+      },
+      "G_GLOBAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.13606666666666667,
+        "CI95_AUROC": [
+          0.09446499999999983,
+          0.18420166666666657
+        ],
+        "delta_Brier": -0.08569158000009869,
+        "CI95_Brier": [
+          -0.10453336450978089,
+          -0.06914624873178477
+        ]
+      },
+      "G_LOCAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.047733333333333294,
+        "CI95_AUROC": [
+          0.028800000000000152,
+          0.07013333333333338
+        ],
+        "delta_Brier": -0.01712830634287474,
+        "CI95_Brier": [
+          -0.023866733968871654,
+          -0.010816448105965508
+        ]
+      },
+      "G_LOCAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.025600000000000067,
+        "CI95_AUROC": [
+          0.012399999999999967,
+          0.04200000000000026
+        ],
+        "delta_Brier": -0.020910420716482185,
+        "CI95_Brier": [
+          -0.031695370265125804,
+          -0.011421712989403452
+        ]
+      },
+      "G_LOCAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.03973333333333329,
+        "CI95_AUROC": [
+          0.02200000000000002,
+          0.06040000000000001
+        ],
+        "delta_Brier": -0.03946523078000901,
+        "CI95_Brier": [
+          -0.051959950142007064,
+          -0.027576410935386014
+        ]
+      },
+      "JOINT_LOCAL_FIXED__TOP49": {
+        "delta_AUROC": 0.044266666666666676,
+        "CI95_AUROC": [
+          0.025729999999999836,
+          0.06653333333333333
+        ],
+        "delta_Brier": -0.016591933517959727,
+        "CI95_Brier": [
+          -0.025998585335459908,
+          -0.007385936229710967
+        ]
+      },
+      "JOINT_LOCAL_FIXED__MAX": {
+        "delta_AUROC": 0.03420000000000012,
+        "CI95_AUROC": [
+          0.017733333333333372,
+          0.05373333333333341
+        ],
+        "delta_Brier": -0.013383583990564683,
+        "CI95_Brier": [
+          -0.02231379114045608,
+          -0.004391658481727004
+        ]
+      },
+      "JOINT_LOCAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.03273333333333328,
+        "CI95_AUROC": [
+          0.01693333333333346,
+          0.0516683333333334
+        ],
+        "delta_Brier": -0.021864866262975555,
+        "CI95_Brier": [
+          -0.031019880652174123,
+          -0.012943293695859222
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.040133333333333354,
+        "CI95_AUROC": [
+          0.02306666666666679,
+          0.06146666666666678
+        ],
+        "delta_Brier": -0.008534292319591075,
+        "CI95_Brier": [
+          -0.018002248840829637,
+          0.0006437807976084749
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.05486666666666673,
+        "CI95_AUROC": [
+          0.0335983333333333,
+          0.07973333333333332
+        ],
+        "delta_Brier": -0.010613784069367957,
+        "CI95_Brier": [
+          -0.02018677846972085,
+          -0.0012214345167661602
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.06473333333333331,
+        "CI95_AUROC": [
+          0.04159999999999986,
+          0.09040333333333332
+        ],
+        "delta_Brier": -0.026543383608175382,
+        "CI95_Brier": [
+          -0.03692751188788149,
+          -0.01610506460276498
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.00666666666666671,
+        "CI95_AUROC": [
+          0.00026666666666685934,
+          0.015333333333333421
+        ],
+        "delta_Brier": -0.005522004829504559,
+        "CI95_Brier": [
+          -0.014781124531952941,
+          0.0034649853306111702
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.0470666666666667,
+        "CI95_AUROC": [
+          0.028399999999999974,
+          0.07013333333333316
+        ],
+        "delta_Brier": -0.009097930793252156,
+        "CI95_Brier": [
+          -0.018606057197373602,
+          0.0003962862055125415
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.0567333333333333,
+        "CI95_AUROC": [
+          0.03626666666666666,
+          0.08140500000000006
+        ],
+        "delta_Brier": -0.025671581901853598,
+        "CI95_Brier": [
+          -0.035970489536513765,
+          -0.015569144672339894
+        ]
+      },
+      "APPEARANCE_REAL__TOP49": {
+        "delta_AUROC": 0.02066666666666661,
+        "CI95_AUROC": [
+          -0.0003999999999999615,
+          0.05146666666666655
+        ],
+        "delta_Brier": 0.0032386885099911084,
+        "CI95_Brier": [
+          -0.010973072746452019,
+          0.015883340057579805
+        ]
+      },
+      "APPEARANCE_REAL__MAX": {
+        "delta_AUROC": 0.030133333333333456,
+        "CI95_AUROC": [
+          0.009200000000000097,
+          0.05586666666666673
+        ],
+        "delta_Brier": -0.015171022176211746,
+        "CI95_Brier": [
+          -0.031599311106112124,
+          0.00017953847093607266
+        ]
+      },
+      "APPEARANCE_REAL__REL_MAX": {
+        "delta_AUROC": 0.08653333333333335,
+        "CI95_AUROC": [
+          0.03626666666666666,
+          0.1453366666666664
+        ],
+        "delta_Brier": -0.04292619815024996,
+        "CI95_Brier": [
+          -0.0637865196280298,
+          -0.023949132129262102
+        ]
+      },
+      "G_CLEAN_NORMAL_E__TOP49": {
+        "delta_AUROC": 0.07279999999999998,
+        "CI95_AUROC": [
+          0.04773333333333318,
+          0.10186666666666655
+        ],
+        "delta_Brier": -0.03001607825207559,
+        "CI95_Brier": [
+          -0.0471498313002576,
+          -0.01753972925680402
+        ]
+      },
+      "G_CLEAN_NORMAL_E__MAX": {
+        "delta_AUROC": 0.14300000000000002,
+        "CI95_AUROC": [
+          0.10339611111111094,
+          0.1868449999999997
+        ],
+        "delta_Brier": -0.10269794015500433,
+        "CI95_Brier": [
+          -0.12827408010538652,
+          -0.07922689715620047
+        ]
+      },
+      "G_CLEAN_NORMAL_E__REL_MAX": {
+        "delta_AUROC": 0.1783555555555556,
+        "CI95_AUROC": [
+          0.12612999999999988,
+          0.23662333333333327
+        ],
+        "delta_Brier": -0.12546646605153344,
+        "CI95_Brier": [
+          -0.15090000572257298,
+          -0.10107497797140977
+        ]
+      },
+      "MASK_E_ONLY__TOP49": {
+        "delta_AUROC": 0.22840000000000005,
+        "CI95_AUROC": [
+          0.18493333333333317,
+          0.27026666666666666
+        ],
+        "delta_Brier": -0.14266001540505213,
+        "CI95_Brier": [
+          -0.1663623763414845,
+          -0.11813877180188087
+        ]
+      },
+      "MASK_E_ONLY__MAX": {
+        "delta_AUROC": 0.26502222222222227,
+        "CI95_AUROC": [
+          0.20366555555555554,
+          0.3314894444444445
+        ],
+        "delta_Brier": -0.17011424836432587,
+        "CI95_Brier": [
+          -0.18946359917742736,
+          -0.15113085428502182
+        ]
+      },
+      "MASK_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.27993333333333337,
+        "CI95_AUROC": [
+          0.21542111111111129,
+          0.34987111111111124
+        ],
+        "delta_Brier": -0.17504840773926436,
+        "CI95_Brier": [
+          -0.1941386796370016,
+          -0.15618599646973563
+        ]
+      },
+      "MASK_NORMAL_E__TOP49": {
+        "delta_AUROC": 0.10106666666666664,
+        "CI95_AUROC": [
+          0.06600000000000006,
+          0.13986666666666647
+        ],
+        "delta_Brier": -0.06869958228892789,
+        "CI95_Brier": [
+          -0.09497982812121837,
+          -0.04432185837211939
+        ]
+      },
+      "MASK_NORMAL_E__MAX": {
+        "delta_AUROC": 0.4985333333333334,
+        "CI95_AUROC": [
+          0.496,
+          0.5
+        ],
+        "delta_Brier": -0.21198661393154908,
+        "CI95_Brier": [
+          -0.21894363492524047,
+          -0.20444424403812755
+        ]
+      },
+      "MASK_NORMAL_E__REL_MAX": {
+        "delta_AUROC": 0.4985333333333334,
+        "CI95_AUROC": [
+          0.496,
+          0.5
+        ],
+        "delta_Brier": -0.21198661393154908,
+        "CI95_Brier": [
+          -0.21894363492524047,
+          -0.20444424403812755
+        ]
+      },
+      "G_E_ONLY__TOP49": {
+        "delta_AUROC": 0.049866666666666726,
+        "CI95_AUROC": [
+          0.02972999999999984,
+          0.07240000000000002
+        ],
+        "delta_Brier": -0.012225519637152946,
+        "CI95_Brier": [
+          -0.024189670150867055,
+          -0.0010182373342910518
+        ]
+      },
+      "G_E_ONLY__MAX": {
+        "delta_AUROC": 0.14006666666666667,
+        "CI95_AUROC": [
+          0.08853333333333357,
+          0.1979366666666668
+        ],
+        "delta_Brier": -0.07390014434519906,
+        "CI95_Brier": [
+          -0.10279797565919876,
+          -0.047334899978999
+        ]
+      },
+      "G_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.2556888888888891,
+        "CI95_AUROC": [
+          0.1845300000000001,
+          0.3282666666666667
+        ],
+        "delta_Brier": -0.1840954717029381,
+        "CI95_Brier": [
+          -0.20591753562083548,
+          -0.16400149316969254
+        ]
+      },
+      "JOINT_E_ONLY__TOP49": {
+        "delta_AUROC": 0.018266666666666653,
+        "CI95_AUROC": [
+          0.007333333333333414,
+          0.032400000000000206
+        ],
+        "delta_Brier": -0.007293250918393682,
+        "CI95_Brier": [
+          -0.01740368860800213,
+          0.002155313425580622
+        ]
+      },
+      "JOINT_E_ONLY__MAX": {
+        "delta_AUROC": 0.02193333333333347,
+        "CI95_AUROC": [
+          0.009733333333333146,
+          0.0370666666666668
+        ],
+        "delta_Brier": -0.007503157986597973,
+        "CI95_Brier": [
+          -0.01804154029681267,
+          0.002281682344076137
+        ]
+      },
+      "JOINT_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.03553333333333342,
+        "CI95_AUROC": [
+          0.016400000000000192,
+          0.05940166666666697
+        ],
+        "delta_Brier": -0.026793706991223874,
+        "CI95_Brier": [
+          -0.04160266651156656,
+          -0.013610508951066089
+        ]
+      },
+      "G_FIXED_RGB_MAX": {
+        "delta_AUROC": 0.009066666666666778,
+        "CI95_AUROC": [
+          0.0010666666666665492,
+          0.020266666666666655
+        ],
+        "delta_Brier": -0.010927781315958916,
+        "CI95_Brier": [
+          -0.026854720888998037,
+          0.003651861023743385
+        ]
+      },
+      "G_CONTEXT_RGB_MAX": {
+        "delta_AUROC": 0.003866666666666685,
+        "CI95_AUROC": [
+          -0.0010666666666667712,
+          0.010533333333333289
+        ],
+        "delta_Brier": -0.011065262680073087,
+        "CI95_Brier": [
+          -0.026627199237929968,
+          0.00361675085906046
+        ]
+      }
+    },
+    "KNOWN": {
+      "G_LOCAL_FIXED__TOP49": {
+        "delta_AUROC": 0.0,
+        "CI95_AUROC": [
+          0.0,
+          0.0
+        ],
+        "delta_Brier": 0.0,
+        "CI95_Brier": [
+          0.0,
+          0.0
+        ]
+      },
+      "G_LOCAL_FIXED__MAX": {
+        "delta_AUROC": 0.033333333333333215,
+        "CI95_AUROC": [
+          0.012266666666666648,
+          0.059466666666666335
+        ],
+        "delta_Brier": -0.03199506124347194,
+        "CI95_Brier": [
+          -0.04577659239488966,
+          -0.019374154226410537
+        ]
+      },
+      "G_LOCAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.09520000000000006,
+        "CI95_AUROC": [
+          0.054400000000000004,
+          0.1386733333333333
+        ],
+        "delta_Brier": -0.07492929637780253,
+        "CI95_Brier": [
+          -0.09220998001770221,
+          -0.05812588084031929
+        ]
+      },
+      "G_GLOBAL_FIXED__TOP49": {
+        "delta_AUROC": 0.0002666666666666373,
+        "CI95_AUROC": [
+          -0.0029333333333332323,
+          0.003733333333333144
+        ],
+        "delta_Brier": -0.0023719996825017076,
+        "CI95_Brier": [
+          -0.008554759642456913,
+          0.0034866776240654296
+        ]
+      },
+      "G_GLOBAL_FIXED__MAX": {
+        "delta_AUROC": 0.05413333333333337,
+        "CI95_AUROC": [
+          0.02719999999999989,
+          0.08666666666666645
+        ],
+        "delta_Brier": -0.047064582217865775,
+        "CI95_Brier": [
+          -0.06491528118256515,
+          -0.031253126326399934
+        ]
+      },
+      "G_GLOBAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.15306666666666668,
+        "CI95_AUROC": [
+          0.10399333333333322,
+          0.20586666666666642
+        ],
+        "delta_Brier": -0.09559738355849562,
+        "CI95_Brier": [
+          -0.11820838599598497,
+          -0.07519386245076275
+        ]
+      },
+      "G_GLOBAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.0029333333333333433,
+        "CI95_AUROC": [
+          -0.002133333333333326,
+          0.011466666666666736
+        ],
+        "delta_Brier": -0.0031684105405474366,
+        "CI95_Brier": [
+          -0.00967751486548449,
+          0.0032160365100011475
+        ]
+      },
+      "G_GLOBAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.04373333333333329,
+        "CI95_AUROC": [
+          0.015733333333333377,
+          0.07813999999999995
+        ],
+        "delta_Brier": -0.0468390284751239,
+        "CI95_Brier": [
+          -0.06366357780575785,
+          -0.03199345160828992
+        ]
+      },
+      "G_GLOBAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.15813333333333324,
+        "CI95_AUROC": [
+          0.10906666666666665,
+          0.21120666666666663
+        ],
+        "delta_Brier": -0.10807959878399229,
+        "CI95_Brier": [
+          -0.1291010380125416,
+          -0.08830624602600412
+        ]
+      },
+      "G_LOCAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.0016000000000000458,
+        "CI95_AUROC": [
+          -0.0005333333333334966,
+          0.005866666666666687
+        ],
+        "delta_Brier": -0.003666813128473563,
+        "CI95_Brier": [
+          -0.006898524172121507,
+          -0.0007037521667178399
+        ]
+      },
+      "G_LOCAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.025733333333333386,
+        "CI95_AUROC": [
+          0.008799999999999919,
+          0.04826666666666668
+        ],
+        "delta_Brier": -0.02328441784684731,
+        "CI95_Brier": [
+          -0.03454858874703505,
+          -0.013629015344331237
+        ]
+      },
+      "G_LOCAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.06479999999999997,
+        "CI95_AUROC": [
+          0.034666666666666845,
+          0.09867333333333325
+        ],
+        "delta_Brier": -0.058474194581790276,
+        "CI95_Brier": [
+          -0.07253112277924806,
+          -0.04525549249001505
+        ]
+      },
+      "JOINT_LOCAL_FIXED__TOP49": {
+        "delta_AUROC": -0.0008000000000000229,
+        "CI95_AUROC": [
+          -0.0032000000000000917,
+          2.220446049250313e-16
+        ],
+        "delta_Brier": 0.016995686972765114,
+        "CI95_Brier": [
+          0.01058309649080171,
+          0.023140585452612092
+        ]
+      },
+      "JOINT_LOCAL_FIXED__MAX": {
+        "delta_AUROC": -0.0008000000000000229,
+        "CI95_AUROC": [
+          -0.0032000000000000917,
+          2.220446049250313e-16
+        ],
+        "delta_Brier": 0.018796200971323923,
+        "CI95_Brier": [
+          0.011369420451008075,
+          0.025769279049891916
+        ]
+      },
+      "JOINT_LOCAL_FIXED__REL_MAX": {
+        "delta_AUROC": -0.0002666666666667483,
+        "CI95_AUROC": [
+          -0.0032000000000000917,
+          0.0021333333333333204
+        ],
+        "delta_Brier": 0.0077546371024519445,
+        "CI95_Brier": [
+          -0.001674393016438867,
+          0.01664165582568216
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__TOP49": {
+        "delta_AUROC": -0.0002666666666667483,
+        "CI95_AUROC": [
+          -0.0031999999999998696,
+          0.0016000000000002679
+        ],
+        "delta_Brier": 0.02060301498843304,
+        "CI95_Brier": [
+          0.013487432889484867,
+          0.027045511599712278
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__MAX": {
+        "delta_AUROC": -0.0008000000000000229,
+        "CI95_AUROC": [
+          -0.0032000000000000917,
+          2.220446049250313e-16
+        ],
+        "delta_Brier": 0.02072758135398166,
+        "CI95_Brier": [
+          0.014631839673592028,
+          0.02668624269900835
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.0010666666666667712,
+        "CI95_AUROC": [
+          -0.002666666666666595,
+          0.005606666666666613
+        ],
+        "delta_Brier": 0.004570899170037491,
+        "CI95_Brier": [
+          -0.0039510342581303105,
+          0.012790819787499774
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__TOP49": {
+        "delta_AUROC": -0.0008000000000000229,
+        "CI95_AUROC": [
+          -0.0032000000000000917,
+          2.220446049250313e-16
+        ],
+        "delta_Brier": 0.021865077022936767,
+        "CI95_Brier": [
+          0.016048417511254694,
+          0.02793695441861795
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__MAX": {
+        "delta_AUROC": -0.0008000000000000229,
+        "CI95_AUROC": [
+          -0.0032000000000000917,
+          2.220446049250313e-16
+        ],
+        "delta_Brier": 0.019804587466113598,
+        "CI95_Brier": [
+          0.01367593984933735,
+          0.026307421510804046
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.002666666666666595,
+        "CI95_AUROC": [
+          -0.001866666666666461,
+          0.009066666666666778
+        ],
+        "delta_Brier": 0.0019017552439431935,
+        "CI95_Brier": [
+          -0.006558161313188909,
+          0.010105290293680432
+        ]
+      },
+      "APPEARANCE_REAL__TOP49": {
+        "delta_AUROC": 0.013866666666666694,
+        "CI95_AUROC": [
+          0.0,
+          0.037333333333333225
+        ],
+        "delta_Brier": 0.006155786944488258,
+        "CI95_Brier": [
+          -0.007782794859436429,
+          0.01831824128948406
+        ]
+      },
+      "APPEARANCE_REAL__MAX": {
+        "delta_AUROC": 0.017333333333333423,
+        "CI95_AUROC": [
+          0.003200000000000086,
+          0.036799999999999944
+        ],
+        "delta_Brier": -0.01744252307700716,
+        "CI95_Brier": [
+          -0.033937036119452695,
+          -0.0023411685293618077
+        ]
+      },
+      "APPEARANCE_REAL__REL_MAX": {
+        "delta_AUROC": 0.08479999999999999,
+        "CI95_AUROC": [
+          0.03600000000000003,
+          0.13840000000000008
+        ],
+        "delta_Brier": -0.05055791718984845,
+        "CI95_Brier": [
+          -0.07211206184833172,
+          -0.030254310835995328
+        ]
+      },
+      "G_CLEAN_NORMAL_E__TOP49": {
+        "delta_AUROC": 0.010399999999999965,
+        "CI95_AUROC": [
+          -0.00026666666666685934,
+          0.029066666666666796
+        ],
+        "delta_Brier": -0.017215092673781802,
+        "CI95_Brier": [
+          -0.03293487763326518,
+          -0.005539249203518578
+        ]
+      },
+      "G_CLEAN_NORMAL_E__MAX": {
+        "delta_AUROC": 0.13546666666666674,
+        "CI95_AUROC": [
+          0.08559333333333324,
+          0.18907333333333307
+        ],
+        "delta_Brier": -0.1076231102274266,
+        "CI95_Brier": [
+          -0.13382271334786558,
+          -0.0829304428931243
+        ]
+      },
+      "G_CLEAN_NORMAL_E__REL_MAX": {
+        "delta_AUROC": 0.17653333333333332,
+        "CI95_AUROC": [
+          0.11706666666666676,
+          0.2434733333333333
+        ],
+        "delta_Brier": -0.13437348568668295,
+        "CI95_Brier": [
+          -0.1610534866044421,
+          -0.10951285912713421
+        ]
+      },
+      "MASK_E_ONLY__TOP49": {
+        "delta_AUROC": 0.18879999999999997,
+        "CI95_AUROC": [
+          0.14239999999999986,
+          0.2341333333333332
+        ],
+        "delta_Brier": -0.12345277855989556,
+        "CI95_Brier": [
+          -0.14906698208720096,
+          -0.09812009051411322
+        ]
+      },
+      "MASK_E_ONLY__MAX": {
+        "delta_AUROC": 0.22839999999999994,
+        "CI95_AUROC": [
+          0.16479999999999984,
+          0.2980066666666666
+        ],
+        "delta_Brier": -0.16474683474636093,
+        "CI95_Brier": [
+          -0.184336738339176,
+          -0.14541622096776366
+        ]
+      },
+      "MASK_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.2446666666666666,
+        "CI95_AUROC": [
+          0.1757266666666663,
+          0.31759999999999966
+        ],
+        "delta_Brier": -0.1705588382226334,
+        "CI95_Brier": [
+          -0.19018048094373846,
+          -0.15136565319664047
+        ]
+      },
+      "MASK_NORMAL_E__TOP49": {
+        "delta_AUROC": 0.10666666666666669,
+        "CI95_AUROC": [
+          0.06693333333333329,
+          0.14986666666666637
+        ],
+        "delta_Brier": -0.08079700629388972,
+        "CI95_Brier": [
+          -0.11046539492738053,
+          -0.05284437522470041
+        ]
+      },
+      "MASK_NORMAL_E__MAX": {
+        "delta_AUROC": 0.4992,
+        "CI95_AUROC": [
+          0.4967999999999999,
+          0.5000000000000002
+        ],
+        "delta_Brier": -0.2183623959762411,
+        "CI95_Brier": [
+          -0.224809069933881,
+          -0.21138571298511696
+        ]
+      },
+      "MASK_NORMAL_E__REL_MAX": {
+        "delta_AUROC": 0.4992,
+        "CI95_AUROC": [
+          0.4967999999999999,
+          0.5000000000000002
+        ],
+        "delta_Brier": -0.2183623959762411,
+        "CI95_Brier": [
+          -0.224809069933881,
+          -0.21138571298511696
+        ]
+      },
+      "G_E_ONLY__TOP49": {
+        "delta_AUROC": 0.0002666666666666373,
+        "CI95_AUROC": [
+          -0.002666666666667039,
+          0.00373333333333315
+        ],
+        "delta_Brier": 0.01627627042133281,
+        "CI95_Brier": [
+          0.0059253835228301865,
+          0.02538021711359027
+        ]
+      },
+      "G_E_ONLY__MAX": {
+        "delta_AUROC": 0.06986666666666674,
+        "CI95_AUROC": [
+          0.024000000000000018,
+          0.12026666666666652
+        ],
+        "delta_Brier": -0.0435163728072155,
+        "CI95_Brier": [
+          -0.07158503167187694,
+          -0.017435553207462165
+        ]
+      },
+      "G_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.17840000000000011,
+        "CI95_AUROC": [
+          0.11132666666666662,
+          0.25067333333333336
+        ],
+        "delta_Brier": -0.16628470127201148,
+        "CI95_Brier": [
+          -0.18910480385632106,
+          -0.14516871360144984
+        ]
+      },
+      "JOINT_E_ONLY__TOP49": {
+        "delta_AUROC": -0.0002666666666667483,
+        "CI95_AUROC": [
+          -0.0031999999999998696,
+          0.0016000000000000458
+        ],
+        "delta_Brier": 0.02117873456320428,
+        "CI95_Brier": [
+          0.01342295051741294,
+          0.028347886652764664
+        ]
+      },
+      "JOINT_E_ONLY__MAX": {
+        "delta_AUROC": -0.0005333333333333856,
+        "CI95_AUROC": [
+          -0.0031999999999998696,
+          0.0005333333333332746
+        ],
+        "delta_Brier": 0.017010647179520694,
+        "CI95_Brier": [
+          0.007528064294046473,
+          0.025298905751810135
+        ]
+      },
+      "JOINT_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.021066666666666567,
+        "CI95_AUROC": [
+          0.0047999999999999154,
+          0.04346666666666655
+        ],
+        "delta_Brier": -0.018890188592082524,
+        "CI95_Brier": [
+          -0.03588507020911633,
+          -0.0035847433958953513
+        ]
+      },
+      "G_FIXED_RGB_MAX": {
+        "delta_AUROC": 0.009600000000000053,
+        "CI95_AUROC": [
+          0.00026666666666685934,
+          0.022933333333333472
+        ],
+        "delta_Brier": -0.014776519179110492,
+        "CI95_Brier": [
+          -0.030344983459761103,
+          -0.00036773782141401177
+        ]
+      },
+      "G_CONTEXT_RGB_MAX": {
+        "delta_AUROC": 0.008266666666666644,
+        "CI95_AUROC": [
+          0.00026666666666641525,
+          0.019999999999999803
+        ],
+        "delta_Brier": -0.016819875544073992,
+        "CI95_Brier": [
+          -0.03236546344023969,
+          -0.002634918596156062
+        ]
+      }
+    },
+    "EXCLUDED": {
+      "G_LOCAL_FIXED__TOP49": {
+        "delta_AUROC": 0.0,
+        "CI95_AUROC": [
+          0.0,
+          0.0
+        ],
+        "delta_Brier": 0.0,
+        "CI95_Brier": [
+          0.0,
+          0.0
+        ]
+      },
+      "G_LOCAL_FIXED__MAX": {
+        "delta_AUROC": 0.017066666666666563,
+        "CI95_AUROC": [
+          0.0002666666666666373,
+          0.041066666666666585
+        ],
+        "delta_Brier": -0.0026389722463274756,
+        "CI95_Brier": [
+          -0.01836448807939356,
+          0.011827351797480871
+        ]
+      },
+      "G_LOCAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.04826666666666668,
+        "CI95_AUROC": [
+          0.01946666666666663,
+          0.0834666666666668
+        ],
+        "delta_Brier": -0.026523670487435917,
+        "CI95_Brier": [
+          -0.04431534509629889,
+          -0.009667203539492547
+        ]
+      },
+      "G_GLOBAL_FIXED__TOP49": {
+        "delta_AUROC": 0.1525333333333332,
+        "CI95_AUROC": [
+          0.10986666666666678,
+          0.1970666666666665
+        ],
+        "delta_Brier": -0.040062750967252696,
+        "CI95_Brier": [
+          -0.05465939256503116,
+          -0.026169954179609354
+        ]
+      },
+      "G_GLOBAL_FIXED__MAX": {
+        "delta_AUROC": 0.1313333333333332,
+        "CI95_AUROC": [
+          0.09226666666666672,
+          0.17427000000000006
+        ],
+        "delta_Brier": -0.059658657026555074,
+        "CI95_Brier": [
+          -0.07935836499871808,
+          -0.04115494515769422
+        ]
+      },
+      "G_GLOBAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.12853333333333317,
+        "CI95_AUROC": [
+          0.08933333333333326,
+          0.1722666666666668
+        ],
+        "delta_Brier": -0.06547214166374629,
+        "CI95_Brier": [
+          -0.08587356224602095,
+          -0.04681185104405295
+        ]
+      },
+      "G_GLOBAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.15039999999999998,
+        "CI95_AUROC": [
+          0.10746666666666704,
+          0.19547333333333314
+        ],
+        "delta_Brier": -0.03491710368977751,
+        "CI95_Brier": [
+          -0.04990742869875813,
+          -0.020718465048801846
+        ]
+      },
+      "G_GLOBAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.11053333333333326,
+        "CI95_AUROC": [
+          0.06813333333333338,
+          0.15626666666666655
+        ],
+        "delta_Brier": -0.04947187999250135,
+        "CI95_Brier": [
+          -0.06819888799971706,
+          -0.03244840156080782
+        ]
+      },
+      "G_GLOBAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.11399999999999988,
+        "CI95_AUROC": [
+          0.06640000000000001,
+          0.1693366666666666
+        ],
+        "delta_Brier": -0.06323341324427251,
+        "CI95_Brier": [
+          -0.08159728547700146,
+          -0.046524403773004416
+        ]
+      },
+      "G_LOCAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.09386666666666665,
+        "CI95_AUROC": [
+          0.05919999999999992,
+          0.13573333333333348
+        ],
+        "delta_Brier": -0.0305920010433584,
+        "CI95_Brier": [
+          -0.04140668097758176,
+          -0.020331566824147745
+        ]
+      },
+      "G_LOCAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.025466666666666526,
+        "CI95_AUROC": [
+          0.008933333333333454,
+          0.04746666666666677
+        ],
+        "delta_Brier": -0.018542408040185775,
+        "CI95_Brier": [
+          -0.030973987634266942,
+          -0.007619030522993793
+        ]
+      },
+      "G_LOCAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.014666666666666495,
+        "CI95_AUROC": [
+          0.002400000000000066,
+          0.03199999999999981
+        ],
+        "delta_Brier": -0.02045268566347245,
+        "CI95_Brier": [
+          -0.03363608205723799,
+          -0.008202419566268736
+        ]
+      },
+      "JOINT_LOCAL_FIXED__TOP49": {
+        "delta_AUROC": 0.08933333333333326,
+        "CI95_AUROC": [
+          0.05546666666666655,
+          0.13094000000000014
+        ],
+        "delta_Brier": -0.05017693487396962,
+        "CI95_Brier": [
+          -0.0649424286454393,
+          -0.03637060799589518
+        ]
+      },
+      "JOINT_LOCAL_FIXED__MAX": {
+        "delta_AUROC": 0.06919999999999993,
+        "CI95_AUROC": [
+          0.038133333333333574,
+          0.10586666666666655
+        ],
+        "delta_Brier": -0.04562318787500278,
+        "CI95_Brier": [
+          -0.059643500481142454,
+          -0.03262539634001059
+        ]
+      },
+      "JOINT_LOCAL_FIXED__REL_MAX": {
+        "delta_AUROC": 0.0657333333333332,
+        "CI95_AUROC": [
+          0.03626666666666645,
+          0.10133333333333328
+        ],
+        "delta_Brier": -0.05154071355871511,
+        "CI95_Brier": [
+          -0.06517609812108495,
+          -0.038474311787831374
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.08053333333333335,
+        "CI95_AUROC": [
+          0.047993333333332944,
+          0.11973333333333325
+        ],
+        "delta_Brier": -0.037728098784942495,
+        "CI95_Brier": [
+          -0.052771794642211226,
+          -0.02382961856918988
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.11053333333333326,
+        "CI95_AUROC": [
+          0.07346666666666679,
+          0.15306666666666657
+        ],
+        "delta_Brier": -0.04196773707318948,
+        "CI95_Brier": [
+          -0.05746221623771846,
+          -0.02735399759816221
+        ]
+      },
+      "JOINT_LOCAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.12839999999999985,
+        "CI95_AUROC": [
+          0.08879999999999999,
+          0.1717333333333333
+        ],
+        "delta_Brier": -0.057661871226365256,
+        "CI95_Brier": [
+          -0.07381650246979628,
+          -0.04201012383174799
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__TOP49": {
+        "delta_AUROC": 0.01413333333333322,
+        "CI95_AUROC": [
+          0.0018666666666669052,
+          0.03146666666666653
+        ],
+        "delta_Brier": -0.03297625527164618,
+        "CI95_Brier": [
+          -0.04771522464995693,
+          -0.01912781538929804
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__MAX": {
+        "delta_AUROC": 0.0949333333333332,
+        "CI95_AUROC": [
+          0.05946666666666656,
+          0.13760000000000017
+        ],
+        "delta_Brier": -0.03807607447015921,
+        "CI95_Brier": [
+          -0.053555932660806896,
+          -0.02373746435752449
+        ]
+      },
+      "JOINT_GLOBAL_CONTEXT__REL_MAX": {
+        "delta_AUROC": 0.1107999999999999,
+        "CI95_AUROC": [
+          0.07372333333333343,
+          0.15480333333333332
+        ],
+        "delta_Brier": -0.053358875924709705,
+        "CI95_Brier": [
+          -0.06910493751760789,
+          -0.0387777490348021
+        ]
+      },
+      "APPEARANCE_REAL__TOP49": {
+        "delta_AUROC": 0.027466666666666528,
+        "CI95_AUROC": [
+          -0.0002666666666666373,
+          0.06746666666666634
+        ],
+        "delta_Brier": 0.00030733116797400373,
+        "CI95_Brier": [
+          -0.016309816526288573,
+          0.01587878086022535
+        ]
+      },
+      "APPEARANCE_REAL__MAX": {
+        "delta_AUROC": 0.04293333333333327,
+        "CI95_AUROC": [
+          0.012533333333333063,
+          0.08027333333333327
+        ],
+        "delta_Brier": -0.012907235404617079,
+        "CI95_Brier": [
+          -0.030871330859429766,
+          0.004607155772053122
+        ]
+      },
+      "APPEARANCE_REAL__REL_MAX": {
+        "delta_AUROC": 0.0882666666666665,
+        "CI95_AUROC": [
+          0.033866666666666705,
+          0.15093999999999982
+        ],
+        "delta_Brier": -0.036456522844889976,
+        "CI95_Brier": [
+          -0.05875615532034494,
+          -0.013954473133717478
+        ]
+      },
+      "G_CLEAN_NORMAL_E__TOP49": {
+        "delta_AUROC": 0.13519999999999988,
+        "CI95_AUROC": [
+          0.09385999999999987,
+          0.18053333333333343
+        ],
+        "delta_Brier": -0.042828017442632975,
+        "CI95_Brier": [
+          -0.061643344908940585,
+          -0.026956192517468253
+        ]
+      },
+      "G_CLEAN_NORMAL_E__MAX": {
+        "delta_AUROC": 0.15159999999999996,
+        "CI95_AUROC": [
+          0.10560000000000014,
+          0.203873333333333
+        ],
+        "delta_Brier": -0.09785718597591861,
+        "CI95_Brier": [
+          -0.1249571399824899,
+          -0.07333232106342262
+        ]
+      },
+      "G_CLEAN_NORMAL_E__REL_MAX": {
+        "delta_AUROC": 0.18013333333333326,
+        "CI95_AUROC": [
+          0.12346666666666661,
+          0.24560333333333312
+        ],
+        "delta_Brier": -0.11687301792789498,
+        "CI95_Brier": [
+          -0.14487322565045826,
+          -0.09255041626879543
+        ]
+      },
+      "MASK_E_ONLY__TOP49": {
+        "delta_AUROC": 0.2679999999999999,
+        "CI95_AUROC": [
+          0.21945999999999982,
+          0.31653333333333333
+        ],
+        "delta_Brier": -0.1617497515713086,
+        "CI95_Brier": [
+          -0.1881823389336847,
+          -0.13439607298651768
+        ]
+      },
+      "MASK_E_ONLY__MAX": {
+        "delta_AUROC": 0.30079999999999985,
+        "CI95_AUROC": [
+          0.23453000000000016,
+          0.3721366666666666
+        ],
+        "delta_Brier": -0.17539573539958597,
+        "CI95_Brier": [
+          -0.19765062538824926,
+          -0.15253863563121123
+        ]
+      },
+      "MASK_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.3144,
+        "CI95_AUROC": [
+          0.24426666666666663,
+          0.38959999999999995
+        ],
+        "delta_Brier": -0.1794248555000195,
+        "CI95_Brier": [
+          -0.20127041228190382,
+          -0.15692197917112324
+        ]
+      },
+      "MASK_NORMAL_E__TOP49": {
+        "delta_AUROC": 0.09546666666666648,
+        "CI95_AUROC": [
+          0.052533333333333314,
+          0.14507333333333325
+        ],
+        "delta_Brier": -0.05661426680083551,
+        "CI95_Brier": [
+          -0.08415060174065926,
+          -0.030165251363215653
+        ]
+      },
+      "MASK_NORMAL_E__MAX": {
+        "delta_AUROC": 0.49786666666666657,
+        "CI95_AUROC": [
+          0.4933333333333334,
+          0.5
+        ],
+        "delta_Brier": -0.2056210276508312,
+        "CI95_Brier": [
+          -0.21593685280474678,
+          -0.1936876785409682
+        ]
+      },
+      "MASK_NORMAL_E__REL_MAX": {
+        "delta_AUROC": 0.49786666666666657,
+        "CI95_AUROC": [
+          0.4933333333333334,
+          0.5
+        ],
+        "delta_Brier": -0.2056210276508312,
+        "CI95_Brier": [
+          -0.21593685280474678,
+          -0.1936876785409682
+        ]
+      },
+      "G_E_ONLY__TOP49": {
+        "delta_AUROC": 0.09946666666666659,
+        "CI95_AUROC": [
+          0.06293333333333329,
+          0.13893999999999992
+        ],
+        "delta_Brier": -0.04073371671034324,
+        "CI95_Brier": [
+          -0.05709840843522318,
+          -0.02499207971581896
+        ]
+      },
+      "G_E_ONLY__MAX": {
+        "delta_AUROC": 0.2102666666666666,
+        "CI95_AUROC": [
+          0.14559999999999995,
+          0.2812033333333332
+        ],
+        "delta_Brier": -0.104277557308671,
+        "CI95_Brier": [
+          -0.13514700697400547,
+          -0.07559910561867227
+        ]
+      },
+      "G_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.3327999999999999,
+        "CI95_AUROC": [
+          0.2506666666666668,
+          0.41573999999999994
+        ],
+        "delta_Brier": -0.20151163777861675,
+        "CI95_Brier": [
+          -0.22305956788403516,
+          -0.18039420678796847
+        ]
+      },
+      "JOINT_E_ONLY__TOP49": {
+        "delta_AUROC": 0.036799999999999944,
+        "CI95_AUROC": [
+          0.015733333333333377,
+          0.06266666666666665
+        ],
+        "delta_Brier": -0.03578005694548413,
+        "CI95_Brier": [
+          -0.050555196064641886,
+          -0.021834422613584644
+        ]
+      },
+      "JOINT_E_ONLY__MAX": {
+        "delta_AUROC": 0.04439999999999977,
+        "CI95_AUROC": [
+          0.02093333333333347,
+          0.07306666666666661
+        ],
+        "delta_Brier": -0.03202629492800258,
+        "CI95_Brier": [
+          -0.04683650238435675,
+          -0.018317147327171934
+        ]
+      },
+      "JOINT_E_ONLY__REL_MAX": {
+        "delta_AUROC": 0.04999999999999993,
+        "CI95_AUROC": [
+          0.024129999999999797,
+          0.0823999999999998
+        ],
+        "delta_Brier": -0.03462472134705035,
+        "CI95_Brier": [
+          -0.05102463397912333,
+          -0.019885141663175388
+        ]
+      },
+      "G_FIXED_RGB_MAX": {
+        "delta_AUROC": 0.008533333333333282,
+        "CI95_AUROC": [
+          -0.0007999999999999119,
+          0.021600000000000064
+        ],
+        "delta_Brier": -0.007079043452807354,
+        "CI95_Brier": [
+          -0.023889932803325974,
+          0.009952954412657805
+        ]
+      },
+      "G_CONTEXT_RGB_MAX": {
+        "delta_AUROC": -0.0005333333333334966,
+        "CI95_AUROC": [
+          -0.005599999999999827,
+          0.004533333333333278
+        ],
+        "delta_Brier": -0.005312851302154642,
+        "CI95_Brier": [
+          -0.0225052892280318,
+          0.0116209250003143
+        ]
+      }
+    }
+  },
+  "primary": "G_LOCAL_FIXED__TOP49",
+  "primary_control": "G_CLEAN_NORMAL_E__TOP49",
+  "scope": "First detector scoring of350 reserved acquisition/exact-asset groups, conditional on selected development model family and frozen known-typeC63 calibration. Physical-part identity unverified, historical source/target development and synthetic dent prior disclosed. RGBL01 custom native pairing, not direct official L05 benchmark. Do not tune models after this confirmation and still call the350 independent.",
+  "uncertainty": "Fixed selected models, within-category/label acquisition-group bootstrap5000; no physical-identity/learning-history/seed-selection uncertainty coverage."
+}

@@ -1,0 +1,3657 @@
+{
+  "status": "COMPLETE_WITH_PARTIAL_IDENTIFIABILITY",
+  "created": "2026-10-30T17:41:08.853168+08:00",
+  "observations": 635,
+  "groups": 634,
+  "strata_thresholds": {
+    "audio_jack_socket": {
+      "n": 151,
+      "edges": [
+        26077.0,
+        26807.0
+      ],
+      "min": 24414,
+      "max": 28292
+    },
+    "humidity_sensor": {
+      "n": 161,
+      "edges": [
+        12453.333333333334,
+        12767.0
+      ],
+      "min": 11621,
+      "max": 13649
+    },
+    "lego_propeller": {
+      "n": 156,
+      "edges": [
+        16914.666666666668,
+        17069.333333333332
+      ],
+      "min": 16457,
+      "max": 17829
+    }
+  },
+  "role_counts": [
+    {
+      "category": "audio_jack_socket",
+      "role": "E",
+      "label": 0,
+      "n": 10,
+      "groups": 9,
+      "XY_constant": 10,
+      "valid224_min": 8418,
+      "valid224_max": 22674,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "audio_jack_socket",
+      "role": "E",
+      "label": 1,
+      "n": 30,
+      "groups": 30,
+      "XY_constant": 10,
+      "valid224_min": 8343,
+      "valid224_max": 27544,
+      "height_abs_max_median": 0.6890778243541718
+    },
+    {
+      "category": "audio_jack_socket",
+      "role": "C",
+      "label": 0,
+      "n": 7,
+      "groups": 7,
+      "XY_constant": 7,
+      "valid224_min": 9190,
+      "valid224_max": 20087,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "audio_jack_socket",
+      "role": "C",
+      "label": 1,
+      "n": 21,
+      "groups": 21,
+      "XY_constant": 7,
+      "valid224_min": 8682,
+      "valid224_max": 26969,
+      "height_abs_max_median": 0.7220601439476013
+    },
+    {
+      "category": "audio_jack_socket",
+      "role": "HOLD",
+      "label": 0,
+      "n": 49,
+      "groups": 49,
+      "XY_constant": 0,
+      "valid224_min": 24684,
+      "valid224_max": 27709,
+      "height_abs_max_median": 0.6461044549942017
+    },
+    {
+      "category": "audio_jack_socket",
+      "role": "CURRENT_DEV",
+      "label": 0,
+      "n": 25,
+      "groups": 25,
+      "XY_constant": 25,
+      "valid224_min": 9389,
+      "valid224_max": 24757,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "audio_jack_socket",
+      "role": "CURRENT_DEV",
+      "label": 1,
+      "n": 100,
+      "groups": 100,
+      "XY_constant": 75,
+      "valid224_min": 17280,
+      "valid224_max": 25257,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "role": "E",
+      "label": 0,
+      "n": 10,
+      "groups": 10,
+      "XY_constant": 10,
+      "valid224_min": 12413,
+      "valid224_max": 13249,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "role": "E",
+      "label": 1,
+      "n": 20,
+      "groups": 20,
+      "XY_constant": 10,
+      "valid224_min": 11621,
+      "valid224_max": 14461,
+      "height_abs_max_median": 0.5744774416089058
+    },
+    {
+      "category": "humidity_sensor",
+      "role": "C",
+      "label": 0,
+      "n": 7,
+      "groups": 7,
+      "XY_constant": 7,
+      "valid224_min": 12187,
+      "valid224_max": 13062,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "role": "C",
+      "label": 1,
+      "n": 14,
+      "groups": 14,
+      "XY_constant": 7,
+      "valid224_min": 11537,
+      "valid224_max": 14575,
+      "height_abs_max_median": 0.5689251199364662
+    },
+    {
+      "category": "humidity_sensor",
+      "role": "HOLD",
+      "label": 0,
+      "n": 39,
+      "groups": 39,
+      "XY_constant": 0,
+      "valid224_min": 12013,
+      "valid224_max": 13458,
+      "height_abs_max_median": 0.1315903514623642
+    },
+    {
+      "category": "humidity_sensor",
+      "role": "CURRENT_DEV",
+      "label": 0,
+      "n": 25,
+      "groups": 25,
+      "XY_constant": 25,
+      "valid224_min": 12362,
+      "valid224_max": 13510,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "humidity_sensor",
+      "role": "CURRENT_DEV",
+      "label": 1,
+      "n": 100,
+      "groups": 100,
+      "XY_constant": 75,
+      "valid224_min": 10852,
+      "valid224_max": 14547,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "role": "E",
+      "label": 0,
+      "n": 10,
+      "groups": 10,
+      "XY_constant": 10,
+      "valid224_min": 1656,
+      "valid224_max": 1798,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "role": "E",
+      "label": 1,
+      "n": 10,
+      "groups": 10,
+      "XY_constant": 10,
+      "valid224_min": 7418,
+      "valid224_max": 16848,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "role": "C",
+      "label": 0,
+      "n": 7,
+      "groups": 7,
+      "XY_constant": 7,
+      "valid224_min": 1653,
+      "valid224_max": 1810,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "role": "C",
+      "label": 1,
+      "n": 7,
+      "groups": 7,
+      "XY_constant": 7,
+      "valid224_min": 16393,
+      "valid224_max": 16990,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "role": "HOLD",
+      "label": 0,
+      "n": 44,
+      "groups": 44,
+      "XY_constant": 0,
+      "valid224_min": 16442,
+      "valid224_max": 17647,
+      "height_abs_max_median": 0.17723612487316132
+    },
+    {
+      "category": "lego_propeller",
+      "role": "CURRENT_DEV",
+      "label": 0,
+      "n": 25,
+      "groups": 25,
+      "XY_constant": 25,
+      "valid224_min": 1655,
+      "valid224_max": 1816,
+      "height_abs_max_median": 1.0
+    },
+    {
+      "category": "lego_propeller",
+      "role": "CURRENT_DEV",
+      "label": 1,
+      "n": 75,
+      "groups": 75,
+      "XY_constant": 75,
+      "valid224_min": 7052,
+      "valid224_max": 17175,
+      "height_abs_max_median": 1.0
+    }
+  ],
+  "full_V_replay": {
+    "V0_H": {
+      "macro_AUROC": 0.9996,
+      "macro_Brier": 0.016495657193749874
+    },
+    "V1_H": {
+      "macro_AUROC": 1.0,
+      "macro_Brier": 0.008813653861853173
+    },
+    "MASK_E_ONLY": {
+      "macro_AUROC": 0.7701333333333333,
+      "macro_Brier": 0.18067340147350305
+    },
+    "MASK_NORMAL_E": {
+      "macro_AUROC": 0.8974666666666667,
+      "macro_Brier": 0.10671296835737883
+    },
+    "V1_G": {
+      "macro_AUROC": 0.988,
+      "macro_Brier": 0.03754205036355195
+    },
+    "V1_RGB": {
+      "macro_AUROC": 0.9935999999999999,
+      "macro_Brier": 0.034434497089755274
+    }
+  },
+  "full_V_by_category": {
+    "V0_H": [
+      {
+        "stratum": {
+          "category": "audio_jack_socket"
+        },
+        "models": {
+          "V0_H": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.035031631572066194,
+            "anomaly_MSE": 0.008331983994943252,
+            "normal_above_half": 1,
+            "anomaly_below_half": 0,
+            "AUROC": 0.9988,
+            "balanced_Brier": 0.021681807783504724,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2497.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "humidity_sensor"
+        },
+        "models": {
+          "V0_H": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.00015120194984386554,
+            "anomaly_MSE": 0.05545623381751166,
+            "normal_above_half": 0,
+            "anomaly_below_half": 9,
+            "AUROC": 1.0,
+            "balanced_Brier": 0.027803717883677765,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2500.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "lego_propeller"
+        },
+        "models": {
+          "V0_H": {
+            "n": 100,
+            "normal": 25,
+            "anomaly": 75,
+            "normal_MSE": 2.775942243754862e-06,
+            "anomaly_MSE": 1.1588589050103502e-07,
+            "normal_above_half": 0,
+            "anomaly_below_half": 0,
+            "AUROC": 1.0,
+            "balanced_Brier": 1.4459140671279487e-06,
+            "rank_pairs": 1875,
+            "concordant_pairs": 1875.0
+          }
+        }
+      }
+    ],
+    "V1_H": [
+      {
+        "stratum": {
+          "category": "audio_jack_socket"
+        },
+        "models": {
+          "V1_H": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.019835554756678163,
+            "anomaly_MSE": 0.005006355335499855,
+            "normal_above_half": 0,
+            "anomaly_below_half": 0,
+            "AUROC": 1.0,
+            "balanced_Brier": 0.012420955046089008,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2500.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "humidity_sensor"
+        },
+        "models": {
+          "V1_H": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.000252452730920725,
+            "anomaly_MSE": 0.027784597822026236,
+            "normal_above_half": 0,
+            "anomaly_below_half": 3,
+            "AUROC": 1.0,
+            "balanced_Brier": 0.01401852527647348,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2500.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "lego_propeller"
+        },
+        "models": {
+          "V1_H": {
+            "n": 100,
+            "normal": 25,
+            "anomaly": 75,
+            "normal_MSE": 2.8955028055117493e-06,
+            "anomaly_MSE": 6.70231885485883e-08,
+            "normal_above_half": 0,
+            "anomaly_below_half": 0,
+            "AUROC": 1.0,
+            "balanced_Brier": 1.4812629970301688e-06,
+            "rank_pairs": 1875,
+            "concordant_pairs": 1875.0
+          }
+        }
+      }
+    ],
+    "MASK_E_ONLY": [
+      {
+        "stratum": {
+          "category": "audio_jack_socket"
+        },
+        "models": {
+          "MASK_E_ONLY": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.0934289919008673,
+            "anomaly_MSE": 0.1334677524051832,
+            "normal_above_half": 2,
+            "anomaly_below_half": 16,
+            "AUROC": 0.9356,
+            "balanced_Brier": 0.11344837215302525,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2339.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "humidity_sensor"
+        },
+        "models": {
+          "MASK_E_ONLY": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.3674458653758703,
+            "anomaly_MSE": 0.4403116358178074,
+            "normal_above_half": 16,
+            "anomaly_below_half": 62,
+            "AUROC": 0.3748,
+            "balanced_Brier": 0.40387875059683886,
+            "rank_pairs": 2500,
+            "concordant_pairs": 937.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "lego_propeller"
+        },
+        "models": {
+          "MASK_E_ONLY": {
+            "n": 100,
+            "normal": 25,
+            "anomaly": 75,
+            "normal_MSE": 0.025952483855788026,
+            "anomaly_MSE": 0.023433679485501964,
+            "normal_above_half": 0,
+            "anomaly_below_half": 0,
+            "AUROC": 1.0,
+            "balanced_Brier": 0.024693081670644997,
+            "rank_pairs": 1875,
+            "concordant_pairs": 1875.0
+          }
+        }
+      }
+    ],
+    "MASK_NORMAL_E": [
+      {
+        "stratum": {
+          "category": "audio_jack_socket"
+        },
+        "models": {
+          "MASK_NORMAL_E": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.09472336264690517,
+            "anomaly_MSE": 0.06744501567659031,
+            "normal_above_half": 3,
+            "anomaly_below_half": 7,
+            "AUROC": 0.95,
+            "balanced_Brier": 0.08108418916174774,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2375.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "humidity_sensor"
+        },
+        "models": {
+          "MASK_NORMAL_E": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.2672372971784542,
+            "anomaly_MSE": 0.19661182538981958,
+            "normal_above_half": 8,
+            "anomaly_below_half": 27,
+            "AUROC": 0.7424,
+            "balanced_Brier": 0.23192456128413688,
+            "rank_pairs": 2500,
+            "concordant_pairs": 1856.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "lego_propeller"
+        },
+        "models": {
+          "MASK_NORMAL_E": {
+            "n": 100,
+            "normal": 25,
+            "anomaly": 75,
+            "normal_MSE": 0.011132351412004242,
+            "anomaly_MSE": 0.003127957840499566,
+            "normal_above_half": 0,
+            "anomaly_below_half": 0,
+            "AUROC": 1.0,
+            "balanced_Brier": 0.007130154626251904,
+            "rank_pairs": 1875,
+            "concordant_pairs": 1875.0
+          }
+        }
+      }
+    ],
+    "V1_G": [
+      {
+        "stratum": {
+          "category": "audio_jack_socket"
+        },
+        "models": {
+          "V1_G": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.07879149447771092,
+            "anomaly_MSE": 0.029677778290822472,
+            "normal_above_half": 3,
+            "anomaly_below_half": 3,
+            "AUROC": 0.9872,
+            "balanced_Brier": 0.05423463638426669,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2468.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "humidity_sensor"
+        },
+        "models": {
+          "V1_G": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.03257095476116023,
+            "anomaly_MSE": 0.08243935066499902,
+            "normal_above_half": 1,
+            "anomaly_below_half": 11,
+            "AUROC": 0.9768,
+            "balanced_Brier": 0.05750515271307963,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2442.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "lego_propeller"
+        },
+        "models": {
+          "V1_G": {
+            "n": 100,
+            "normal": 25,
+            "anomaly": 75,
+            "normal_MSE": 0.001758300020558498,
+            "anomaly_MSE": 1.4423966060609104e-05,
+            "normal_above_half": 0,
+            "anomaly_below_half": 0,
+            "AUROC": 1.0,
+            "balanced_Brier": 0.0008863619933095535,
+            "rank_pairs": 1875,
+            "concordant_pairs": 1875.0
+          }
+        }
+      }
+    ],
+    "V1_RGB": [
+      {
+        "stratum": {
+          "category": "audio_jack_socket"
+        },
+        "models": {
+          "V1_RGB": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.08572831227429413,
+            "anomaly_MSE": 0.0333650168861588,
+            "normal_above_half": 3,
+            "anomaly_below_half": 4,
+            "AUROC": 0.9808,
+            "balanced_Brier": 0.05954666458022646,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2452.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "humidity_sensor"
+        },
+        "models": {
+          "V1_RGB": {
+            "n": 125,
+            "normal": 25,
+            "anomaly": 100,
+            "normal_MSE": 0.0004346297707991173,
+            "anomaly_MSE": 0.08698247719694524,
+            "normal_above_half": 0,
+            "anomaly_below_half": 12,
+            "AUROC": 1.0,
+            "balanced_Brier": 0.043708553483872176,
+            "rank_pairs": 2500,
+            "concordant_pairs": 2500.0
+          }
+        }
+      },
+      {
+        "stratum": {
+          "category": "lego_propeller"
+        },
+        "models": {
+          "V1_RGB": {
+            "n": 100,
+            "normal": 25,
+            "anomaly": 75,
+            "normal_MSE": 9.611488944010929e-05,
+            "anomaly_MSE": 4.315208942578406e-07,
+            "normal_above_half": 0,
+            "anomaly_below_half": 0,
+            "AUROC": 1.0,
+            "balanced_Brier": 4.8273205167183566e-05,
+            "rank_pairs": 1875,
+            "concordant_pairs": 1875.0
+          }
+        }
+      }
+    ]
+  },
+  "analyses": {
+    "XY_FORM": {
+      "cells": [
+        {
+          "stratum": {
+            "category": "audio_jack_socket",
+            "XY_constant": false
+          },
+          "models": {
+            "V0_H": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.027535073758017642,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.015626863926711518,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.023452297704091237,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.018475601080109073,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.11627078253956702,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.005355909526409528,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "audio_jack_socket",
+            "XY_constant": true
+          },
+          "models": {
+            "V0_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.035031631572066194,
+              "anomaly_MSE": 0.0019309540739184553,
+              "normal_above_half": 1,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.018481292822992323,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "V1_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.019835554756678163,
+              "anomaly_MSE": 0.0014661858050959682,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.010650870280887065,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "MASK_E_ONLY": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.0934289919008673,
+              "anomaly_MSE": 0.17013957063888052,
+              "normal_above_half": 2,
+              "anomaly_below_half": 16,
+              "AUROC": 0.9173333333333333,
+              "balanced_Brier": 0.1317842812698739,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1720.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.09472336264690517,
+              "anomaly_MSE": 0.08376815387541739,
+              "normal_above_half": 3,
+              "anomaly_below_half": 7,
+              "AUROC": 0.9418666666666666,
+              "balanced_Brier": 0.08924575826116128,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1766.0
+            },
+            "V1_G": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.07879149447771092,
+              "anomaly_MSE": 0.0008134435412409497,
+              "normal_above_half": 3,
+              "anomaly_below_half": 0,
+              "AUROC": 0.9994666666666666,
+              "balanced_Brier": 0.039802469009475934,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1874.0
+            },
+            "V1_RGB": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.08572831227429413,
+              "anomaly_MSE": 0.04270138600607523,
+              "normal_above_half": 3,
+              "anomaly_below_half": 4,
+              "AUROC": 0.9754666666666667,
+              "balanced_Brier": 0.06421484914018469,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1829.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": false
+          },
+          "models": {
+            "V0_H": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.0010363284678611966,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.014087305880682766,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.29792783534296136,
+              "normal_above_half": 0,
+              "anomaly_below_half": 10,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.4051156518530362,
+              "normal_above_half": 0,
+              "anomaly_below_half": 14,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.2810402939916699,
+              "normal_above_half": 0,
+              "anomaly_below_half": 10,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 1.261564397867054e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": true
+          },
+          "models": {
+            "V0_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.00015120194984386554,
+              "anomaly_MSE": 0.07359620226739515,
+              "normal_above_half": 0,
+              "anomaly_below_half": 9,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.036873702108619504,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "V1_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.000252452730920725,
+              "anomaly_MSE": 0.03235036180247406,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.016301407266697394,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "MASK_E_ONLY": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.3674458653758703,
+              "anomaly_MSE": 0.4877729026427559,
+              "normal_above_half": 16,
+              "anomaly_below_half": 52,
+              "AUROC": 0.3317333333333333,
+              "balanced_Brier": 0.42760938400931314,
+              "rank_pairs": 1875,
+              "concordant_pairs": 622.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.2672372971784542,
+              "anomaly_MSE": 0.1271105499020807,
+              "normal_above_half": 8,
+              "anomaly_below_half": 13,
+              "AUROC": 0.8048,
+              "balanced_Brier": 0.19717392354026744,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1509.0
+            },
+            "V1_G": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.03257095476116023,
+              "anomaly_MSE": 0.01623903622277538,
+              "normal_above_half": 1,
+              "anomaly_below_half": 1,
+              "AUROC": 0.9989333333333333,
+              "balanced_Brier": 0.024404995491967806,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1873.0
+            },
+            "V1_RGB": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.0004346297707991173,
+              "anomaly_MSE": 0.11597659421044705,
+              "normal_above_half": 0,
+              "anomaly_below_half": 12,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.05820561199062308,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "lego_propeller",
+            "XY_constant": true
+          },
+          "models": {
+            "V0_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 2.775942243754862e-06,
+              "anomaly_MSE": 1.1588589050103502e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 1.4459140671279487e-06,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "V1_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 2.8955028055117493e-06,
+              "anomaly_MSE": 6.70231885485883e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 1.4812629970301688e-06,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "MASK_E_ONLY": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.025952483855788026,
+              "anomaly_MSE": 0.023433679485501964,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.024693081670644997,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.011132351412004242,
+              "anomaly_MSE": 0.003127957840499566,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.007130154626251904,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "V1_G": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.001758300020558498,
+              "anomaly_MSE": 1.4423966060609104e-05,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0008863619933095535,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "V1_RGB": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 9.611488944010929e-05,
+              "anomaly_MSE": 4.315208942578406e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 4.8273205167183566e-05,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            }
+          }
+        }
+      ],
+      "conditional_pairs": {
+        "audio_jack_socket": {
+          "total_pairs": 2500,
+          "within_pairs": 1875,
+          "within_pair_fraction": 0.75,
+          "comparable_cells": 1,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 0.9952
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 0.9173333333333333,
+              "between_stratum_AUROC": 0.9904
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 0.9418666666666666,
+              "between_stratum_AUROC": 0.9744
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 0.9994666666666666,
+              "between_stratum_AUROC": 0.9504
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 0.9754666666666667,
+              "between_stratum_AUROC": 0.9968
+            }
+          }
+        },
+        "humidity_sensor": {
+          "total_pairs": 2500,
+          "within_pairs": 1875,
+          "within_pair_fraction": 0.75,
+          "comparable_cells": 1,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 0.3317333333333333,
+              "between_stratum_AUROC": 0.504
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 0.8048,
+              "between_stratum_AUROC": 0.5552
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 0.9989333333333333,
+              "between_stratum_AUROC": 0.9104
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            }
+          }
+        },
+        "lego_propeller": {
+          "total_pairs": 1875,
+          "within_pairs": 1875,
+          "within_pair_fraction": 1.0,
+          "comparable_cells": 1,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": null
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": null
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": null
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": null
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": null
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": null
+            }
+          }
+        }
+      }
+    },
+    "FIT_SUPPORT_TERTILE": {
+      "cells": [
+        {
+          "stratum": {
+            "category": "audio_jack_socket",
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 125,
+              "normal": 25,
+              "anomaly": 100,
+              "normal_MSE": 0.035031631572066194,
+              "anomaly_MSE": 0.008331983994943252,
+              "normal_above_half": 1,
+              "anomaly_below_half": 0,
+              "AUROC": 0.9988,
+              "balanced_Brier": 0.021681807783504724,
+              "rank_pairs": 2500,
+              "concordant_pairs": 2497.0
+            },
+            "V1_H": {
+              "n": 125,
+              "normal": 25,
+              "anomaly": 100,
+              "normal_MSE": 0.019835554756678163,
+              "anomaly_MSE": 0.005006355335499855,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.012420955046089008,
+              "rank_pairs": 2500,
+              "concordant_pairs": 2500.0
+            },
+            "MASK_E_ONLY": {
+              "n": 125,
+              "normal": 25,
+              "anomaly": 100,
+              "normal_MSE": 0.0934289919008673,
+              "anomaly_MSE": 0.1334677524051832,
+              "normal_above_half": 2,
+              "anomaly_below_half": 16,
+              "AUROC": 0.9356,
+              "balanced_Brier": 0.11344837215302525,
+              "rank_pairs": 2500,
+              "concordant_pairs": 2339.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 125,
+              "normal": 25,
+              "anomaly": 100,
+              "normal_MSE": 0.09472336264690517,
+              "anomaly_MSE": 0.06744501567659031,
+              "normal_above_half": 3,
+              "anomaly_below_half": 7,
+              "AUROC": 0.95,
+              "balanced_Brier": 0.08108418916174774,
+              "rank_pairs": 2500,
+              "concordant_pairs": 2375.0
+            },
+            "V1_G": {
+              "n": 125,
+              "normal": 25,
+              "anomaly": 100,
+              "normal_MSE": 0.07879149447771092,
+              "anomaly_MSE": 0.029677778290822472,
+              "normal_above_half": 3,
+              "anomaly_below_half": 3,
+              "AUROC": 0.9872,
+              "balanced_Brier": 0.05423463638426669,
+              "rank_pairs": 2500,
+              "concordant_pairs": 2468.0
+            },
+            "V1_RGB": {
+              "n": 125,
+              "normal": 25,
+              "anomaly": 100,
+              "normal_MSE": 0.08572831227429413,
+              "anomaly_MSE": 0.0333650168861588,
+              "normal_above_half": 3,
+              "anomaly_below_half": 4,
+              "AUROC": 0.9808,
+              "balanced_Brier": 0.05954666458022646,
+              "rank_pairs": 2500,
+              "concordant_pairs": 2452.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 31,
+              "normal": 3,
+              "anomaly": 28,
+              "normal_MSE": 0.0002004726763399703,
+              "anomaly_MSE": 0.00021026561850194736,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.00020536914742095883,
+              "rank_pairs": 84,
+              "concordant_pairs": 84.0
+            },
+            "V1_H": {
+              "n": 31,
+              "normal": 3,
+              "anomaly": 28,
+              "normal_MSE": 5.652106499176436e-05,
+              "anomaly_MSE": 0.006461261706384655,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0032588913856882095,
+              "rank_pairs": 84,
+              "concordant_pairs": 84.0
+            },
+            "MASK_E_ONLY": {
+              "n": 31,
+              "normal": 3,
+              "anomaly": 28,
+              "normal_MSE": 0.6671089069786902,
+              "anomaly_MSE": 0.3399740892694216,
+              "normal_above_half": 3,
+              "anomaly_below_half": 14,
+              "AUROC": 0.2976190476190476,
+              "balanced_Brier": 0.5035414981240559,
+              "rank_pairs": 84,
+              "concordant_pairs": 25.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 31,
+              "normal": 3,
+              "anomaly": 28,
+              "normal_MSE": 0.08298020492253784,
+              "anomaly_MSE": 0.23016167730711448,
+              "normal_above_half": 0,
+              "anomaly_below_half": 8,
+              "AUROC": 0.8095238095238095,
+              "balanced_Brier": 0.15657094111482617,
+              "rank_pairs": 84,
+              "concordant_pairs": 68.0
+            },
+            "V1_G": {
+              "n": 31,
+              "normal": 3,
+              "anomaly": 28,
+              "normal_MSE": 0.016782721841815805,
+              "anomaly_MSE": 0.08037765917901803,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": 0.9880952380952381,
+              "balanced_Brier": 0.04858019051041691,
+              "rank_pairs": 84,
+              "concordant_pairs": 83.0
+            },
+            "V1_RGB": {
+              "n": 31,
+              "normal": 3,
+              "anomaly": 28,
+              "normal_MSE": 0.0002478263469530003,
+              "anomaly_MSE": 0.02912160906304067,
+              "normal_above_half": 0,
+              "anomaly_below_half": 1,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.014684717704996835,
+              "rank_pairs": 84,
+              "concordant_pairs": 84.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "FIT_support_bin": 1
+          },
+          "models": {
+            "V0_H": {
+              "n": 14,
+              "normal": 11,
+              "anomaly": 3,
+              "normal_MSE": 0.0001287872948183439,
+              "anomaly_MSE": 0.002837892894758188,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0014833400947882659,
+              "rank_pairs": 33,
+              "concordant_pairs": 33.0
+            },
+            "V1_H": {
+              "n": 14,
+              "normal": 11,
+              "anomaly": 3,
+              "normal_MSE": 0.00011320801782448376,
+              "anomaly_MSE": 0.029049427894321304,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.014581317956072894,
+              "rank_pairs": 33,
+              "concordant_pairs": 33.0
+            },
+            "MASK_E_ONLY": {
+              "n": 14,
+              "normal": 11,
+              "anomaly": 3,
+              "normal_MSE": 0.3303327941603143,
+              "anomaly_MSE": 0.7402729666705162,
+              "normal_above_half": 7,
+              "anomaly_below_half": 3,
+              "AUROC": 0.09090909090909091,
+              "balanced_Brier": 0.5353028804154153,
+              "rank_pairs": 33,
+              "concordant_pairs": 3.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 14,
+              "normal": 11,
+              "anomaly": 3,
+              "normal_MSE": 0.2637078176722678,
+              "anomaly_MSE": 0.4842762187378489,
+              "normal_above_half": 4,
+              "anomaly_below_half": 2,
+              "AUROC": 0.48484848484848486,
+              "balanced_Brier": 0.37399201820505834,
+              "rank_pairs": 33,
+              "concordant_pairs": 16.0
+            },
+            "V1_G": {
+              "n": 14,
+              "normal": 11,
+              "anomaly": 3,
+              "normal_MSE": 0.02489172150362247,
+              "anomaly_MSE": 0.45798172971243933,
+              "normal_above_half": 0,
+              "anomaly_below_half": 2,
+              "AUROC": 0.7272727272727273,
+              "balanced_Brier": 0.2414367256080309,
+              "rank_pairs": 33,
+              "concordant_pairs": 24.0
+            },
+            "V1_RGB": {
+              "n": 14,
+              "normal": 11,
+              "anomaly": 3,
+              "normal_MSE": 0.00046842852096085487,
+              "anomaly_MSE": 4.306991840764196e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.00023423579543963125,
+              "rank_pairs": 33,
+              "concordant_pairs": 33.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "FIT_support_bin": 2
+          },
+          "models": {
+            "V0_H": {
+              "n": 80,
+              "normal": 11,
+              "anomaly": 69,
+              "normal_MSE": 0.00016017913400681317,
+              "anomaly_MSE": 0.08016264153259184,
+              "normal_above_half": 0,
+              "anomaly_below_half": 9,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.04016141033329933,
+              "rank_pairs": 759,
+              "concordant_pairs": 759.0
+            },
+            "V1_H": {
+              "n": 80,
+              "normal": 11,
+              "anomaly": 69,
+              "normal_MSE": 0.00044513335290668284,
+              "anomaly_MSE": 0.03638255319914332,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.018413843276025,
+              "rank_pairs": 759,
+              "concordant_pairs": 759.0
+            },
+            "MASK_E_ONLY": {
+              "n": 80,
+              "normal": 11,
+              "anomaly": 69,
+              "normal_MSE": 0.32283265251793003,
+              "anomaly_MSE": 0.46798652438007793,
+              "normal_above_half": 6,
+              "anomaly_below_half": 45,
+              "AUROC": 0.37681159420289856,
+              "balanced_Brier": 0.395409588449004,
+              "rank_pairs": 759,
+              "concordant_pairs": 286.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 80,
+              "normal": 11,
+              "anomaly": 69,
+              "normal_MSE": 0.3210187109362541,
+              "anomaly_MSE": 0.1704902451908581,
+              "normal_above_half": 4,
+              "anomaly_below_half": 17,
+              "AUROC": 0.7035573122529645,
+              "balanced_Brier": 0.2457544780635561,
+              "rank_pairs": 759,
+              "concordant_pairs": 534.0
+            },
+            "V1_G": {
+              "n": 80,
+              "normal": 11,
+              "anomaly": 69,
+              "normal_MSE": 0.044556069723973746,
+              "anomaly_MSE": 0.06694804957029099,
+              "normal_above_half": 1,
+              "anomaly_below_half": 6,
+              "AUROC": 0.9868247694334651,
+              "balanced_Brier": 0.05575205964713237,
+              "rank_pairs": 759,
+              "concordant_pairs": 749.0
+            },
+            "V1_RGB": {
+              "n": 80,
+              "normal": 11,
+              "anomaly": 69,
+              "normal_MSE": 0.0004517774089590481,
+              "anomaly_MSE": 0.11424409473506708,
+              "normal_above_half": 0,
+              "anomaly_below_half": 11,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.057347936072013064,
+              "rank_pairs": 759,
+              "concordant_pairs": 759.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "lego_propeller",
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 2.775942243754862e-06,
+              "anomaly_MSE": 1.1731238793018412e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 1.4466273158425233e-06,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "V1_H": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 2.8955028055117493e-06,
+              "anomaly_MSE": 7.063578643719509e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 1.4830692959744722e-06,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "MASK_E_ONLY": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 0.025952483855788026,
+              "anomaly_MSE": 0.02175470558150929,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.02385359471864866,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 0.011132351412004242,
+              "anomaly_MSE": 0.0031018806556253587,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0071171160338148005,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "V1_G": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 0.001758300020558498,
+              "anomaly_MSE": 1.5099834423508068e-05,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0008866999274910031,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "V1_RGB": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 9.611488944010929e-05,
+              "anomaly_MSE": 4.1228486857945943e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 4.826358715434437e-05,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "lego_propeller",
+            "FIT_support_bin": 1
+          },
+          "models": {
+            "V0_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 1.2371177553079044e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 7.374498810933895e-10,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.04897131198826886,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.003430561088085632,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 4.656492670244663e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 7.420636262466582e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "lego_propeller",
+            "FIT_support_bin": 2
+          },
+          "models": {
+            "V0_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 5.7419346736487144e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 5.0617021705418024e-09,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.05749962057447486,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.0037510946559478602,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 4.388955971280529e-06,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 8.038570738515566e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        }
+      ],
+      "conditional_pairs": {
+        "audio_jack_socket": {
+          "total_pairs": 2500,
+          "within_pairs": 2500,
+          "within_pair_fraction": 1.0,
+          "comparable_cells": 1,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 0.9988,
+              "between_stratum_AUROC": null
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": null
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 0.9356,
+              "between_stratum_AUROC": null
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 0.95,
+              "between_stratum_AUROC": null
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 0.9872,
+              "between_stratum_AUROC": null
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 0.9808,
+              "between_stratum_AUROC": null
+            }
+          }
+        },
+        "humidity_sensor": {
+          "total_pairs": 2500,
+          "within_pairs": 876,
+          "within_pair_fraction": 0.3504,
+          "comparable_cells": 3,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 0.3584474885844749,
+              "between_stratum_AUROC": 0.38362068965517243
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 0.7054794520547946,
+              "between_stratum_AUROC": 0.7623152709359606
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 0.9771689497716894,
+              "between_stratum_AUROC": 0.9766009852216748
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            }
+          }
+        },
+        "lego_propeller": {
+          "total_pairs": 1875,
+          "within_pairs": 1775,
+          "within_pair_fraction": 0.9466666666666667,
+          "comparable_cells": 1,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            }
+          }
+        }
+      }
+    },
+    "JOINT": {
+      "cells": [
+        {
+          "stratum": {
+            "category": "audio_jack_socket",
+            "XY_constant": false,
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.027535073758017642,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.015626863926711518,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.023452297704091237,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.018475601080109073,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.11627078253956702,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 25,
+              "normal": 0,
+              "anomaly": 25,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.005355909526409528,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "audio_jack_socket",
+            "XY_constant": true,
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.035031631572066194,
+              "anomaly_MSE": 0.0019309540739184553,
+              "normal_above_half": 1,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.018481292822992323,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "V1_H": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.019835554756678163,
+              "anomaly_MSE": 0.0014661858050959682,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.010650870280887065,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1875.0
+            },
+            "MASK_E_ONLY": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.0934289919008673,
+              "anomaly_MSE": 0.17013957063888052,
+              "normal_above_half": 2,
+              "anomaly_below_half": 16,
+              "AUROC": 0.9173333333333333,
+              "balanced_Brier": 0.1317842812698739,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1720.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.09472336264690517,
+              "anomaly_MSE": 0.08376815387541739,
+              "normal_above_half": 3,
+              "anomaly_below_half": 7,
+              "AUROC": 0.9418666666666666,
+              "balanced_Brier": 0.08924575826116128,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1766.0
+            },
+            "V1_G": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.07879149447771092,
+              "anomaly_MSE": 0.0008134435412409497,
+              "normal_above_half": 3,
+              "anomaly_below_half": 0,
+              "AUROC": 0.9994666666666666,
+              "balanced_Brier": 0.039802469009475934,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1874.0
+            },
+            "V1_RGB": {
+              "n": 100,
+              "normal": 25,
+              "anomaly": 75,
+              "normal_MSE": 0.08572831227429413,
+              "anomaly_MSE": 0.04270138600607523,
+              "normal_above_half": 3,
+              "anomaly_below_half": 4,
+              "AUROC": 0.9754666666666667,
+              "balanced_Brier": 0.06421484914018469,
+              "rank_pairs": 1875,
+              "concordant_pairs": 1829.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": false,
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 6,
+              "normal": 0,
+              "anomaly": 6,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.0008952413716171909,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 6,
+              "normal": 0,
+              "anomaly": 6,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.02985998244158175,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 6,
+              "normal": 0,
+              "anomaly": 6,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.31532743240528316,
+              "normal_above_half": 0,
+              "anomaly_below_half": 2,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 6,
+              "normal": 0,
+              "anomaly": 6,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.7419124855657655,
+              "normal_above_half": 0,
+              "anomaly_below_half": 5,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 6,
+              "normal": 0,
+              "anomaly": 6,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.3665519540942909,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 6,
+              "normal": 0,
+              "anomaly": 6,
+              "normal_MSE": null,
+              "anomaly_MSE": 2.862884037520526e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": false,
+            "FIT_support_bin": 1
+          },
+          "models": {
+            "V0_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.004256839307514858,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.043574141841276406,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.7170474568790692,
+              "normal_above_half": 0,
+              "anomaly_below_half": 2,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.6259219398217549,
+              "normal_above_half": 0,
+              "anomaly_below_half": 2,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.6869725944111177,
+              "normal_above_half": 0,
+              "anomaly_below_half": 2,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 5.608203712987151e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": false,
+            "FIT_support_bin": 2
+          },
+          "models": {
+            "V0_H": {
+              "n": 17,
+              "normal": 0,
+              "anomaly": 17,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.0007072402853998266,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 17,
+              "normal": 0,
+              "anomaly": 17,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.0050514393344132874,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 17,
+              "normal": 0,
+              "anomaly": 17,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.24247861031671752,
+              "normal_above_half": 0,
+              "anomaly_below_half": 6,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 17,
+              "normal": 0,
+              "anomaly": 17,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.26026897078163547,
+              "normal_above_half": 0,
+              "anomaly_below_half": 7,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 17,
+              "normal": 0,
+              "anomaly": 17,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.20310296684728046,
+              "normal_above_half": 0,
+              "anomaly_below_half": 5,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 17,
+              "normal": 0,
+              "anomaly": 17,
+              "normal_MSE": null,
+              "anomaly_MSE": 7.788332340562213e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": true,
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 25,
+              "normal": 3,
+              "anomaly": 22,
+              "normal_MSE": 0.0002004726763399703,
+              "anomaly_MSE": 2.345404947051732e-05,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0001119633629052438,
+              "rank_pairs": 66,
+              "concordant_pairs": 66.0
+            },
+            "V1_H": {
+              "n": 25,
+              "normal": 3,
+              "anomaly": 22,
+              "normal_MSE": 5.652106499176436e-05,
+              "anomaly_MSE": 7.979241496726403e-05,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 6.815673997951419e-05,
+              "rank_pairs": 66,
+              "concordant_pairs": 66.0
+            },
+            "MASK_E_ONLY": {
+              "n": 25,
+              "normal": 3,
+              "anomaly": 22,
+              "normal_MSE": 0.6671089069786902,
+              "anomaly_MSE": 0.34669590477782297,
+              "normal_above_half": 3,
+              "anomaly_below_half": 12,
+              "AUROC": 0.3181818181818182,
+              "balanced_Brier": 0.5069024058782565,
+              "rank_pairs": 66,
+              "concordant_pairs": 21.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 25,
+              "normal": 3,
+              "anomaly": 22,
+              "normal_MSE": 0.08298020492253784,
+              "anomaly_MSE": 0.0905932750547551,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": 0.9393939393939394,
+              "balanced_Brier": 0.08678673998864647,
+              "rank_pairs": 66,
+              "concordant_pairs": 62.0
+            },
+            "V1_G": {
+              "n": 25,
+              "normal": 3,
+              "anomaly": 22,
+              "normal_MSE": 0.016782721841815805,
+              "anomaly_MSE": 0.002330124202125441,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.009556423021970623,
+              "rank_pairs": 66,
+              "concordant_pairs": 66.0
+            },
+            "V1_RGB": {
+              "n": 25,
+              "normal": 3,
+              "anomaly": 22,
+              "normal_MSE": 0.0002478263469530003,
+              "anomaly_MSE": 0.037063788001578016,
+              "normal_above_half": 0,
+              "anomaly_below_half": 1,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.018655807174265508,
+              "rank_pairs": 66,
+              "concordant_pairs": 66.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": true,
+            "FIT_support_bin": 1
+          },
+          "models": {
+            "V0_H": {
+              "n": 12,
+              "normal": 11,
+              "anomaly": 1,
+              "normal_MSE": 0.0001287872948183439,
+              "anomaly_MSE": 6.924484760880406e-11,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 6.439368203159576e-05,
+              "rank_pairs": 11,
+              "concordant_pairs": 11.0
+            },
+            "V1_H": {
+              "n": 12,
+              "normal": 11,
+              "anomaly": 1,
+              "normal_MSE": 0.00011320801782448376,
+              "anomaly_MSE": 4.111045023257613e-13,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 5.660400911779413e-05,
+              "rank_pairs": 11,
+              "concordant_pairs": 11.0
+            },
+            "MASK_E_ONLY": {
+              "n": 12,
+              "normal": 11,
+              "anomaly": 1,
+              "normal_MSE": 0.3303327941603143,
+              "anomaly_MSE": 0.7867239862534102,
+              "normal_above_half": 7,
+              "anomaly_below_half": 1,
+              "AUROC": 0.09090909090909091,
+              "balanced_Brier": 0.5585283902068623,
+              "rank_pairs": 11,
+              "concordant_pairs": 1.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 12,
+              "normal": 11,
+              "anomaly": 1,
+              "normal_MSE": 0.2637078176722678,
+              "anomaly_MSE": 0.20098477657003677,
+              "normal_above_half": 4,
+              "anomaly_below_half": 0,
+              "AUROC": 0.7272727272727273,
+              "balanced_Brier": 0.2323462971211523,
+              "rank_pairs": 11,
+              "concordant_pairs": 8.0
+            },
+            "V1_G": {
+              "n": 12,
+              "normal": 11,
+              "anomaly": 1,
+              "normal_MSE": 0.02489172150362247,
+              "anomaly_MSE": 3.1508254299070113e-10,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.012445860909352506,
+              "rank_pairs": 11,
+              "concordant_pairs": 11.0
+            },
+            "V1_RGB": {
+              "n": 12,
+              "normal": 11,
+              "anomaly": 1,
+              "normal_MSE": 0.00046842852096085487,
+              "anomaly_MSE": 1.7045680963182846e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.00023422278332090903,
+              "rank_pairs": 11,
+              "concordant_pairs": 11.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "humidity_sensor",
+            "XY_constant": true,
+            "FIT_support_bin": 2
+          },
+          "models": {
+            "V0_H": {
+              "n": 63,
+              "normal": 11,
+              "anomaly": 52,
+              "normal_MSE": 0.00016017913400681317,
+              "anomaly_MSE": 0.10613844578648154,
+              "normal_above_half": 0,
+              "anomaly_below_half": 9,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.05314931246024418,
+              "rank_pairs": 572,
+              "concordant_pairs": 572.0
+            },
+            "V1_H": {
+              "n": 63,
+              "normal": 11,
+              "anomaly": 52,
+              "normal_MSE": 0.00044513335290668284,
+              "anomaly_MSE": 0.04662541734722814,
+              "normal_above_half": 0,
+              "anomaly_below_half": 3,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.02353527535006741,
+              "rank_pairs": 572,
+              "concordant_pairs": 572.0
+            },
+            "MASK_E_ONLY": {
+              "n": 63,
+              "normal": 11,
+              "anomaly": 52,
+              "normal_MSE": 0.32283265251793003,
+              "anomaly_MSE": 0.5417102655161765,
+              "normal_above_half": 6,
+              "anomaly_below_half": 39,
+              "AUROC": 0.29895104895104896,
+              "balanced_Brier": 0.4322714590170533,
+              "rank_pairs": 572,
+              "concordant_pairs": 171.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 63,
+              "normal": 11,
+              "anomaly": 52,
+              "normal_MSE": 0.3210187109362541,
+              "anomaly_MSE": 0.14113950797848854,
+              "normal_above_half": 4,
+              "anomaly_below_half": 10,
+              "AUROC": 0.7167832167832168,
+              "balanced_Brier": 0.2310791094573713,
+              "rank_pairs": 572,
+              "concordant_pairs": 410.0
+            },
+            "V1_G": {
+              "n": 63,
+              "normal": 11,
+              "anomaly": 52,
+              "normal_MSE": 0.044556069723973746,
+              "anomaly_MSE": 0.022435865075890606,
+              "normal_above_half": 1,
+              "anomaly_below_half": 1,
+              "AUROC": 0.9965034965034965,
+              "balanced_Brier": 0.03349596739993217,
+              "rank_pairs": 572,
+              "concordant_pairs": 570.0
+            },
+            "V1_RGB": {
+              "n": 63,
+              "normal": 11,
+              "anomaly": 52,
+              "normal_MSE": 0.0004517774089590481,
+              "anomaly_MSE": 0.15159310024429098,
+              "normal_above_half": 0,
+              "anomaly_below_half": 11,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.07602243882662502,
+              "rank_pairs": 572,
+              "concordant_pairs": 572.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "lego_propeller",
+            "XY_constant": true,
+            "FIT_support_bin": 0
+          },
+          "models": {
+            "V0_H": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 2.775942243754862e-06,
+              "anomaly_MSE": 1.1731238793018412e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 1.4466273158425233e-06,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "V1_H": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 2.8955028055117493e-06,
+              "anomaly_MSE": 7.063578643719509e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 1.4830692959744722e-06,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "MASK_E_ONLY": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 0.025952483855788026,
+              "anomaly_MSE": 0.02175470558150929,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.02385359471864866,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "MASK_NORMAL_E": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 0.011132351412004242,
+              "anomaly_MSE": 0.0031018806556253587,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0071171160338148005,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "V1_G": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 0.001758300020558498,
+              "anomaly_MSE": 1.5099834423508068e-05,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 0.0008866999274910031,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            },
+            "V1_RGB": {
+              "n": 96,
+              "normal": 25,
+              "anomaly": 71,
+              "normal_MSE": 9.611488944010929e-05,
+              "anomaly_MSE": 4.1228486857945943e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": 1.0,
+              "balanced_Brier": 4.826358715434437e-05,
+              "rank_pairs": 1775,
+              "concordant_pairs": 1775.0
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "lego_propeller",
+            "XY_constant": true,
+            "FIT_support_bin": 1
+          },
+          "models": {
+            "V0_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 1.2371177553079044e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 7.374498810933895e-10,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.04897131198826886,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.003430561088085632,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 4.656492670244663e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 7.420636262466582e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        },
+        {
+          "stratum": {
+            "category": "lego_propeller",
+            "XY_constant": true,
+            "FIT_support_bin": 2
+          },
+          "models": {
+            "V0_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 5.7419346736487144e-08,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_H": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 5.0617021705418024e-09,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_E_ONLY": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.05749962057447486,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "MASK_NORMAL_E": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 0.0037510946559478602,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_G": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 4.388955971280529e-06,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            },
+            "V1_RGB": {
+              "n": 2,
+              "normal": 0,
+              "anomaly": 2,
+              "normal_MSE": null,
+              "anomaly_MSE": 8.038570738515566e-07,
+              "normal_above_half": 0,
+              "anomaly_below_half": 0,
+              "AUROC": null,
+              "balanced_Brier": null,
+              "rank_pairs": 0,
+              "concordant_pairs": null
+            }
+          }
+        }
+      ],
+      "conditional_pairs": {
+        "audio_jack_socket": {
+          "total_pairs": 2500,
+          "within_pairs": 1875,
+          "within_pair_fraction": 0.75,
+          "comparable_cells": 1,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 0.9952
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 0.9173333333333333,
+              "between_stratum_AUROC": 0.9904
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 0.9418666666666666,
+              "between_stratum_AUROC": 0.9744
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 0.9994666666666666,
+              "between_stratum_AUROC": 0.9504
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 0.9754666666666667,
+              "between_stratum_AUROC": 0.9968
+            }
+          }
+        },
+        "humidity_sensor": {
+          "total_pairs": 2500,
+          "within_pairs": 649,
+          "within_pair_fraction": 0.2596,
+          "comparable_cells": 3,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 0.29738058551617874,
+              "between_stratum_AUROC": 0.4019448946515397
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 0.7395993836671803,
+              "between_stratum_AUROC": 0.7433819556996218
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 0.9969183359013868,
+              "between_stratum_AUROC": 0.9697460831982712
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            }
+          }
+        },
+        "lego_propeller": {
+          "total_pairs": 1875,
+          "within_pairs": 1775,
+          "within_pair_fraction": 0.9466666666666667,
+          "comparable_cells": 1,
+          "models": {
+            "V0_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_H": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_E_ONLY": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "MASK_NORMAL_E": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_G": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            },
+            "V1_RGB": {
+              "within_stratum_AUROC": 1.0,
+              "between_stratum_AUROC": 1.0
+            }
+          }
+        }
+      }
+    }
+  },
+  "normal_role_cells": [
+    {
+      "stratum": {
+        "category": "audio_jack_socket",
+        "role": "C",
+        "XY_constant": true,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 7,
+          "normal": 7,
+          "anomaly": 0,
+          "normal_MSE": 0.1287969510514044,
+          "anomaly_MSE": null,
+          "normal_above_half": 1,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 7,
+          "normal": 7,
+          "anomaly": 0,
+          "normal_MSE": 0.020847632864243872,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "audio_jack_socket",
+        "role": "CURRENT_DEV",
+        "XY_constant": true,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 25,
+          "normal": 25,
+          "anomaly": 0,
+          "normal_MSE": 0.035031631572066194,
+          "anomaly_MSE": null,
+          "normal_above_half": 1,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 25,
+          "normal": 25,
+          "anomaly": 0,
+          "normal_MSE": 0.019835554756678163,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "audio_jack_socket",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 15,
+          "normal": 15,
+          "anomaly": 0,
+          "normal_MSE": 0.36106734652654476,
+          "anomaly_MSE": null,
+          "normal_above_half": 12,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 15,
+          "normal": 15,
+          "anomaly": 0,
+          "normal_MSE": 0.030246378793869676,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "audio_jack_socket",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 1
+      },
+      "models": {
+        "V0_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.3423415120393194,
+          "anomaly_MSE": null,
+          "normal_above_half": 12,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.01363893492139265,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "audio_jack_socket",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 2
+      },
+      "models": {
+        "V0_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.39967814459772255,
+          "anomaly_MSE": null,
+          "normal_above_half": 16,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.07823284809083134,
+          "anomaly_MSE": null,
+          "normal_above_half": 1,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "C",
+        "XY_constant": true,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 2,
+          "normal": 2,
+          "anomaly": 0,
+          "normal_MSE": 7.313860236553746e-06,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 2,
+          "normal": 2,
+          "anomaly": 0,
+          "normal_MSE": 4.3141546572846254e-05,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "C",
+        "XY_constant": true,
+        "FIT_support_bin": 1
+      },
+      "models": {
+        "V0_H": {
+          "n": 1,
+          "normal": 1,
+          "anomaly": 0,
+          "normal_MSE": 1.230366423185295e-05,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 1,
+          "normal": 1,
+          "anomaly": 0,
+          "normal_MSE": 4.219339486785921e-05,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "C",
+        "XY_constant": true,
+        "FIT_support_bin": 2
+      },
+      "models": {
+        "V0_H": {
+          "n": 4,
+          "normal": 4,
+          "anomaly": 0,
+          "normal_MSE": 1.3086806039260183e-05,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 4,
+          "normal": 4,
+          "anomaly": 0,
+          "normal_MSE": 7.525103257191904e-05,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "CURRENT_DEV",
+        "XY_constant": true,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 3,
+          "normal": 3,
+          "anomaly": 0,
+          "normal_MSE": 0.0002004726763399703,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 3,
+          "normal": 3,
+          "anomaly": 0,
+          "normal_MSE": 5.652106499176436e-05,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "CURRENT_DEV",
+        "XY_constant": true,
+        "FIT_support_bin": 1
+      },
+      "models": {
+        "V0_H": {
+          "n": 11,
+          "normal": 11,
+          "anomaly": 0,
+          "normal_MSE": 0.0001287872948183439,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 11,
+          "normal": 11,
+          "anomaly": 0,
+          "normal_MSE": 0.00011320801782448376,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "CURRENT_DEV",
+        "XY_constant": true,
+        "FIT_support_bin": 2
+      },
+      "models": {
+        "V0_H": {
+          "n": 11,
+          "normal": 11,
+          "anomaly": 0,
+          "normal_MSE": 0.00016017913400681317,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 11,
+          "normal": 11,
+          "anomaly": 0,
+          "normal_MSE": 0.00044513335290668284,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 13,
+          "normal": 13,
+          "anomaly": 0,
+          "normal_MSE": 0.6249978324232544,
+          "anomaly_MSE": null,
+          "normal_above_half": 13,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 13,
+          "normal": 13,
+          "anomaly": 0,
+          "normal_MSE": 0.0005972612827135433,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 1
+      },
+      "models": {
+        "V0_H": {
+          "n": 14,
+          "normal": 14,
+          "anomaly": 0,
+          "normal_MSE": 0.6687755316267113,
+          "anomaly_MSE": null,
+          "normal_above_half": 14,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 14,
+          "normal": 14,
+          "anomaly": 0,
+          "normal_MSE": 0.0007876849679084871,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "humidity_sensor",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 2
+      },
+      "models": {
+        "V0_H": {
+          "n": 12,
+          "normal": 12,
+          "anomaly": 0,
+          "normal_MSE": 0.7297495764689446,
+          "anomaly_MSE": null,
+          "normal_above_half": 12,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 12,
+          "normal": 12,
+          "anomaly": 0,
+          "normal_MSE": 0.0018021447948915442,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "lego_propeller",
+        "role": "C",
+        "XY_constant": true,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 7,
+          "normal": 7,
+          "anomaly": 0,
+          "normal_MSE": 3.4234320559537617e-06,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 7,
+          "normal": 7,
+          "anomaly": 0,
+          "normal_MSE": 2.6662854966394537e-06,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "lego_propeller",
+        "role": "CURRENT_DEV",
+        "XY_constant": true,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 25,
+          "normal": 25,
+          "anomaly": 0,
+          "normal_MSE": 2.775942243754862e-06,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 25,
+          "normal": 25,
+          "anomaly": 0,
+          "normal_MSE": 2.8955028055117493e-06,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "lego_propeller",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 0
+      },
+      "models": {
+        "V0_H": {
+          "n": 10,
+          "normal": 10,
+          "anomaly": 0,
+          "normal_MSE": 0.7508835145634855,
+          "anomaly_MSE": null,
+          "normal_above_half": 10,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 10,
+          "normal": 10,
+          "anomaly": 0,
+          "normal_MSE": 0.3624190844975652,
+          "anomaly_MSE": null,
+          "normal_above_half": 5,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "lego_propeller",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 1
+      },
+      "models": {
+        "V0_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.733275775132936,
+          "anomaly_MSE": null,
+          "normal_above_half": 17,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.13575899679456166,
+          "anomaly_MSE": null,
+          "normal_above_half": 0,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    },
+    {
+      "stratum": {
+        "category": "lego_propeller",
+        "role": "HOLD",
+        "XY_constant": false,
+        "FIT_support_bin": 2
+      },
+      "models": {
+        "V0_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.7455324893261017,
+          "anomaly_MSE": null,
+          "normal_above_half": 17,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        },
+        "V1_H": {
+          "n": 17,
+          "normal": 17,
+          "anomaly": 0,
+          "normal_MSE": 0.14688803535089628,
+          "anomaly_MSE": null,
+          "normal_above_half": 2,
+          "anomaly_below_half": 0,
+          "AUROC": null,
+          "balanced_Brier": null,
+          "rank_pairs": 0,
+          "concordant_pairs": null
+        }
+      }
+    }
+  ],
+  "limits": "Support can be a legitimate effect of a defect, so conditioning can remove real task evidence and is not a causal adjustment. Count-matching does not equal same mask shape or physical background. Exact XY varies jointly with role/label. Within-cell performance cannot certify physical independency or independent test status.",
+  "NN_updates": 0,
+  "new_C_fits": 0,
+  "model_forwards": 0,
+  "independent_confirmation": false,
+  "promotion": false
+}

@@ -1,0 +1,3769 @@
+{
+  "status": "COMPLETE",
+  "code_sha256": "3bf698c261bb541a881cf56df156bb07c4009f6697c661f217869969b0f1310c",
+  "results_sha256": "cee9bdaa0cb5e17be368f594968f0314977da23546b9e7c9457abaa26aad8751",
+  "bootstrap": 5000,
+  "results": {
+    "ENSEMBLE": {
+      "ALL": {
+        "n": 350,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.008536756139168034,
+            "AUROC": 0.9998666666666667
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.0209195910572894,
+            "AUROC": 0.9973333333333333
+          },
+          "FREE_FUSION": {
+            "Brier": 0.02611130869770382,
+            "AUROC": 0.9962666666666666
+          },
+          "SELF": {
+            "Brier": 0.03754205036355195,
+            "AUROC": 0.988
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.008813653861853173,
+            "AUROC": 1.0
+          },
+          "G_ONLY": {
+            "Brier": 0.03754205036355195,
+            "AUROC": 0.988
+          },
+          "RGB_ONLY": {
+            "Brier": 0.03443449708975528,
+            "AUROC": 0.9935999999999999
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.012105937195436227,
+              "conditional95CI": [
+                -0.02464246804553628,
+                -0.0023683740026704237
+              ]
+            },
+            "AUROC": {
+              "delta": 0.002666666666666706,
+              "conditional95CI": [
+                0.0,
+                0.007466666666666627
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.017297654835850648,
+              "conditional95CI": [
+                -0.030106186005404423,
+                -0.006804699462291763
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0037333333333333663,
+              "conditional95CI": [
+                0.0002633333333332,
+                0.009733333333333372
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.02872839650169878,
+              "conditional95CI": [
+                -0.04214611462150058,
+                -0.017248251488917662
+              ]
+            },
+            "AUROC": {
+              "delta": 0.01200000000000001,
+              "conditional95CI": [
+                0.0031999999999999806,
+                0.023466666666666636
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.025620843227902108,
+              "conditional95CI": [
+                -0.03957817033217726,
+                -0.013426780592672527
+              ]
+            },
+            "AUROC": {
+              "delta": 0.006400000000000072,
+              "conditional95CI": [
+                0.0008000000000001339,
+                0.015066666666666673
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": -0.02872839650169878,
+              "conditional95CI": [
+                -0.04214611462150058,
+                -0.017248251488917662
+              ]
+            },
+            "AUROC": {
+              "delta": 0.01200000000000001,
+              "conditional95CI": [
+                0.0031999999999999806,
+                0.023466666666666636
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.012382834918121366,
+              "conditional95CI": [
+                -0.024655375420463296,
+                -0.002791005703103785
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0025333333333333874,
+              "conditional95CI": [
+                0.0,
+                0.0070666666666665545
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.017574552558535787,
+              "conditional95CI": [
+                -0.030124322832377776,
+                -0.007349879062413634
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0036000000000000476,
+              "conditional95CI": [
+                0.0002633333333332,
+                0.009333333333333308
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.02900529422438392,
+              "conditional95CI": [
+                -0.04346393202904185,
+                -0.01675823837873605
+              ]
+            },
+            "AUROC": {
+              "delta": 0.011866666666666692,
+              "conditional95CI": [
+                0.003066666666666662,
+                0.02333333333333321
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.025897740950587247,
+              "conditional95CI": [
+                -0.03970767970691101,
+                -0.014041069423172627
+              ]
+            },
+            "AUROC": {
+              "delta": 0.006266666666666754,
+              "conditional95CI": [
+                0.0008000000000001339,
+                0.014666666666666606
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": -0.02900529422438392,
+              "conditional95CI": [
+                -0.04346393202904185,
+                -0.01675823837873605
+              ]
+            },
+            "AUROC": {
+              "delta": 0.011866666666666692,
+              "conditional95CI": [
+                0.003066666666666662,
+                0.02333333333333321
+              ]
+            }
+          }
+        }
+      },
+      "EXCLUDED": {
+        "n": 225,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.01243894754635703,
+            "AUROC": 1.0
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.028583797134979546,
+            "AUROC": 0.9952
+          },
+          "FREE_FUSION": {
+            "Brier": 0.038592939825328854,
+            "AUROC": 0.9930666666666667
+          },
+          "SELF": {
+            "Brier": 0.022843546190815658,
+            "AUROC": 0.9994666666666667
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.011796235909870376,
+            "AUROC": 1.0
+          },
+          "G_ONLY": {
+            "Brier": 0.022843546190815658,
+            "AUROC": 0.9994666666666667
+          },
+          "RGB_ONLY": {
+            "Brier": 0.05404556937054844,
+            "AUROC": 0.9877333333333334
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.01678756122510917,
+              "conditional95CI": [
+                -0.030187579694828236,
+                -0.005231489804988854
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0048000000000000265,
+              "conditional95CI": [
+                0.0,
+                0.013333333333333308
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.026796703915458478,
+              "conditional95CI": [
+                -0.042154011920856285,
+                -0.013364432240682586
+              ]
+            },
+            "AUROC": {
+              "delta": 0.006933333333333347,
+              "conditional95CI": [
+                0.0002666666666667483,
+                0.018133333333333446
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.011047310280945282,
+              "conditional95CI": [
+                -0.023093027772485345,
+                -0.0005885372316271846
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0005333333333332746,
+              "conditional95CI": [
+                0.0,
+                0.0024000000000000687
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.042249333460678065,
+              "conditional95CI": [
+                -0.06096940246385254,
+                -0.02568706569381553
+              ]
+            },
+            "AUROC": {
+              "delta": 0.012266666666666648,
+              "conditional95CI": [
+                0.0016000000000001569,
+                0.028540000000000083
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": -0.011047310280945282,
+              "conditional95CI": [
+                -0.023093027772485345,
+                -0.0005885372316271846
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0005333333333332746,
+              "conditional95CI": [
+                0.0,
+                0.0024000000000000687
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.016144849588622515,
+              "conditional95CI": [
+                -0.02925610433057498,
+                -0.004695815154758197
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0048000000000000265,
+              "conditional95CI": [
+                0.0,
+                0.013333333333333308
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.026153992278971826,
+              "conditional95CI": [
+                -0.04125745490611612,
+                -0.012796103192313984
+              ]
+            },
+            "AUROC": {
+              "delta": 0.006933333333333347,
+              "conditional95CI": [
+                0.0002666666666667483,
+                0.018133333333333446
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.010404598644458628,
+              "conditional95CI": [
+                -0.023611352496941754,
+                0.0011091246905818063
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0005333333333332746,
+              "conditional95CI": [
+                0.0,
+                0.0024000000000000687
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.04160662182419141,
+              "conditional95CI": [
+                -0.06028568248762703,
+                -0.02505558861370073
+              ]
+            },
+            "AUROC": {
+              "delta": 0.012266666666666648,
+              "conditional95CI": [
+                0.0016000000000001569,
+                0.028540000000000083
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": -0.010404598644458628,
+              "conditional95CI": [
+                -0.023611352496941754,
+                0.0011091246905818063
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0005333333333332746,
+              "conditional95CI": [
+                0.0,
+                0.0024000000000000687
+              ]
+            }
+          }
+        }
+      },
+      "HUMIDITY_IMPACT": {
+        "n": 50,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.053638746829426605,
+            "AUROC": 1.0
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.061455096344944934,
+            "AUROC": 1.0
+          },
+          "FREE_FUSION": {
+            "Brier": 0.0970941226987559,
+            "AUROC": 1.0
+          },
+          "SELF": {
+            "Brier": 0.039618776977260683,
+            "AUROC": 0.9968
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.04861666039648397,
+            "AUROC": 1.0
+          },
+          "G_ONLY": {
+            "Brier": 0.039618776977260683,
+            "AUROC": 0.9968
+          },
+          "RGB_ONLY": {
+            "Brier": 0.14390757594556122,
+            "AUROC": 1.0
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.012838435948460965,
+              "conditional95CI": [
+                -0.039999737325462525,
+                0.01931783954749346
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.048477462302271936,
+              "conditional95CI": [
+                -0.08859878761735798,
+                -0.005769761417402799
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": 0.008997883419223286,
+              "conditional95CI": [
+                -0.018331428101483443,
+                0.0433158029335195
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0031999999999999806,
+              "conditional95CI": [
+                0.0,
+                0.014399999999999968
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.09529091554907726,
+              "conditional95CI": [
+                -0.15259715379820946,
+                -0.03613594651623602
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": 0.008997883419223286,
+              "conditional95CI": [
+                -0.018331428101483443,
+                0.0433158029335195
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0031999999999999806,
+              "conditional95CI": [
+                0.0,
+                0.014399999999999968
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.00781634951551833,
+              "conditional95CI": [
+                -0.034827865620404984,
+                0.0258696246573783
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.0434553758693293,
+              "conditional95CI": [
+                -0.08386121862615128,
+                0.00034896786436470616
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": 0.014019969852165921,
+              "conditional95CI": [
+                -0.017011441986549903,
+                0.05393392085910384
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0031999999999999806,
+              "conditional95CI": [
+                0.0,
+                0.014399999999999968
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.09026882911613462,
+              "conditional95CI": [
+                -0.14881429539302296,
+                -0.029825126988684645
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": 0.014019969852165921,
+              "conditional95CI": [
+                -0.017011441986549903,
+                0.05393392085910384
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0031999999999999806,
+              "conditional95CI": [
+                0.0,
+                0.014399999999999968
+              ]
+            }
+          }
+        }
+      },
+      "NORMAL_HOLD": {
+        "n": 132,
+        "metrics": {
+          "HARD_FIXED": {
+            "normal_MSE": 0.06223913867557562
+          },
+          "SOFT_CENTERED": {
+            "normal_MSE": 0.15566396639738111
+          },
+          "FREE_FUSION": {
+            "normal_MSE": 0.14395984000905918
+          },
+          "SELF": {
+            "normal_MSE": 0.250438302490319
+          },
+          "FIXED_HARD_POINT1": {
+            "normal_MSE": 0.07791394674643391
+          },
+          "G_ONLY": {
+            "normal_MSE": 0.250438302490319
+          },
+          "RGB_ONLY": {
+            "normal_MSE": 0.1416496984313946
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "normal_MSE": {
+              "delta": -0.0777500196509472,
+              "conditional95CI": [
+                -0.10708346635109921,
+                -0.05083209165342762
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "normal_MSE": {
+              "delta": -0.06604589326262526,
+              "conditional95CI": [
+                -0.09490079249591694,
+                -0.03955102600736822
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "normal_MSE": {
+              "delta": -0.17252435574388508,
+              "conditional95CI": [
+                -0.19031526384294908,
+                -0.15387132999836528
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "normal_MSE": {
+              "delta": -0.06373575168496069,
+              "conditional95CI": [
+                -0.093924044999428,
+                -0.03593320626033314
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "normal_MSE": {
+              "delta": -0.17252435574388508,
+              "conditional95CI": [
+                -0.19031526384294908,
+                -0.15387132999836528
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "normal_MSE": {
+              "delta": -0.09342482772180549,
+              "conditional95CI": [
+                -0.12190126229877812,
+                -0.06711860893074753
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "normal_MSE": {
+              "delta": -0.08172070133348355,
+              "conditional95CI": [
+                -0.1098647351402931,
+                -0.05569124280542334
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "normal_MSE": {
+              "delta": -0.1881991638147434,
+              "conditional95CI": [
+                -0.20739298830786182,
+                -0.16818994265723144
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "normal_MSE": {
+              "delta": -0.07941055975581898,
+              "conditional95CI": [
+                -0.10899149260872117,
+                -0.05221920943273324
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "normal_MSE": {
+              "delta": -0.1881991638147434,
+              "conditional95CI": [
+                -0.20739298830786182,
+                -0.16818994265723144
+              ]
+            }
+          }
+        }
+      }
+    },
+    "20261017": {
+      "ALL": {
+        "n": 350,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.011860741951417194,
+            "AUROC": 0.9996
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.033941351287414934,
+            "AUROC": 0.9934666666666666
+          },
+          "FREE_FUSION": {
+            "Brier": 0.049062983934929826,
+            "AUROC": 0.9904000000000001
+          },
+          "SELF": {
+            "Brier": 0.03434710210742371,
+            "AUROC": 0.9892
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.010844944416385621,
+            "AUROC": 0.9996
+          },
+          "G_ONLY": {
+            "Brier": 0.03434710210742371,
+            "AUROC": 0.9892
+          },
+          "RGB_ONLY": {
+            "Brier": 0.08579654634965754,
+            "AUROC": 0.9761333333333333
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.02309640687102931,
+              "conditional95CI": [
+                -0.03787566850095264,
+                -0.01181696659613091
+              ]
+            },
+            "AUROC": {
+              "delta": 0.006133333333333435,
+              "conditional95CI": [
+                0.0013333333333330755,
+                0.01346666666666663
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.0382180395185442,
+              "conditional95CI": [
+                -0.054502177698192406,
+                -0.02482479036785855
+              ]
+            },
+            "AUROC": {
+              "delta": 0.009199999999999986,
+              "conditional95CI": [
+                0.0024000000000000687,
+                0.01893333333333347
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.02350215769103809,
+              "conditional95CI": [
+                -0.03606711066743866,
+                -0.01243968141748576
+              ]
+            },
+            "AUROC": {
+              "delta": 0.010400000000000076,
+              "conditional95CI": [
+                0.0029333333333332323,
+                0.020536666666666797
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.07495160193327192,
+              "conditional95CI": [
+                -0.09638752557193798,
+                -0.055956005134476336
+              ]
+            },
+            "AUROC": {
+              "delta": 0.023466666666666747,
+              "conditional95CI": [
+                0.01093333333333335,
+                0.03960333333333347
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": -0.02350215769103809,
+              "conditional95CI": [
+                -0.03606711066743866,
+                -0.01243968141748576
+              ]
+            },
+            "AUROC": {
+              "delta": 0.010400000000000076,
+              "conditional95CI": [
+                0.0029333333333332323,
+                0.020536666666666797
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.022080609335997738,
+              "conditional95CI": [
+                -0.03674426412326908,
+                -0.010838969251928947
+              ]
+            },
+            "AUROC": {
+              "delta": 0.006133333333333435,
+              "conditional95CI": [
+                0.0013333333333330755,
+                0.01346666666666663
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.03720224198351263,
+              "conditional95CI": [
+                -0.05351178253986544,
+                -0.023799527999669647
+              ]
+            },
+            "AUROC": {
+              "delta": 0.009199999999999986,
+              "conditional95CI": [
+                0.0024000000000000687,
+                0.01893333333333347
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.022486360156006517,
+              "conditional95CI": [
+                -0.035548968703041105,
+                -0.010753275071102608
+              ]
+            },
+            "AUROC": {
+              "delta": 0.010400000000000076,
+              "conditional95CI": [
+                0.0029333333333332323,
+                0.020536666666666797
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.07393580439824035,
+              "conditional95CI": [
+                -0.0952068632417963,
+                -0.0549740738277768
+              ]
+            },
+            "AUROC": {
+              "delta": 0.023466666666666747,
+              "conditional95CI": [
+                0.01093333333333335,
+                0.03960333333333347
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": -0.022486360156006517,
+              "conditional95CI": [
+                -0.035548968703041105,
+                -0.010753275071102608
+              ]
+            },
+            "AUROC": {
+              "delta": 0.010400000000000076,
+              "conditional95CI": [
+                0.0029333333333332323,
+                0.020536666666666797
+              ]
+            }
+          }
+        }
+      },
+      "EXCLUDED": {
+        "n": 225,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.020771999347344996,
+            "AUROC": 0.9992
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.05347659975365172,
+            "AUROC": 0.9872
+          },
+          "FREE_FUSION": {
+            "Brier": 0.08400902647891752,
+            "AUROC": 0.9810666666666666
+          },
+          "SELF": {
+            "Brier": 0.01838045277826877,
+            "AUROC": 0.9992000000000001
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.01779490426810211,
+            "AUROC": 0.9992
+          },
+          "G_ONLY": {
+            "Brier": 0.01838045277826877,
+            "AUROC": 0.9992000000000001
+          },
+          "RGB_ONLY": {
+            "Brier": 0.15501558184563355,
+            "AUROC": 0.9528
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.03568169548554961,
+              "conditional95CI": [
+                -0.05180438575017656,
+                -0.02184427249065451
+              ]
+            },
+            "AUROC": {
+              "delta": 0.01200000000000001,
+              "conditional95CI": [
+                0.0023999999999999577,
+                0.025600000000000178
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.06621412221081541,
+              "conditional95CI": [
+                -0.08677580940506363,
+                -0.04742584699813271
+              ]
+            },
+            "AUROC": {
+              "delta": 0.018133333333333335,
+              "conditional95CI": [
+                0.005066666666666664,
+                0.03600666666666681
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.0005855485101666606,
+              "conditional95CI": [
+                -0.013131845611601323,
+                0.011498653700006519
+              ]
+            },
+            "AUROC": {
+              "delta": -1.1102230246251565e-16,
+              "conditional95CI": [
+                -0.0013333333333334085,
+                0.0013333333333332975
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.13722067757753142,
+              "conditional95CI": [
+                -0.1646871659466161,
+                -0.11093892259971061
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0464,
+              "conditional95CI": [
+                0.02159333333333329,
+                0.07653333333333345
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": -0.0005855485101666606,
+              "conditional95CI": [
+                -0.013131845611601323,
+                0.011498653700006519
+              ]
+            },
+            "AUROC": {
+              "delta": -1.1102230246251565e-16,
+              "conditional95CI": [
+                -0.0013333333333334085,
+                0.0013333333333332975
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.032704600406306725,
+              "conditional95CI": [
+                -0.048514462458481546,
+                -0.01912352436288997
+              ]
+            },
+            "AUROC": {
+              "delta": 0.01200000000000001,
+              "conditional95CI": [
+                0.0023999999999999577,
+                0.025600000000000178
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.06323702713157252,
+              "conditional95CI": [
+                -0.08378372297991094,
+                -0.04488397595431135
+              ]
+            },
+            "AUROC": {
+              "delta": 0.018133333333333335,
+              "conditional95CI": [
+                0.005066666666666664,
+                0.03600666666666681
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": 0.002391546569076225,
+              "conditional95CI": [
+                -0.011238623840351743,
+                0.015853828050501412
+              ]
+            },
+            "AUROC": {
+              "delta": -1.1102230246251565e-16,
+              "conditional95CI": [
+                -0.0013333333333334085,
+                0.0013333333333332975
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.13424358249828855,
+              "conditional95CI": [
+                -0.16166189031787603,
+                -0.10803030913330035
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0464,
+              "conditional95CI": [
+                0.02159333333333329,
+                0.07653333333333345
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": 0.002391546569076225,
+              "conditional95CI": [
+                -0.011238623840351743,
+                0.015853828050501412
+              ]
+            },
+            "AUROC": {
+              "delta": -1.1102230246251565e-16,
+              "conditional95CI": [
+                -0.0013333333333334085,
+                0.0013333333333332975
+              ]
+            }
+          }
+        }
+      },
+      "HUMIDITY_IMPACT": {
+        "n": 50,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.09610159388560448,
+            "AUROC": 0.9968
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.15566097048154218,
+            "AUROC": 0.9952
+          },
+          "FREE_FUSION": {
+            "Brier": 0.2662965425635884,
+            "AUROC": 0.9936
+          },
+          "SELF": {
+            "Brier": 0.039837305991651764,
+            "AUROC": 0.9952
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.08343591563080713,
+            "AUROC": 0.9968
+          },
+          "G_ONLY": {
+            "Brier": 0.039837305991651764,
+            "AUROC": 0.9952
+          },
+          "RGB_ONLY": {
+            "Brier": 0.4162018027558801,
+            "AUROC": 0.92
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.07222505485073505,
+              "conditional95CI": [
+                -0.10965196791903888,
+                -0.03789039139429737
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                -0.009600000000000053,
+                0.015999999999999903
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.1828606269327813,
+              "conditional95CI": [
+                -0.2311842164935164,
+                -0.13507093415745028
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0031999999999999806,
+              "conditional95CI": [
+                -0.009599999999999942,
+                0.02079999999999993
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": 0.043598609639155364,
+              "conditional95CI": [
+                -0.0033393945078282155,
+                0.09452630201170675
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.33276588712507293,
+              "conditional95CI": [
+                -0.39641337587732606,
+                -0.2608346100869208
+              ]
+            },
+            "AUROC": {
+              "delta": 0.07679999999999998,
+              "conditional95CI": [
+                0.0048000000000000265,
+                0.16800000000000048
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": 0.043598609639155364,
+              "conditional95CI": [
+                -0.0033393945078282155,
+                0.09452630201170675
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.0595593765959377,
+              "conditional95CI": [
+                -0.09773343254127678,
+                -0.024190997578030095
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                -0.009600000000000053,
+                0.015999999999999903
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.17019494867798396,
+              "conditional95CI": [
+                -0.221172626552294,
+                -0.11929592197089468
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0031999999999999806,
+              "conditional95CI": [
+                -0.009599999999999942,
+                0.02079999999999993
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": 0.056264287893952714,
+              "conditional95CI": [
+                0.003399674631732689,
+                0.1145426298834338
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.3201002088702756,
+              "conditional95CI": [
+                -0.3885302823538277,
+                -0.24357636543771105
+              ]
+            },
+            "AUROC": {
+              "delta": 0.07679999999999998,
+              "conditional95CI": [
+                0.0048000000000000265,
+                0.16800000000000048
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": 0.056264287893952714,
+              "conditional95CI": [
+                0.003399674631732689,
+                0.1145426298834338
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          }
+        }
+      },
+      "NORMAL_HOLD": {
+        "n": 132,
+        "metrics": {
+          "HARD_FIXED": {
+            "normal_MSE": 0.04791514899400213
+          },
+          "SOFT_CENTERED": {
+            "normal_MSE": 0.16620742363223603
+          },
+          "FREE_FUSION": {
+            "normal_MSE": 0.1357581993064187
+          },
+          "SELF": {
+            "normal_MSE": 0.2364600435395169
+          },
+          "FIXED_HARD_POINT1": {
+            "normal_MSE": 0.059275390835642226
+          },
+          "G_ONLY": {
+            "normal_MSE": 0.2364600435395169
+          },
+          "RGB_ONLY": {
+            "normal_MSE": 0.12094318930374252
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "normal_MSE": {
+              "delta": -0.1069320327965938,
+              "conditional95CI": [
+                -0.1392886565197028,
+                -0.07665538643116127
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "normal_MSE": {
+              "delta": -0.07648280847077646,
+              "conditional95CI": [
+                -0.1069581533737274,
+                -0.048237259180504734
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "normal_MSE": {
+              "delta": -0.17718465270387468,
+              "conditional95CI": [
+                -0.1959301438782857,
+                -0.1575272227440511
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "normal_MSE": {
+              "delta": -0.0616677984681003,
+              "conditional95CI": [
+                -0.09463802450931058,
+                -0.032224490468594075
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "normal_MSE": {
+              "delta": -0.17718465270387468,
+              "conditional95CI": [
+                -0.1959301438782857,
+                -0.1575272227440511
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "normal_MSE": {
+              "delta": -0.11829227463823391,
+              "conditional95CI": [
+                -0.15039985731846187,
+                -0.08811474468552566
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "normal_MSE": {
+              "delta": -0.08784305031241657,
+              "conditional95CI": [
+                -0.11831859615299906,
+                -0.05971317360988198
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "normal_MSE": {
+              "delta": -0.1885448945455148,
+              "conditional95CI": [
+                -0.2083991397467931,
+                -0.1675041862257945
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "normal_MSE": {
+              "delta": -0.07302804030974039,
+              "conditional95CI": [
+                -0.1057074763812377,
+                -0.04373079551315481
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "normal_MSE": {
+              "delta": -0.1885448945455148,
+              "conditional95CI": [
+                -0.2083991397467931,
+                -0.1675041862257945
+              ]
+            }
+          }
+        }
+      }
+    },
+    "20261018": {
+      "ALL": {
+        "n": 350,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.01568618474862482,
+            "AUROC": 0.9992000000000001
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.015600208121334566,
+            "AUROC": 0.9981333333333332
+          },
+          "FREE_FUSION": {
+            "Brier": 0.0158831731582818,
+            "AUROC": 0.9974666666666666
+          },
+          "SELF": {
+            "Brier": 0.04371426732334236,
+            "AUROC": 0.9817333333333332
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.016966142982874684,
+            "AUROC": 0.9992000000000001
+          },
+          "G_ONLY": {
+            "Brier": 0.04371426732334236,
+            "AUROC": 0.9817333333333332
+          },
+          "RGB_ONLY": {
+            "Brier": 0.02027258884142338,
+            "AUROC": 0.9957333333333334
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": 0.001365934861540118,
+              "conditional95CI": [
+                -0.009157768614932735,
+                0.013017302282593419
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0010666666666668823,
+              "conditional95CI": [
+                -0.0006666666666668153,
+                0.004000000000000006
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": 0.0010829698245928832,
+              "conditional95CI": [
+                -0.009497267788673555,
+                0.012820568120581272
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0017333333333334755,
+              "conditional95CI": [
+                -0.0005333333333333856,
+                0.005736666666666758
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.026748124340467676,
+              "conditional95CI": [
+                -0.039844424171110886,
+                -0.014510333716040961
+              ]
+            },
+            "AUROC": {
+              "delta": 0.017466666666666852,
+              "conditional95CI": [
+                0.006399999999999959,
+                0.032003333333333314
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.0033064458585486955,
+              "conditional95CI": [
+                -0.015843574458796576,
+                0.009941242630167298
+              ]
+            },
+            "AUROC": {
+              "delta": 0.003466666666666729,
+              "conditional95CI": [
+                -0.0004033333333335015,
+                0.00987000000000008
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": -0.026748124340467676,
+              "conditional95CI": [
+                -0.039844424171110886,
+                -0.014510333716040961
+              ]
+            },
+            "AUROC": {
+              "delta": 0.017466666666666852,
+              "conditional95CI": [
+                0.006399999999999959,
+                0.032003333333333314
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": 8.597662729025422e-05,
+              "conditional95CI": [
+                -0.007490965751804558,
+                0.008222637654430787
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0010666666666668823,
+              "conditional95CI": [
+                -0.0002666666666667483,
+                0.0037333333333332552
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.00019698840965698058,
+              "conditional95CI": [
+                -0.007858240079669003,
+                0.008040134238239044
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0017333333333334755,
+              "conditional95CI": [
+                -0.0002666666666667483,
+                0.00546666666666662
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.02802808257471754,
+              "conditional95CI": [
+                -0.043270057600709344,
+                -0.013305333750582618
+              ]
+            },
+            "AUROC": {
+              "delta": 0.017466666666666852,
+              "conditional95CI": [
+                0.00626666666666664,
+                0.032266666666666666
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.004586404092798559,
+              "conditional95CI": [
+                -0.014274546615008323,
+                0.005291738969519047
+              ]
+            },
+            "AUROC": {
+              "delta": 0.003466666666666729,
+              "conditional95CI": [
+                -0.0002666666666665263,
+                0.00973333333333326
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": -0.02802808257471754,
+              "conditional95CI": [
+                -0.043270057600709344,
+                -0.013305333750582618
+              ]
+            },
+            "AUROC": {
+              "delta": 0.017466666666666852,
+              "conditional95CI": [
+                0.00626666666666664,
+                0.032266666666666666
+              ]
+            }
+          }
+        }
+      },
+      "EXCLUDED": {
+        "n": 225,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.015212928114793205,
+            "AUROC": 1.0
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.016348380151112875,
+            "AUROC": 0.9984000000000001
+          },
+          "FREE_FUSION": {
+            "Brier": 0.016704335668815403,
+            "AUROC": 0.9975999999999999
+          },
+          "SELF": {
+            "Brier": 0.02922428431996428,
+            "AUROC": 0.9975999999999999
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.01578316672030049,
+            "AUROC": 1.0
+          },
+          "G_ONLY": {
+            "Brier": 0.02922428431996428,
+            "AUROC": 0.9975999999999999
+          },
+          "RGB_ONLY": {
+            "Brier": 0.022495244073192654,
+            "AUROC": 0.9954666666666667
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.0005652134308123842,
+              "conditional95CI": [
+                -0.010830036998361312,
+                0.011550016590626988
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0015999999999999348,
+              "conditional95CI": [
+                0.0,
+                0.005599999999999827
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.0009211689485149124,
+              "conditional95CI": [
+                -0.011288490457958352,
+                0.011237757904205753
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0024000000000000687,
+              "conditional95CI": [
+                0.0,
+                0.0074666666666668435
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.01344111759966379,
+              "conditional95CI": [
+                -0.025100664339765134,
+                -0.0025260348208285322
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0024000000000000687,
+              "conditional95CI": [
+                0.0,
+                0.008266666666666755
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.006712077352892164,
+              "conditional95CI": [
+                -0.019445432571462057,
+                0.006820120628558677
+              ]
+            },
+            "AUROC": {
+              "delta": 0.004533333333333278,
+              "conditional95CI": [
+                0.0,
+                0.012800000000000145
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": -0.01344111759966379,
+              "conditional95CI": [
+                -0.025100664339765134,
+                -0.0025260348208285322
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0024000000000000687,
+              "conditional95CI": [
+                0.0,
+                0.008266666666666755
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": -0.0011354520363196698,
+              "conditional95CI": [
+                -0.008687237760439948,
+                0.00730808707481783
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0015999999999999348,
+              "conditional95CI": [
+                0.0,
+                0.005599999999999827
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": -0.001491407554022198,
+              "conditional95CI": [
+                -0.009171408213343366,
+                0.007031703212866324
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0024000000000000687,
+              "conditional95CI": [
+                0.0,
+                0.0074666666666668435
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.014011356205171075,
+              "conditional95CI": [
+                -0.028516557225200627,
+                -0.0004931715738222503
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0024000000000000687,
+              "conditional95CI": [
+                0.0,
+                0.008266666666666755
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": -0.007282315958399449,
+              "conditional95CI": [
+                -0.017503275433403454,
+                0.002890808536195593
+              ]
+            },
+            "AUROC": {
+              "delta": 0.004533333333333278,
+              "conditional95CI": [
+                0.0,
+                0.012800000000000145
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": -0.014011356205171075,
+              "conditional95CI": [
+                -0.028516557225200627,
+                -0.0004931715738222503
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0024000000000000687,
+              "conditional95CI": [
+                0.0,
+                0.008266666666666755
+              ]
+            }
+          }
+        }
+      },
+      "HUMIDITY_IMPACT": {
+        "n": 50,
+        "metrics": {
+          "HARD_FIXED": {
+            "Brier": 0.020539778702859862,
+            "AUROC": 1.0
+          },
+          "SOFT_CENTERED": {
+            "Brier": 0.01355599110191578,
+            "AUROC": 1.0
+          },
+          "FREE_FUSION": {
+            "Brier": 0.013923411736895751,
+            "AUROC": 1.0
+          },
+          "SELF": {
+            "Brier": 0.04608714411054059,
+            "AUROC": 0.9984
+          },
+          "FIXED_HARD_POINT1": {
+            "Brier": 0.019645104546046607,
+            "AUROC": 1.0
+          },
+          "G_ONLY": {
+            "Brier": 0.04608714411054059,
+            "AUROC": 0.9984
+          },
+          "RGB_ONLY": {
+            "Brier": 0.016364238343339346,
+            "AUROC": 1.0
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": 0.006089113444130828,
+              "conditional95CI": [
+                -0.003806665474906859,
+                0.019580010532008953
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": 0.005721692809150856,
+              "conditional95CI": [
+                -0.0044062617810653815,
+                0.01941145607507046
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.02644203956449398,
+              "conditional95CI": [
+                -0.050500228564901065,
+                -0.003956714256064138
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": 0.003280866202707261,
+              "conditional95CI": [
+                -0.009347858853831601,
+                0.019216149633097774
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "Brier": {
+              "delta": -0.02644203956449398,
+              "conditional95CI": [
+                -0.050500228564901065,
+                -0.003956714256064138
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "Brier": {
+              "delta": 0.006983787600944083,
+              "conditional95CI": [
+                -0.0005516260491540844,
+                0.018692541397496015
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "Brier": {
+              "delta": 0.006616366965964111,
+              "conditional95CI": [
+                -0.000892227971755675,
+                0.018458068748435762
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "Brier": {
+              "delta": -0.025547365407680725,
+              "conditional95CI": [
+                -0.05282618868581191,
+                0.0012980441556831744
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "Brier": {
+              "delta": 0.004175540359520516,
+              "conditional95CI": [
+                -0.0058572400690478105,
+                0.018837082479030102
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0,
+              "conditional95CI": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "Brier": {
+              "delta": -0.025547365407680725,
+              "conditional95CI": [
+                -0.05282618868581191,
+                0.0012980441556831744
+              ]
+            },
+            "AUROC": {
+              "delta": 0.0016000000000000458,
+              "conditional95CI": [
+                0.0,
+                0.009599999999999942
+              ]
+            }
+          }
+        }
+      },
+      "NORMAL_HOLD": {
+        "n": 132,
+        "metrics": {
+          "HARD_FIXED": {
+            "normal_MSE": 0.1360838875456463
+          },
+          "SOFT_CENTERED": {
+            "normal_MSE": 0.20476934795686397
+          },
+          "FREE_FUSION": {
+            "normal_MSE": 0.20457577851117156
+          },
+          "SELF": {
+            "normal_MSE": 0.2577176096312221
+          },
+          "FIXED_HARD_POINT1": {
+            "normal_MSE": 0.15179388063371177
+          },
+          "G_ONLY": {
+            "normal_MSE": 0.2577176096312221
+          },
+          "RGB_ONLY": {
+            "normal_MSE": 0.23967346346441398
+          }
+        },
+        "effects": {
+          "FIXED_HARD_POINT1_minus_SOFT_CENTERED": {
+            "normal_MSE": {
+              "delta": -0.0529754673231522,
+              "conditional95CI": [
+                -0.07332782116762393,
+                -0.031997342204912516
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_FREE_FUSION": {
+            "normal_MSE": {
+              "delta": -0.052781897877459794,
+              "conditional95CI": [
+                -0.0736173890693001,
+                -0.03121133944365791
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_G_ONLY": {
+            "normal_MSE": {
+              "delta": -0.10592372899751032,
+              "conditional95CI": [
+                -0.13008817154706465,
+                -0.08110483683617939
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_RGB_ONLY": {
+            "normal_MSE": {
+              "delta": -0.08787958283070221,
+              "conditional95CI": [
+                -0.11766610727397786,
+                -0.05814780587083734
+              ]
+            }
+          },
+          "FIXED_HARD_POINT1_minus_SELF": {
+            "normal_MSE": {
+              "delta": -0.10592372899751032,
+              "conditional95CI": [
+                -0.13008817154706465,
+                -0.08110483683617939
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SOFT_CENTERED": {
+            "normal_MSE": {
+              "delta": -0.06868546041121767,
+              "conditional95CI": [
+                -0.08669227834552895,
+                -0.05061164432527084
+              ]
+            }
+          },
+          "HARD_FIXED_minus_FREE_FUSION": {
+            "normal_MSE": {
+              "delta": -0.06849189096552527,
+              "conditional95CI": [
+                -0.0870174084785981,
+                -0.0498730359079907
+              ]
+            }
+          },
+          "HARD_FIXED_minus_G_ONLY": {
+            "normal_MSE": {
+              "delta": -0.1216337220855758,
+              "conditional95CI": [
+                -0.15100650339221233,
+                -0.09151660060724576
+              ]
+            }
+          },
+          "HARD_FIXED_minus_RGB_ONLY": {
+            "normal_MSE": {
+              "delta": -0.10358957591876769,
+              "conditional95CI": [
+                -0.1319718032409771,
+                -0.07564470935123367
+              ]
+            }
+          },
+          "HARD_FIXED_minus_SELF": {
+            "normal_MSE": {
+              "delta": -0.1216337220855758,
+              "conditional95CI": [
+                -0.15100650339221233,
+                -0.09151660060724576
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "leave_one_class": {
+    "ENSEMBLE": {
+      "audio_jack_socket": {
+        "HARD_FIXED": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.007155951899820996,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.014311507364077814,
+              "normal_MSE": 8.037993178518189e-05,
+              "anomaly_MSE": 0.028542634796370446
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 3.9643556417769065e-07,
+              "normal_MSE": 7.69240502582631e-07,
+              "anomaly_MSE": 2.3630625772750286e-08
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.008628439284890958,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.017227026125661887,
+              "normal_MSE": 0.000460378163024441,
+              "anomaly_MSE": 0.033993674088299335
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.9852444120030314e-05,
+              "normal_MSE": 5.969985936672716e-05,
+              "anomaly_MSE": 5.028873333467971e-09
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.013970244887412683,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.02790044884757069,
+              "normal_MSE": 0.0004605668793446985,
+              "anomaly_MSE": 0.05534033081579668
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.004092725467848e-05,
+              "normal_MSE": 8.004911878605751e-05,
+              "anomaly_MSE": 3.2735723299454804e-08
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.9884,
+          "probability_AUROC": 0.9884,
+          "Brier": 0.02919575735319459,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9768,
+              "probability_AUROC": 0.9768,
+              "Brier": 0.05750515271307963,
+              "normal_MSE": 0.032570954761160224,
+              "anomaly_MSE": 0.08243935066499902
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0008863619933095535,
+              "normal_MSE": 0.001758300020558498,
+              "anomaly_MSE": 1.4423966060609107e-05
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.007010003269735255,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.01401852527647348,
+              "normal_MSE": 0.000252452730920725,
+              "anomaly_MSE": 0.027784597822026236
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 1.4812629970301688e-06,
+              "normal_MSE": 2.8955028055117493e-06,
+              "anomaly_MSE": 6.70231885485883e-08
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.9884,
+          "probability_AUROC": 0.9884,
+          "Brier": 0.02919575735319459,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9768,
+              "probability_AUROC": 0.9768,
+              "Brier": 0.05750515271307963,
+              "normal_MSE": 0.032570954761160224,
+              "anomaly_MSE": 0.08243935066499902
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0008863619933095535,
+              "normal_MSE": 0.001758300020558498,
+              "anomaly_MSE": 1.4423966060609107e-05
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.02187841334451968,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.043708553483872176,
+              "normal_MSE": 0.0004346297707991172,
+              "anomaly_MSE": 0.08698247719694524
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.8273205167183546e-05,
+              "normal_MSE": 9.611488944010926e-05,
+              "anomaly_MSE": 4.3152089425782974e-07
+            }
+          ]
+        }
+      },
+      "humidity_sensor": {
+        "HARD_FIXED": {
+          "AUROC": 0.9998,
+          "probability_AUROC": 0.9998,
+          "Brier": 0.005649380526713144,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9995999999999999,
+              "probability_AUROC": 0.9995999999999999,
+              "Brier": 0.01129836461786211,
+              "normal_MSE": 0.01722153183500437,
+              "anomaly_MSE": 0.005375197400719851
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 3.9643556417769065e-07,
+              "normal_MSE": 7.69240502582631e-07,
+              "anomaly_MSE": 2.3630625772750286e-08
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 0.996,
+          "probability_AUROC": 0.996,
+          "Brier": 0.022765873523103157,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.992,
+              "probability_AUROC": 0.992,
+              "Brier": 0.045501894602086285,
+              "normal_MSE": 0.07733067690070065,
+              "anomaly_MSE": 0.013673112303471908
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.9852444120030314e-05,
+              "normal_MSE": 5.969985936672716e-05,
+              "anomaly_MSE": 5.028873333467971e-09
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 0.9944,
+          "probability_AUROC": 0.9944,
+          "Brier": 0.02521673862277039,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9888,
+              "probability_AUROC": 0.9888,
+              "Brier": 0.0503934363182861,
+              "normal_MSE": 0.07895189472832037,
+              "anomaly_MSE": 0.021834977908251823
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.004092725467848e-05,
+              "normal_MSE": 8.004911878605751e-05,
+              "anomaly_MSE": 3.2735723299454804e-08
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.9936,
+          "probability_AUROC": 0.9936,
+          "Brier": 0.027560499188788123,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9872,
+              "probability_AUROC": 0.9872,
+              "Brier": 0.05423463638426669,
+              "normal_MSE": 0.07879149447771092,
+              "anomaly_MSE": 0.02967777829082247
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0008863619933095535,
+              "normal_MSE": 0.001758300020558498,
+              "anomaly_MSE": 1.4423966060609107e-05
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.006211218154543019,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.012420955046089008,
+              "normal_MSE": 0.019835554756678163,
+              "anomaly_MSE": 0.005006355335499855
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 1.4812629970301688e-06,
+              "normal_MSE": 2.8955028055117493e-06,
+              "anomaly_MSE": 6.70231885485883e-08
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.9936,
+          "probability_AUROC": 0.9936,
+          "Brier": 0.027560499188788123,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9872,
+              "probability_AUROC": 0.9872,
+              "Brier": 0.05423463638426669,
+              "normal_MSE": 0.07879149447771092,
+              "anomaly_MSE": 0.02967777829082247
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0008863619933095535,
+              "normal_MSE": 0.001758300020558498,
+              "anomaly_MSE": 1.4423966060609107e-05
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 0.9904,
+          "probability_AUROC": 0.9904,
+          "Brier": 0.02979746889269683,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9807999999999999,
+              "probability_AUROC": 0.9807999999999999,
+              "Brier": 0.05954666458022648,
+              "normal_MSE": 0.08572831227429414,
+              "anomaly_MSE": 0.0333650168861588
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.8273205167183546e-05,
+              "normal_MSE": 9.611488944010926e-05,
+              "anomaly_MSE": 4.3152089425782974e-07
+            }
+          ]
+        }
+      },
+      "lego_propeller": {
+        "HARD_FIXED": {
+          "AUROC": 0.9998,
+          "probability_AUROC": 0.9998,
+          "Brier": 0.012804935990969962,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9995999999999999,
+              "probability_AUROC": 0.9995999999999999,
+              "Brier": 0.01129836461786211,
+              "normal_MSE": 0.01722153183500437,
+              "anomaly_MSE": 0.005375197400719851
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.014311507364077814,
+              "normal_MSE": 8.037993178518189e-05,
+              "anomaly_MSE": 0.028542634796370446
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 0.996,
+          "probability_AUROC": 0.996,
+          "Brier": 0.03136446036387409,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.992,
+              "probability_AUROC": 0.992,
+              "Brier": 0.045501894602086285,
+              "normal_MSE": 0.07733067690070065,
+              "anomaly_MSE": 0.013673112303471908
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.017227026125661887,
+              "normal_MSE": 0.000460378163024441,
+              "anomaly_MSE": 0.033993674088299335
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 0.9944,
+          "probability_AUROC": 0.9944,
+          "Brier": 0.03914694258292839,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9888,
+              "probability_AUROC": 0.9888,
+              "Brier": 0.0503934363182861,
+              "normal_MSE": 0.07895189472832037,
+              "anomaly_MSE": 0.021834977908251823
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.02790044884757069,
+              "normal_MSE": 0.0004605668793446985,
+              "anomaly_MSE": 0.05534033081579668
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.982,
+          "probability_AUROC": 0.982,
+          "Brier": 0.05586989454867316,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9872,
+              "probability_AUROC": 0.9872,
+              "Brier": 0.05423463638426669,
+              "normal_MSE": 0.07879149447771092,
+              "anomaly_MSE": 0.02967777829082247
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9768,
+              "probability_AUROC": 0.9768,
+              "Brier": 0.05750515271307963,
+              "normal_MSE": 0.032570954761160224,
+              "anomaly_MSE": 0.08243935066499902
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.013219740161281244,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.012420955046089008,
+              "normal_MSE": 0.019835554756678163,
+              "anomaly_MSE": 0.005006355335499855
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.01401852527647348,
+              "normal_MSE": 0.000252452730920725,
+              "anomaly_MSE": 0.027784597822026236
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.982,
+          "probability_AUROC": 0.982,
+          "Brier": 0.05586989454867316,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9872,
+              "probability_AUROC": 0.9872,
+              "Brier": 0.05423463638426669,
+              "normal_MSE": 0.07879149447771092,
+              "anomaly_MSE": 0.02967777829082247
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9768,
+              "probability_AUROC": 0.9768,
+              "Brier": 0.05750515271307963,
+              "normal_MSE": 0.032570954761160224,
+              "anomaly_MSE": 0.08243935066499902
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 0.9904,
+          "probability_AUROC": 0.9904,
+          "Brier": 0.051627609032049326,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9807999999999999,
+              "probability_AUROC": 0.9807999999999999,
+              "Brier": 0.05954666458022648,
+              "normal_MSE": 0.08572831227429414,
+              "anomaly_MSE": 0.0333650168861588
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.043708553483872176,
+              "normal_MSE": 0.0004346297707991172,
+              "anomaly_MSE": 0.08698247719694524
+            }
+          ]
+        }
+      }
+    },
+    "20261017": {
+      "audio_jack_socket": {
+        "HARD_FIXED": {
+          "AUROC": 0.9996,
+          "probability_AUROC": 0.9996,
+          "Brier": 0.012301579700469164,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9992,
+              "probability_AUROC": 0.9992,
+              "Brier": 0.02460243820063154,
+              "normal_MSE": 0.000536174497273972,
+              "anomaly_MSE": 0.04866870190398911
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 7.212003067860156e-07,
+              "normal_MSE": 1.3642876833406077e-06,
+              "anomaly_MSE": 7.811293023142346e-08
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 0.9994000000000001,
+          "probability_AUROC": 0.9994000000000001,
+          "Brier": 0.020218975867132317,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9988,
+              "probability_AUROC": 0.9988,
+              "Brier": 0.0404069013559837,
+              "normal_MSE": 0.0011205337447510945,
+              "anomaly_MSE": 0.0796932689672163
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 3.105037828093237e-05,
+              "normal_MSE": 6.210070740920346e-05,
+              "anomaly_MSE": 4.915266127883601e-11
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 0.9992,
+          "probability_AUROC": 0.9992,
+          "Brier": 0.036047319549985364,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9984,
+              "probability_AUROC": 0.9984,
+              "Brier": 0.07204673730016534,
+              "normal_MSE": 0.0010458007168480637,
+              "anomaly_MSE": 0.1430476738834826
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.790179980539836e-05,
+              "normal_MSE": 9.580294096058412e-05,
+              "anomaly_MSE": 6.586502125888317e-10
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.9878,
+          "probability_AUROC": 0.9878,
+          "Brier": 0.03002279997803408,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9755999999999999,
+              "probability_AUROC": 0.9755999999999999,
+              "Brier": 0.05898222892547461,
+              "normal_MSE": 0.04479623184573209,
+              "anomaly_MSE": 0.07316822600521714
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0010633710305935496,
+              "normal_MSE": 0.0020887604757853636,
+              "anomaly_MSE": 3.798158540173561e-05
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 0.9996,
+          "probability_AUROC": 0.9996,
+          "Brier": 0.01110758766231006,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9992,
+              "probability_AUROC": 0.9992,
+              "Brier": 0.022213073629080662,
+              "normal_MSE": 0.0012680684154825054,
+              "anomaly_MSE": 0.04315807884267882
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.101695539457229e-06,
+              "normal_MSE": 4.016382352453964e-06,
+              "anomaly_MSE": 1.870087264604945e-07
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.9878,
+          "probability_AUROC": 0.9878,
+          "Brier": 0.03002279997803408,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9755999999999999,
+              "probability_AUROC": 0.9755999999999999,
+              "Brier": 0.05898222892547461,
+              "normal_MSE": 0.04479623184573209,
+              "anomaly_MSE": 0.07316822600521714
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0010633710305935496,
+              "normal_MSE": 0.0020887604757853636,
+              "anomaly_MSE": 3.798158540173561e-05
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 0.9884,
+          "probability_AUROC": 0.9884,
+          "Brier": 0.07640063879345436,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9768,
+              "probability_AUROC": 0.9768,
+              "Brier": 0.15273127972575237,
+              "normal_MSE": 0.0010270838309291749,
+              "anomaly_MSE": 0.30443547562057555
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 6.999786115636924e-05,
+              "normal_MSE": 0.00013952725666717628,
+              "anomaly_MSE": 4.684656455621925e-07
+            }
+          ]
+        }
+      },
+      "humidity_sensor": {
+        "HARD_FIXED": {
+          "AUROC": 0.9998,
+          "probability_AUROC": 0.9998,
+          "Brier": 0.005489893826810019,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9995999999999999,
+              "probability_AUROC": 0.9995999999999999,
+              "Brier": 0.010979066453313252,
+              "normal_MSE": 0.004637390423093822,
+              "anomaly_MSE": 0.017320742483532683
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 7.212003067860156e-07,
+              "normal_MSE": 1.3642876833406077e-06,
+              "anomaly_MSE": 7.811293023142346e-08
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 0.9908,
+          "probability_AUROC": 0.9908,
+          "Brier": 0.030708576253130542,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9816,
+              "probability_AUROC": 0.9816,
+              "Brier": 0.06138610212798015,
+              "normal_MSE": 0.0848950852508676,
+              "anomaly_MSE": 0.03787711900509271
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 3.105037828093237e-05,
+              "normal_MSE": 6.210070740920346e-05,
+              "anomaly_MSE": 4.915266127883601e-11
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 0.9863999999999999,
+          "probability_AUROC": 0.9863999999999999,
+          "Brier": 0.03757110725231206,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9728,
+              "probability_AUROC": 0.9728,
+              "Brier": 0.07509431270481873,
+              "normal_MSE": 0.08279892997965421,
+              "anomaly_MSE": 0.06738969542998326
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.790179980539836e-05,
+              "normal_MSE": 9.580294096058412e-05,
+              "anomaly_MSE": 6.586502125888317e-10
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.996,
+          "probability_AUROC": 0.996,
+          "Brier": 0.022029538698398264,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.992,
+              "probability_AUROC": 0.992,
+              "Brier": 0.04299570636620298,
+              "normal_MSE": 0.04424943763059404,
+              "anomaly_MSE": 0.04174197510181192
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0010633710305935496,
+              "normal_MSE": 0.0020887604757853636,
+              "anomaly_MSE": 3.798158540173561e-05
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 0.9998,
+          "probability_AUROC": 0.9998,
+          "Brier": 0.005160879810038098,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9995999999999999,
+              "probability_AUROC": 0.9995999999999999,
+              "Brier": 0.01031965792453674,
+              "normal_MSE": 0.005383816307548555,
+              "anomaly_MSE": 0.015255499541524926
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.101695539457229e-06,
+              "normal_MSE": 4.016382352453964e-06,
+              "anomaly_MSE": 1.870087264604945e-07
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.996,
+          "probability_AUROC": 0.996,
+          "Brier": 0.022029538698398264,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.992,
+              "probability_AUROC": 0.992,
+              "Brier": 0.04299570636620298,
+              "normal_MSE": 0.04424943763059404,
+              "anomaly_MSE": 0.04174197510181192
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0010633710305935496,
+              "normal_MSE": 0.0020887604757853636,
+              "anomaly_MSE": 3.798158540173561e-05
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 0.9758,
+          "probability_AUROC": 0.9758,
+          "Brier": 0.05232917966161011,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9516,
+              "probability_AUROC": 0.9516,
+              "Brier": 0.10458836146206385,
+              "normal_MSE": 0.09711134656065451,
+              "anomaly_MSE": 0.11206537636347318
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 6.999786115636924e-05,
+              "normal_MSE": 0.00013952725666717628,
+              "anomaly_MSE": 4.684656455621925e-07
+            }
+          ]
+        }
+      },
+      "lego_propeller": {
+        "HARD_FIXED": {
+          "AUROC": 0.9994,
+          "probability_AUROC": 0.9994,
+          "Brier": 0.017790752326972397,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9995999999999999,
+              "probability_AUROC": 0.9995999999999999,
+              "Brier": 0.010979066453313252,
+              "normal_MSE": 0.004637390423093822,
+              "anomaly_MSE": 0.017320742483532683
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9992,
+              "probability_AUROC": 0.9992,
+              "Brier": 0.02460243820063154,
+              "normal_MSE": 0.000536174497273972,
+              "anomaly_MSE": 0.04866870190398911
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 0.9902,
+          "probability_AUROC": 0.9902,
+          "Brier": 0.05089650174198193,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9816,
+              "probability_AUROC": 0.9816,
+              "Brier": 0.06138610212798015,
+              "normal_MSE": 0.0848950852508676,
+              "anomaly_MSE": 0.03787711900509271
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9988,
+              "probability_AUROC": 0.9988,
+              "Brier": 0.0404069013559837,
+              "normal_MSE": 0.0011205337447510945,
+              "anomaly_MSE": 0.0796932689672163
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 0.9856,
+          "probability_AUROC": 0.9856,
+          "Brier": 0.07357052500249203,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9728,
+              "probability_AUROC": 0.9728,
+              "Brier": 0.07509431270481873,
+              "normal_MSE": 0.08279892997965421,
+              "anomaly_MSE": 0.06738969542998326
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9984,
+              "probability_AUROC": 0.9984,
+              "Brier": 0.07204673730016534,
+              "normal_MSE": 0.0010458007168480637,
+              "anomaly_MSE": 0.1430476738834826
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.9838,
+          "probability_AUROC": 0.9838,
+          "Brier": 0.050988967645838795,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.992,
+              "probability_AUROC": 0.992,
+              "Brier": 0.04299570636620298,
+              "normal_MSE": 0.04424943763059404,
+              "anomaly_MSE": 0.04174197510181192
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9755999999999999,
+              "probability_AUROC": 0.9755999999999999,
+              "Brier": 0.05898222892547461,
+              "normal_MSE": 0.04479623184573209,
+              "anomaly_MSE": 0.07316822600521714
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 0.9994,
+          "probability_AUROC": 0.9994,
+          "Brier": 0.016266365776808702,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9995999999999999,
+              "probability_AUROC": 0.9995999999999999,
+              "Brier": 0.01031965792453674,
+              "normal_MSE": 0.005383816307548555,
+              "anomaly_MSE": 0.015255499541524926
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9992,
+              "probability_AUROC": 0.9992,
+              "Brier": 0.022213073629080662,
+              "normal_MSE": 0.0012680684154825054,
+              "anomaly_MSE": 0.04315807884267882
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.9838,
+          "probability_AUROC": 0.9838,
+          "Brier": 0.050988967645838795,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.992,
+              "probability_AUROC": 0.992,
+              "Brier": 0.04299570636620298,
+              "normal_MSE": 0.04424943763059404,
+              "anomaly_MSE": 0.04174197510181192
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9755999999999999,
+              "probability_AUROC": 0.9755999999999999,
+              "Brier": 0.05898222892547461,
+              "normal_MSE": 0.04479623184573209,
+              "anomaly_MSE": 0.07316822600521714
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 0.9642,
+          "probability_AUROC": 0.9642,
+          "Brier": 0.12865982059390813,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9516,
+              "probability_AUROC": 0.9516,
+              "Brier": 0.10458836146206385,
+              "normal_MSE": 0.09711134656065451,
+              "anomaly_MSE": 0.11206537636347318
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9768,
+              "probability_AUROC": 0.9768,
+              "Brier": 0.15273127972575237,
+              "normal_MSE": 0.0010270838309291749,
+              "anomaly_MSE": 0.30443547562057555
+            }
+          ]
+        }
+      }
+    },
+    "20261018": {
+      "audio_jack_socket": {
+        "HARD_FIXED": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.004973334782987402,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.009946251252363121,
+              "normal_MSE": 7.858063505686057e-05,
+              "anomaly_MSE": 0.019813921869669383
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.1831361168163374e-07,
+              "normal_MSE": 8.18910639229263e-07,
+              "anomaly_MSE": 1.77165841340045e-08
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.0019258724729814816,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0038388248323204923,
+              "normal_MSE": 0.00040305978376553396,
+              "anomaly_MSE": 0.00727458988087545
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 1.2920113642471008e-05,
+              "normal_MSE": 2.573849434803604e-05,
+              "anomaly_MSE": 1.0173293690597532e-07
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.0020212895184611034,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.00402788075045207,
+              "normal_MSE": 0.0004156675373190156,
+              "anomaly_MSE": 0.007640093963585123
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 1.4698286470137031e-05,
+              "normal_MSE": 2.9256100642932565e-05,
+              "anomaly_MSE": 1.404722973414963e-07
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.9834,
+          "probability_AUROC": 0.9834,
+          "Brier": 0.03116413903669523,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9668,
+              "probability_AUROC": 0.9668,
+              "Brier": 0.06163035539297198,
+              "normal_MSE": 0.027533551264239314,
+              "anomaly_MSE": 0.09572715952170464
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0006979226804184846,
+              "normal_MSE": 0.0013793120146114244,
+              "anomaly_MSE": 1.6533346225544788e-05
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.00580912025390298,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.011615915719306466,
+              "normal_MSE": 0.0003191469476130216,
+              "anomaly_MSE": 0.02291268449099991
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.3247884994951327e-06,
+              "normal_MSE": 4.580046281318092e-06,
+              "anomaly_MSE": 6.953071767217317e-08
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.9834,
+          "probability_AUROC": 0.9834,
+          "Brier": 0.03116413903669523,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9668,
+              "probability_AUROC": 0.9668,
+              "Brier": 0.06163035539297198,
+              "normal_MSE": 0.027533551264239314,
+              "anomaly_MSE": 0.09572715952170464
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0006979226804184846,
+              "normal_MSE": 0.0013793120146114244,
+              "anomaly_MSE": 1.6533346225544788e-05
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 1.0,
+          "probability_AUROC": 1.0,
+          "Brier": 0.0033800065363759845,
+          "per_category": [
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.006739782442459462,
+              "normal_MSE": 0.00040541074665787283,
+              "anomaly_MSE": 0.013074154138261051
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.0230630292507014e-05,
+              "normal_MSE": 4.011542464956524e-05,
+              "anomaly_MSE": 3.4583593544879014e-07
+            }
+          ]
+        }
+      },
+      "humidity_sensor": {
+        "HARD_FIXED": {
+          "AUROC": 0.9988,
+          "probability_AUROC": 0.9988,
+          "Brier": 0.01855615149675567,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9976,
+              "probability_AUROC": 0.9976,
+              "Brier": 0.03711188467989966,
+              "normal_MSE": 0.07066112085843343,
+              "anomaly_MSE": 0.0035626485013658953
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 4.1831361168163374e-07,
+              "normal_MSE": 8.18910639229263e-07,
+              "anomaly_MSE": 1.77165841340045e-08
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 0.9972000000000001,
+          "probability_AUROC": 0.9972000000000001,
+          "Brier": 0.021480899765841603,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9944000000000001,
+              "probability_AUROC": 0.9944000000000001,
+              "Brier": 0.042948879418040736,
+              "normal_MSE": 0.08183386106844606,
+              "anomaly_MSE": 0.0040638977676354165
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 1.2920113642471008e-05,
+              "normal_MSE": 2.573849434803604e-05,
+              "anomaly_MSE": 1.0173293690597532e-07
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 0.9962,
+          "probability_AUROC": 0.9962,
+          "Brier": 0.021810819362196667,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9924000000000001,
+              "probability_AUROC": 0.9924000000000001,
+              "Brier": 0.043606940437923195,
+              "normal_MSE": 0.0826718213539765,
+              "anomaly_MSE": 0.004542059521869889
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 1.4698286470137031e-05,
+              "normal_MSE": 2.9256100642932565e-05,
+              "anomaly_MSE": 1.404722973414963e-07
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.9892,
+          "probability_AUROC": 0.9892,
+          "Brier": 0.03475622328852755,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9783999999999999,
+              "probability_AUROC": 0.9783999999999999,
+              "Brier": 0.06881452389663661,
+              "normal_MSE": 0.11369352180006638,
+              "anomaly_MSE": 0.023935525993206853
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0006979226804184846,
+              "normal_MSE": 0.0013793120146114244,
+              "anomaly_MSE": 1.6533346225544788e-05
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 0.9988,
+          "probability_AUROC": 0.9988,
+          "Brier": 0.019641256614658795,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9976,
+              "probability_AUROC": 0.9976,
+              "Brier": 0.0392801884408181,
+              "normal_MSE": 0.07486085898633113,
+              "anomaly_MSE": 0.0036995178953050643
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.3247884994951327e-06,
+              "normal_MSE": 4.580046281318092e-06,
+              "anomaly_MSE": 6.953071767217317e-08
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.9892,
+          "probability_AUROC": 0.9892,
+          "Brier": 0.03475622328852755,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9783999999999999,
+              "probability_AUROC": 0.9783999999999999,
+              "Brier": 0.06881452389663661,
+              "normal_MSE": 0.11369352180006638,
+              "anomaly_MSE": 0.023935525993206853
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0006979226804184846,
+              "normal_MSE": 0.0013793120146114244,
+              "anomaly_MSE": 1.6533346225544788e-05
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 0.9936,
+          "probability_AUROC": 0.9936,
+          "Brier": 0.02703899204090534,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9872,
+              "probability_AUROC": 0.9872,
+              "Brier": 0.05405775345151817,
+              "normal_MSE": 0.10003483537256944,
+              "anomaly_MSE": 0.008080671530466902
+            },
+            {
+              "category": "lego_propeller",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 2.0230630292507014e-05,
+              "normal_MSE": 4.011542464956524e-05,
+              "anomaly_MSE": 3.4583593544879014e-07
+            }
+          ]
+        }
+      },
+      "lego_propeller": {
+        "HARD_FIXED": {
+          "AUROC": 0.9988,
+          "probability_AUROC": 0.9988,
+          "Brier": 0.02352906796613139,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9976,
+              "probability_AUROC": 0.9976,
+              "Brier": 0.03711188467989966,
+              "normal_MSE": 0.07066112085843343,
+              "anomaly_MSE": 0.0035626485013658953
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.009946251252363121,
+              "normal_MSE": 7.858063505686057e-05,
+              "anomaly_MSE": 0.019813921869669383
+            }
+          ]
+        },
+        "SOFT_CENTERED": {
+          "AUROC": 0.9972000000000001,
+          "probability_AUROC": 0.9972000000000001,
+          "Brier": 0.023393852125180616,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9944000000000001,
+              "probability_AUROC": 0.9944000000000001,
+              "Brier": 0.042948879418040736,
+              "normal_MSE": 0.08183386106844606,
+              "anomaly_MSE": 0.0040638977676354165
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.0038388248323204923,
+              "normal_MSE": 0.00040305978376553396,
+              "anomaly_MSE": 0.00727458988087545
+            }
+          ]
+        },
+        "FREE_FUSION": {
+          "AUROC": 0.9962,
+          "probability_AUROC": 0.9962,
+          "Brier": 0.023817410594187634,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9924000000000001,
+              "probability_AUROC": 0.9924000000000001,
+              "Brier": 0.043606940437923195,
+              "normal_MSE": 0.0826718213539765,
+              "anomaly_MSE": 0.004542059521869889
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.00402788075045207,
+              "normal_MSE": 0.0004156675373190156,
+              "anomaly_MSE": 0.007640093963585123
+            }
+          ]
+        },
+        "SELF": {
+          "AUROC": 0.9725999999999999,
+          "probability_AUROC": 0.9725999999999999,
+          "Brier": 0.0652224396448043,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9783999999999999,
+              "probability_AUROC": 0.9783999999999999,
+              "Brier": 0.06881452389663661,
+              "normal_MSE": 0.11369352180006638,
+              "anomaly_MSE": 0.023935525993206853
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9668,
+              "probability_AUROC": 0.9668,
+              "Brier": 0.06163035539297198,
+              "normal_MSE": 0.027533551264239314,
+              "anomaly_MSE": 0.09572715952170464
+            }
+          ]
+        },
+        "FIXED_HARD_POINT1": {
+          "AUROC": 0.9988,
+          "probability_AUROC": 0.9988,
+          "Brier": 0.025448052080062282,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9976,
+              "probability_AUROC": 0.9976,
+              "Brier": 0.0392801884408181,
+              "normal_MSE": 0.07486085898633113,
+              "anomaly_MSE": 0.0036995178953050643
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.011615915719306466,
+              "normal_MSE": 0.0003191469476130216,
+              "anomaly_MSE": 0.02291268449099991
+            }
+          ]
+        },
+        "G_ONLY": {
+          "AUROC": 0.9725999999999999,
+          "probability_AUROC": 0.9725999999999999,
+          "Brier": 0.0652224396448043,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9783999999999999,
+              "probability_AUROC": 0.9783999999999999,
+              "Brier": 0.06881452389663661,
+              "normal_MSE": 0.11369352180006638,
+              "anomaly_MSE": 0.023935525993206853
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 0.9668,
+              "probability_AUROC": 0.9668,
+              "Brier": 0.06163035539297198,
+              "normal_MSE": 0.027533551264239314,
+              "anomaly_MSE": 0.09572715952170464
+            }
+          ]
+        },
+        "RGB_ONLY": {
+          "AUROC": 0.9936,
+          "probability_AUROC": 0.9936,
+          "Brier": 0.030398767946988817,
+          "per_category": [
+            {
+              "category": "audio_jack_socket",
+              "AUROC": 0.9872,
+              "probability_AUROC": 0.9872,
+              "Brier": 0.05405775345151817,
+              "normal_MSE": 0.10003483537256944,
+              "anomaly_MSE": 0.008080671530466902
+            },
+            {
+              "category": "humidity_sensor",
+              "AUROC": 1.0,
+              "probability_AUROC": 1.0,
+              "Brier": 0.006739782442459462,
+              "normal_MSE": 0.00040541074665787283,
+              "anomaly_MSE": 0.013074154138261051
+            }
+          ]
+        }
+      }
+    }
+  },
+  "coefficients": {
+    "ENSEMBLE": {
+      "HARD_FIXED": {
+        "base_intercept": 1.8519187627691869,
+        "base_geometry_slope": 5.170408419778375,
+        "actual_final_coefficients": [
+          1.8519187627691869,
+          5.170408419778375,
+          3.9626961396801827
+        ]
+      },
+      "SOFT_CENTERED": {
+        "base_intercept": 1.8519187627691869,
+        "base_geometry_slope": 5.170408419778375,
+        "actual_final_coefficients": [
+          2.5444624278701693,
+          1.1236916999483935,
+          6.396986868060366
+        ]
+      },
+      "FREE_FUSION": {
+        "base_intercept": 1.8519187627691869,
+        "base_geometry_slope": 5.170408419778375,
+        "actual_final_coefficients": [
+          2.242573387903661,
+          0.5803468355756793,
+          6.473752188554722
+        ]
+      },
+      "SELF": {
+        "base_intercept": 1.8519187627691869,
+        "base_geometry_slope": 5.170408419778375,
+        "actual_final_coefficients": [
+          1.8519187627691869,
+          5.170408419778375,
+          0.0
+        ]
+      },
+      "FIXED_HARD_POINT1": {
+        "base_intercept": 1.8519187627691869,
+        "base_geometry_slope": 5.170408419778375,
+        "actual_final_coefficients": [
+          1.8519187627691869,
+          5.170408419778375,
+          3.2902342007231566
+        ]
+      },
+      "G_ONLY": {
+        "base_intercept": 1.8519187627691869,
+        "base_geometry_slope": 5.170408419778375,
+        "actual_final_coefficients": [
+          1.8519187627691869,
+          5.170408419778375,
+          0.0
+        ]
+      }
+    },
+    "20261017": {
+      "HARD_FIXED": {
+        "base_intercept": 1.7806258481114754,
+        "base_geometry_slope": 5.01149365045961,
+        "actual_final_coefficients": [
+          1.7806258481114754,
+          5.01149365045961,
+          3.777324132892612
+        ]
+      },
+      "SOFT_CENTERED": {
+        "base_intercept": 1.7806258481114754,
+        "base_geometry_slope": 5.01149365045961,
+        "actual_final_coefficients": [
+          3.843248015278845,
+          1.8822092311770255,
+          6.985401085675567
+        ]
+      },
+      "FREE_FUSION": {
+        "base_intercept": 1.7806258481114754,
+        "base_geometry_slope": 5.01149365045961,
+        "actual_final_coefficients": [
+          3.2098402026489135,
+          1.1420633557137636,
+          6.843084119528537
+        ]
+      },
+      "SELF": {
+        "base_intercept": 1.7806258481114754,
+        "base_geometry_slope": 5.01149365045961,
+        "actual_final_coefficients": [
+          1.7806258481114754,
+          5.01149365045961,
+          0.0
+        ]
+      },
+      "FIXED_HARD_POINT1": {
+        "base_intercept": 1.7806258481114754,
+        "base_geometry_slope": 5.01149365045961,
+        "actual_final_coefficients": [
+          1.7806258481114754,
+          5.01149365045961,
+          3.227135125577235
+        ]
+      },
+      "G_ONLY": {
+        "base_intercept": 1.7806258481114754,
+        "base_geometry_slope": 5.01149365045961,
+        "actual_final_coefficients": [
+          1.7806258481114754,
+          5.01149365045961,
+          0.0
+        ]
+      }
+    },
+    "20261018": {
+      "HARD_FIXED": {
+        "base_intercept": 1.847341714462164,
+        "base_geometry_slope": 5.329724962871064,
+        "actual_final_coefficients": [
+          1.847341714462164,
+          5.329724962871064,
+          3.7957369269075034
+        ]
+      },
+      "SOFT_CENTERED": {
+        "base_intercept": 1.847341714462164,
+        "base_geometry_slope": 5.329724962871064,
+        "actual_final_coefficients": [
+          1.6921483929301835,
+          1.6189916839397425,
+          5.4624401513869545
+        ]
+      },
+      "FREE_FUSION": {
+        "base_intercept": 1.847341714462164,
+        "base_geometry_slope": 5.329724962871064,
+        "actual_final_coefficients": [
+          1.6316591940494152,
+          1.4219436329492123,
+          5.527683487424373
+        ]
+      },
+      "SELF": {
+        "base_intercept": 1.847341714462164,
+        "base_geometry_slope": 5.329724962871064,
+        "actual_final_coefficients": [
+          1.847341714462164,
+          5.329724962871064,
+          0.0
+        ]
+      },
+      "FIXED_HARD_POINT1": {
+        "base_intercept": 1.847341714462164,
+        "base_geometry_slope": 5.329724962871064,
+        "actual_final_coefficients": [
+          1.847341714462164,
+          5.329724962871064,
+          2.9242477617368743
+        ]
+      },
+      "G_ONLY": {
+        "base_intercept": 1.847341714462164,
+        "base_geometry_slope": 5.329724962871064,
+        "actual_final_coefficients": [
+          1.847341714462164,
+          5.329724962871064,
+          0.0
+        ]
+      }
+    }
+  },
+  "limitations": "Paired within-category/label uniqueacquisitiongroup bootstrap conditionalonactualfrozenNNs andCselectedheads. Fixed3classes,notphysicalidentity/training/selectionuncertainty. SelectionOOFnotindependentestimate, Csettingshistoricallyexposed. ExploratoryCIwithoutmultiplicitycontrol. Leavingoutclass isfixedsensitivitynotnewselectionorpermissiontodropit."
+}

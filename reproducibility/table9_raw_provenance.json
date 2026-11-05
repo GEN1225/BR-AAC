@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "experiment": "EXP-P3-SCALAR-CARRIER-MATCHED-TRAINING-DEV-20261030",
+      "file": "ALL_V_RAW_BEFORE_METRICS.npz",
+      "sha256": "d3ff435d16fb453a2e0b3d50286172b3c7651f903a106e3d644dc4131ae81c6c"
+    },
+    {
+      "experiment": "EXP-P3-RGB-NORMAL-FIT-COVERAGE-WARMSTART-MATCHED-DEV-20261030",
+      "file": "ALL_V_RAW_BEFORE_METRICS.npz",
+      "sha256": "f0903ba765b7fa4eac2bb1188934975dc189202df08b9452e615193175a76734"
+    }
+  ],
+  "role_config_sha256": "d08c24c5e49a6e30617831b59a7b64b7c2ff50aba34a3424947873b7d00a8b4d"
+}

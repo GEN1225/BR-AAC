@@ -1,0 +1,644 @@
+{
+  "status": "COMPLETE",
+  "completed": "2026-10-30T01:17:55.507736+08:00",
+  "results": {
+    "audio_jack_socket": {
+      "STAGE1": {
+        "20261017": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.026313245757387912,
+              "mean_gaussian": 0.08758073185608552,
+              "mean_combined": 0.09515881838695127,
+              "mean_fixed_ROI": 5.2821207920811615,
+              "nuisance_over_fixed_edit": 0.018015267376999645
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.02208992852639331,
+              "mean_gaussian": 0.04937462167272686,
+              "mean_combined": 0.057228632946023525,
+              "mean_fixed_ROI": 3.4567407051063315,
+              "nuisance_over_fixed_edit": 0.016555662639516126
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.014107395873443052,
+              "mean_gaussian": 0.03765858550869613,
+              "mean_combined": 0.042319721109899025,
+              "mean_fixed_ROI": 4.504454286930589,
+              "nuisance_over_fixed_edit": 0.009395082825612688
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.521506710336563,
+              "conditional_CI95": [
+                0.48865707321813373,
+                0.559934404734482
+              ],
+              "mean_nuisance_difference": -0.052839097277052244,
+              "nuisance_difference_CI95": [
+                -0.0587487445758152,
+                -0.04720484364590114
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.5674845537857178,
+              "conditional_CI95": [
+                0.49139700734312114,
+                0.653498869590997
+              ],
+              "mean_nuisance_difference": -0.0149089118361245,
+              "nuisance_difference_CI95": [
+                -0.016451488722267812,
+                -0.013468301786247607
+              ]
+            }
+          }
+        },
+        "20261018": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.02773917676899962,
+              "mean_gaussian": 0.0823934715934934,
+              "mean_combined": 0.09051834020231452,
+              "mean_fixed_ROI": 5.461908689199956,
+              "nuisance_over_fixed_edit": 0.016572657170432003
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.015224614254274994,
+              "mean_gaussian": 0.0347064420941989,
+              "mean_combined": 0.040113697564989635,
+              "mean_fixed_ROI": 3.504303222807238,
+              "nuisance_over_fixed_edit": 0.011446982471127378
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.013121440245209224,
+              "mean_gaussian": 0.037723489778059324,
+              "mean_combined": 0.04167173275895113,
+              "mean_fixed_ROI": 4.023793331770302,
+              "nuisance_over_fixed_edit": 0.010356330289114847
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.624904635545833,
+              "conditional_CI95": [
+                0.5720922253501163,
+                0.6864377003884694
+              ],
+              "mean_nuisance_difference": -0.04884660744336339,
+              "nuisance_difference_CI95": [
+                -0.0552514594297723,
+                -0.042986613787397064
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.9047214246406445,
+              "conditional_CI95": [
+                0.7932835776220144,
+                1.0212299617248202
+              ],
+              "mean_nuisance_difference": 0.001558035193961492,
+              "nuisance_difference_CI95": [
+                -0.00014959159984290812,
+                0.0032227976429418763
+              ]
+            }
+          }
+        }
+      },
+      "FINAL": {
+        "20261017": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.050005647225533516,
+              "mean_gaussian": 0.20955842854074982,
+              "mean_combined": 0.2178834420153681,
+              "mean_fixed_ROI": 11.068287371220638,
+              "nuisance_over_fixed_edit": 0.019685379924440773
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.05172039244361982,
+              "mean_gaussian": 0.15953222253568927,
+              "mean_combined": 0.1706955587985564,
+              "mean_fixed_ROI": 8.423184389495576,
+              "nuisance_over_fixed_edit": 0.020264967606719878
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.041111479708164624,
+              "mean_gaussian": 0.1373850197759362,
+              "mean_combined": 0.14568344492237179,
+              "mean_fixed_ROI": 9.357627998593225,
+              "nuisance_over_fixed_edit": 0.015568415943043798
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.7908618478688604,
+              "conditional_CI95": [
+                0.7472246008367298,
+                0.840892277234772
+              ],
+              "mean_nuisance_difference": -0.07219999709299632,
+              "nuisance_difference_CI95": [
+                -0.08175248838818577,
+                -0.06334332090194279
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.768242824029055,
+              "conditional_CI95": [
+                0.6766603873504395,
+                0.8528887205349015
+              ],
+              "mean_nuisance_difference": -0.025012113876184627,
+              "nuisance_difference_CI95": [
+                -0.02928007549549244,
+                -0.020380785614157047
+              ]
+            }
+          }
+        },
+        "20261018": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.038254921666669606,
+              "mean_gaussian": 0.13236495228579306,
+              "mean_combined": 0.14440020211801238,
+              "mean_fixed_ROI": 12.08632975003245,
+              "nuisance_over_fixed_edit": 0.011947398846835591
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.03560103004209089,
+              "mean_gaussian": 0.0956524865777821,
+              "mean_combined": 0.10612962419661331,
+              "mean_fixed_ROI": 9.475035640544125,
+              "nuisance_over_fixed_edit": 0.011200973613490133
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.03457950315989402,
+              "mean_gaussian": 0.10406374956994337,
+              "mean_combined": 0.11299665175302297,
+              "mean_fixed_ROI": 10.40716354007689,
+              "nuisance_over_fixed_edit": 0.010857583943779182
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.9087822448193349,
+              "conditional_CI95": [
+                0.8434739557747972,
+                0.9912867656109082
+              ],
+              "mean_nuisance_difference": -0.031403550364989416,
+              "nuisance_difference_CI95": [
+                -0.03724741004074789,
+                -0.02584515653778703
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.9693428730786954,
+              "conditional_CI95": [
+                0.8726673832795913,
+                1.0636392364183735
+              ],
+              "mean_nuisance_difference": 0.006867027556409652,
+              "nuisance_difference_CI95": [
+                0.002682444853328011,
+                0.011454604290026628
+              ]
+            }
+          }
+        }
+      }
+    },
+    "humidity_sensor": {
+      "STAGE1": {
+        "20261017": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.011719879127131442,
+              "mean_gaussian": 0.06460707771997803,
+              "mean_combined": 0.06650596910801071,
+              "mean_fixed_ROI": 1.5807466906277488,
+              "nuisance_over_fixed_edit": 0.04207250250930448
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.01307348089101605,
+              "mean_gaussian": 0.04875173746273877,
+              "mean_combined": 0.0507387729982535,
+              "mean_fixed_ROI": 1.8413483493973335,
+              "nuisance_over_fixed_edit": 0.02755522767588225
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.013251993217123434,
+              "mean_gaussian": 0.05073881746890644,
+              "mean_combined": 0.05288919122316516,
+              "mean_fixed_ROI": 2.1274503980500574,
+              "nuisance_over_fixed_edit": 0.024860363969774077
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.5908933979925753,
+              "conditional_CI95": [
+                0.513539871509178,
+                0.6529551807781208
+              ],
+              "mean_nuisance_difference": -0.013616777884845548,
+              "nuisance_difference_CI95": [
+                -0.017806866725023164,
+                -0.009880318226388254
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.9022013631022596,
+              "conditional_CI95": [
+                0.7776639900477089,
+                0.9999259308497827
+              ],
+              "mean_nuisance_difference": 0.00215041822491166,
+              "nuisance_difference_CI95": [
+                -5.109158034123572e-07,
+                0.004223213773459581
+              ]
+            }
+          }
+        },
+        "20261018": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.011237387426006488,
+              "mean_gaussian": 0.048897717046575286,
+              "mean_combined": 0.05022977459698151,
+              "mean_fixed_ROI": 1.247784799382759,
+              "nuisance_over_fixed_edit": 0.040255158278758196
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.012599003047515184,
+              "mean_gaussian": 0.049887706322643235,
+              "mean_combined": 0.05180389496187369,
+              "mean_fixed_ROI": 1.907235521882868,
+              "nuisance_over_fixed_edit": 0.027161771248226153
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.016335934478168685,
+              "mean_gaussian": 0.05658274197664399,
+              "mean_combined": 0.05959751250413366,
+              "mean_fixed_ROI": 1.6111969231412961,
+              "nuisance_over_fixed_edit": 0.03698958932216578
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.9188782482488564,
+              "conditional_CI95": [
+                0.7767527415876382,
+                1.0785057544683285
+              ],
+              "mean_nuisance_difference": 0.009367737907152146,
+              "nuisance_difference_CI95": [
+                0.006901502669251595,
+                0.011842822435144817
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 1.3618253752351093,
+              "conditional_CI95": [
+                1.1568118963108829,
+                1.7033110407385552
+              ],
+              "mean_nuisance_difference": 0.007793617542259969,
+              "nuisance_difference_CI95": [
+                0.005742010388236775,
+                0.010049390357632472
+              ]
+            }
+          }
+        }
+      },
+      "FINAL": {
+        "20261017": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.015054891190419976,
+              "mean_gaussian": 0.09085034401132128,
+              "mean_combined": 0.09168817431259996,
+              "mean_fixed_ROI": 2.713072389734197,
+              "nuisance_over_fixed_edit": 0.03379496052502409
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.027830475851750143,
+              "mean_gaussian": 0.13616123764465252,
+              "mean_combined": 0.13811417394437087,
+              "mean_fixed_ROI": 2.7368063488975167,
+              "nuisance_over_fixed_edit": 0.05046545364819407
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.031085167360754732,
+              "mean_gaussian": 0.1990348579457555,
+              "mean_combined": 0.19978995327479565,
+              "mean_fixed_ROI": 3.4173645175611362,
+              "nuisance_over_fixed_edit": 0.05846316722963442
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 1.7299374321311696,
+              "conditional_CI95": [
+                1.4758212675006692,
+                1.9799350868493721
+              ],
+              "mean_nuisance_difference": 0.1081017789621957,
+              "nuisance_difference_CI95": [
+                0.09434651422183005,
+                0.12186188750022733
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 1.1584789792477483,
+              "conditional_CI95": [
+                0.9921008635637318,
+                1.3635734847369543
+              ],
+              "mean_nuisance_difference": 0.061675779330424785,
+              "nuisance_difference_CI95": [
+                0.05303335161043856,
+                0.07074167782333321
+              ]
+            }
+          }
+        },
+        "20261018": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.018314213936742492,
+              "mean_gaussian": 0.1148381945796502,
+              "mean_combined": 0.11554969863918348,
+              "mean_fixed_ROI": 2.719558281540417,
+              "nuisance_over_fixed_edit": 0.04248840682088034
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.021700740290375855,
+              "mean_gaussian": 0.08678620896087243,
+              "mean_combined": 0.09008386355036727,
+              "mean_fixed_ROI": 3.312578471711813,
+              "nuisance_over_fixed_edit": 0.0271944843932453
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.030673878171887152,
+              "mean_gaussian": 0.2050122359337715,
+              "mean_combined": 0.20620538136706903,
+              "mean_fixed_ROI": 2.9983291126405582,
+              "nuisance_over_fixed_edit": 0.0687734313413876
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 1.6186399182091675,
+              "conditional_CI95": [
+                1.417230682397928,
+                1.8571805223567308
+              ],
+              "mean_nuisance_difference": 0.09065568272788556,
+              "nuisance_difference_CI95": [
+                0.07969377581388332,
+                0.10164849710686562
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 2.5289477949605796,
+              "conditional_CI95": [
+                2.1674293997065086,
+                3.2167109898908146
+              ],
+              "mean_nuisance_difference": 0.11612151781670177,
+              "nuisance_difference_CI95": [
+                0.10167232958349186,
+                0.13066056554014674
+              ]
+            }
+          }
+        }
+      }
+    },
+    "lego_propeller": {
+      "STAGE1": {
+        "20261017": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.016776657464850523,
+              "mean_gaussian": 0.07539853948930447,
+              "mean_combined": 0.07875662969044325,
+              "mean_fixed_ROI": 9.94245278685015,
+              "nuisance_over_fixed_edit": 0.007921247541110425
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.01305310857688627,
+              "mean_gaussian": 0.05063045767284083,
+              "mean_combined": 0.054225817703726614,
+              "mean_fixed_ROI": 8.203518557870252,
+              "nuisance_over_fixed_edit": 0.006610068267804881
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.00787213271938857,
+              "mean_gaussian": 0.035401866591366175,
+              "mean_combined": 0.03734921010486274,
+              "mean_fixed_ROI": 8.33479010220617,
+              "nuisance_over_fixed_edit": 0.004481121857523037
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.5657091050704445,
+              "conditional_CI95": [
+                0.5260046217086525,
+                0.6064088387570329
+              ],
+              "mean_nuisance_difference": -0.041407419585580515,
+              "nuisance_difference_CI95": [
+                -0.04640628653525545,
+                -0.036500415333086324
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.6779236879214805,
+              "conditional_CI95": [
+                0.6300221322985966,
+                0.733252657809404
+              ],
+              "mean_nuisance_difference": -0.016876607598863877,
+              "nuisance_difference_CI95": [
+                -0.019552586572535804,
+                -0.014367835130674805
+              ]
+            }
+          }
+        },
+        "20261018": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.01236652808703101,
+              "mean_gaussian": 0.06395153439900075,
+              "mean_combined": 0.06635804952714931,
+              "mean_fixed_ROI": 9.286073284805752,
+              "nuisance_over_fixed_edit": 0.007145975213842758
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.01049600542253095,
+              "mean_gaussian": 0.04357191498010335,
+              "mean_combined": 0.04622112959623337,
+              "mean_fixed_ROI": 7.983268767399502,
+              "nuisance_over_fixed_edit": 0.005789749906076331
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.01147088700037619,
+              "mean_gaussian": 0.040471041432200844,
+              "mean_combined": 0.043538312464740804,
+              "mean_fixed_ROI": 8.23788071260523,
+              "nuisance_over_fixed_edit": 0.0052851350952582326
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.7395960575150307,
+              "conditional_CI95": [
+                0.7076232790318416,
+                0.7770318544083452
+              ],
+              "mean_nuisance_difference": -0.02281973706240851,
+              "nuisance_difference_CI95": [
+                -0.025706334767693823,
+                -0.019770369374203834
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.9128434182815901,
+              "conditional_CI95": [
+                0.8561482248983201,
+                0.9831214878250965
+              ],
+              "mean_nuisance_difference": -0.002682817131492564,
+              "nuisance_difference_CI95": [
+                -0.004119515070421833,
+                -0.0012272928681341046
+              ]
+            }
+          }
+        }
+      },
+      "FINAL": {
+        "20261017": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.02663662224023772,
+              "mean_gaussian": 0.21969486129554835,
+              "mean_combined": 0.2199274880007248,
+              "mean_fixed_ROI": 19.148778916961007,
+              "nuisance_over_fixed_edit": 0.011485196468894647
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.022512299044385807,
+              "mean_gaussian": 0.12335979138416323,
+              "mean_combined": 0.12606380209961737,
+              "mean_fixed_ROI": 16.804445540828798,
+              "nuisance_over_fixed_edit": 0.007501812647928632
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.014746395157999359,
+              "mean_gaussian": 0.06900337594561279,
+              "mean_combined": 0.07162897978824648,
+              "mean_fixed_ROI": 16.103588147385214,
+              "nuisance_over_fixed_edit": 0.0044480136434610126
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 0.38728232951935704,
+              "conditional_CI95": [
+                0.355687722626613,
+                0.42048681976585045
+              ],
+              "mean_nuisance_difference": -0.14829850821247834,
+              "nuisance_difference_CI95": [
+                -0.16866639099105007,
+                -0.12920967190875673
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 0.5929251838472904,
+              "conditional_CI95": [
+                0.5320394396606002,
+                0.664537732104694
+              ],
+              "mean_nuisance_difference": -0.054434822311370895,
+              "nuisance_difference_CI95": [
+                -0.062353713282341634,
+                -0.047216441146023996
+              ]
+            }
+          }
+        },
+        "20261018": {
+          "models": {
+            "PRESET": {
+              "mean_plane": 0.01975568558158226,
+              "mean_gaussian": 0.18968514602800662,
+              "mean_combined": 0.18889040419493208,
+              "mean_fixed_ROI": 20.20308895533989,
+              "nuisance_over_fixed_edit": 0.009349580384093016
+            },
+            "CONTEXT_PAIRED": {
+              "mean_plane": 0.018808243872957642,
+              "mean_gaussian": 0.09349965476642617,
+              "mean_combined": 0.09622246840841729,
+              "mean_fixed_ROI": 18.43805860291997,
+              "nuisance_over_fixed_edit": 0.005218687633044993
+            },
+            "CONTEXT_PERMUTED": {
+              "mean_plane": 0.025395799274768004,
+              "mean_gaussian": 0.21091533373956653,
+              "mean_combined": 0.211059160170738,
+              "mean_fixed_ROI": 18.84754414708269,
+              "nuisance_over_fixed_edit": 0.011198231372940263
+            }
+          },
+          "effects": {
+            "CONTEXT_PERMUTED_over_PRESET": {
+              "ratio": 1.1977255569664351,
+              "conditional_CI95": [
+                1.1231114298125047,
+                1.2876467904954612
+              ],
+              "mean_nuisance_difference": 0.02216875597580592,
+              "nuisance_difference_CI95": [
+                0.01417405303535898,
+                0.030505784162299033
+              ]
+            },
+            "CONTEXT_PERMUTED_over_CONTEXT_PAIRED": {
+              "ratio": 2.1457945292668024,
+              "conditional_CI95": [
+                2.0088757700899222,
+                2.3064234995848816
+              ],
+              "mean_nuisance_difference": 0.11483669176232071,
+              "nuisance_difference_CI95": [
+                0.0961594432285479,
+                0.13393701366228264
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "actual_image_forwards": 19008,
+  "NN_updates": 0,
+  "probability_fits": 0,
+  "real_anomaly_array_reads": 0,
+  "device": "CPU_float32",
+  "code": "${DRIVE_F}/论文一~五/03_代码/analysis/p3_context_amplitude_binding_mechanism_cpu_20261030.py",
+  "code_sha256": "0be7dd577c0ff1e5839272afc2479e467b954f8815de90e1c14fc3fd821ef1e7",
+  "scope": "Predeclared diagnostics of all3arms/2seeds/2stages; fixed132normalgroups/twoCPU replicas, not independent confirmation or newtaskscore"
+}

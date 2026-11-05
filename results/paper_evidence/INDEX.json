@@ -1,0 +1,250 @@
+[
+  {
+    "file": "results/paper_evidence/calibration_OOF_reconstruction_20261101.json",
+    "experiment": null,
+    "source_file": "calibration_OOF_reconstruction_20261101.json",
+    "source_sha256": "5bbc9f389e56d211669c6708aa37f123033e669bf4c5cd23757ea38b4f954dca",
+    "included_sha256": "2fabf7de826958ca1c310885fcdcc99ed8515df06991cbb47ab7e9c2b2c83768",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/component_effects_and_CI_tables_20261031.json",
+    "experiment": null,
+    "source_file": "component_effects_and_CI_tables_20261031.json",
+    "source_sha256": "b3e4dd4ba8db389358d560ca1909b6933075e3014e47ca84290ca00f38cb396d",
+    "included_sha256": "a19bb423eae024a083038a63fcad2945088eabbf080fccd680de4a42a8ce86cd",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030__ALL_SELECTED_HEADS_BEFORE_V.json",
+    "experiment": "EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030",
+    "source_file": "ALL_SELECTED_HEADS_BEFORE_V.json",
+    "source_sha256": "803a520653e053551958651d83f3726c924dc6ae4e5f187f0aeb5711a0bbe515",
+    "included_sha256": "10975be31be4544a6fc651356497ce832f0515046776925fb0f81006625e98ca",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/core_records/EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030__PAIRED_EFFECTS_AND_CLASS_SENSITIVITY.json",
+    "experiment": "EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030",
+    "source_file": "PAIRED_EFFECTS_AND_CLASS_SENSITIVITY.json",
+    "source_sha256": "8a9b891ef24a44c3c9bf4f6e967b5feef8e92b44098dc701f8e827784da5ab56",
+    "included_sha256": "2317219255714fa9237ea8795c6a556870eee3bc6b043bf2de86800d5a36ad4a",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/core_records/EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030__results.json",
+    "experiment": "EXP-P3-CANONICAL-CANDIDATE-C-ONLY-FUSION-CONTROLS-20261030",
+    "source_file": "results.json",
+    "source_sha256": "cee9bdaa0cb5e17be368f594968f0314977da23546b9e7c9457abaa26aad8751",
+    "included_sha256": "145c3cad2a4bdc229aad0798eb09b2f632671151af375382a4c81d6fa86d9cad",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-COMPLETE-RECIPE-TWO-TRAINING-SEED-STABILITY-DEV-20261029__results.json",
+    "experiment": "EXP-P3-COMPLETE-RECIPE-TWO-TRAINING-SEED-STABILITY-DEV-20261029",
+    "source_file": "results.json",
+    "source_sha256": "cacc747ced1281f0840dc39d18963e0a7e495d45ca211d4732f8b99bc74ab3cb",
+    "included_sha256": "aeb72c14ad5d813ab3b25f49f1c79ad7d4ae172073a214d87b77b6cd968cd534",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__ALL9_C_HEADS_BEFORE_V.json",
+    "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
+    "source_file": "ALL9_C_HEADS_BEFORE_V.json",
+    "source_sha256": "f9a3c9b491426321a0200fb5a7fc1541753223ad5140397d094fd43bfb8745d3",
+    "included_sha256": "a8c5bafafc7f11b07a882acf515e8caffd27b10890e0525bbe10228ef551ee39",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__C_SCORES.npz",
+    "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
+    "source_file": "C_SCORES.npz",
+    "source_sha256": "a3b674f6ed72442f2afadc5c2f68592d244cac04ce7f7c161f3bd659bced1b07",
+    "included_sha256": "a3b674f6ed72442f2afadc5c2f68592d244cac04ce7f7c161f3bd659bced1b07",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__NORMAL_HOLD_MECHANISM_RESULTS.json",
+    "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
+    "source_file": "NORMAL_HOLD_MECHANISM_RESULTS.json",
+    "source_sha256": "a4ed2ea195d2a0bb82336b56cd607eccdf2331813e937c3586ca47e4e2438b1b",
+    "included_sha256": "0643f4255aaee8e20269edb45fd2995e9a0057cd03f07f9484d68f7300752f95",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__PAIRED_BOOTSTRAP_IMPLEMENTATION_PREFLIGHT.json",
+    "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
+    "source_file": "PAIRED_BOOTSTRAP_IMPLEMENTATION_PREFLIGHT.json",
+    "source_sha256": "4eade941a9e2e8704886664766d9d72ffce6aaf21fa8131d0126c4707f610eb3",
+    "included_sha256": "233485749d51253e3e752a724cf971c5fda7f4b9b951694c6b077b98ff1d2357",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__results.json",
+    "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
+    "source_file": "results.json",
+    "source_sha256": "2a198d8fd14345d2ad7762411bf7e1ec2a3d8e48cf3cb7ae2f87eb2d2e8fa54a",
+    "included_sha256": "48196f7d73b9f85bfcfd5ff2078a77b2a4114ecef93bd624c4df445e5ecd0690",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030__V_SCORES.npz",
+    "experiment": "EXP-P3-CONTEXT-AMPLITUDE-BINDING-CONTROLLED-TRAINING-DEV-20261030",
+    "source_file": "V_SCORES.npz",
+    "source_sha256": "12a7e8b5b15be6f4a0e57a067afe6e386ef2c5f70f07cab7be5320cbf91d1462",
+    "included_sha256": "12a7e8b5b15be6f4a0e57a067afe6e386ef2c5f70f07cab7be5320cbf91d1462",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030__ALL_MATCHED_C_HEADS_BEFORE_NEW_V.json",
+    "experiment": "EXP-P3-CURRENT350-3DSR-SAME-RGB-MATCHED-CONTROLS-DEV-20261030",
+    "source_file": "ALL_MATCHED_C_HEADS_BEFORE_NEW_V.json",
+    "source_sha256": "dc4a04d70631be8fe79e179e2c4d52dd97845a5878b6a3745bb0329fb647311f",
+    "included_sha256": "a250ac43cccbdf7b2eaf65fca5d9928c2634a1f56d853b4b1e9ee041f43f5319",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-EXISTING-SEED-PAIRED-EFFECTS-DEV-20261029__results.json",
+    "experiment": "EXP-P3-EXISTING-SEED-PAIRED-EFFECTS-DEV-20261029",
+    "source_file": "results.json",
+    "source_sha256": "5340d1354ae5d9480addbfde9d3e85d5ddec16b6d60ef9fb5964057dd488c5fe",
+    "included_sha256": "57fb27870c033ac3ba80f1a97245d810bdcc7781868087a6e4870308e3ca8edc",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-FIXED-GEOMETRY-RGB-RESIDUAL-C63-DEV-20261029__GLOBAL_CONTROL_RESULTS.json",
+    "experiment": "EXP-P3-FIXED-GEOMETRY-RGB-RESIDUAL-C63-DEV-20261029",
+    "source_file": "GLOBAL_CONTROL_RESULTS.json",
+    "source_sha256": "c3a7d870c988761c3b21130177e6c4914bd75951a72a64be790f53461b1f933a",
+    "included_sha256": "a1b4d2af69c7c71b921432e84ede7857ba2bfcfd26ada4e5e89e43cd737fa606",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-FIXED-GEOMETRY-RGB-RESIDUAL-C63-DEV-20261029__results.json",
+    "experiment": "EXP-P3-FIXED-GEOMETRY-RGB-RESIDUAL-C63-DEV-20261029",
+    "source_file": "results.json",
+    "source_sha256": "08cd7132641ba00951f50b07000b93a1be9f6dc6868dcd10f9d504382ec127d8",
+    "included_sha256": "6f60c7b2723fb0522b537fdf7b9edde77b9a243c90ffbb2b65dd5a569d596d72",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-FIXED-GEOMETRY-RGB-RESIDUAL-C63-DEV-20261029__SELF_CONTROL_RESULTS.json",
+    "experiment": "EXP-P3-FIXED-GEOMETRY-RGB-RESIDUAL-C63-DEV-20261029",
+    "source_file": "SELF_CONTROL_RESULTS.json",
+    "source_sha256": "1a78ef7a59403a3bb0de088e84657776318908245c53f1d7a31d18ab764c2905",
+    "included_sha256": "63a3287ac2ca1c68c36c98a2bdfcc44290426f1f48e85ad9f2bebfb254229231",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-GEOMETRY-CENTERED-SHRINKAGE-CONTROL-DEV-20261029__results.json",
+    "experiment": "EXP-P3-GEOMETRY-CENTERED-SHRINKAGE-CONTROL-DEV-20261029",
+    "source_file": "results.json",
+    "source_sha256": "0befb68fb286d7d572fb20e89f7b10e89e64fcc26f1ede941abfb7aac5085b9b",
+    "included_sha256": "fee11fe29ff585baf1c904a8cc9f0824d8cf8a19ef0c6795373df0349573dc3d",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__ALL_C_SELECTED_HEADS_BEFORE_V.json",
+    "experiment": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030",
+    "source_file": "ALL_C_SELECTED_HEADS_BEFORE_V.json",
+    "source_sha256": "91574a881f531340a38681deba8a309aa318d0fc387e194e48522abb376f87e2",
+    "included_sha256": "d721f291b624a918579ea3d285ca63f1d2e0d10a7b5477edca124f1397eeb1d7",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__METRIC_AND_FIXED_HEAD_REPLAY.json",
+    "experiment": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030",
+    "source_file": "METRIC_AND_FIXED_HEAD_REPLAY.json",
+    "source_sha256": "bf2a7380f1f85dc1f7df46bf8880b822810419741106a090fa2c9b97a3873aa0",
+    "included_sha256": "834629d9e17990d726550bda09ea3adea38d22b8574f699346a07f70dc24a987",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/core_records/EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__PAIRED_EFFECTS.json",
+    "experiment": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030",
+    "source_file": "PAIRED_EFFECTS.json",
+    "source_sha256": "5b230ebc00b18e3146663f56563b9d1422193ac6b8b0f992e0c09eb1ee640f3a",
+    "included_sha256": "ac0c7687ec346b54bdf42b1e626c3dc983a2e71c8f416e19e34e9bc7d2a24ed8",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/core_records/EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030__results.json",
+    "experiment": "EXP-P3-PD-SAVED-SCORE-MATCHED-FUSION-CONTROLS-DEV-20261030",
+    "source_file": "results.json",
+    "source_sha256": "754f5e25e790975fccb6c1ea15a01ae72094506656cf2f309abfcd80b0cb4d0f",
+    "included_sha256": "d33fc7c5b82be998d9155ee291a004fb5ddb4fa2491beab896c2340398e3b4c9",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-PDREAL-FIXED-GEOMETRY-RGB-RESIDUAL-HYPERPARAMETER-TRANSFER-DEV-20261029__results.json",
+    "experiment": "EXP-P3-PDREAL-FIXED-GEOMETRY-RGB-RESIDUAL-HYPERPARAMETER-TRANSFER-DEV-20261029",
+    "source_file": "results.json",
+    "source_sha256": "662b4a48cd54afa968380d95bfe78cb47b84b2bb540f0067c21d522f081db19b",
+    "included_sha256": "654786cc81280120fc54956255ed01046a92bfd197e145d14e7a2241d417a103",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/EXP-P3-REALIAD-LOCAL-GEOMETRY-FROZEN-350-GROUP-CONFIRMATION-20261018__results.json",
+    "experiment": "EXP-P3-REALIAD-LOCAL-GEOMETRY-FROZEN-350-GROUP-CONFIRMATION-20261018",
+    "source_file": "results.json",
+    "source_sha256": "9a9f10d9de5e16cbd48807f1c3870eed98e97e79c33c50fa78c263685eb5cb0e",
+    "included_sha256": "95a8fb4c9e11bf98b11dba1e4b017fedbe880eb7c5382614f2d29382bc98e1d1",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/core_records/EXP-P3-SUPPORT-ROLE-STRATIFIED-FROZEN-EVIDENCE-DEV-20261030__results.json",
+    "experiment": "EXP-P3-SUPPORT-ROLE-STRATIFIED-FROZEN-EVIDENCE-DEV-20261030",
+    "source_file": "results.json",
+    "source_sha256": "e352c59fbaee574341b9e5d1cce0d3aac81bfa3cc2835b820904c4b6e07ff118",
+    "included_sha256": "e352c59fbaee574341b9e5d1cce0d3aac81bfa3cc2835b820904c4b6e07ff118",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/Figure7_L01_L05_image_alignment_20261101.json",
+    "experiment": null,
+    "source_file": "Figure7_L01_L05_image_alignment_20261101.json",
+    "source_sha256": "081d429926274374d5ecb93898af6dbc386b7ce4a6ce9b1c6657c568578b9e25",
+    "included_sha256": "4645c9293c886337a9816b0411f72e9b10a61fdf7b05a1f75a7ebb60eb0fe052",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/Figure7_release_mask_response_check_20261101.json",
+    "experiment": null,
+    "source_file": "Figure7_release_mask_response_check_20261101.json",
+    "source_sha256": "fc7682d1c9200903b451804de1ed5f81e4db7f02382f4f07ca182d6317d8e2d9",
+    "included_sha256": "d5e30248fde23369e279a023243382bcc153673d06f28cc944661e84da2c744a",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/Figure7_release_roi_20261101.json",
+    "experiment": null,
+    "source_file": "Figure7_release_roi_20261101.json",
+    "source_sha256": "c4a4ed646db65bcd2ba30c4ae7fc92b275c848b57d11fc93d99fafbb69b2abc2",
+    "included_sha256": "096187fcdda266f8c8d97bedfecd52ac42c24506c1d8b98981e49527a40e6345",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/frozen_spatial_examples_20261101.json",
+    "experiment": null,
+    "source_file": "frozen_spatial_examples_20261101.json",
+    "source_sha256": "5e8add0a9d1eed9c96c74acbd7854ad2dcf710dd98a56d07379e85067e5fe33e",
+    "included_sha256": "66a99614b6f17fb9a07562285ce1850a3f3344719459fbfe0088b4b43924b377",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/score_correlation_analysis_20261031.json",
+    "experiment": null,
+    "source_file": "score_correlation_analysis_20261031.json",
+    "source_sha256": "9c69fd803e59119f0c4af196bc76b28beaa4ed23d45e357212ae0bf2599e1ac6",
+    "included_sha256": "7cbd97a9c08729fe288e8525ead26c12c3f10e76ea03cc400d151bbf287ecd33",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  },
+  {
+    "file": "results/paper_evidence/topk_support_audit_20261101.json",
+    "experiment": null,
+    "source_file": "topk_support_audit_20261101.json",
+    "source_sha256": "476c725ea9379ab7afd1483a6bccd788e70a874747aa45faef3cbed48f01eaf7",
+    "included_sha256": "dbf7c815dc7413a806b1ce77e9b2e943e13503b62f1c642a7cb70f8caa9b1d67",
+    "transformation": "Drive paths replaced by explicit placeholders for JSON; numeric values retained; binary arrays copied unchanged"
+  }
+]

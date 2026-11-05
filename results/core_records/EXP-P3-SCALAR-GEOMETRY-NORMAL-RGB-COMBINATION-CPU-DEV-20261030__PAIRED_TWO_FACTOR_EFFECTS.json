@@ -1,0 +1,239 @@
+{
+  "status": "COMPLETE",
+  "created": "2026-10-30T08:23:49.484785+08:00",
+  "code_sha256": "ad30847886a2baa1b557706c1bfc75aa04966e3032db0afb1e5c2a9f40da6759",
+  "source_results_sha256": "a92d42b3b865980c2d2f8e3bf997c41ce65252b3ce92109697731691ffdafc8e",
+  "replicates": 5000,
+  "interpretation": "Paired category/label-stratified bootstrap of unique registered acquisition groups,5000draws,sameindices for4cells. Fixedclassmacro. Conditional on actual frozenNN/head choices; notphysicalidentity/training/selection uncertainty orindependentconfirmation. No multiplicity adjustment; exploratory intervals. Brierinteraction=joint-canonicalReplay-originalNormal+originalReplay,negative indicates lowererror beyond additive cellchange,notproof ofuniversal mechanism.",
+  "results": {
+    "ALL": {
+      "n": 350,
+      "metrics": {
+        "ORIGINAL__E_NEGATIVE_REPLAY": {
+          "Brier": 0.016840867310911768,
+          "AUROC": 0.9996
+        },
+        "CANONICAL__E_NEGATIVE_REPLAY": {
+          "Brier": 0.015327921144595741,
+          "AUROC": 0.9997333333333334
+        },
+        "ORIGINAL__NORMAL_FIT_COVERAGE": {
+          "Brier": 0.021757722119951712,
+          "AUROC": 0.9984000000000001
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE": {
+          "Brier": 0.008813653861853173,
+          "AUROC": 1.0
+        }
+      },
+      "effects": {
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+          "Brier": {
+            "delta": -0.008027213449058594,
+            "conditional95CI": [
+              -0.020192318208317322,
+              0.000715091471898231
+            ]
+          },
+          "AUROC": {
+            "delta": 0.00039999999999995595,
+            "conditional95CI": [
+              0.0,
+              0.001866666666666572
+            ]
+          }
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+          "Brier": {
+            "delta": -0.006514267282742568,
+            "conditional95CI": [
+              -0.021050172641368284,
+              0.004675751977595134
+            ]
+          },
+          "AUROC": {
+            "delta": 0.0002666666666666373,
+            "conditional95CI": [
+              0.0,
+              0.0013333333333332975
+            ]
+          }
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+          "Brier": {
+            "delta": -0.012944068258098539,
+            "conditional95CI": [
+              -0.020261282616056614,
+              -0.006082971801452127
+            ]
+          },
+          "AUROC": {
+            "delta": 0.0015999999999999348,
+            "conditional95CI": [
+              0.0,
+              0.005066666666666664
+            ]
+          }
+        },
+        "two_factor_interaction": {
+          "Brier": {
+            "delta": -0.01143112209178251,
+            "conditional95CI": [
+              -0.01797717218697384,
+              -0.005306926898009922
+            ]
+          },
+          "AUROC": {
+            "delta": 0.0014666666666666162,
+            "conditional95CI": [
+              -0.0005333333333332746,
+              0.004933333333333234
+            ]
+          }
+        }
+      }
+    },
+    "NORMAL_HOLD": {
+      "n": 132,
+      "metrics": {
+        "ORIGINAL__E_NEGATIVE_REPLAY": {
+          "normal_MSE": 0.7324706538931346
+        },
+        "CANONICAL__E_NEGATIVE_REPLAY": {
+          "normal_MSE": 0.68142672381583
+        },
+        "ORIGINAL__NORMAL_FIT_COVERAGE": {
+          "normal_MSE": 0.07620289346381483
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE": {
+          "normal_MSE": 0.07791394674643391
+        }
+      },
+      "effects": {
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+          "normal_MSE": {
+            "delta": -0.6545567071467007,
+            "conditional95CI": [
+              -0.6817892727483064,
+              -0.6252716652306498
+            ]
+          }
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+          "normal_MSE": {
+            "delta": -0.6035127770693961,
+            "conditional95CI": [
+              -0.6432439206395273,
+              -0.562091452716377
+            ]
+          }
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+          "normal_MSE": {
+            "delta": 0.001711053282619085,
+            "conditional95CI": [
+              -0.014137892791133347,
+              0.015889952995916272
+            ]
+          }
+        },
+        "two_factor_interaction": {
+          "normal_MSE": {
+            "delta": 0.05275498335992368,
+            "conditional95CI": [
+              0.020791157526917237,
+              0.08457519658568534
+            ]
+          }
+        }
+      }
+    },
+    "HUMIDITY_IMPACT": {
+      "n": 50,
+      "metrics": {
+        "ORIGINAL__E_NEGATIVE_REPLAY": {
+          "Brier": 0.05906217741265324,
+          "AUROC": 1.0
+        },
+        "CANONICAL__E_NEGATIVE_REPLAY": {
+          "Brier": 0.0056356374536107486,
+          "AUROC": 1.0
+        },
+        "ORIGINAL__NORMAL_FIT_COVERAGE": {
+          "Brier": 0.21110653782904693,
+          "AUROC": 0.984
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE": {
+          "Brier": 0.04861666039648397,
+          "AUROC": 1.0
+        }
+      },
+      "effects": {
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__E_NEGATIVE_REPLAY": {
+          "Brier": {
+            "delta": -0.010445517016169269,
+            "conditional95CI": [
+              -0.040665579769348884,
+              0.022796231170698456
+            ]
+          },
+          "AUROC": {
+            "delta": 0.0,
+            "conditional95CI": [
+              0.0,
+              0.0
+            ]
+          }
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_CANONICAL__E_NEGATIVE_REPLAY": {
+          "Brier": {
+            "delta": 0.04298102294287322,
+            "conditional95CI": [
+              0.009515039247803416,
+              0.08479373753093065
+            ]
+          },
+          "AUROC": {
+            "delta": 0.0,
+            "conditional95CI": [
+              0.0,
+              0.0
+            ]
+          }
+        },
+        "CANONICAL__NORMAL_FIT_COVERAGE_minus_ORIGINAL__NORMAL_FIT_COVERAGE": {
+          "Brier": {
+            "delta": -0.16248987743256296,
+            "conditional95CI": [
+              -0.22187627304863464,
+              -0.10775348928559927
+            ]
+          },
+          "AUROC": {
+            "delta": 0.016000000000000014,
+            "conditional95CI": [
+              0.0,
+              0.05280000000000018
+            ]
+          }
+        },
+        "two_factor_interaction": {
+          "Brier": {
+            "delta": -0.10906333747352048,
+            "conditional95CI": [
+              -0.16226227331345738,
+              -0.05620175372586506
+            ]
+          },
+          "AUROC": {
+            "delta": 0.016000000000000014,
+            "conditional95CI": [
+              0.0,
+              0.05280000000000018
+            ]
+          }
+        }
+      }
+    }
+  }
+}

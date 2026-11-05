@@ -1,0 +1,25 @@
+{
+  "role_config_sha256": "451de58a3610091e75998fa715c289c9d2d1ec690d3c61c7c913b36bd535fff0",
+  "role_config_name": "p3_multilevel_geometry_component_ablation_cpu_20261024.json",
+  "sources": [
+    {
+      "experiment": "EXP-P3-RESPONSE-COUNTERFACTUAL-RESIDUAL-COMMON-CPU-20261028",
+      "seed": 1,
+      "filename": "SOURCE_V456_PREDICTIONS_BEFORE_LABELS.npz",
+      "sha256": "6fdf9a7eeacebecab5bda1f9d0fc36f015d5ccc82e4365e180b9c33e6575a56f"
+    },
+    {
+      "experiment": "EXP-P3-RESPONSE-EXISTING-RGB-SEEDS-CPU-20261028",
+      "seed": 115,
+      "filename": "SOURCE_V456_PREDICTIONS_BEFORE_LABELS.npz",
+      "sha256": "345f6b3e65151403f867ed6bf2df181bcb4ded0b6c683e2d49f3d1b30179f0d8"
+    },
+    {
+      "experiment": "EXP-P3-RESPONSE-EXISTING-RGB-SEEDS-CPU-20261028",
+      "seed": 811,
+      "filename": "SOURCE_V456_PREDICTIONS_BEFORE_LABELS.npz",
+      "sha256": "0742d34b936a0cdb169aec5e97f6738b19ea6789bceaccdf1825282e4482902b"
+    }
+  ],
+  "output_sha256": "66605f8f1c7f3c0c7615b2f4e0aa08f8d7b5ba389131eb0299572b0842cbcade"
+}
