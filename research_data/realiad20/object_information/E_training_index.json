@@ -1,0 +1,3834 @@
+[
+  {
+    "training_index": 0,
+    "group": "audio_jack_socket/NG/hole/S0010",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "ea7b6e5a1312ea051733bc79d1098d0d2bf2748d712c4e6d3f6365477bf14afe",
+    "XYZ_sha256": "bf574af7b5e52821eb024cfd458854c8e9e2bd987ef91181294a5b988e04de8e"
+  },
+  {
+    "training_index": 1,
+    "group": "audio_jack_socket/NG/hole/S0016",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "0695636516ec24a42b9805f71299ba0144888998c3eeaf640ca128933b6a83d7",
+    "XYZ_sha256": "1e9776cf8622e5a5b483e3aa4bff68aacbebda12483e128c32e2d46b91a960d2"
+  },
+  {
+    "training_index": 2,
+    "group": "audio_jack_socket/NG/hole/S0017",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "004194732c3bc1f79488ee6c7f1f90688cb0f03874849e6fdd4dd9123e82a63b",
+    "XYZ_sha256": "2e26c97197d3d2e1cc8c4d27695ab4fd52b5f62beebee4ea2846bd14e0acaf9f"
+  },
+  {
+    "training_index": 3,
+    "group": "audio_jack_socket/NG/impact_damage/S0010",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "4bd392cad13f7f40bb0375ae2ec5ca65ecd379a6c12d40394283cc050ad1fbb9",
+    "XYZ_sha256": "6dee4726396f6e165184897e2462af5419fe7b7509188939a33eaf1005a84fba"
+  },
+  {
+    "training_index": 4,
+    "group": "audio_jack_socket/NG/impact_damage/S0022",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "e1f4428ff17af097e685adad01525b7f49bd07f3d1c5fb20712ac58a5a77886a",
+    "XYZ_sha256": "6e5be4214afeafe91028a81334aeadecd7666fdded0314934020337a8c126e7e"
+  },
+  {
+    "training_index": 5,
+    "group": "audio_jack_socket/NG/impact_damage/S0024",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "30f0f11155e5a1fa5aed5c7181fc67835249e64b84daf09dd6e1e8aba431a5b3",
+    "XYZ_sha256": "e99b28620a45f9b5c61d61f37d660155de9a8a6c7fc12f08066916dbb2c66726"
+  },
+  {
+    "training_index": 6,
+    "group": "audio_jack_socket/NG/pit/S0010",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "f637dae14f097bd4aae78625010039b4b65b525897416f3ab8bf82db11c63e50",
+    "XYZ_sha256": "061d43ab0c95b91e744de81f7cebf43d7dc145f96d9d45369e4ec1e32f64c234"
+  },
+  {
+    "training_index": 7,
+    "group": "audio_jack_socket/NG/pit/S0018",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "c50d7841b289f771d5745e31062911ca34f0004017468fd7017b677634a6aebf",
+    "XYZ_sha256": "91ecaa0038bec0ca2863cf33d2859f8faea5fad969aac6d74756d85761b1d519"
+  },
+  {
+    "training_index": 8,
+    "group": "audio_jack_socket/NG/porosity/S0013",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "21bdc30a66c0302c61a5688f51957938b1c934f8f4e4a42a61f99d2bda32b220",
+    "XYZ_sha256": "eba10b223ee98e875beed101d6ff843e369d5426c31dd78afcda2a76ebe584f5"
+  },
+  {
+    "training_index": 9,
+    "group": "audio_jack_socket/NG/porosity/S0020",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "b6651e9196608d6bdfe1a061a4ff641c04656794b1e39573bf1baa702436672c",
+    "XYZ_sha256": "61c9bd1b18b69caeb53313003f84a98c91cdfcc2491a24b77ac5d41c0c2833b5"
+  },
+  {
+    "training_index": 10,
+    "group": "audio_jack_socket/NG/scratch/S0001",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "7f2c5fc6e94a26cebbcfb05957e5d68e9aa9736bbd38a6c7f75d83bca55926b5",
+    "XYZ_sha256": "fa30aab76bb68076a20b2034fc2d46540ca2decc900c7e45fe02ad058be198ba"
+  },
+  {
+    "training_index": 11,
+    "group": "audio_jack_socket/NG/scratch/S0013",
+    "category": "audio_jack_socket",
+    "label": 1,
+    "RGB_sha256": "126163bb72f9ff8c28130f9b94bd25b7017713660db7c6a7319809c857c05488",
+    "XYZ_sha256": "22092b61c0557d65a19dc077489b7bd2553c0622651b55ad8dacf3a71a1fdbde"
+  },
+  {
+    "training_index": 12,
+    "group": "audio_jack_socket/OK/S0001",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "38b716713e1da4b62f0f2d6f642355d372d8de7bdd15793be53829f556ecff16",
+    "XYZ_sha256": "1bfe14a50b4dd2d998781fc652835292b043f7a7a83c369fd13ab9e7d85be79e"
+  },
+  {
+    "training_index": 13,
+    "group": "audio_jack_socket/OK/S0004",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "7db34f0da94c5d7cfba688645133a36a6f9d09635a56a6a2dbc1910c891b4948",
+    "XYZ_sha256": "e269975ab728e48fb55c7c3fc73003b38954c26ceb6d0332fcf9b098a82a1e36"
+  },
+  {
+    "training_index": 14,
+    "group": "audio_jack_socket/OK/S0007",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "05dd698132aec9c5c67bf67c0d7e58362f4d639b272b437f2825c5d62d74887c",
+    "XYZ_sha256": "59d2678291eabb80f75979a739b7ff8ccad74cd1570e44cf5112f74140a511a4"
+  },
+  {
+    "training_index": 15,
+    "group": "audio_jack_socket/OK/S0008",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "8a49ea39767dcd1a7841058bbf2bb960f1740f59ee617a518f83103e9618bbfd",
+    "XYZ_sha256": "4305c9a82bea4cdffdee3516806ef2edc6b884f776673571255ba38789c8bb07"
+  },
+  {
+    "training_index": 16,
+    "group": "audio_jack_socket/OK/S0009",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "0fc0a86d0dd291aabdbf19f15e253e27a25193fbc0c47ec309f7548e6949f0d8",
+    "XYZ_sha256": "fc847edd4f787e7ca6e28b38338ab64115b96346e6a89b12b7e1f303cb75028e"
+  },
+  {
+    "training_index": 17,
+    "group": "audio_jack_socket/OK/S0012",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "3c9a58c249a716f03fd469f46cdf7e64c3cee164dd55cc8bb054de6c2c2ed0d0",
+    "XYZ_sha256": "070948344fa81cd8d5b8cd74f50baee9c00538be0478cc0b82c3fa011dfa8052"
+  },
+  {
+    "training_index": 18,
+    "group": "audio_jack_socket/OK/S0015",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "940d170b716d796a1a066bedd03256f3549281ffc23ab53db8c1b82ba360924a",
+    "XYZ_sha256": "716b32cd13835a4162faf7c0a0ffefa7b3169aa37d66f495659d0d1a30a11999"
+  },
+  {
+    "training_index": 19,
+    "group": "audio_jack_socket/OK/S0016",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "1d3ac5121a538b6e532c007e88642f6212a354eae0552c2d981463ff17988ac7",
+    "XYZ_sha256": "9807b3da7bedc866b0ea57b25397f31872a3b313c07c0114ff893f1d8ec5b96c"
+  },
+  {
+    "training_index": 20,
+    "group": "audio_jack_socket/OK/S0017",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "41a4ad1f87186fc5ba3cdc3fafde6f1b338474a0c77e462bf40dd11b93ead309",
+    "XYZ_sha256": "ad96e18e6c0675689e00016d878f5c55b28e01462990c18dc8bd13309f69d8a7"
+  },
+  {
+    "training_index": 21,
+    "group": "audio_jack_socket/OK/S0020",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "635683a496fa2f1c7116e8edff0a9a1964eae5e86835ce4d208cd5d4222c4fff",
+    "XYZ_sha256": "f9bd3a59199ba0770ac875501571c4a468f3bb9baf4e61687cf8a7a222454b54"
+  },
+  {
+    "training_index": 22,
+    "group": "audio_jack_socket/OK/S0021",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "a9bdbef43022d3dd0659de91933b1921b3371e8d0ff1427f90b8a6c5b21d6d42",
+    "XYZ_sha256": "dedb8d948bc3f96ae4ba197f24e3043e9204aab4911dfa6c2ad01a9002a0737b"
+  },
+  {
+    "training_index": 23,
+    "group": "audio_jack_socket/OK/S0024",
+    "category": "audio_jack_socket",
+    "label": 0,
+    "RGB_sha256": "0ff02370cf3f6704f503375cee510328fee52117be36bc96bbb990adc44bc275",
+    "XYZ_sha256": "cb02431dbeed3cbd55516a60866cd7fb4d534531ad537d099a38c3d916001ecd"
+  },
+  {
+    "training_index": 24,
+    "group": "common_mode_filter/NG/deformation/S0008",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "0ffcb52d34df1cecac4eff638b783c662d92654e376e93f09e12abb76aa2d74a",
+    "XYZ_sha256": "d5bb7b987c9db0a2809b17a786a6ded5a33cec245d47efbeae7f49277d535c43"
+  },
+  {
+    "training_index": 25,
+    "group": "common_mode_filter/NG/deformation/S0015",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "5fa31518f40a83d12fc1fe497ec3fdf1770ea45e7400707a03b86a3fde53a3fe",
+    "XYZ_sha256": "3646e3cbb227cbeff3ca379bdd17e8c23b4c6631bd4addd5a9b744d5432038da"
+  },
+  {
+    "training_index": 26,
+    "group": "common_mode_filter/NG/deformation/S0023",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "d21061d5fd3dd7fbbf66da4913ba7723f56d7ed28307cb0877a33067aec1a558",
+    "XYZ_sha256": "fba6d5850ff57a8bdc993b174dd3f933ee470aa7dbf8790064ade5b698d49fed"
+  },
+  {
+    "training_index": 27,
+    "group": "common_mode_filter/NG/exposed_surface/S0006",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "06215525aef8a563eb549c9d4b7a66038fff67b1423de25608da98c069e65bf8",
+    "XYZ_sha256": "78ade239f600ed28dd7bc8f019f9c1e26b521338bdb2d46dc61d84cc9226fdf8"
+  },
+  {
+    "training_index": 28,
+    "group": "common_mode_filter/NG/exposed_surface/S0017",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "bfcd2a0a065a1c1518fc7b75902c340eb2e4558279afa07d9ce88af27c44fa0b",
+    "XYZ_sha256": "522419cb390457c3b021d219ec387b2c012cb705ddcfa679cf847314703ae3a5"
+  },
+  {
+    "training_index": 29,
+    "group": "common_mode_filter/NG/exposed_surface/S0025",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "c9537468bf97eae2c1a19b8b33950e1bd50b1598fa4faa4da0363b2a044a9181",
+    "XYZ_sha256": "55999a92f64ed4f0d075dc61cac2b2e0829db0377bd14df9f0fdb8643acc46ac"
+  },
+  {
+    "training_index": 30,
+    "group": "common_mode_filter/NG/pit/S0005",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "dc4f6bb0b1fd53a07081eda805f3cb86ce2bea29649f7b1d0f098878f3f96807",
+    "XYZ_sha256": "feef2a566e9cfd8b63ac04c459fdf80f540005ff8e5d05b5566e09f9399d5652"
+  },
+  {
+    "training_index": 31,
+    "group": "common_mode_filter/NG/pit/S0018",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "a2351ca33ba42c35fa1c224c6eb268ab8836b1544808eb4130e888687eadfd50",
+    "XYZ_sha256": "97e590c27eb1d3fcb0979c5fbc52700a2bfc39b23677535d57b42f73b1fb9ddd"
+  },
+  {
+    "training_index": 32,
+    "group": "common_mode_filter/NG/pit/S0019",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "dbda391c650d592c415d3108c9c64f7094045e431cb7e8260a1ffee361fc7395",
+    "XYZ_sha256": "57441c8ddfd5927ed61d941141a9b58dfe771978a28c1b4fe83d4e0ba118b56f"
+  },
+  {
+    "training_index": 33,
+    "group": "common_mode_filter/NG/scratch/S0009",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "1c5b0de47c0d2641483e9b96c11f17d15841ffc85ec75928c78a9c624800b7a6",
+    "XYZ_sha256": "9e014ccbe10963887c14f6e3a7b5e0ca3996fbef263e21cb21d591165fcf628a"
+  },
+  {
+    "training_index": 34,
+    "group": "common_mode_filter/NG/scratch/S0010",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "4b7b5ecadd452c4108f18aeaeb1fa2a6595ec0f4886b02c5e427279dc900d287",
+    "XYZ_sha256": "1c011d405bf4f9438186cfbc633139fbe8fc427fe828f3767ef5ff07efe6d671"
+  },
+  {
+    "training_index": 35,
+    "group": "common_mode_filter/NG/scratch/S0012",
+    "category": "common_mode_filter",
+    "label": 1,
+    "RGB_sha256": "661959ad074351793e480721e5a5f290436d4bf95765cbfff108a5d80b49b648",
+    "XYZ_sha256": "e7bfb9d96ed048d272a1391c17924d735ba701650b7739b81a6a90771c86364f"
+  },
+  {
+    "training_index": 36,
+    "group": "common_mode_filter/OK/S0002",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "c63349d35864428db05a2e77850bd06273606f17add1423f973b47a4424ff3a4",
+    "XYZ_sha256": "ed4b6d95d4f44afdac4da6bc50bf8b7959c24aff6473c07cd68bdef8376a7adc"
+  },
+  {
+    "training_index": 37,
+    "group": "common_mode_filter/OK/S0004",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "11e1a59781d762fe63929b602ddd852103809caf763ab9c3bd16eb3117b71047",
+    "XYZ_sha256": "6cbe97aff1a7051c94a140b10197fa5e6ac159642c5a4f97793029a026a56dcf"
+  },
+  {
+    "training_index": 38,
+    "group": "common_mode_filter/OK/S0006",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "d5dd0ff3ec9575ee2cc6a530ef6c7f113cba0c24e5d6d6306e9af9d78199d4a0",
+    "XYZ_sha256": "3afa5c57a8d47e47e745ff08b2a5a00f6b8c0b06ec14166b445191b03fb62194"
+  },
+  {
+    "training_index": 39,
+    "group": "common_mode_filter/OK/S0007",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "1eda94c892d647545c53c7204edadcac047f1847004deb8b1a1a21f7d9956e8d",
+    "XYZ_sha256": "ee95ef2d7735efbbb49d801b818ef26bd936af209a5e8d5459e3d01db54b2c51"
+  },
+  {
+    "training_index": 40,
+    "group": "common_mode_filter/OK/S0012",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "bce7f241855af151a18b591d7cb6222b68d6352723319ef53084bd225dcbd364",
+    "XYZ_sha256": "629ff87a3d13d8fcc2d9accb52be9dc7375b26beeaeba277cc49c922723245e0"
+  },
+  {
+    "training_index": 41,
+    "group": "common_mode_filter/OK/S0015",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "ad654ef5bb401f49243315b6df17dedf9fac9c8940b6109cf481bfa1ea157d19",
+    "XYZ_sha256": "0b012b5fc9582246cfbf234bb04ee43573688466904612c5cf3efa5bbbd984ae"
+  },
+  {
+    "training_index": 42,
+    "group": "common_mode_filter/OK/S0016",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "a6222a7eb63fbbe583a13b56c24509e73d8417fafdd5ba8f3d33c1e17a1c6138",
+    "XYZ_sha256": "61ee9c0bb9974a72dbe38c68a2d2b119353aee0d0300fcfe30cd9bef8d2134fd"
+  },
+  {
+    "training_index": 43,
+    "group": "common_mode_filter/OK/S0017",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "52227d0e4e50cf4aec470522e8e7055cc44a1e5d9b1399a4dccdfea0242392f8",
+    "XYZ_sha256": "7db2c6ddf48fb96ee2bb2daf950fc698e895fe6cb5062a7104585e90fd703eef"
+  },
+  {
+    "training_index": 44,
+    "group": "common_mode_filter/OK/S0018",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "272904eb951e0edeaf4455fc61042896e17c9d5d6112db35eda08c3bb2c1a29c",
+    "XYZ_sha256": "b5f5d3715ceb6969037ded53990ee44cfb90cd9ffc3287ca4b1a2d89c3ac7f36"
+  },
+  {
+    "training_index": 45,
+    "group": "common_mode_filter/OK/S0023",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "7e28db00c31dd0afa36abdf0b79c6993a7fa2fa0659a291086539801d29eb8d0",
+    "XYZ_sha256": "b4c7efad853b4c763e74e125da58525331a6a976e93dbd25d99c088b0b39b134"
+  },
+  {
+    "training_index": 46,
+    "group": "common_mode_filter/OK/S0024",
+    "category": "common_mode_filter",
+    "label": 0,
+    "RGB_sha256": "fe909e634b0c2143c7d5855d354e0b2170ada3dcb1181c495bb15664af7a308a",
+    "XYZ_sha256": "2443eec4baf786da9dd28b5fcdb14aec681c48519291bb137b3eb8892b4d01b6"
+  },
+  {
+    "training_index": 47,
+    "group": "connector_housing_female/NG/deformation/S0006",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "e671bd33699fd498204829a8bb304cab64630c37a7fdb259bd55140d302187f9",
+    "XYZ_sha256": "5f4b7a3524d9968c78791a33302be86da3b901ab7baf3dca2a540b70bbf9add6"
+  },
+  {
+    "training_index": 48,
+    "group": "connector_housing_female/NG/deformation/S0018",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "721b192c36b6dcc93a442e3b552a4351bb967b75b4bf8d37ec0e1d625909ddbb",
+    "XYZ_sha256": "0363638a9f5f26d9e4188160e443880d11553660d60650a83919966653323084"
+  },
+  {
+    "training_index": 49,
+    "group": "connector_housing_female/NG/deformation/S0025",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "7d2408f8561d2d3e43426931bf1757e8ddee5ce9c1ae875351b7114c34358dc9",
+    "XYZ_sha256": "b5f9e8454d3b3ec14657306c566786f51492f9321669fa2c455545a8f3f51ce0"
+  },
+  {
+    "training_index": 50,
+    "group": "connector_housing_female/NG/hole/S0004",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "f1b2ad361741a6a6333b7923255aca10b4b117beff7b968d376b11ce21e7d2f3",
+    "XYZ_sha256": "1db9f762226d7a5c9deb49930e75e99efdd6a1bec8a00ab1b70fd507cbf206bd"
+  },
+  {
+    "training_index": 51,
+    "group": "connector_housing_female/NG/hole/S0007",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "156e0ce42098830c20eb770cdab30c6ed26acc6bf37fe78a4469752ea1469367",
+    "XYZ_sha256": "414ea6e612bf2541aa75b7ab1ff5b9018ec62c0bdc61226b3e184d8986a980df"
+  },
+  {
+    "training_index": 52,
+    "group": "connector_housing_female/NG/hole/S0015",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "949cc73bbc458600bec12a1fbb457b8d6af1728155248d8c1b174b6d50a150f7",
+    "XYZ_sha256": "6e82eed4032c2d6c7510ad366ef1a0fff2054ec3d2d821046190b4813e091cb2"
+  },
+  {
+    "training_index": 53,
+    "group": "connector_housing_female/NG/impact_damage/S0001",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "12484f5af5d0e1bbf6636c19de5caf40ca3aef2f9889cf83091b944f15b6ff24",
+    "XYZ_sha256": "a4f4150245a19fb7afe73a8d6723e8997de84b3691db4c62a29294240adb5288"
+  },
+  {
+    "training_index": 54,
+    "group": "connector_housing_female/NG/impact_damage/S0023",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "f64d47cfae04c02ee2b77a9092979edc1f5d0fa7d735ff5692c6e62f7d4d8504",
+    "XYZ_sha256": "029df86cf2d21ddb4a3ec6b3a2633014cd6bdab94e6b428bc8681ce7eb472395"
+  },
+  {
+    "training_index": 55,
+    "group": "connector_housing_female/NG/pit/S0002",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "0b6220db4e17ddc991f993e28becffe882a2c14718ac6631e7a84143030aa467",
+    "XYZ_sha256": "dd9a9594387b8cf37399454d07b4044d307ca79898be212d5b0612c13171089f"
+  },
+  {
+    "training_index": 56,
+    "group": "connector_housing_female/NG/pit/S0013",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "633d054f9d70c2c7ad5322ec160ba89084fdf7c2537e63b39c8d449a1461d714",
+    "XYZ_sha256": "09ea2369cde9d7349d54096455df1c7ae45cb1382828bc590841daebaffc43b2"
+  },
+  {
+    "training_index": 57,
+    "group": "connector_housing_female/NG/scratch/S0013",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "f13448f97eac2472e32d9239ac15aa4d0701161c1f7ef7d59948cbba262ed63b",
+    "XYZ_sha256": "c6d603674ecd295b0e3a73b1627a6e65ac0f3e6889e03c38bfe33bca4218f931"
+  },
+  {
+    "training_index": 58,
+    "group": "connector_housing_female/NG/scratch/S0021",
+    "category": "connector_housing_female",
+    "label": 1,
+    "RGB_sha256": "8aab36095c5a5fb756d4650c5353f76f0d6437d8fd1a46428fb26c851f39d6ae",
+    "XYZ_sha256": "b4be4346d7e1de60b065d780640f42e58a4cb5c14c261e895e91ec2a282a5ffa"
+  },
+  {
+    "training_index": 59,
+    "group": "connector_housing_female/OK/S0003",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "8ea2fb79f496f37d0ec18cdbbe687e81d0b5168c6be0fb8d4a9ee0958b99aa29",
+    "XYZ_sha256": "c175cae3b647bf9c73cec42f482e145c5e295e990930f2d99ceb518ecd91de67"
+  },
+  {
+    "training_index": 60,
+    "group": "connector_housing_female/OK/S0004",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "94e08ae58b06c4135cca8eb107c8462f21950946a1c427e19a204ee736fb0fe8",
+    "XYZ_sha256": "8514d38c3066054e35e48e8c715cbe685cf3f1cdec43981bc9be0f05befaffd3"
+  },
+  {
+    "training_index": 61,
+    "group": "connector_housing_female/OK/S0005",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "2ab6f28ccae89b1a0db3fd3a7f4b62cbbde09ab4d08f128509aa23e7cc089e37",
+    "XYZ_sha256": "91a834aeb246438f247f089ee6f292dbeb87dc04a9522c4a8532e141cbe9cb2b"
+  },
+  {
+    "training_index": 62,
+    "group": "connector_housing_female/OK/S0006",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "423dd698783737bae8d682a6fb25444dc551b0bbfb794f7e62bd2106cf372c95",
+    "XYZ_sha256": "ebd342c8a52ea81db416fdfe808403b504acbef2aa01662679ef7f7b59cdee55"
+  },
+  {
+    "training_index": 63,
+    "group": "connector_housing_female/OK/S0008",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "a047f0f9390b9d93eeb61d547278b21d23318596cf3bf0ee71524502065608d9",
+    "XYZ_sha256": "7cca75059aae456b11d81e7259c8e8f319799048b8498a4081448fc9ad241dff"
+  },
+  {
+    "training_index": 64,
+    "group": "connector_housing_female/OK/S0009",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "d6d98bbe2622eb429bd3911d819b6fd51c9746c1b74dd3b002e01354b3149846",
+    "XYZ_sha256": "1d064c8b6ddc476ed6ebcf349764a14b026bc0e1073cfbcf302d44df166bc11e"
+  },
+  {
+    "training_index": 65,
+    "group": "connector_housing_female/OK/S0010",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "6a90824906cb6c50ea9d03fdaa60d84b71d64ca9117c544e089099ecb4a056fc",
+    "XYZ_sha256": "f6a6b3161fe0859075576b17ab026e3750bc87d48336b699febe64d7fe647e33"
+  },
+  {
+    "training_index": 66,
+    "group": "connector_housing_female/OK/S0014",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "f57b70fdd1efbe00acdf70ec0258be0c9dedd95e4b1807402c567270f8323434",
+    "XYZ_sha256": "94a847732979ac34927e6ad9b34001e52cb3455977141f44369e726f5d98c674"
+  },
+  {
+    "training_index": 67,
+    "group": "connector_housing_female/OK/S0015",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "4fa799e97fa8c56a9b24fabcdb8b5f7f2e2d0fc660d9ebb3a02dfe102866dac1",
+    "XYZ_sha256": "ddc79eb8d5e86078d2319fe75eab1a496346c1a87a0b0efb5428e6c6fb86b5e3"
+  },
+  {
+    "training_index": 68,
+    "group": "connector_housing_female/OK/S0018",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "4d9f7cf4c0a506871241547b7d4a468876c88f77fcf7df58a71d164ce6e0ac30",
+    "XYZ_sha256": "91cf91e196523ca24dae89ad413dad21ac394269961ed3860610134e5c96493d"
+  },
+  {
+    "training_index": 69,
+    "group": "connector_housing_female/OK/S0020",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "57b651414d0edea14cfbd0fef9ebfe673b4490bd63eb38e509f2911329940746",
+    "XYZ_sha256": "6b020e643b7dd0dba1100104512f9d0b9026f2f10576b9cccec45cb42cd3b5e2"
+  },
+  {
+    "training_index": 70,
+    "group": "connector_housing_female/OK/S0022",
+    "category": "connector_housing_female",
+    "label": 0,
+    "RGB_sha256": "59b5beb6550b0b06d41979deb82dc676547d7303502409d9bd1992207e6905d1",
+    "XYZ_sha256": "77881ad13474ea1ae5f808721d92ea797484d035111815bd9fbdf48f732d8b31"
+  },
+  {
+    "training_index": 71,
+    "group": "crimp_st_cable_mount_box/NG/damage/S0004",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "e892eedc3a0c908e4f09d691e6912a3ce2db2c7e1c641a489e4f141e37fa18ba",
+    "XYZ_sha256": "5fea301ba41229de6063e80fa70085e24aa5caf8f1e76d18bdc21683096c3b8b"
+  },
+  {
+    "training_index": 72,
+    "group": "crimp_st_cable_mount_box/NG/damage/S0016",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "8ba6a51f5feaa55113256bd37c5f3654dcb7f3363fc6ebd1cf87fcdac5f73896",
+    "XYZ_sha256": "a12eea260d624082b4bc469dfe7182c30c22cec91a1914d86ca7b1a53c9c5106"
+  },
+  {
+    "training_index": 73,
+    "group": "crimp_st_cable_mount_box/NG/damage/S0025",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "ee9c3e46c1012172cff2803b87604a84102404fdcef3578408e7f9edac3f560a",
+    "XYZ_sha256": "8a5d0674ca29a5821436602469b87c04c45d4fe00696fc829c14e5014b12170e"
+  },
+  {
+    "training_index": 74,
+    "group": "crimp_st_cable_mount_box/NG/impact_damage/S0013",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "f47285aa7b738d76c81dca1a9a43cb937fa59b2eecb986ebdeed12b0dce88d14",
+    "XYZ_sha256": "66e41efcd830c17e4bedba12eb5c682270b9162f03291417c7c4453e421ff770"
+  },
+  {
+    "training_index": 75,
+    "group": "crimp_st_cable_mount_box/NG/impact_damage/S0018",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "23b971f00aeacf2233b2a145676347a199b5b6aa76e7568c2a77ce981836d455",
+    "XYZ_sha256": "d2f63b49bf7028b8fd453398390add4b11545d7bbba8527fdc3e0ecafbdf2eff"
+  },
+  {
+    "training_index": 76,
+    "group": "crimp_st_cable_mount_box/NG/impact_damage/S0025",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "28fb83f5cb248e274c10fb61137f035a99d8d80a271e2f6fa330ddeebb0f4b95",
+    "XYZ_sha256": "3637fed1741ae4b4b1ed2dc851ce528cd424bfb0fe15df67bbbb00228b0781b7"
+  },
+  {
+    "training_index": 77,
+    "group": "crimp_st_cable_mount_box/NG/pit/S0007",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "24a5454940d3a15b27c46e312786edd432f65a264c5fcd25a37bd16e570198f4",
+    "XYZ_sha256": "f1b84c2fa9a06b51c0fb7ce8a6ee74244e7ec70b4051b10d1a9f53263b7cdedf"
+  },
+  {
+    "training_index": 78,
+    "group": "crimp_st_cable_mount_box/NG/pit/S0012",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "cfe0e983180a81898cf695773da29bf5195e4730bfb27b2e5e3ad99d481939a6",
+    "XYZ_sha256": "03cb2106507bf1d51565de6a04b21456a8ab7891ea235958934d334200cc11e6"
+  },
+  {
+    "training_index": 79,
+    "group": "crimp_st_cable_mount_box/NG/pit/S0023",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "2315d28a9bebcf5703c1fb1f4026300005f0e6e0fe5de1b3289557d45a16d7b8",
+    "XYZ_sha256": "ea1bce36456013581431754622a46eab855b7a3ac98868eee1ba3e9f7ec1a612"
+  },
+  {
+    "training_index": 80,
+    "group": "crimp_st_cable_mount_box/NG/scratch/S0009",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "4dca9e361859c8b487d856613519a100720f041804ed7370f659824b5ec5315e",
+    "XYZ_sha256": "f4cd14865ada080f10141baac194ba7454ce48fd144c0f39fa8e1498a337b24d"
+  },
+  {
+    "training_index": 81,
+    "group": "crimp_st_cable_mount_box/NG/scratch/S0012",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "276b12b0a8114f3621e48804a9677592e982eb9542132e363aea65204c2c69ac",
+    "XYZ_sha256": "7024d5c9ef07e808243850a4d676e28948c223e615b672b7c08fbab78e39473d"
+  },
+  {
+    "training_index": 82,
+    "group": "crimp_st_cable_mount_box/NG/scratch/S0021",
+    "category": "crimp_st_cable_mount_box",
+    "label": 1,
+    "RGB_sha256": "41ca8d90665c76710be365447ba60a7e37eaa7453ed37ca490b15190d89c6695",
+    "XYZ_sha256": "d14dab9f2990a278509d539627ed4e1f0d82c807bd050a97459f4f62b4eaddbe"
+  },
+  {
+    "training_index": 83,
+    "group": "crimp_st_cable_mount_box/OK/S0001",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "58f4a71618c85b45efc082ea92ef48ea0fc19b4c168b09651ce80edeb3face12",
+    "XYZ_sha256": "327c466f0e09c6aba5680cbc2e8ae02b015f287eb8c97b9a723eeb29106dab96"
+  },
+  {
+    "training_index": 84,
+    "group": "crimp_st_cable_mount_box/OK/S0002",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "abff193917f211d0a8842d57d42a2fd01c06eab44b16c15115a5f123b037268a",
+    "XYZ_sha256": "5412f04bf60e564812063aed483aaa54b52ae95f756152b26816ef8f236d1e16"
+  },
+  {
+    "training_index": 85,
+    "group": "crimp_st_cable_mount_box/OK/S0004",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "ee2dc10ab74d92e51930a3eed60bd68ba64658265a9cdb47e1437e58c883b83d",
+    "XYZ_sha256": "7829e14270bc968e36c6c975cf8b905072721473e1b7e4ec9d9d1ed7f6085df2"
+  },
+  {
+    "training_index": 86,
+    "group": "crimp_st_cable_mount_box/OK/S0005",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "8f5df220b11fe717424f1e0604bbb4123fbe1fb15429b1574aa7d8cf2f64ae50",
+    "XYZ_sha256": "e6a1733f399b6ba958d11774058cb6b0de46e3ecb769a8df0f809a89d08c4fdc"
+  },
+  {
+    "training_index": 87,
+    "group": "crimp_st_cable_mount_box/OK/S0006",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "481bf7049583b13ce3a37e2b1225242f67e7731ce3bc8970bdcec0b38e16bad9",
+    "XYZ_sha256": "fe1fb83916a6669e22bf110015e19de6f2708c109fbf8b31de2b2a70a316a233"
+  },
+  {
+    "training_index": 88,
+    "group": "crimp_st_cable_mount_box/OK/S0007",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "88a9b8b1a7bcc722719d1a44b922a58995ad1f7a9ec89fb66ebbee956600b33e",
+    "XYZ_sha256": "03c1a4db3534cfce9cc22bb57794e16a4f66a274a72ca9487916467dc0b64133"
+  },
+  {
+    "training_index": 89,
+    "group": "crimp_st_cable_mount_box/OK/S0010",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "afce6d00a1178aa149a6d0a273b0367fffea3b9a4e92690ef85180fc62547918",
+    "XYZ_sha256": "5c2a21212aff0425b96cafe8df0e584f8c52216467f9e731a15e3525007ee5b6"
+  },
+  {
+    "training_index": 90,
+    "group": "crimp_st_cable_mount_box/OK/S0013",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "14b88f658bcf30cf5f7aa0fa91557f252aec8e9116e958b13d885bcb097547ea",
+    "XYZ_sha256": "f2eeda05add3d266c8d31d0837e2920d81b9e30e94d77acd8934d55859556284"
+  },
+  {
+    "training_index": 91,
+    "group": "crimp_st_cable_mount_box/OK/S0014",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "31bfd4ed6f2408c55720c2a77496b7bf7361d0bc9dd72ece86701bccc51ff4c7",
+    "XYZ_sha256": "7d15e0f33c2f6fe17930098e381ccf480a7b6e291fa5a3ac798f41835c734f51"
+  },
+  {
+    "training_index": 92,
+    "group": "crimp_st_cable_mount_box/OK/S0018",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "720fdf51d5a118bf736555f3a53369c70948da05d8fec61f114ff490e2dd0c96",
+    "XYZ_sha256": "a7660a4e79c42c0f2f5d71de7f2cd20846d16bd09e8aa0d53533a6a6e5ae1b08"
+  },
+  {
+    "training_index": 93,
+    "group": "crimp_st_cable_mount_box/OK/S0021",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "23e3a28afecf320564d36027823d0672333ea54bb8b35e929abfc2207e6d6d0d",
+    "XYZ_sha256": "362e10805081e08257fcdb611543e7d43173d6cea24950f7e73c837369aaad22"
+  },
+  {
+    "training_index": 94,
+    "group": "crimp_st_cable_mount_box/OK/S0023",
+    "category": "crimp_st_cable_mount_box",
+    "label": 0,
+    "RGB_sha256": "246abc00b93ad0f666215c04f51b0081bd3837746a3de6263c857500468c8825",
+    "XYZ_sha256": "947463f5a8de97c106062ed07d50e0118ad778abe371d1823765668430d98689"
+  },
+  {
+    "training_index": 95,
+    "group": "dc_power_connector/NG/hole/S0002",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "ca4d039540d29af2f94209fd78bf8490310f1b09c3ceaa43ffc0bff14b54d33e",
+    "XYZ_sha256": "8ce473fdac0e433837afe17f117ef3698426f9a2dbb12770bc965f58f1d8b1d2"
+  },
+  {
+    "training_index": 96,
+    "group": "dc_power_connector/NG/hole/S0007",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "9193e6dd6afa8f9853086b29e0149d5253e940e89832aa10cc9417bd49c058ae",
+    "XYZ_sha256": "00e3b4ff21a8279ca5e7ea5e9d40a57c5b72e6d0ba36fef8eab62110bc29b2b9"
+  },
+  {
+    "training_index": 97,
+    "group": "dc_power_connector/NG/hole/S0017",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "cecdea85b1cfdb06f7bcd73ead6fe570235e3e2028f0170cf4f8ee66a96e3552",
+    "XYZ_sha256": "cd33c1572b1f1c892a6a795a88dc0fac28aeae4db942e6f3e5a0a810766db475"
+  },
+  {
+    "training_index": 98,
+    "group": "dc_power_connector/NG/impact_damage/S0001",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "5d202b42f1e941de6108ff76e9f545d1d7780de9c6cbcd447fba98ae74e1a987",
+    "XYZ_sha256": "79abb1f4292edb63f8ca5417fde785db6705110d17e9d8de1fb6198eda1484d5"
+  },
+  {
+    "training_index": 99,
+    "group": "dc_power_connector/NG/impact_damage/S0008",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "a4158a2e769a7a4b19078b8ba99c5638b68e3bba14c1ab4590d9f2cd1ed144c0",
+    "XYZ_sha256": "92f37be7a8070fce6ae34f12a586ee1e6534395c961bcce10719bda0401c8f5c"
+  },
+  {
+    "training_index": 100,
+    "group": "dc_power_connector/NG/impact_damage/S0025",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "ff0379450dc691b4c15c0da2cef1a62f179dc07fd4d54066cc64265b9436ba3d",
+    "XYZ_sha256": "0b630506df24c3c54315cee327bc3cacb1edb151cece37f6488a269ab462f4d2"
+  },
+  {
+    "training_index": 101,
+    "group": "dc_power_connector/NG/pit/S0004",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "c9c487d6fdeda74784cc94791f31cc8e8b6a31ac33b1c33ce2213c2c1b7a3d0c",
+    "XYZ_sha256": "de7c4877429cf4a3167cf6e1ec202489608532f84ada10627ec325fcd83f22d1"
+  },
+  {
+    "training_index": 102,
+    "group": "dc_power_connector/NG/pit/S0005",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "800e287b29f9af89245d8a3b3da1398cb73371f74a811958bbf236445ec952ea",
+    "XYZ_sha256": "c3d5cb86412f919ee31a6aa375883b56bcc16e808a3f1f30951a47cc0d57b77b"
+  },
+  {
+    "training_index": 103,
+    "group": "dc_power_connector/NG/pit/S0015",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "ba74d59b2655fa6b6c4dc38a3cee872a35974d7edbbefc299f9fa4dfbb07abc8",
+    "XYZ_sha256": "e4b4e6bfbb4db102ab709ffbccb9494e46ac39629a8695f62e06e3a722681273"
+  },
+  {
+    "training_index": 104,
+    "group": "dc_power_connector/NG/scratch/S0002",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "3b1b8bfc2ca0d0d61c8d74d22b2cf0cd30aec154f6603c0b8a93e7023800e234",
+    "XYZ_sha256": "0f0d5c8b1b88e2e0947604e5dc97611b71c05112626d6e1e6ad74da7089f59e3"
+  },
+  {
+    "training_index": 105,
+    "group": "dc_power_connector/NG/scratch/S0003",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "67163fe45f1f1525a1df7af9b088f2d3bd8f917509f8ec63709a3d36f13f89e3",
+    "XYZ_sha256": "54b99c4485c4eaff3b4d58a1cfde3e33a3c6482c4073093b4b7624f274f67692"
+  },
+  {
+    "training_index": 106,
+    "group": "dc_power_connector/NG/scratch/S0007",
+    "category": "dc_power_connector",
+    "label": 1,
+    "RGB_sha256": "92c3c34b2d5f4585d91c1c01551bc8a4f96dc1c3389dc4ea03003914c790ecd3",
+    "XYZ_sha256": "fe51a539d6bde15663c3fa00cf98c0c35237881da14d1f23ecbd8cb9492cf654"
+  },
+  {
+    "training_index": 107,
+    "group": "dc_power_connector/OK/S0002",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "16221e5b5c0311f5976a8e10ed4df8bb84025f59d14c6688e2e1b01d670b4119",
+    "XYZ_sha256": "a8decb6b12391b8eb33955756d909b6f8e9990838a2a250fd1775a7783f6f996"
+  },
+  {
+    "training_index": 108,
+    "group": "dc_power_connector/OK/S0006",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "10cc5fa930b4837ffee97217559126ac546127ddd1c6655193b4490604c101d6",
+    "XYZ_sha256": "04e91d8762d330dcf83227a2b70bb9e8cf6839e46cfcf05452b300c299a00595"
+  },
+  {
+    "training_index": 109,
+    "group": "dc_power_connector/OK/S0011",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "85a9b3d677f8b07022e6f34ab0c62e145b64e752c199e414d36745291b1ecf1c",
+    "XYZ_sha256": "476d878c38c020d25652047a9f1bb7a8e0348cef34a0306221ed322f23bf6f7a"
+  },
+  {
+    "training_index": 110,
+    "group": "dc_power_connector/OK/S0013",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "2d4fa6ca73f039492dac896d377750aab17a560685cd832fa6a0254388f30837",
+    "XYZ_sha256": "18725a8816754c2f612713b16a72a923e2154047cbebad0a742d12b9af516ebe"
+  },
+  {
+    "training_index": 111,
+    "group": "dc_power_connector/OK/S0014",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "707681b4227bee49df3555e8908dfd76b33c9697cf128367648ccb3ab9c744a1",
+    "XYZ_sha256": "0a6a14950136b11b86bd9b973c47e958ff2630356906cf38c6feecf147d1f721"
+  },
+  {
+    "training_index": 112,
+    "group": "dc_power_connector/OK/S0015",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "cf3e5ee5659bfa3d1babceb440a3e157b540311f04288df10db06542ca95d624",
+    "XYZ_sha256": "76ee386e47cc3d741d412bd4c2587e98173f6a8361fe973b8fd8a87042b8c12a"
+  },
+  {
+    "training_index": 113,
+    "group": "dc_power_connector/OK/S0017",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "bec528155066d3564ec827a1756041d6c0ee17f7bc655921cec0451969df6e1a",
+    "XYZ_sha256": "79cc39b75f59cab0a79f79ca5759cced7081b7593bbcfc87c419a9fd412d1265"
+  },
+  {
+    "training_index": 114,
+    "group": "dc_power_connector/OK/S0019",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "ab1761cfbfb4145df386f3766d5b478a28447488846ffaf385ae1171811823a1",
+    "XYZ_sha256": "83efc7dc66373c99e1383849791d65934d919be1b8be732442843de575fbdb10"
+  },
+  {
+    "training_index": 115,
+    "group": "dc_power_connector/OK/S0020",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "999eb9d766d4ee4b7d9fa3abbc515577a63c6e39bf0180405361c4309dd1bfc6",
+    "XYZ_sha256": "95e1e8de81ba3edb9ce88dffd671a8e08eadb9a45f8c6c0bd888cfce7a465eec"
+  },
+  {
+    "training_index": 116,
+    "group": "dc_power_connector/OK/S0023",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "a6a11293d01d8a4673143472ba715499ef22d494e4a48664ad00fcc773dcb202",
+    "XYZ_sha256": "7d0ab3638cc1f496b73c625644cc40077fee0512ef320c1ed1d73f3cc69244d2"
+  },
+  {
+    "training_index": 117,
+    "group": "dc_power_connector/OK/S0024",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "564585be60c9ed24aa0d524dc142d2b17d32151da28bdc3d77f06442744b7e8e",
+    "XYZ_sha256": "98cc5f58c4e554d32149937ceae7969e768dcd6d40465ceffdc244933c32014e"
+  },
+  {
+    "training_index": 118,
+    "group": "dc_power_connector/OK/S0025",
+    "category": "dc_power_connector",
+    "label": 0,
+    "RGB_sha256": "03e811b97924566b05342e16ea70e94d01ce1797c913e200f844161e76018ec5",
+    "XYZ_sha256": "389b3b2b4c5cb658e0528973935ca58e412b5c4e00a2e738ec918acb4b9c5c74"
+  },
+  {
+    "training_index": 119,
+    "group": "ethernet_connector/NG/impact_damage/S0014",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "48fe8212ba1e3ff8a3f839c46fb43e55b2e1e430f4cc8bef1e927c92dcb7a3e9",
+    "XYZ_sha256": "d3316198bd7681647d178458ddc28c5ca3ca512d911aadc4cf0e1e385f1e6d5c"
+  },
+  {
+    "training_index": 120,
+    "group": "ethernet_connector/NG/impact_damage/S0021",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "a00aa25f4912aacb57ec78358d31f72182f5ee56c38af8af31391e0b7fd60162",
+    "XYZ_sha256": "d8f0299e9a3591835b5f5a48c3e03235fec2fa8c792e42acf6cee1b936908752"
+  },
+  {
+    "training_index": 121,
+    "group": "ethernet_connector/NG/impact_damage/S0022",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "084bab1d0ad2e59e70798f9c3a32f6640d04f067d400e6d6d0ff64ed8e10533e",
+    "XYZ_sha256": "1c162b908571fb274ae3d5d8bae7ef26006f5451be123419526632770b8b5d79"
+  },
+  {
+    "training_index": 122,
+    "group": "ethernet_connector/NG/impact_damage/S0023",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "afcca08ed45fa41e4a2f4073796a0255afa5b691371f339be05a4ddcacc5756b",
+    "XYZ_sha256": "a91c7a1d945e2535cf3a8858acc328289e0bbc6b6313a583aed5b2960451a00b"
+  },
+  {
+    "training_index": 123,
+    "group": "ethernet_connector/NG/pit/S0003",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "cce5963f418626285267d98b8eec5b3f2f187ec95d39fd67c601e59a349b7cd0",
+    "XYZ_sha256": "30ca0d696543910e369724e96df214422f581596a5c50185c16d503f9c167787"
+  },
+  {
+    "training_index": 124,
+    "group": "ethernet_connector/NG/pit/S0006",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "c8dcf21a6ba5cd7d754c7ddb15ea6214fab151b5acd08e588c7cec146c098541",
+    "XYZ_sha256": "348fc06967bb22b30ae2c6bc925b05d68cbf7c702cfa02ea896094805f0f5056"
+  },
+  {
+    "training_index": 125,
+    "group": "ethernet_connector/NG/pit/S0022",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "3ba1b8a97678f690902b66ed06218c5759e3fdacc64f9d1e96a3d78697519f4c",
+    "XYZ_sha256": "ea34cc15a5ebd4c1e7e9af494b95ae143d06b3b125de92d112ba5a78f844f4ad"
+  },
+  {
+    "training_index": 126,
+    "group": "ethernet_connector/NG/pit/S0025",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "93919dd1817553073f533384b634f492491ebf4727d392c77879583b70795632",
+    "XYZ_sha256": "1564dfb9bc8c91b263d785cd964d34f806fff995e2a01d2b07ce9e1dec6605fd"
+  },
+  {
+    "training_index": 127,
+    "group": "ethernet_connector/NG/scratch/S0001",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "ec908353737b718e463df7a76b6846cbfac2560a358f39b2ac0e9909cee3a79e",
+    "XYZ_sha256": "0d048d2d19486796a3a906feb7fc9f0509aaac3b98003a50f950e9f3c9b3fe88"
+  },
+  {
+    "training_index": 128,
+    "group": "ethernet_connector/NG/scratch/S0006",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "67f3e2acfbd45d058dc13eacfabd683a5dfdec0518c8b888f34d01cd3c58501e",
+    "XYZ_sha256": "14689c0d781877cf4e365cd0dda6f4b0a94676b39510bb510b8768d290f9fc84"
+  },
+  {
+    "training_index": 129,
+    "group": "ethernet_connector/NG/scratch/S0008",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "6c18806c763770621c3b2abdc99af06504f5620e1ffd13b5e4751ecf38bda77a",
+    "XYZ_sha256": "8d78c392c363ef531ac45b53652dcbf3dd797a035f919ba9e807382bd54dba9d"
+  },
+  {
+    "training_index": 130,
+    "group": "ethernet_connector/NG/scratch/S0012",
+    "category": "ethernet_connector",
+    "label": 1,
+    "RGB_sha256": "9f8d85d23d707372a99a438c542d3f2cd071640e7c1e05fd2720b985ec9773a4",
+    "XYZ_sha256": "fc1d1e782a2facc4bfe6a7aa32d3ae9e7c2b939bdac139fb164b86a2950bee9b"
+  },
+  {
+    "training_index": 131,
+    "group": "ethernet_connector/OK/S0004",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "192e1d694e14b55b1eef5bb340bf2d887a562b8a814147412703a80f6f5d7070",
+    "XYZ_sha256": "a8c738a6429e75ba9399993cf72b522b9c6ca0a9519d5deca4e5a4bfd8593007"
+  },
+  {
+    "training_index": 132,
+    "group": "ethernet_connector/OK/S0006",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "80a2feb7d3553b735447ec320ace3ad714479a1cf52d66a79f4d91572305a151",
+    "XYZ_sha256": "943edd33cd0ed4eae1ed770c0dd5ccb5343e8ae01fdd528cd9fd3d1bba09735f"
+  },
+  {
+    "training_index": 133,
+    "group": "ethernet_connector/OK/S0007",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "9cba6bcf30d739a3c818c7b34fb15dce987f06f7a73a74021639da5f49d9123d",
+    "XYZ_sha256": "802c39d54e8063912f96573bb7ea68122d30d90932afdce760396943c9dc3c35"
+  },
+  {
+    "training_index": 134,
+    "group": "ethernet_connector/OK/S0010",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "8bd3cb72aaa12b261f10b2e9546fd29898afc9790a3ca593f76d02195f4736fa",
+    "XYZ_sha256": "15ee0c6bf209c6e335ab841b253846ebfb1b6e87704c0329474e8d8fc96e946f"
+  },
+  {
+    "training_index": 135,
+    "group": "ethernet_connector/OK/S0013",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "b5cf6b695945311fc795edc468bd6417a37f7c89fd625791efe4a86dd47ff8af",
+    "XYZ_sha256": "35f128789815d57aabc454ae200bee7177b010b4a8126791e050e5d83f5c3078"
+  },
+  {
+    "training_index": 136,
+    "group": "ethernet_connector/OK/S0014",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "75c14a2f4feeec6a0eeccec9ca60bc0bc1a2fb36c5d6fc93fdb851ba10423199",
+    "XYZ_sha256": "4a20658e01708ff98df56c14d68b508912eff49bc65a53133a1f3a376a425e81"
+  },
+  {
+    "training_index": 137,
+    "group": "ethernet_connector/OK/S0015",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "02650dd7d02adbb899491f8b82f368a16d3a386d0e591364028f78fd0767a83a",
+    "XYZ_sha256": "78bff990c47f8e1819e9103ca245c6185d1602e447b6a97a88183ee49ddee343"
+  },
+  {
+    "training_index": 138,
+    "group": "ethernet_connector/OK/S0019",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "01aeca3bdbcdb6577dc21b33d6506c34d91a4381feeac6d4dd41e76b599ac957",
+    "XYZ_sha256": "93769ba7a61c536db3fc82c744975a24310158840e496c52208a429ce754d7bf"
+  },
+  {
+    "training_index": 139,
+    "group": "ethernet_connector/OK/S0021",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "01e55da0de83d19b476919376de3d2f5145b12d4991fb4017cd76e5d0e81c670",
+    "XYZ_sha256": "f08102b4c392d393577e01cdcc357e237b5e0bec734ec6ffde133c67a69a2295"
+  },
+  {
+    "training_index": 140,
+    "group": "ethernet_connector/OK/S0022",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "ef10b1c46a7de352feed474b681b16b88bfb35744d969a4af3b3248d53248e08",
+    "XYZ_sha256": "57694009420860d5cb0e8c18c50a48c4f049ff3c77d6d4e39a56347f60160be9"
+  },
+  {
+    "training_index": 141,
+    "group": "ethernet_connector/OK/S0024",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "5c8065927a27132a9ac133a1deb6456cff815873cd53932cc967d4a2e3b1b897",
+    "XYZ_sha256": "751ac72c2db31bca2d3667a09745ec1653eda270ebf403d9b032ee9bbfa7787d"
+  },
+  {
+    "training_index": 142,
+    "group": "ethernet_connector/OK/S0025",
+    "category": "ethernet_connector",
+    "label": 0,
+    "RGB_sha256": "89d3e06e6fc7e6d87aa80b04324915ee99eb6536381e11801956e7a340b4b7d5",
+    "XYZ_sha256": "d5636e256b3740d182e1041f7977b274eba33584edb1104f0793e247a1918494"
+  },
+  {
+    "training_index": 143,
+    "group": "ferrite_bead/NG/hole/S0001",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "2e363c0a5629f4d957aa0ace9c7ddbddcbb312526b4474fbafefea85a1a85314",
+    "XYZ_sha256": "6031f74625c0a0c1bf5752427ffefe66b9b4efef392722e8d8e5077cad6d7f0e"
+  },
+  {
+    "training_index": 144,
+    "group": "ferrite_bead/NG/hole/S0002",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "9fde04b5803c5525c1589a80a4fc04312debd54042ae1980dc226740ea7c1b7d",
+    "XYZ_sha256": "881c37a15c729f3cdda9156fe2109980605590e6c5930f04ac96efd9f0786ddf"
+  },
+  {
+    "training_index": 145,
+    "group": "ferrite_bead/NG/hole/S0013",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "75c5fd9eba47ac66d267e59ad0eded2a0ee9563c3de56905056e9648fc9cd2b8",
+    "XYZ_sha256": "3f1249c1f3abc2bf8f5da83ccb05adfc51f2feebb2644290f58a77344cf3ed1a"
+  },
+  {
+    "training_index": 146,
+    "group": "ferrite_bead/NG/hole/S0022",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "ef46c7b9232caaa57a119dc9655deecd7ca60618c4d7280e49030b9cf5e42879",
+    "XYZ_sha256": "cd3e4eb9030bd40f2193bc80ce20f51eef8b80490a39e8da1e317a2e3080cd9f"
+  },
+  {
+    "training_index": 147,
+    "group": "ferrite_bead/NG/pit/S0006",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "60180a62d16702a767ac9958ee22cba17478ca275a758bff133f47fbc5a02c2a",
+    "XYZ_sha256": "407adf19798015739506d0327c88a6565b39c58946f80fb443ed66c0cf585fdf"
+  },
+  {
+    "training_index": 148,
+    "group": "ferrite_bead/NG/pit/S0016",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "adfe887fd9cb5ad4c75b11f7b8db3c579915363c7365e12eb17f699e356b3295",
+    "XYZ_sha256": "d8da51f094d219f5b5215ab44513aacef66bb56bd14e3d80ca2d92af6e2137a5"
+  },
+  {
+    "training_index": 149,
+    "group": "ferrite_bead/NG/pit/S0021",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "4e72fb5276d6cae3614f514095b0cd837cefed0c087d982508fea138d01623b5",
+    "XYZ_sha256": "36ee1160f2d16a675c4eefee027275e8f82af9f1d4df58350422b07e191fd613"
+  },
+  {
+    "training_index": 150,
+    "group": "ferrite_bead/NG/pit/S0024",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "a0b031349d9216c4401e7454e5cea4de88dc14a8ffedb815f316ce364e78b202",
+    "XYZ_sha256": "a38e4a4ad32954c470cb2b612f8c9ca4b96ae411c01b8eee7c24aaff31b11a8b"
+  },
+  {
+    "training_index": 151,
+    "group": "ferrite_bead/NG/scratch/S0001",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "5a7aeea57d373d02ed91ac1967c8ae466e204833e83adbcae75ee53b758ad4ae",
+    "XYZ_sha256": "337f9f9b1ee66cbfe60dd43b98e905777baa3ae57547c6f59d9e9eb9f685fdf8"
+  },
+  {
+    "training_index": 152,
+    "group": "ferrite_bead/NG/scratch/S0013",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "ef49fbd966a9ae73649fbadd5e050b03d706108f986123109c04c83e1066f4d8",
+    "XYZ_sha256": "29fc718f1942bcc1ad33922797efba07cf9a82b7f6ba2c201a65a198a47ef2a3"
+  },
+  {
+    "training_index": 153,
+    "group": "ferrite_bead/NG/scratch/S0017",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "3114aee5407d2e55aaa3d0d46ae13863cfb9354ba0ff18fbdc67001667b26f5b",
+    "XYZ_sha256": "68f46b32764bfdb7d47f05beafdf19e40a8430518f778e717cbabada02dd2a40"
+  },
+  {
+    "training_index": 154,
+    "group": "ferrite_bead/NG/scratch/S0019",
+    "category": "ferrite_bead",
+    "label": 1,
+    "RGB_sha256": "c50608665c36f1b1ea247200f6e117168e8e8dd20ffb9f00caa0854b9f936645",
+    "XYZ_sha256": "bf918684096069a22bc85bc8d8645174a7a082bea0afcc57f133d860a12ff417"
+  },
+  {
+    "training_index": 155,
+    "group": "ferrite_bead/OK/S0001",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "88664d520e773bc1ed2ee50d685bd69d7f52889e83a9b5ed5ace1bf0468e1ead",
+    "XYZ_sha256": "5f4de682740013becd46856d63b64d30c52ab2f8f4de09506942a426b618cbda"
+  },
+  {
+    "training_index": 156,
+    "group": "ferrite_bead/OK/S0002",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "9285a50e0b79d03fdc1d5c81f3c57d5675ed20801ad6f86bb69928c849131e2b",
+    "XYZ_sha256": "29012a974c2a9405e2eee1da9515337f27acc8e45dcbb5518040ea2f259dec64"
+  },
+  {
+    "training_index": 157,
+    "group": "ferrite_bead/OK/S0003",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "cfae0d7269a2b9749cc4367ca769bfa681c3d65ba63f769110fc4e94152eae36",
+    "XYZ_sha256": "c49c739cdb70f16a24047f27ebe24f2598616b58bc8032d97d2d9f6b54a75daf"
+  },
+  {
+    "training_index": 158,
+    "group": "ferrite_bead/OK/S0005",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "196904a8b2d71b9d7c9e1591c2a3ec866ccf5668ad189423fda2458dde0100e2",
+    "XYZ_sha256": "d27f7aad461ed61f51c182bd30a70333abdd297cdc4fc792101cfcc8021e9158"
+  },
+  {
+    "training_index": 159,
+    "group": "ferrite_bead/OK/S0007",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "0e66518ffbe3b6066f3fae1045d9ccbca89edc531ada5f4114159fbc291bda0c",
+    "XYZ_sha256": "af21a2d188a6f8ac3f49dbc00661f37bad6f35ecca8d12dc8fe7f7da0d821570"
+  },
+  {
+    "training_index": 160,
+    "group": "ferrite_bead/OK/S0009",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "e3de0423d97a1d6f8e8f9840ec1a93798f02d001c9ddf4711f412b0ea6790d80",
+    "XYZ_sha256": "2b1e0aa4ac1ee2d5f0b30d47f4e5feb83eacfc5ce4160f765bf8603d6120438f"
+  },
+  {
+    "training_index": 161,
+    "group": "ferrite_bead/OK/S0014",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "fc25ab2397671ac50a88d6c34a49371f6c235047c754b249e90759195a256bd5",
+    "XYZ_sha256": "fc7b4f4ebe0378311c265a008e943c05bc5d8109bfc815feaeb889b263a8a6e2"
+  },
+  {
+    "training_index": 162,
+    "group": "ferrite_bead/OK/S0016",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "01c4be56468fcdd512bb0ba9c54f1b6d5c03e03cedc221d9e80a22cb2705909a",
+    "XYZ_sha256": "e45576dbd394bd85629137dd1136956a6555e027e199fbbf19352afe88cbe5ec"
+  },
+  {
+    "training_index": 163,
+    "group": "ferrite_bead/OK/S0017",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "809bbb1a46964f5bdfb1aceaba72782490d03a31744c897aa998564416fed2c9",
+    "XYZ_sha256": "93dd6cdb1995c2e2afff283810853a9c2878174e73ed8f1e06f5306cc6e8ea3a"
+  },
+  {
+    "training_index": 164,
+    "group": "ferrite_bead/OK/S0020",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "dc0ae1a8eefc7aa60c1d9b663fb821a4aa7b0ca8bee299e4ff1ed5126bd78b18",
+    "XYZ_sha256": "7d7fb2f2cb19ef5c22f918b8bbc794eea26bac732ad81e8fc45223ad943db04e"
+  },
+  {
+    "training_index": 165,
+    "group": "ferrite_bead/OK/S0022",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "09a62c6d6e23fec22fcb0e3d356d97b28c59ed7e4adc09148f6eb6797408fe50",
+    "XYZ_sha256": "b30bb9a1554ff431af26a8145eb900d58ad34eec1159febbe915d49d30523004"
+  },
+  {
+    "training_index": 166,
+    "group": "ferrite_bead/OK/S0023",
+    "category": "ferrite_bead",
+    "label": 0,
+    "RGB_sha256": "179c46401f59d7c70bcc4216b7db0a164cb848729a5534b016060c48c18a66da",
+    "XYZ_sha256": "fe8be765d2cd9c7daa4699e3827be346e01f17c7851c50bda04249583930f1c2"
+  },
+  {
+    "training_index": 167,
+    "group": "fork_crimp_terminal/NG/deformation/S0005",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "44e6f9265a1e1df8ed3cf949041951f373f7af6a3be6a2234b0d93bb3eea2fe4",
+    "XYZ_sha256": "7c3976426b86fad405787ecfc8860da2ccd93907f6ceed7ba0e853d6dabaf958"
+  },
+  {
+    "training_index": 168,
+    "group": "fork_crimp_terminal/NG/deformation/S0009",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "595ab4a345e9d31d166b8c2e00d16e32d30add3c85dbe788c21fc9c0901e88ac",
+    "XYZ_sha256": "381f242c40a9a8b07f9a74d674cba798ede27a3e7a4a4607737930024ba74bfe"
+  },
+  {
+    "training_index": 169,
+    "group": "fork_crimp_terminal/NG/deformation/S0013",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "b6672259e43f0f4c9a9a6cca081c9250d4be83f106609404aad7acc214fbe2c3",
+    "XYZ_sha256": "a2e8dfb591d618c5eeef4ee52eb42db0208e73c2f4e10cadbb5bc1cfdd2ac538"
+  },
+  {
+    "training_index": 170,
+    "group": "fork_crimp_terminal/NG/metallic_contaminant/S0013",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "0a5801fc7737d86fd53f9a33f7ad30fb37caf24b8e5368e0811e14c1c79e36a3",
+    "XYZ_sha256": "6c5bda97fb187fba090bb5547ea9b256e1e1e893b64f30a6ec96406f11756a00"
+  },
+  {
+    "training_index": 171,
+    "group": "fork_crimp_terminal/NG/metallic_contaminant/S0018",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "562e95500ef9854dde08367c851bb7fd8604d31cf20d8fc09accfdc9f9d1ea0f",
+    "XYZ_sha256": "f9dd88568b7bd4dbd6b62a2ea5933b9269454ed683a06ab7e502379d7d916203"
+  },
+  {
+    "training_index": 172,
+    "group": "fork_crimp_terminal/NG/metallic_contaminant/S0020",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "ab92c57658590ec227dd20398a7d896805b30c6b0ab3148e550e06876fa646d6",
+    "XYZ_sha256": "b9543571aba7ae166589d3bb69c2285316887d4146335c2b4e13507e33d4aa0b"
+  },
+  {
+    "training_index": 173,
+    "group": "fork_crimp_terminal/NG/pit/S0004",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "c6441c78361a4534ef33768d422530829226ef1112ce83304bd56acd82672d95",
+    "XYZ_sha256": "ff1af3dedc06bf6ddd2b24f0eec072b12768703bfed3dd0409444e8971073de1"
+  },
+  {
+    "training_index": 174,
+    "group": "fork_crimp_terminal/NG/pit/S0015",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "73cf79524fc3606e777b96448f3d32686ba78f1e65e0527b91f9df684d9be79c",
+    "XYZ_sha256": "fbab50702ec0f1e9e6ec00659c84dbd05c6c0da1332ceb35d5834acacc2765d5"
+  },
+  {
+    "training_index": 175,
+    "group": "fork_crimp_terminal/NG/pit/S0022",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "da5a14ff9fc3e4567bf5d9c3f9149243917f65f6a0e43fbdbfd101f1f1efc30e",
+    "XYZ_sha256": "841849439636aff2c1f24048116a5395a78f2958e506bc765e6f250f88365878"
+  },
+  {
+    "training_index": 176,
+    "group": "fork_crimp_terminal/NG/scratch/S0003",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "dc80f25535c0e530a4594663703cb876242b2bcccc46b35a884e666308af8018",
+    "XYZ_sha256": "2d5bb836bb7a7f00359bbbb16165ad189d5bb32bb97f0a8b98bec430fbabd79c"
+  },
+  {
+    "training_index": 177,
+    "group": "fork_crimp_terminal/NG/scratch/S0013",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "8127b435a2580dfc4834257f6a9d52c6d25eea8611d96b2bd21d0a2c9e801b67",
+    "XYZ_sha256": "f847ab434c2706deb69a850708cd3f8626360d05e831f639dfa5724e0296a91b"
+  },
+  {
+    "training_index": 178,
+    "group": "fork_crimp_terminal/NG/scratch/S0019",
+    "category": "fork_crimp_terminal",
+    "label": 1,
+    "RGB_sha256": "9d01825002bad7928c11cac20350661ebcefd4b803ce284c6a587bd18dcdb21a",
+    "XYZ_sha256": "785bc0a997b564d07c68d7148f9c67be5f30f900a14304ac494233dfd98f70ee"
+  },
+  {
+    "training_index": 179,
+    "group": "fork_crimp_terminal/OK/S0001",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "9e1d3c922794179738a4140e7210e93eb5f7b00bad75983d9217ad1d89db7ddd",
+    "XYZ_sha256": "58c91c24bd626019914497e610326e37b4afa2e2391e46cdfd4800e6ac44541e"
+  },
+  {
+    "training_index": 180,
+    "group": "fork_crimp_terminal/OK/S0003",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "1d5569fd9e107669e35cc7700f14b61feffa6cbeb9bf99685e2ee04663af3061",
+    "XYZ_sha256": "b7f142e11543dd91fa1e75cfd796fd0b087456ac5caa94211c5cacc9ed278923"
+  },
+  {
+    "training_index": 181,
+    "group": "fork_crimp_terminal/OK/S0005",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "0f08d3d21b08a0f3649b0b083b5a0c17ec260e5f9630fa86db0518aac6969287",
+    "XYZ_sha256": "261ed6e789445d929581f71290975a6919ae7c5b2742c920d9adbd42e62949ef"
+  },
+  {
+    "training_index": 182,
+    "group": "fork_crimp_terminal/OK/S0008",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "d3e7fc3d7042cb63ea4910d5698b435188d7e47a865d9db211d498abd8d73ef0",
+    "XYZ_sha256": "dd4abff5c1be5dd469a91358b3975c718a9bc2436aa5a313f5d603a108d3d3bb"
+  },
+  {
+    "training_index": 183,
+    "group": "fork_crimp_terminal/OK/S0010",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "2e17b46d6a876bb1f18d66d544b0525a69247112d558823b9a6d39d7161298c3",
+    "XYZ_sha256": "83c50eca693f5a6231ccf8fa588228876ebbf2925ce2f0edf5a0511cf4813cf1"
+  },
+  {
+    "training_index": 184,
+    "group": "fork_crimp_terminal/OK/S0011",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "5ef48725f6f927bfb0b90b15229875905dfc5359d175508265a675057186009a",
+    "XYZ_sha256": "9377b75359c9d36c79e637a1cef7898af6e283394fde0d40ed25afe84d1f91ed"
+  },
+  {
+    "training_index": 185,
+    "group": "fork_crimp_terminal/OK/S0012",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "e9f80dc20dcd1d79d897bc2c4557afdb97a99401a84e4e269859a2ba0a3b7c2b",
+    "XYZ_sha256": "01315b739cba5fe2e285b13962d1f7b74efc2f61ba0ef588bfd759e20d2f84c3"
+  },
+  {
+    "training_index": 186,
+    "group": "fork_crimp_terminal/OK/S0015",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "212f9a5b06597417c94f45dba7b1c79d56cddd84f34c8d5b6c6736a2b5dd6dda",
+    "XYZ_sha256": "11ff61e8fc3be72b11c662443a53f0888bba32b9c064499cd5997c80711b29ad"
+  },
+  {
+    "training_index": 187,
+    "group": "fork_crimp_terminal/OK/S0019",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "fee1e412e8b3589dca30459ed144f3a9a3dbd0c66a985c93ba5bfd0fcf37d018",
+    "XYZ_sha256": "a11d2ab3d4e39ad9ea0fb548590967b66c873907c77ec58f20358f04769528f8"
+  },
+  {
+    "training_index": 188,
+    "group": "fork_crimp_terminal/OK/S0021",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "cda7490affd4ca878e14597e52743aaac1f04697ca09ab49ea3b79d71c1dad8e",
+    "XYZ_sha256": "2e2b37fc7f423d0ac8d358ec134affb8031316b6b7895c9d90586322e8761586"
+  },
+  {
+    "training_index": 189,
+    "group": "fork_crimp_terminal/OK/S0022",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "72407461c67c6dffcb95ecde52cdebd2e4f44c8b6a57ff0a6c3c9449a1893dc3",
+    "XYZ_sha256": "d8d0588808c62914bda21ca8b2d49244a5ef00537fbde1808e4ddd84cab77287"
+  },
+  {
+    "training_index": 190,
+    "group": "fork_crimp_terminal/OK/S0025",
+    "category": "fork_crimp_terminal",
+    "label": 0,
+    "RGB_sha256": "b7568b8f1031add7201117b3d04217e6cb2134bb11cbc811525fa8f9fd80fd7d",
+    "XYZ_sha256": "21cd7d763b5e8f593818608cc03bf30d44e30e4e0e606fd573ba9bb65b0a8269"
+  },
+  {
+    "training_index": 191,
+    "group": "fuse_holder/NG/impact_damage/S0011",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "c13903de8434ca9c43e9aadc43cf9345afdb80ca6145abb80419753bba6425ab",
+    "XYZ_sha256": "95ed807e3f3599971d201f99ccd8b8a61595b7cb383dd14da1977cec87e25f90"
+  },
+  {
+    "training_index": 192,
+    "group": "fuse_holder/NG/impact_damage/S0019",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "25366d8c22678e003d16dcab794ffe1f295ee892776d07db904ecac1d2e22d0a",
+    "XYZ_sha256": "0beab4356ece9b3e6f2f3b24772662a0ca2a9c683ab0371aabc739863216368a"
+  },
+  {
+    "training_index": 193,
+    "group": "fuse_holder/NG/impact_damage/S0021",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "d9126456f3765db745a07417f4d17b2813fc35ddb3b6aacb9f7e2fd906a08edb",
+    "XYZ_sha256": "49e135c857871f3d7dfbddd111738c9e6e6c028780478033414effc702914c3d"
+  },
+  {
+    "training_index": 194,
+    "group": "fuse_holder/NG/impact_damage/S0024",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "733da72ef0325054238ec41279c6f37927f345bbb399ad46c308c6a63ebdd338",
+    "XYZ_sha256": "dc2644af73402dcf66208a05c11f57fb5edf6b54db216631d93b40de86a56667"
+  },
+  {
+    "training_index": 195,
+    "group": "fuse_holder/NG/pit/S0003",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "e2329f6212a632a401d38f3667295714b9f219af77659638d1fc4cc1d7ee837e",
+    "XYZ_sha256": "d9cbedea4bdbe3828a6433e85a5f17ced223345082ca25be5c76bebb0071b00e"
+  },
+  {
+    "training_index": 196,
+    "group": "fuse_holder/NG/pit/S0005",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "495b8318143e0cd5b38c5733758ba297051b9598d4d8d5538e64d773ae571151",
+    "XYZ_sha256": "3da0787db8b1ee07a31cd8bd2f132fb48e8266317aceaebe6dda353a2d37fe0e"
+  },
+  {
+    "training_index": 197,
+    "group": "fuse_holder/NG/pit/S0014",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "5fc1d9fe4274908c924c80b574bdb22809ac7ee7fd15e61a26d36193fcec7c2b",
+    "XYZ_sha256": "629dde54488936dab4b08485bd9ce87cbad407f4db6b2c897311d9abe2647591"
+  },
+  {
+    "training_index": 198,
+    "group": "fuse_holder/NG/pit/S0021",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "a925d41285c29e27a3b32febf010f23224aa42fb2c22e5a38c3be734331cf7b4",
+    "XYZ_sha256": "85a5f77c5f8bf928918eeb65aedda4eb3b217898feedf82e2e4b8728dd6900b7"
+  },
+  {
+    "training_index": 199,
+    "group": "fuse_holder/NG/scratch/S0001",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "8421e0fd843e623db92f0287ec121023d162a555ce78342e39b1bb140966f03a",
+    "XYZ_sha256": "0e31e472ecb04973f68b95fa28908bb43499d4c3d004c61edb71a6f7f31c1d24"
+  },
+  {
+    "training_index": 200,
+    "group": "fuse_holder/NG/scratch/S0005",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "74d956c12db9233f1a648822b4ecd56dacf9512e58c1f8ef208869908383c068",
+    "XYZ_sha256": "6ce795b07640700efd5e0169221704c132e20a95784b2ed3a636804f43d4c692"
+  },
+  {
+    "training_index": 201,
+    "group": "fuse_holder/NG/scratch/S0021",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "cb3bba60d06173fe50bf8c42f2dc9576c41f42f0e814aebc51eaeb2a6f84b342",
+    "XYZ_sha256": "38d049de881a6abcd851f2c7cf48c466874e02bddbd4aceef13bd83703f99b5e"
+  },
+  {
+    "training_index": 202,
+    "group": "fuse_holder/NG/scratch/S0023",
+    "category": "fuse_holder",
+    "label": 1,
+    "RGB_sha256": "cc3e7db787dd00fc6c8167e656ca0b64a33488dd05308cad976c21a9c907b1f7",
+    "XYZ_sha256": "08e7b4d28f0eae80eaeabce9aac709b8cfca45d9a4c2384063a6edb7a1cfd81a"
+  },
+  {
+    "training_index": 203,
+    "group": "fuse_holder/OK/S0001",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "48af8b05e0b992448d77cc8767b71a358092931040fa2cb3db5bc2350b3bba3f",
+    "XYZ_sha256": "7d01613ea256ac087522953e32149ebe68c7e5383b2c4328a85ad8f0fe15934f"
+  },
+  {
+    "training_index": 204,
+    "group": "fuse_holder/OK/S0003",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "18224d954e62f64f29c21d47031d77c4a81e9930c04a477e0d23710f77358c5f",
+    "XYZ_sha256": "bd5b4e7188382a826c04e47e079d16601f88518c6df9e1618b253782b1ac5fb4"
+  },
+  {
+    "training_index": 205,
+    "group": "fuse_holder/OK/S0005",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "c69a5f7f58eb03607fd8b3036654371d6d0a868f8d24517e3cac3e0550b055e5",
+    "XYZ_sha256": "e57b2ca317021b879d627adfe31b6e3484eb1604f2a5f8dcf7f0b7852ea7fa3b"
+  },
+  {
+    "training_index": 206,
+    "group": "fuse_holder/OK/S0006",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "6a1c00838f074707f4766d7d7f9e708a7a3e90ac6ff83975c3027206430631ab",
+    "XYZ_sha256": "4eb4e21207197e48013fde92d81c9d15ce2688b99c16548fd43c0a3f1179e8cb"
+  },
+  {
+    "training_index": 207,
+    "group": "fuse_holder/OK/S0007",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "f07ed3ad82584e6fda9ba28f4babf4c00938404869196f68b79b49444c02f657",
+    "XYZ_sha256": "e1eb2bad31ab5297d3cb8525742a04c1d8d987dbdba111b78fa4ca3564dd3346"
+  },
+  {
+    "training_index": 208,
+    "group": "fuse_holder/OK/S0008",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "57c08bd4769f21c095f45cfe6959e9715f0dad8ec402236a463ddf007b9d4c52",
+    "XYZ_sha256": "b3208d88356a8529799bc63f6f60cbdb59cf9eff55a1728f8c4586c2c346e5cb"
+  },
+  {
+    "training_index": 209,
+    "group": "fuse_holder/OK/S0011",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "fe45ace7d4eaabd1df2def9a9d9b82b5d53886b08e56224b3e8e82f96a76974b",
+    "XYZ_sha256": "fc447b1df53e37b4ef6a7d2afb37849e75c07c9bbb09151d9c29311d82e66f78"
+  },
+  {
+    "training_index": 210,
+    "group": "fuse_holder/OK/S0012",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "39921b9af388c25a26576758220b022a83cecf0b3b1d4b43b17c117b12e1987b",
+    "XYZ_sha256": "f27b8f446edf7ce202713a2e594244292ec7a13a8dffc699a73fc1f8d93402d8"
+  },
+  {
+    "training_index": 211,
+    "group": "fuse_holder/OK/S0015",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "c77662b5c115693a4bb0dfe8ced87ac95e2c7df191f33771aa77712d46748d90",
+    "XYZ_sha256": "5b0e8ed6540032b3812dd0a230cfe547581512217724c5cc173e40abb920d048"
+  },
+  {
+    "training_index": 212,
+    "group": "fuse_holder/OK/S0018",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "a90f6c6297f6aad21a6334d6415ad055de584d22c40fb2a0fb612f17ecfa034f",
+    "XYZ_sha256": "26eb75854f172b4a16fc0e903e781a9a9fad1c6bdae0dd063636cc31b9fb72e6"
+  },
+  {
+    "training_index": 213,
+    "group": "fuse_holder/OK/S0020",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "210b4958775fa059bf3a45cff1c3600caaa843a6013aa96907e9fff528de974d",
+    "XYZ_sha256": "3a63148b7d23975fb62a00af583a7ed8d1ecc20001be1ea5240abf0fae43424b"
+  },
+  {
+    "training_index": 214,
+    "group": "fuse_holder/OK/S0021",
+    "category": "fuse_holder",
+    "label": 0,
+    "RGB_sha256": "33b8e04c3da444b2ea5d165248a483e71eb4410de48aabfef563ed26ce945535",
+    "XYZ_sha256": "407c5c19ddf608941ecc72a0ab3a9a1753923c04f16e47e28fcb32ca33d786eb"
+  },
+  {
+    "training_index": 215,
+    "group": "headphone_jack_socket/NG/deformation/S0006",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "11450ffbda51eb915b7abe0c6ec450a9e4afe8e6d45ce437f0cb04cdc8d5f170",
+    "XYZ_sha256": "2cd73ca1da1768b804273b74809e9292aca5ed81477cd3e05143202f24a10ce1"
+  },
+  {
+    "training_index": 216,
+    "group": "headphone_jack_socket/NG/deformation/S0009",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "d0ce3fad85e02ab7c1628bf11990d23c2f4e632b295e2f90da8bfb37e32cd460",
+    "XYZ_sha256": "bd3d3aa273c4e10e823bd34600524ee73ab2ec2c070ba1976d4d51050aced3a3"
+  },
+  {
+    "training_index": 217,
+    "group": "headphone_jack_socket/NG/deformation/S0020",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "7633036b59a05ddbdef6da41d8a1eeb870d0a02eff172095cdbb25a774343a24",
+    "XYZ_sha256": "1411739dc29397eeb04d7370f60b8116636758478cef18d03192a22d363e848b"
+  },
+  {
+    "training_index": 218,
+    "group": "headphone_jack_socket/NG/impact_damage/S0018",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "a7ce3531cbb63bcc05199f00217087385cf02a05311742aad76a89c4a3d9867d",
+    "XYZ_sha256": "4de1cac9bb6075699ebcc05f280faf3d4b78538d859aa88e31db6314028fba95"
+  },
+  {
+    "training_index": 219,
+    "group": "headphone_jack_socket/NG/impact_damage/S0019",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "651cf8ee746eb3337146b574782dbf59c7067f8438fd2f770aacaf1dc4f8a9df",
+    "XYZ_sha256": "b85d92393962d8a2b5baf20f967b594dc0329f181ce3d9a7208f149d26270f6f"
+  },
+  {
+    "training_index": 220,
+    "group": "headphone_jack_socket/NG/impact_damage/S0025",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "9ba051819159655230d29751bd55f2d3553fb2641f8b12e3f8dda1f1f23f4973",
+    "XYZ_sha256": "7da959185ad9fbb5aeb2ee228061eafcb23d699ca41679a2b1645238e35e25c2"
+  },
+  {
+    "training_index": 221,
+    "group": "headphone_jack_socket/NG/pit/S0001",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "f79273b2529e8f0c405daf398ad4e6d66d8a4c8e518c26fa16148138ef142b3e",
+    "XYZ_sha256": "231fc9c1bc2a831d646579abc73bf5ba1ea3639ef8c69ecdb36e3379ed644476"
+  },
+  {
+    "training_index": 222,
+    "group": "headphone_jack_socket/NG/pit/S0023",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "436ebacd3b5d49525fdbd996338d00421cfca11f564d1f3fd021817cb5137292",
+    "XYZ_sha256": "03460acde8e5d7851fc3a98f829e4a713f7e28a5ecbd676daf2fe0d0fed9221d"
+  },
+  {
+    "training_index": 223,
+    "group": "headphone_jack_socket/NG/porosity/S0019",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "4cc075470a4479f2f95b9163506c0ce105890053d39772ec3529240dd4893bc3",
+    "XYZ_sha256": "898511249db3f62dd2dedb8bf670ce47d7244dc0cce487570d0c4db09a5238f6"
+  },
+  {
+    "training_index": 224,
+    "group": "headphone_jack_socket/NG/porosity/S0020",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "75e03eb9f9c93bc5295aa321f378a262a98f99348d14058e7de3d6a26238b841",
+    "XYZ_sha256": "7b60cf82acb13a6e8aca3b3afaee8a4db4a5f77b7016082d4d3a67541baab648"
+  },
+  {
+    "training_index": 225,
+    "group": "headphone_jack_socket/NG/scratch/S0002",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "676eaa725e1b3dfea314dd58e71df51582a57616998b25de602778ce511b62f6",
+    "XYZ_sha256": "e46d38ad8ec4fd8ad081bd976b093cd4c05d21498159c3a9bcb23b4559269bfe"
+  },
+  {
+    "training_index": 226,
+    "group": "headphone_jack_socket/NG/scratch/S0024",
+    "category": "headphone_jack_socket",
+    "label": 1,
+    "RGB_sha256": "21aeafa14a99f01d519d4c1001ed2ecee0cf7e54d4bb395fe37daab5687ae940",
+    "XYZ_sha256": "d79ea5f9165fe533c84f053cccd4f10629ba7a135dda0a70b1e9641f5942b4f8"
+  },
+  {
+    "training_index": 227,
+    "group": "headphone_jack_socket/OK/S0001",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "51bd7903b5f8ebf7e88315c92a9583bd8682ee61cf2682a8ab6101cc1044298c",
+    "XYZ_sha256": "e96b6bfdb07807a3f2cc863e56eb0c219b29d1d726aa50f525af818c2c634f32"
+  },
+  {
+    "training_index": 228,
+    "group": "headphone_jack_socket/OK/S0003",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "87f16ccb9d2dac53d392a388ba3f58040daab5dfe4b6c6bf748494b6cb6ac5b1",
+    "XYZ_sha256": "ef5906be6d21abd1dd459e01182dbe1ac1a6b737b047cca1597124af09d2d651"
+  },
+  {
+    "training_index": 229,
+    "group": "headphone_jack_socket/OK/S0004",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "4a74137bbc0aff03c5d5c8c0813f747adce781b22e909dafc724440d5268e3bc",
+    "XYZ_sha256": "55a509bb9b301a6e41ad0080a426b98995d10ee93517f0decb8f4077aa9e1e2c"
+  },
+  {
+    "training_index": 230,
+    "group": "headphone_jack_socket/OK/S0006",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "d1d874e6e3973f0266c60322b0441012439155c1c9362d18e081703b4730ad88",
+    "XYZ_sha256": "902a35cb359cdb8030ccd697c3de922692e383a2a58624b90d988c52b7851eba"
+  },
+  {
+    "training_index": 231,
+    "group": "headphone_jack_socket/OK/S0008",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "3fff40f897ad1aa13c60ac85db97ed5bf432cbe0d1135a41254e0144a8d50a60",
+    "XYZ_sha256": "17c7237a6be5b9c000b2b85148d506379fdef92ab550ae9cdf265dfb17b2cc17"
+  },
+  {
+    "training_index": 232,
+    "group": "headphone_jack_socket/OK/S0009",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "281ad5acd2f492cb40a4d1efd827bfd7d9a1b4c64cae64600679a7e30ac322df",
+    "XYZ_sha256": "cf5e6e063e8a27e6091f693ae231c019d4b78f13e2a816f4ca560830bb4f492a"
+  },
+  {
+    "training_index": 233,
+    "group": "headphone_jack_socket/OK/S0015",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "aa5b1a207a7135363cc30aa2fee4e54456184b2e3c8dd666ff35c3d23519c997",
+    "XYZ_sha256": "42576e3e832cf4d701c19430decda326493a1fa26d1af58944eaedef2fb9cd94"
+  },
+  {
+    "training_index": 234,
+    "group": "headphone_jack_socket/OK/S0018",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "ee3eacf25c090a5b59cedb277653988d4a31970a71fa4b7d88ffcb9674e4fbf4",
+    "XYZ_sha256": "9adfd646c39a5a7f6ca8ccad78a0540538da44268b48a22addbf1b4cd04f53bb"
+  },
+  {
+    "training_index": 235,
+    "group": "headphone_jack_socket/OK/S0019",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "877c7fd0899755a4b34dd1b9531cb3c73c4bbf0867f6d0a7049bdfcf7e7a2eb6",
+    "XYZ_sha256": "788250b5e7299e3b9360aa57e4e74507ea03d0505bb18527459f3b257090078f"
+  },
+  {
+    "training_index": 236,
+    "group": "headphone_jack_socket/OK/S0021",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "d6e4fe5d3746b8b62258796a2ed6a040859fb3bd7c61f56822cd6f4425143b63",
+    "XYZ_sha256": "1e7da54c7ed9b96b49cfd0cd70b1c0193968263f5c63d01aa5a44d9d1009d5e3"
+  },
+  {
+    "training_index": 237,
+    "group": "headphone_jack_socket/OK/S0024",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "912c113ff4e58a28ed639a49326cc976328e6717a5784f82afb6728a4e03a5e2",
+    "XYZ_sha256": "9baa803031e61c1ab9600698ca81908ac0faaa045b6cedd174c7c053a4a3de2d"
+  },
+  {
+    "training_index": 238,
+    "group": "headphone_jack_socket/OK/S0025",
+    "category": "headphone_jack_socket",
+    "label": 0,
+    "RGB_sha256": "41faf860a81bfed98ba4f69d065fb750c6c775557dc38c5b8e24b87e3493f981",
+    "XYZ_sha256": "fa9449dd5d476b3a4279921a3298a41917df6f2f9d6680755f7b6280edbaef99"
+  },
+  {
+    "training_index": 239,
+    "group": "humidity_sensor/NG/impact_damage/S0005",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "7c8b617c6fcdd86f1d143103fe2060572ae46720c06001efd1870fe971b4cb3f",
+    "XYZ_sha256": "90c0aeda7de29ed9e2fd34bb27e5ca3e652d4ef6e0ae85aab17640469f32e4cd"
+  },
+  {
+    "training_index": 240,
+    "group": "humidity_sensor/NG/impact_damage/S0007",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "8cd027295c82ec4f3baeeebf55bdf9745ef1f36bda261a94e90a3820fce555b8",
+    "XYZ_sha256": "3a65e4be623d31d4a650d4302eec1b6252c47242c0585842d2d8b8249a7ef173"
+  },
+  {
+    "training_index": 241,
+    "group": "humidity_sensor/NG/impact_damage/S0008",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "3240f13696479fb22fcaec1195f22994050f0e325d281bce25983635c5279880",
+    "XYZ_sha256": "e82a4e5bc9bd1698fded919ed70e55cd59777d820a9c271258cd7a1e6f9943d1"
+  },
+  {
+    "training_index": 242,
+    "group": "humidity_sensor/NG/oil_stain/S0001",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "b96388735e64e3affb45d37bce42a0f9b85c0496dcfe52f96e8f6f3f9a11c5be",
+    "XYZ_sha256": "3647329f7f5b9f0c5a758ed8f4ffba7fcbc0da9821060255d470b93b42484f2d"
+  },
+  {
+    "training_index": 243,
+    "group": "humidity_sensor/NG/oil_stain/S0018",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "ad68d965d414760862ed0db9ed1d7b0d67adca0620d04b8d377b961392088321",
+    "XYZ_sha256": "a8deed39ac46d6c4683f17f8b4638153633440e7eeb3484695650ce2ecdeb4cc"
+  },
+  {
+    "training_index": 244,
+    "group": "humidity_sensor/NG/oil_stain/S0019",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "0ac90145e2163656954dac44ae3a8cc05c2ba078c7ec7cb8ca40e16f68e9aa46",
+    "XYZ_sha256": "8848e25b03562c0a77ddbf9b8b16e3a09105a652c8a358314c2c01e413680836"
+  },
+  {
+    "training_index": 245,
+    "group": "humidity_sensor/NG/pit/S0006",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "3047bffca1a2475b9d003c8de2be7bb52921fc3b908d3b14a3c0e046a507ee73",
+    "XYZ_sha256": "2ec60b04756bbad133aa58c9ac9c81c039eed62aa9e9c2185d92435db2836450"
+  },
+  {
+    "training_index": 246,
+    "group": "humidity_sensor/NG/pit/S0009",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "00ed11822dc149f05dbad87d8f863d9078afe9beb2680607f7f3652631c99b34",
+    "XYZ_sha256": "463a41bb546589d2fde8e1c46224b1d7c9af448488072a8e77dd394d459c7bb2"
+  },
+  {
+    "training_index": 247,
+    "group": "humidity_sensor/NG/pit/S0016",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "fc12be9ea2223f759df4eb51b8476fda9c89ff2d222c80add3620f9bd0ab6afd",
+    "XYZ_sha256": "aef19a522dfa99afec52610cc9c5b8e1911e57f571034cfce7f1945f3fd0f906"
+  },
+  {
+    "training_index": 248,
+    "group": "humidity_sensor/NG/scratch/S0001",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "f8531730c0385d31a110d1768d66c20f7e5c544cb46a32daa99f3caf19387a9f",
+    "XYZ_sha256": "debed962561bcdc58854c415960231e7d699a8172fdf5d43b6cac98a188d0c0b"
+  },
+  {
+    "training_index": 249,
+    "group": "humidity_sensor/NG/scratch/S0011",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "25f210e897655546388a158a585dde3463fc046d46333d5bdb8586385441763b",
+    "XYZ_sha256": "e88fbb85a30cc716530c672fa548a8255e50232ebadfb101c2d47bc018949dc0"
+  },
+  {
+    "training_index": 250,
+    "group": "humidity_sensor/NG/scratch/S0019",
+    "category": "humidity_sensor",
+    "label": 1,
+    "RGB_sha256": "78e6160aacf30c0ddeba4b5030cb3dcdb11f2e6421bfa4b1e9a2b7da354058d4",
+    "XYZ_sha256": "dc9a9b5d53378636979d40b48cad0b7d61fc208eb3b72cd489000759bb0f28f6"
+  },
+  {
+    "training_index": 251,
+    "group": "humidity_sensor/OK/S0001",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "77a5739224fc6b257acf1e13388fa0d5c0df49961be0c03586dbcdefc8437ca7",
+    "XYZ_sha256": "9e92b32ea2aab6b9f2e177c656f8eb11c39cd7373506bcdb29f3d26b536fb417"
+  },
+  {
+    "training_index": 252,
+    "group": "humidity_sensor/OK/S0002",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "9bd36235ebe9d3a4fbd2a8e1729c400233157b4bfe4666c2cf3a2d5e0536d894",
+    "XYZ_sha256": "3d25292d634f64410a11a5e0a37828ba76fa504a1199e48c11483f295db8afc7"
+  },
+  {
+    "training_index": 253,
+    "group": "humidity_sensor/OK/S0003",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "f0c3d83082b0a77201e5c681e411eee20833b66704790ec7144135137c5b26bc",
+    "XYZ_sha256": "1da2ea9b31c132ef6ce19bc669ed8294712c57da42629e02982461e287b17d02"
+  },
+  {
+    "training_index": 254,
+    "group": "humidity_sensor/OK/S0004",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "e4554eae147a914e2134d09db8f9e39f084154a33be04f25fadc07f841f33995",
+    "XYZ_sha256": "48324017e9a8ebc93267332cf21f219f7c575ed3691c0f17f6264e63152b7d1b"
+  },
+  {
+    "training_index": 255,
+    "group": "humidity_sensor/OK/S0006",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "bb95523ac6a3b95f3199db79fcfaac29568ad089504e2e36c1fcfd61b342409a",
+    "XYZ_sha256": "1a0a144aadd923382b3eb6b0494b295618108154f646ecbe16e49094310723e8"
+  },
+  {
+    "training_index": 256,
+    "group": "humidity_sensor/OK/S0007",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "73b43bba0c23bfbc2d62a311230c645939f64a1c7561f154be43ca8b56b92b9d",
+    "XYZ_sha256": "20d69a4b0a4c2884cb49f3357c0f6df545dad68a394224df70a1bbc90c5e28f6"
+  },
+  {
+    "training_index": 257,
+    "group": "humidity_sensor/OK/S0010",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "0df792dfa82c03e7e3cb0195c7eca08f0aa2c982e81f258033f0d8031537114b",
+    "XYZ_sha256": "fb2cbe1d769f8b9b6bd750bcc92ea799ec4a01c47eefe72b529d4c7f729b0c24"
+  },
+  {
+    "training_index": 258,
+    "group": "humidity_sensor/OK/S0013",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "06add0011b27626d192882d98d347cc1a3c61fc3a9a6bc874bf066323646ae6a",
+    "XYZ_sha256": "6a0a8689e40163e0cd72190e2dc52225bd04bb8657e88cbcfc7e71e16678788b"
+  },
+  {
+    "training_index": 259,
+    "group": "humidity_sensor/OK/S0014",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "4fb395b50e55e36e1fbbd3ef44327cd0c486bce7c015638185ff46db0703dfd6",
+    "XYZ_sha256": "63dc1ab0b397a898ea0ffac898b9f16bb4fb3edc35121a2af9974381aed1a08a"
+  },
+  {
+    "training_index": 260,
+    "group": "humidity_sensor/OK/S0016",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "cddf1bd3049071fbb0e5c6c3c3fc3947cd19d423fa6c1f3a518f612340fd8f12",
+    "XYZ_sha256": "88c482e6d653703a23ff058b720759b2bdfc5243a6e4688cb3b581cd36199ee6"
+  },
+  {
+    "training_index": 261,
+    "group": "humidity_sensor/OK/S0020",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "dd019b78dfdd725172f553e4489d2c537575cc67202f27582af5f3c4de4d9a13",
+    "XYZ_sha256": "e9345d9a79f378f0d53f794e0b5150597b58a80b606a4732e7963e2ed4369d35"
+  },
+  {
+    "training_index": 262,
+    "group": "humidity_sensor/OK/S0021",
+    "category": "humidity_sensor",
+    "label": 0,
+    "RGB_sha256": "baf549114bc3c7603463aa478dca6fb5bc3aae0e652027ec49ca6049df818b70",
+    "XYZ_sha256": "735f93388b444a1aad3c8fd127250aae5a66f4f65b8f5d703f54408b4800bbd2"
+  },
+  {
+    "training_index": 263,
+    "group": "knob_cap/NG/damage/S0006",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "8f400eb5c2f5eb5112a83433377913423a9911287309c66a03bd9b3973908530",
+    "XYZ_sha256": "2d00700974de2dc2186e7d95168d233ffc0b08bf9ece73bbd0eb2fa34e39d79f"
+  },
+  {
+    "training_index": 264,
+    "group": "knob_cap/NG/damage/S0007",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "4645b0bf01dbb90b3de25c29ed023a5e01e8233cf3143d57bba7e17492e6d9d8",
+    "XYZ_sha256": "ae656593f1c0f9c5703b5221a246b471f03094e1343aefd70974f6568594daa6"
+  },
+  {
+    "training_index": 265,
+    "group": "knob_cap/NG/damage/S0010",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "becd81a3c1ea1d5d0c9451dba27df6953bb55658cd4550a85177c87cb0a06254",
+    "XYZ_sha256": "2f1dffa46a32a577e4987ef59b28e3e52ba5898a8eeee83e6a5be081e2224eb5"
+  },
+  {
+    "training_index": 266,
+    "group": "knob_cap/NG/damage/S0017",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "f3cc1ff39cf7b94f8fcc40d7e0b8b73a153f477488e11bf792e7b606f18f9d9e",
+    "XYZ_sha256": "d62cddeffba664dbb8ea017947d3e3dcc3f3a0477544c175d7c0a3932c5b5f6b"
+  },
+  {
+    "training_index": 267,
+    "group": "knob_cap/NG/impact_damage/S0002",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "6ccd5c7741aa71b0714370668d8be2fd259f74c1a1a77db14db127df515dfa7e",
+    "XYZ_sha256": "b6da47ffac348a5976ecb9886c05e9c6a27a3ffb1d38ff41c7fde9e1591a7e56"
+  },
+  {
+    "training_index": 268,
+    "group": "knob_cap/NG/impact_damage/S0015",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "4220705c187b9b04ad05f629a7018d4414a1538b9d545133a1b4fc42221e3a09",
+    "XYZ_sha256": "b112de0b59f31b6ecada72fc2cc48e0a87b4000bd61d4562a3a3301dfe7bcdce"
+  },
+  {
+    "training_index": 269,
+    "group": "knob_cap/NG/impact_damage/S0019",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "d791cf65190d7786663bead05d76e6c8dacefe48f66e14017c583bdbb0fed324",
+    "XYZ_sha256": "3d0cc89a6d33ebf470dc4f3bcca8e8fa37ab51be4a3acd18314c863938a7cd12"
+  },
+  {
+    "training_index": 270,
+    "group": "knob_cap/NG/impact_damage/S0020",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "87226a10229b21a3a3cfb9c12aeb77a091b976e1e3a1f1c0c7d32f955d593d18",
+    "XYZ_sha256": "0f0194322ebc2c099cdeaeeb2a1d48c3676defe1c664e16418aae586a055ca1d"
+  },
+  {
+    "training_index": 271,
+    "group": "knob_cap/NG/scratch/S0002",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "c69e66c50459350ef7a1a9f2eee31cb92af1c8ed6eddf9974e2d372f66847fdf",
+    "XYZ_sha256": "06bca48d9e5704d997cc5b3b1acef965bee928559db476613fc93930d32b0347"
+  },
+  {
+    "training_index": 272,
+    "group": "knob_cap/NG/scratch/S0003",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "8803208961cdc5a655adabdcbd86a745fe49c5697fdeda943ff6b4074697df7d",
+    "XYZ_sha256": "e32cbc264480766d667443e8a4a384cf8f5d21e0be7db73b563e87e0f9153ef8"
+  },
+  {
+    "training_index": 273,
+    "group": "knob_cap/NG/scratch/S0013",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "9afe087316375937c104b42f84fdd5b8d0872fbf74aa81e7d8bc65effb772984",
+    "XYZ_sha256": "669f0e8640fa9a816a06816f2f7f7a3f5c67b78a7cf97ec7944f4a6a4fd86f4a"
+  },
+  {
+    "training_index": 274,
+    "group": "knob_cap/NG/scratch/S0024",
+    "category": "knob_cap",
+    "label": 1,
+    "RGB_sha256": "42144066aae3632a5d6598b9317bab10730deadf025225a830945abb0a3531fd",
+    "XYZ_sha256": "5037ec9c39110cafbe6adb3fc516605fb96c8b03a5663c486c74c1976d6f3287"
+  },
+  {
+    "training_index": 275,
+    "group": "knob_cap/OK/S0001",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "ff19534b83e721e900d6492d4e2b3aa43b3af188ab9f07cb82480b44581b65d4",
+    "XYZ_sha256": "caade409cc75655908e6a69552c1b8764a79253c1ca4ac501dfdc7ee5891b905"
+  },
+  {
+    "training_index": 276,
+    "group": "knob_cap/OK/S0002",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "046454ac804a61ce8d06d4384f13f7fb0bc7d27bf2077c9c83f5a07de4f4cb29",
+    "XYZ_sha256": "e18f475bfb2f17785d9b02185d9c9a1fcc2fa939b270958fa7635017c1ec485a"
+  },
+  {
+    "training_index": 277,
+    "group": "knob_cap/OK/S0004",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "47df62ed9af8e597838e15cd19be298345fdb11161549e47f0fa9f4160de5307",
+    "XYZ_sha256": "e14c5f84123dc7d8859c181465c420bb1519cf5f3b83b1711831816c32c5ed97"
+  },
+  {
+    "training_index": 278,
+    "group": "knob_cap/OK/S0007",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "1b126c96963252d19dbccb1f837aef2a35e3eff45d613f23d9ba7fca3a95fa12",
+    "XYZ_sha256": "14d51feb5cbef2e7b45825b4db6c2b8a8c845dc5511eed361f5d4bbc93493f54"
+  },
+  {
+    "training_index": 279,
+    "group": "knob_cap/OK/S0008",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "3377a3b12bfc51304a13643df2c9d29a18ecb722753498de8fe5409b37ec0d0e",
+    "XYZ_sha256": "20e20cb2c0dbb12ec3dfe7973f18db67df0d2435e91d9cdbb11104623dfc5b75"
+  },
+  {
+    "training_index": 280,
+    "group": "knob_cap/OK/S0010",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "36e31e854cb5e6ba65d38e304483bbb3049102910e23ff9c2f3b5937302ddcd3",
+    "XYZ_sha256": "90da8b950327a096edde6cc3e77d15b3bac16e4ae4fc115f4aef45611d732a63"
+  },
+  {
+    "training_index": 281,
+    "group": "knob_cap/OK/S0014",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "99dfe507ef71caf76f2ba179228027adf3ffde82086bce8963806859dcc7b964",
+    "XYZ_sha256": "ff3204ad97bf36a9d031e469711f2d23c5f8c172c45fb3950eba6621abbbc21f"
+  },
+  {
+    "training_index": 282,
+    "group": "knob_cap/OK/S0015",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "ea5cfb54123c99b969fca589da8ce4d70765cdebb6c0a7eb68185ddee43cf721",
+    "XYZ_sha256": "798219e5e83758c456546bc0e1d18a471f7e8816c3f3c0997c6e206ea19ffc30"
+  },
+  {
+    "training_index": 283,
+    "group": "knob_cap/OK/S0017",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "af6d84e8a967d3d9aa7760756d024d7dc5bcc52d6746c65bf537455574ac94df",
+    "XYZ_sha256": "46571dda60e0cbbed7ce74c35c94626f15356e0d5079e6be9aeb02de216b2ef9"
+  },
+  {
+    "training_index": 284,
+    "group": "knob_cap/OK/S0020",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "16fa8b1ce5ed8273e687c60e9dca6000d2ce5ce86cc81673153d2e6558ac6244",
+    "XYZ_sha256": "fa1478271c61c7299555184eb26f1f88c3f1045331e75219ad327c25cf429ce1"
+  },
+  {
+    "training_index": 285,
+    "group": "knob_cap/OK/S0021",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "77ae289b3b0354885e7f3e1aa6d23e2510585d2a1078f732099f1d6adb4e28fd",
+    "XYZ_sha256": "11e3f49436387b19048427d0e7ffb2856ef6cadc0abc962180107c52c994d1ef"
+  },
+  {
+    "training_index": 286,
+    "group": "knob_cap/OK/S0022",
+    "category": "knob_cap",
+    "label": 0,
+    "RGB_sha256": "cbdf14c42facfe365a1f7f41ddc0d34f9ca8926f450e2b25d6c493071393c7ce",
+    "XYZ_sha256": "8d35ea96ef42bd18b76d93679f084cb4db513e76ba2f667e9be08738bbe139db"
+  },
+  {
+    "training_index": 287,
+    "group": "lattice_block_plug/NG/hole/S0004",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "aae4e88d7552832309a0e3582452de687de44484c1a30af8369dc3761a3457c3",
+    "XYZ_sha256": "c22bd2bbd77c8be12d533f7dc47e4195dd33ba8344083158b49dbcbe213e1062"
+  },
+  {
+    "training_index": 288,
+    "group": "lattice_block_plug/NG/hole/S0009",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "29425b149f5ac8da19a20d747e90491b6e600c9df1f9d97cfdadacc78c877558",
+    "XYZ_sha256": "2cce8955ab8113d5814eaa98b97ccb44b2e27c11cd2ecedd11c3145d19f0955e"
+  },
+  {
+    "training_index": 289,
+    "group": "lattice_block_plug/NG/hole/S0012",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "09ab11600084f2b88d70e226092f6ccb023e493191e2ebf5a35306f924782339",
+    "XYZ_sha256": "04e86f9febd74d6b3602246b340c314bd5d21dc540a908f503ff826bd052106f"
+  },
+  {
+    "training_index": 290,
+    "group": "lattice_block_plug/NG/impact_damage/S0001",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "72d8115985cccd552b9b9d80223369c49ff90309072d044a445651c4716d1dbd",
+    "XYZ_sha256": "aec1f4d1dda28986764bac5fe674003eeb44783458906f9e307d871e849321c2"
+  },
+  {
+    "training_index": 291,
+    "group": "lattice_block_plug/NG/impact_damage/S0011",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "b43e9ec58a0f7b63adf3ebb4efe4281e976885c7f478284a0715bfac219c8dbd",
+    "XYZ_sha256": "195e3548b99451aacca1c5639a483ccdf46bc3fe0a0071ad44963f004e782931"
+  },
+  {
+    "training_index": 292,
+    "group": "lattice_block_plug/NG/impact_damage/S0018",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "21fcbe4eef0c073075a79cf105aa4683d2511dc4ea3fa0555a678b0e3d6ea90b",
+    "XYZ_sha256": "fd885a46e5ea4f9e86b1dbf093d6581f45d94f1e3946f308c52001689752df2a"
+  },
+  {
+    "training_index": 293,
+    "group": "lattice_block_plug/NG/pit/S0008",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "9e9236859a18089c051af9f50a429574d0596a32b8ea5d3617842c4611430c3b",
+    "XYZ_sha256": "4d9636e69eeaa06645f8d0f12cf7c686b448601224892a699863c66f1e34dbc8"
+  },
+  {
+    "training_index": 294,
+    "group": "lattice_block_plug/NG/pit/S0019",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "ea890e50acf3309b9920929f5077eff64f79aac5bfef6be057a4aa2c53450f9c",
+    "XYZ_sha256": "1432fd773447533c9492226d71a48ae1ab0efb025786cd614271c23e82237d90"
+  },
+  {
+    "training_index": 295,
+    "group": "lattice_block_plug/NG/pit/S0020",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "ae948550e7388bd064aa77c2beda9384a4f5c6ac7e527557def02055539a75c9",
+    "XYZ_sha256": "a2614a186979c75e02acda6e5a405620ef71bf2bad3f921282ac8a0ef1e44706"
+  },
+  {
+    "training_index": 296,
+    "group": "lattice_block_plug/NG/scratch/S0010",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "d0c15e5aff4fdf74c90c854ed9e573a213964cf4b29d826a5f5b321798fa0cde",
+    "XYZ_sha256": "1b055d888abf1ae3b3465e474ad7d1f3b0eec7c4549d504cfaa42bb424e1900f"
+  },
+  {
+    "training_index": 297,
+    "group": "lattice_block_plug/NG/scratch/S0018",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "9ed3c41d28a61cc22683a496e7f47ca4b4030a2c72fa0d1626bc0c346063403f",
+    "XYZ_sha256": "c76e5a204469859c0539aaee30e729240ca9866c059d1f7f3b776acafb289a78"
+  },
+  {
+    "training_index": 298,
+    "group": "lattice_block_plug/NG/scratch/S0022",
+    "category": "lattice_block_plug",
+    "label": 1,
+    "RGB_sha256": "e1b817c8799e611ef01fd83fedc7a06d9dff20be61ffc1710cde8f62a7ae1108",
+    "XYZ_sha256": "ab6f64e6a28b16bd782c94468e1fa65231c277c45f59dba7e96035e2f1855376"
+  },
+  {
+    "training_index": 299,
+    "group": "lattice_block_plug/OK/S0001",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "945d843edb41a20a88d0378446a2e71206a4fe4a8d1dbdcb7b389c9f88781955",
+    "XYZ_sha256": "2863521f3e0de3b47048f547def06c74b7f438c16a8f442ff4511e2aa1f5f261"
+  },
+  {
+    "training_index": 300,
+    "group": "lattice_block_plug/OK/S0002",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "12e000bb2978b53a828f7014bf8f3e7e9d5e0ca8e12ff7f5246876a859f32368",
+    "XYZ_sha256": "0325b8c9f5bce721cd3570445bb4678b34aca2d050f18d132d7c3c22f178a838"
+  },
+  {
+    "training_index": 301,
+    "group": "lattice_block_plug/OK/S0004",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "ef29195e67d059cab0da3e4e6e3cd9639fec2bf2f4ca6555b5513697b8f5b334",
+    "XYZ_sha256": "606e9363551fad1c8ed51522ccde1f18f9a240632516c87d247b67a0a9b594c7"
+  },
+  {
+    "training_index": 302,
+    "group": "lattice_block_plug/OK/S0005",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "34fc8f246b3b86ef8e82e312da37ea55c54fca55e355a1e121895ac52169015c",
+    "XYZ_sha256": "5a24d1d62bf6be8aa61e2e285e39c5574b03718ce82de29b91124ce9b9cf48b9"
+  },
+  {
+    "training_index": 303,
+    "group": "lattice_block_plug/OK/S0009",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "6c212438d749f9a068d761eba0865a1f5b9261f0dae598132c6d87313a5df06a",
+    "XYZ_sha256": "ab10f2637946f6877e7c7a42be99682b3818cf6604165aba4731e0006cf98ef4"
+  },
+  {
+    "training_index": 304,
+    "group": "lattice_block_plug/OK/S0010",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "1a044f6d3541cf68d411642f100002d8d369b5021ba35ab1dc7c4390fe8005a7",
+    "XYZ_sha256": "52ee177dcaaa38357effa07975638e92dd6832d784a684cfc91473ad7333a1ba"
+  },
+  {
+    "training_index": 305,
+    "group": "lattice_block_plug/OK/S0013",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "e61165a8435944094e3e469a49d6002a683ada19d0e3c2f8a5f52cf990600021",
+    "XYZ_sha256": "3928949353d9df9ec1d472b03c014f24818729e1f9da500b3b49058fa78c371f"
+  },
+  {
+    "training_index": 306,
+    "group": "lattice_block_plug/OK/S0015",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "68cdbcdbd0823a5c21a43c708b37de93dd3b6f1c413d42606e1694ad7a3e2330",
+    "XYZ_sha256": "c026cc5bfbd3279ca3ee4569cd05b7ef6f908166abc54f1d034ee301615fcf98"
+  },
+  {
+    "training_index": 307,
+    "group": "lattice_block_plug/OK/S0021",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "16c496e5e5fa33dfefe5e6c3af5e491866569b428489b5b7171b23bfbf19780c",
+    "XYZ_sha256": "057d498819b5169f8dc8744728842ab0527952ad5110dbc1aaa647955ca0cf33"
+  },
+  {
+    "training_index": 308,
+    "group": "lattice_block_plug/OK/S0023",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "88f3b49889e776a40449a1cf2a71cf7f8dc058a78195ef28ae9da85c0a275899",
+    "XYZ_sha256": "36ba3518c5c2f70918908bed33df52f0012134d76f09f7ff91246b0b61765974"
+  },
+  {
+    "training_index": 309,
+    "group": "lattice_block_plug/OK/S0024",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "40fe33208710a60281f7850595aa18b9a8d8bc8bc85c8f42c41fc89b5feaf886",
+    "XYZ_sha256": "1b6b5f515b98e4cc20952e52541d6abfbd1ca3b45a38ebde65719915bf27a702"
+  },
+  {
+    "training_index": 310,
+    "group": "lattice_block_plug/OK/S0025",
+    "category": "lattice_block_plug",
+    "label": 0,
+    "RGB_sha256": "92fca9c1d55e03ea4a3dd9a1d4f99592e96778d0ce142143c29070be9a5b8443",
+    "XYZ_sha256": "1d074553ea9d914bbe8cb9989c6531a79f05087f14c5a39cac6f57ad4fd5af86"
+  },
+  {
+    "training_index": 311,
+    "group": "lego_pin_connector_plate/NG/impact_damage/S0005",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "1509c697bec103f848a23ee121ac6d64297377bb9f5df6c21c65f4f84166ed59",
+    "XYZ_sha256": "8b92738189c84a6724d3b02d4a8e0f9f42515cbcba4987fb90e4d4de31c22182"
+  },
+  {
+    "training_index": 312,
+    "group": "lego_pin_connector_plate/NG/impact_damage/S0017",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "45f2b5466f5bba66ac44ee6b95c0851b178612fcccd523b69fce23f45abff701",
+    "XYZ_sha256": "189190ced073c8aaabd98ae623b464d6943fb95744ea945e2ffcb9f7638e8c9e"
+  },
+  {
+    "training_index": 313,
+    "group": "lego_pin_connector_plate/NG/impact_damage/S0021",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "c4231596e9deaee2cdf07b93324cd6dbd3027d389cd8edcdd57a761288d6997e",
+    "XYZ_sha256": "da22c34aee667ad5a441186bf0d9e5afbd5dc5e369f557ff1894bce1dba0c119"
+  },
+  {
+    "training_index": 314,
+    "group": "lego_pin_connector_plate/NG/oil_stain/S0006",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "4bba4aaf5f88dda8f7c090e9ae37312bd3f8b3c22b9af53bb02b972d0821fb47",
+    "XYZ_sha256": "9e3b1b4872e81a3194fa4b269ff6a0e7d0ed83ac5009cabe33738e62e116435f"
+  },
+  {
+    "training_index": 315,
+    "group": "lego_pin_connector_plate/NG/oil_stain/S0009",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "427ce3b448deb867c524c97d52b56e80e59a0c153670cddbbcc08550313c6753",
+    "XYZ_sha256": "0399a11516b5bbf245f4e9dc4b852c7b6972ff6fa5a29def51ba6272309669d2"
+  },
+  {
+    "training_index": 316,
+    "group": "lego_pin_connector_plate/NG/oil_stain/S0015",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "da651b087b8437522ba8deb6b56d62ceae659e3ce1b9c38b989a5d618f16b6a5",
+    "XYZ_sha256": "8e3d8fca681195983813b02d57ee637b168bf8e4ee7e8b0ea5982e8f98420df3"
+  },
+  {
+    "training_index": 317,
+    "group": "lego_pin_connector_plate/NG/pit/S0005",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "d15617ec7b2b180d478f3a389d6c9c26afcbe38ed65fb8e6a23d1cfb5e7237d8",
+    "XYZ_sha256": "8d6d4aaa63c0d9ca4dea45ce3318313fe3ec9302db96bb51982a9f3d45460ffd"
+  },
+  {
+    "training_index": 318,
+    "group": "lego_pin_connector_plate/NG/pit/S0015",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "42c1a0a3e7fc9dbec05754ef65636194fe8ade0a4b845d5cdeb9f29f9adfc7f2",
+    "XYZ_sha256": "2e99dfa9aba066c0982b41e843661e5772cf878fd869f1cc6ce7d66c45f60ce6"
+  },
+  {
+    "training_index": 319,
+    "group": "lego_pin_connector_plate/NG/pit/S0024",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "783272cbefa0ebc1a288f449cbf6ddbad9e28d673f94e1aef3f2e59fcf6ffd8d",
+    "XYZ_sha256": "58f5df853a4efb5f65af200c8b2431056e1a8b6c6f61709f774e748eec10a83b"
+  },
+  {
+    "training_index": 320,
+    "group": "lego_pin_connector_plate/NG/scratch/S0006",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "26a1a0e3fbf8800e3a759dcdda06816e1d9312ff969ffd5d22e0b2bb91710a7a",
+    "XYZ_sha256": "c2d82a16b00702067848e4302f1b9359ffe9888284bb29bdcd7bd556970f7929"
+  },
+  {
+    "training_index": 321,
+    "group": "lego_pin_connector_plate/NG/scratch/S0009",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "c557c55e56f9c4acfb1999e22bcde9198b7a932d62457074051428af68071fd1",
+    "XYZ_sha256": "6b91bab623ac897bd82d980c981add4c539f9aecaa7cc4eedc8968261326de27"
+  },
+  {
+    "training_index": 322,
+    "group": "lego_pin_connector_plate/NG/scratch/S0020",
+    "category": "lego_pin_connector_plate",
+    "label": 1,
+    "RGB_sha256": "10adc305a2243c3fb99ed1219b770ccaffae1cd794d81662a79047d6a3f23887",
+    "XYZ_sha256": "9347c7be26861bfca289af69c03b6cf2b84f99f1c57fda25ab10f725f19dc178"
+  },
+  {
+    "training_index": 323,
+    "group": "lego_pin_connector_plate/OK/S0004",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "0d5ea905c353e6dea844b69a1c7d416c3fcc94c55dda17311655a47e683da35c",
+    "XYZ_sha256": "63b8ba9f3a21128a94fb432d7601bd9486327622d721bbdd490e37dd86c4f470"
+  },
+  {
+    "training_index": 324,
+    "group": "lego_pin_connector_plate/OK/S0007",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "53047c8bf0cc340bcf1498eecd80b2cb19faddb093a7cfea100db47815b5a95d",
+    "XYZ_sha256": "e7dec1b09d75d15fd8d9eb6fee003a91bec8770f584b2fd4b4914f501e3ef0ee"
+  },
+  {
+    "training_index": 325,
+    "group": "lego_pin_connector_plate/OK/S0009",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "c994eaa5779bca522f0e5ff1f7aaa5eb2b730faf3cbb9fdb4ceef5f891e80133",
+    "XYZ_sha256": "de0ca4d83ceb866dbcaa206ada681f48d5c1d212d04266718d2903d1a628e4d8"
+  },
+  {
+    "training_index": 326,
+    "group": "lego_pin_connector_plate/OK/S0010",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "8fa6544d9f0428bdbda3d7bdcabdbecb02acead6e1fb06414dc4d89ecf170634",
+    "XYZ_sha256": "ce425bf6be32ffcd81e01ed5230071947b3e141130a0260e774a9da49daf40a6"
+  },
+  {
+    "training_index": 327,
+    "group": "lego_pin_connector_plate/OK/S0015",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "4e60c786262bff0ed58d2a54298bc65c93cad28cbd3b96069f1d1e78e2284c8b",
+    "XYZ_sha256": "6231f52bbaef675d9322ca47eb1bee832eee0ea9db45354ee44904a1f24bceb5"
+  },
+  {
+    "training_index": 328,
+    "group": "lego_pin_connector_plate/OK/S0017",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "edacf10ba0146b4b620a4daf14f70f61692dfd07f06c116bc0a1bc9ddd5257c2",
+    "XYZ_sha256": "a54c635af9ab746a8ddc95885f0087d63e8b2c4e64031d5ab01cb1e6c0baef6c"
+  },
+  {
+    "training_index": 329,
+    "group": "lego_pin_connector_plate/OK/S0020",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "afc92bf42a0d2a6a16619265cf6f0954e7ace49b24ddba4e937f02916da8caab",
+    "XYZ_sha256": "c0ce3c8641f6b8ff828c3bebd7cf8e0b554ab6aea7f4a13386d67fbae7af6e8f"
+  },
+  {
+    "training_index": 330,
+    "group": "lego_pin_connector_plate/OK/S0021",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "1a03a35b144cbe8c206714ad075fcb22ae62f6a66c398b6b28341ef3c0776c96",
+    "XYZ_sha256": "ee8f1f6a0f2ef787e836c3e70dda5bf32eb44b1d4c7d7514ba21354017a09654"
+  },
+  {
+    "training_index": 331,
+    "group": "lego_pin_connector_plate/OK/S0022",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "ff9425786fde180adac621cfb8e81cd9aac3164c20bd717424f873286692c087",
+    "XYZ_sha256": "745cae2a72c6ca223bb0ddeae307bc593d9d3da318d41a9ee0699b6d46be2abb"
+  },
+  {
+    "training_index": 332,
+    "group": "lego_pin_connector_plate/OK/S0023",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "66f96106240e479d02dc35401493a1a426e8acd516eb2b84c5075ff9b3f59c54",
+    "XYZ_sha256": "039fefe4c5c526e146275fc354adefba11f0fee14d26b7f270c14ef8a492be3d"
+  },
+  {
+    "training_index": 333,
+    "group": "lego_pin_connector_plate/OK/S0024",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "2d96eb56d490a71df14cda0b9f80f956f2c46503271b20dac739c352e002b4ae",
+    "XYZ_sha256": "ab7767ed5a2fd81f81e5437b0bc39da84a224c67fb93ce7857036bb425b34d14"
+  },
+  {
+    "training_index": 334,
+    "group": "lego_pin_connector_plate/OK/S0025",
+    "category": "lego_pin_connector_plate",
+    "label": 0,
+    "RGB_sha256": "e7165c84590857be7f13528d0011d89ad88063088d96369cdbef44ea0f9a3d64",
+    "XYZ_sha256": "ba981b894c49f5fd4cacab3ff6935f382d00ed918479e1c0171373219d68b26f"
+  },
+  {
+    "training_index": 335,
+    "group": "lego_propeller/NG/impact_damage/S0003",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "5af74f9b6420b108d1dbba714693b18fd82bd161d0e8979a3249733fb3ebf56f",
+    "XYZ_sha256": "8c6ddf96a64db7d0d6a41cb270a836a68a1976f92550e137f9d63686bf40e9a0"
+  },
+  {
+    "training_index": 336,
+    "group": "lego_propeller/NG/impact_damage/S0006",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "27bd00eeb33ea036420e45ca27a5b7e05a28b2766a19576afc083881444909bc",
+    "XYZ_sha256": "4a486d673a3275b06091ec52683ef222e9a865eee654932471760408e4829ba0"
+  },
+  {
+    "training_index": 337,
+    "group": "lego_propeller/NG/impact_damage/S0010",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "39d03fa33e979e99b55dad01f76a162054c1c4b1348ef36f03589be012932c7a",
+    "XYZ_sha256": "6d3fd3f65e9d641631fc250de275ab0f927ec520deb3ee018efaf52624e4c8aa"
+  },
+  {
+    "training_index": 338,
+    "group": "lego_propeller/NG/impact_damage/S0015",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "1bd0826b22d57f69584f103fecf0382cf3b571bc617e37c2e88825e7ee8adccd",
+    "XYZ_sha256": "7dd4fd2d38b18daaf54fa3fbaeb171989e0c93f7aeddc6b3acbfdd9c26cd3ec7"
+  },
+  {
+    "training_index": 339,
+    "group": "lego_propeller/NG/pit/S0004",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "1c3dea9bfbb0eae1578cfc38c07192aab1eae3dae55a5b337ff133d7a210caef",
+    "XYZ_sha256": "f4eb5c1c499de2f9672361a4f790c984bed3f0c59d02243bcdef1a0d9e7ca345"
+  },
+  {
+    "training_index": 340,
+    "group": "lego_propeller/NG/pit/S0008",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "2d0583df4120e1ba1dba0c16ceb6249272fe4ceb6f5d46474f9ea4532fa6abab",
+    "XYZ_sha256": "f88f44147ed4db55ea40ae3199393f5ecd3c39fd3ecab0427b2a1433fcd1f276"
+  },
+  {
+    "training_index": 341,
+    "group": "lego_propeller/NG/pit/S0021",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "2e84d347e61fe8af014bc28c75a3cce6f9dcec6727faa68281f247671c83d276",
+    "XYZ_sha256": "44353aa889c82ecfd9ff0a5d92f3946484f252c88cba1eb4c6e3598abf962bd8"
+  },
+  {
+    "training_index": 342,
+    "group": "lego_propeller/NG/pit/S0023",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "6b3e2b97f6644f6ea37c8f39ecaaadfedb0c6a95448b0d0693c7bea9c31db04e",
+    "XYZ_sha256": "6eb92525288f7d4e4ebf3f4f9b010914e7ba25f9cc7d32dcd15c47c90f1b6594"
+  },
+  {
+    "training_index": 343,
+    "group": "lego_propeller/NG/scratch/S0009",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "49a7717a3221cf2afd418f8a8bf5ce31dbc40c5f5db08deccc2c04532b609e3e",
+    "XYZ_sha256": "c20b7e23dfe4805ef4a3c08157817e24e736ac2de6416156349476fe0428bdd4"
+  },
+  {
+    "training_index": 344,
+    "group": "lego_propeller/NG/scratch/S0021",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "a8960239c237f11796dcd41d48d866013445b2ff34b723f62f0b9048168b2b9f",
+    "XYZ_sha256": "51bb36b90825cb96a99384fe705858498a18dac2bad25ba426a184fd6c8693dc"
+  },
+  {
+    "training_index": 345,
+    "group": "lego_propeller/NG/scratch/S0022",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "960b6f26fe0b3a153fdc3e60aada75a1a41427d9dc04714187a279dcc0ca5a76",
+    "XYZ_sha256": "0c90c04b15b66de6a3c147b2f571a62604e3a5c12a7a0af207815e9ecf84a9e6"
+  },
+  {
+    "training_index": 346,
+    "group": "lego_propeller/NG/scratch/S0023",
+    "category": "lego_propeller",
+    "label": 1,
+    "RGB_sha256": "5f90e9c28cf0f834c68ff932e2a412d62c76908af74ee991371fa86570dce0a6",
+    "XYZ_sha256": "a7be20954c838d995cbe85b9391c9291fa099e60a615ea9b9ae1e28086c64465"
+  },
+  {
+    "training_index": 347,
+    "group": "lego_propeller/OK/S0003",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "0ad455be45129babf2fed8aacba89119a5809cf83d861e8ee1e5a7755e4f3c96",
+    "XYZ_sha256": "8a09d5f497d5e1edb749e237af6d82e2e968ec6ba0346477375de41fb0ed12d1"
+  },
+  {
+    "training_index": 348,
+    "group": "lego_propeller/OK/S0004",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "12bdc1514c9beda98a7b7e648e0a1267e8cb68c903784de72ee8985cdc2561af",
+    "XYZ_sha256": "6f7b475dad24d4b8d6694dda37f301bea35c6edf084c14418099c409bdfb75c2"
+  },
+  {
+    "training_index": 349,
+    "group": "lego_propeller/OK/S0006",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "1df714c9e4e6580f820c5bf7cedb6562eb5e818a919b0eac9f7c88fefc270d7a",
+    "XYZ_sha256": "4d4316ee2e94a117131990a576d5021c2bf77b0fcf9c073100a82c58c3012149"
+  },
+  {
+    "training_index": 350,
+    "group": "lego_propeller/OK/S0008",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "be635cd68a7b4a07a4054302b948b8dc097bcf2d492a7208979a090371cd07e8",
+    "XYZ_sha256": "299254ea36a99148978ab42d54b086f7b02d79b29cabcf7aab4a74b5bc0bc673"
+  },
+  {
+    "training_index": 351,
+    "group": "lego_propeller/OK/S0012",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "8a1129cc4cd182b70bcd9cee637436a9a828c22653cf2c7bc334aee571dee480",
+    "XYZ_sha256": "ebc484721fecd5e1694c51280c8ef6e7c760d40a0c3ba796883cce0b55351e47"
+  },
+  {
+    "training_index": 352,
+    "group": "lego_propeller/OK/S0014",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "777c2692f43ad538affd7176a202c9d90744b42918fa076ba33f620126154799",
+    "XYZ_sha256": "9f102c3f6033c10836a0a426f2d18f009a749c3892a2b9a47d0489aac7265e2a"
+  },
+  {
+    "training_index": 353,
+    "group": "lego_propeller/OK/S0017",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "e5be81ac0532917b50bd91441af47dc64d3dfb37990f538c710ac30bd2de7a33",
+    "XYZ_sha256": "482bda41fdfb0384af2c78a59b4f6f16cb2f7fa319e854394adab0f96375c52e"
+  },
+  {
+    "training_index": 354,
+    "group": "lego_propeller/OK/S0018",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "8c5cebee29c22e21120715636af638690fd325800f196a2047d8c6319cc5d054",
+    "XYZ_sha256": "af8c76fef9d62558f4804d0a10a6c78c150d7db6b3de531b27838870531fe549"
+  },
+  {
+    "training_index": 355,
+    "group": "lego_propeller/OK/S0019",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "d19018ea945571f3ed486921a1460bea595eab459d8ffe24a5b9bb2b3fcd615b",
+    "XYZ_sha256": "15106f329d223bdf5a5a29e9f11ce47e6ecaeb42392bba34804f891ca0e99a7b"
+  },
+  {
+    "training_index": 356,
+    "group": "lego_propeller/OK/S0020",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "8c2a56709ff19b082dd2031625473868975a012fb94ab0cde8268775a744e7be",
+    "XYZ_sha256": "b4d9f93d14048e212a00ed9c4da3caacac62282e6b4af7892f549e73a9c5e0f4"
+  },
+  {
+    "training_index": 357,
+    "group": "lego_propeller/OK/S0021",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "a62c667348af6fbcd342051afc9ef3e4ed587d4789ed98463060628d0b1b4101",
+    "XYZ_sha256": "3d4e0b5c179385de0f9d7963d021871f58678a32b8a4aff4f5fa568015a8f291"
+  },
+  {
+    "training_index": 358,
+    "group": "lego_propeller/OK/S0023",
+    "category": "lego_propeller",
+    "label": 0,
+    "RGB_sha256": "100dc0b579a5c2c2ddb27919f59736bf061444da51ffe4a34f25ab616a5a5074",
+    "XYZ_sha256": "8928842ab49e24ca187cccbe17512038496df6f762e658f1ef8685883db37765"
+  },
+  {
+    "training_index": 359,
+    "group": "limit_switch/NG/deformation/S0003",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "a3fd3a51c56192af6ba24f2e0712ba93755f89e65af5c66b35922dc2704fa89a",
+    "XYZ_sha256": "e3dd85524e55fc904c36e2421f4284fef480a897507705f38bed0a9a6d081212"
+  },
+  {
+    "training_index": 360,
+    "group": "limit_switch/NG/deformation/S0005",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "7a00067faa3bbaaaf056bf88447a88d1b62b758a0416668b93932423aa6e3ea6",
+    "XYZ_sha256": "1573e819cd33f00826824c82a4bddd87bc16f72add9e237dcbedfe534d2452e0"
+  },
+  {
+    "training_index": 361,
+    "group": "limit_switch/NG/deformation/S0015",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "f96a77bced06e7eded6b5f8b6a5256922f575bce331380c2aff9eb8c0540f504",
+    "XYZ_sha256": "cda63dc7327e810aa89f7d7b32d189748905ea97df269ef0e56c710fc25d9858"
+  },
+  {
+    "training_index": 362,
+    "group": "limit_switch/NG/impact_damage/S0005",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "780e4d17e5836e7ee255d24c6a05965d4f4ca14cb3a727ccab9f3010f62355bb",
+    "XYZ_sha256": "c449bb2eb62cbad9419d9623b18f55daa6a29507f7461095ab2ae11f63f5f770"
+  },
+  {
+    "training_index": 363,
+    "group": "limit_switch/NG/impact_damage/S0011",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "80d70422fe79696271594ddb7be4560d17307466c14808c8e983ec5f7dc94686",
+    "XYZ_sha256": "617288f4d83eac3868ae9f58b02ce3d5cc30b8907bfcd62d572443e6341c6eec"
+  },
+  {
+    "training_index": 364,
+    "group": "limit_switch/NG/impact_damage/S0014",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "d504dba57da9f8dcf6ebeeafe5695a705064ca2cd7e495c31d7e2e8c805b4399",
+    "XYZ_sha256": "ecf5ddd612f9d922044c7b42264f8befa0f4e8ae64a524e780194ac003754292"
+  },
+  {
+    "training_index": 365,
+    "group": "limit_switch/NG/pit/S0004",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "e00dca7e324b8df78853e98cd9659ddf0ab8c94c31926596074513a2821f5086",
+    "XYZ_sha256": "e3b7db1434bd785d58cbebb50230219c5cf68ff595ad471a8222fa3fbe0938e7"
+  },
+  {
+    "training_index": 366,
+    "group": "limit_switch/NG/pit/S0010",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "eff2b1ef5b7a104c193c69edcf63f955006b13d1e44bba911979ed8649689721",
+    "XYZ_sha256": "11766def202fbe1d2b52583ab9d53aaca1479c4039aa65b730da4f3027e71adf"
+  },
+  {
+    "training_index": 367,
+    "group": "limit_switch/NG/pit/S0016",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "05340fd5b8c9ec5593efb1040fce030338ae6060481bb8fedcc4c5efa0255749",
+    "XYZ_sha256": "29a364f0a2ea3d927aab1141c369e9a24230f87e9378eeb195d5fd458d1766a2"
+  },
+  {
+    "training_index": 368,
+    "group": "limit_switch/NG/scratch/S0011",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "ed93ad1cfee37121c4fc23a6023177a6165de4e7b8c8b0f566484d75aac5a77d",
+    "XYZ_sha256": "2b81c9bcd73a1f592d7fd03e1566ff97eb4bd5b580117907342db70539d367e6"
+  },
+  {
+    "training_index": 369,
+    "group": "limit_switch/NG/scratch/S0013",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "ddf70436261364844845480b7e3ab850dd2c946448ca413f3721d40237b2aa5c",
+    "XYZ_sha256": "e0cad6fcf2c8074855e0b9b978a4e26518c12c3f8b5a797c066aede5834ecb2e"
+  },
+  {
+    "training_index": 370,
+    "group": "limit_switch/NG/scratch/S0018",
+    "category": "limit_switch",
+    "label": 1,
+    "RGB_sha256": "4aabd639078df9765a2a72528aeee550db829c73d65b5e747d1ff8e85eaed15a",
+    "XYZ_sha256": "039336a5474139756a8fb70681dc7170a0c5d00fa35ef852236b71cdb1b532d8"
+  },
+  {
+    "training_index": 371,
+    "group": "limit_switch/OK/S0002",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "89e93432c959ecb1404523301bccd679843737705dd97b0fbf5b71988449e4cd",
+    "XYZ_sha256": "b6e54e0dea623e9dad1d504d8c7f61368fca73c21650a85203491e592e165d01"
+  },
+  {
+    "training_index": 372,
+    "group": "limit_switch/OK/S0005",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "bb6fb0bea5573625727274f31dfb3cb7e7282fefac228a23a59bca5719587dfc",
+    "XYZ_sha256": "1626493c2f45251af5610653dcab1359d664c2664796a716ffbcdffc7bd7b15d"
+  },
+  {
+    "training_index": 373,
+    "group": "limit_switch/OK/S0007",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "261d88a20480d41e86cba4340a20371498079f13b05dcb95e4161576eb9946c3",
+    "XYZ_sha256": "691f1ff78a4800150ccfd6ca8e12cf2839eb8cb36071f9fea9103dec43ac2e00"
+  },
+  {
+    "training_index": 374,
+    "group": "limit_switch/OK/S0008",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "84c9492776566dd1ed9cb3fd2bea3afd94068a0eb5e7f28e457daa2c855169e3",
+    "XYZ_sha256": "1f1d759bd2c85f85101bbbc438a7db53dcd5975a6f5a84279ca052c9c47ed9fd"
+  },
+  {
+    "training_index": 375,
+    "group": "limit_switch/OK/S0009",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "55f5d24408d43b5b1b4f3b8696d7650838380d48c67515e65bb1b7c1fef91e64",
+    "XYZ_sha256": "22331c98941c0de073ebd8e3ad84133bb45c22e63727894eae5a225b9079dea0"
+  },
+  {
+    "training_index": 376,
+    "group": "limit_switch/OK/S0011",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "d1d51d65fbbe60cb6ccc5bc329a34d884c15f49b7835f56a18df5ea39ad4b645",
+    "XYZ_sha256": "135879baa9e23b5a75d3d42ea645cfe85a5a11ee365c933b4761acf373a85bbf"
+  },
+  {
+    "training_index": 377,
+    "group": "limit_switch/OK/S0012",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "5caf1646bd55f072d6f75cd479373f38a7bbbd742160d98620e61f46b5d1456e",
+    "XYZ_sha256": "ae4c40249989fec8a63819fa403a3eddca147b797803732bd385992ae3463fa1"
+  },
+  {
+    "training_index": 378,
+    "group": "limit_switch/OK/S0017",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "374f6c7c4f5ac55cfc6c3861da86ba832fa2bc6210b431355c3cc4f4cbbd39bd",
+    "XYZ_sha256": "7b4470e9913694c97bc2e411686c3aec2ff082f20b90d163cc9e87d32072c9a4"
+  },
+  {
+    "training_index": 379,
+    "group": "limit_switch/OK/S0018",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "6a20de62169f6177e60e0974e7a195c016f09ba54d310801e16492b348b7a435",
+    "XYZ_sha256": "64dae22dfb4a0d6e11a55193cb012d2eba8507836f143bef18d63ecae139241f"
+  },
+  {
+    "training_index": 380,
+    "group": "limit_switch/OK/S0021",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "9cc870ead9346240dffadc51bc3e56b4cc5c7522ff78be452ed881ff454166eb",
+    "XYZ_sha256": "81aa216271b6869f8997a66d7e081eb821049a3db5e04d20e01aa566c806c1ee"
+  },
+  {
+    "training_index": 381,
+    "group": "limit_switch/OK/S0023",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "16e0e3a9c36c7de791b9d0202942ef5d57d9e21a8621d8cb6e299a06768db512",
+    "XYZ_sha256": "7900a9272d72d3ab0aa1d1ba51a5dbad2eac09db431e26d787aaf325a9085c0e"
+  },
+  {
+    "training_index": 382,
+    "group": "limit_switch/OK/S0024",
+    "category": "limit_switch",
+    "label": 0,
+    "RGB_sha256": "8cff2a7e58a53917ac2a55e3ab8abb29d33fda630a58bb766b60f6db641bd615",
+    "XYZ_sha256": "87fcd79dd966bf2b7b6e4249c2f2a55b6840454576c9763e5f77a76bc53dd99c"
+  },
+  {
+    "training_index": 383,
+    "group": "miniature_lifting_motor/NG/deformation/S0005",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "835b8cd93cce999d3cbbe5290d5acc5f8939eaa98336eba54395e0f11dde6a44",
+    "XYZ_sha256": "8518fe31369bb2b409d34605a36eb86fc73c1817301fa5c3618edec7d4c42ef9"
+  },
+  {
+    "training_index": 384,
+    "group": "miniature_lifting_motor/NG/deformation/S0006",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "34280fd9f5b34fe18e970a77a4d8ec77acb3271430378004a4d3e3a3476e784a",
+    "XYZ_sha256": "64f4e6727f3940b5092a8179a45a3765e1324243fcbec664fe4e6f291ed091c4"
+  },
+  {
+    "training_index": 385,
+    "group": "miniature_lifting_motor/NG/deformation/S0012",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "5492877c161f1705de21b88cd065d49afbb12f2fcb8c0547447fb04fd61a6a13",
+    "XYZ_sha256": "5fe0f20f67035731dd3b98e168a8bb03c4334087f63ff2d65c85666ddcbc5555"
+  },
+  {
+    "training_index": 386,
+    "group": "miniature_lifting_motor/NG/deformation/S0015",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "1c6eb1f4b253bb617da4adef0c4e0f5b7e7f50eef0bfee31c2a0c970b06feacd",
+    "XYZ_sha256": "0b5d2187377e2de7d5e48a3d5845836ddce0462ebb7d6a3955965bf426ba6ddf"
+  },
+  {
+    "training_index": 387,
+    "group": "miniature_lifting_motor/NG/deformation/S0019",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "569745d90a2f4918d7e122bbc6555d6381b8b6fa1e8a654c11d5de5c5fe38848",
+    "XYZ_sha256": "f6e8570905ac500a10ba8b02ebf7e2cca488dc95670a6709447ee4ce38aa6e3b"
+  },
+  {
+    "training_index": 388,
+    "group": "miniature_lifting_motor/NG/deformation/S0020",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "79789f8cdfb43135d06f42a3eba30703c38e64edbf96fd00a903beaf976202c3",
+    "XYZ_sha256": "487d54f6ee45af40caa1c7d808f7d0f142a89469e09496c7fa19c01acd1b0bb5"
+  },
+  {
+    "training_index": 389,
+    "group": "miniature_lifting_motor/NG/scratch/S0001",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "eccb5d5d5d1572608337d12d788b7d67b4226ae14cc352ccfc72a65dd662a12e",
+    "XYZ_sha256": "7463860786216aab00c7ce19de4580284f74ef2a051e388116a1fa5c60607987"
+  },
+  {
+    "training_index": 390,
+    "group": "miniature_lifting_motor/NG/scratch/S0005",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "d859bdf8d0c72ddf5bef72a9a4ab65c7d7ec0b2e80482e2bf082e79e9a8daf41",
+    "XYZ_sha256": "ddfba80207fc443b28f7feab645fb90a894d863d63cf044dfad300465e70becb"
+  },
+  {
+    "training_index": 391,
+    "group": "miniature_lifting_motor/NG/scratch/S0009",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "bccca1b6b234843b3f08f4f8cf54a8748cb02ef8b2cfa073c2c81722af1e0109",
+    "XYZ_sha256": "54dbe0d817f83bc085e335ecda62c6e11c9d210246cbf79959a3759beea2be7b"
+  },
+  {
+    "training_index": 392,
+    "group": "miniature_lifting_motor/NG/scratch/S0020",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "7df64ab6ed97fc536ae0544ff33b77fa386587c0a26ffbc6bacd5add03895c6d",
+    "XYZ_sha256": "16f1985822ccbdf530235d74b224348e975bd23442abaea689d2a90dfd2fd3aa"
+  },
+  {
+    "training_index": 393,
+    "group": "miniature_lifting_motor/NG/scratch/S0021",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "68af29e066ca6c0e31cad0eca9fc03d2d38581eca07a475a464bd8e690794266",
+    "XYZ_sha256": "28d3138f8a2f3768b31f2975d3ec22fe0a92731193ab4c33076d13055682995c"
+  },
+  {
+    "training_index": 394,
+    "group": "miniature_lifting_motor/NG/scratch/S0024",
+    "category": "miniature_lifting_motor",
+    "label": 1,
+    "RGB_sha256": "2c56fab430dd1171dfa6dbd50187463fef898d4fb10e684c6dcb7b978cb03d74",
+    "XYZ_sha256": "c1468567ee46be58f261019e87d9fed7cd83d7ca32c248f68dd50fed1c8cf5da"
+  },
+  {
+    "training_index": 395,
+    "group": "miniature_lifting_motor/OK/S0002",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "d71da93d2b3130b77d7a87b8a239a93c875847d68fa792c1f35098b254812e5c",
+    "XYZ_sha256": "52ea9453e25e96ecd2a45504160eb78217d9d56f911e7d71261410d58cf7f02a"
+  },
+  {
+    "training_index": 396,
+    "group": "miniature_lifting_motor/OK/S0003",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "1dd2686cbe295e68949f0b32d424318096a4c1c81c51db30ec991e17d9f4b6f6",
+    "XYZ_sha256": "7a474fecb0d4da6bdb49b6b4bcee3fbbacef15df140e01a783ac24c464b1d571"
+  },
+  {
+    "training_index": 397,
+    "group": "miniature_lifting_motor/OK/S0004",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "385c69d275207822b62f2de5d257c9935c02cfaf546f7b45a1ea4cd197c5ce16",
+    "XYZ_sha256": "329a9dd8d63373b0a39d3b3ec70d4fab357e1ec186575f32a93437b299248207"
+  },
+  {
+    "training_index": 398,
+    "group": "miniature_lifting_motor/OK/S0008",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "a866e7e20c0d354b4d3269c86f08740a5476a2d94a4b867a99262cd387aa16f9",
+    "XYZ_sha256": "11745e8d5dd7388ff2d3075e06b8acc877036bb333f879fc721b3685df2db5fd"
+  },
+  {
+    "training_index": 399,
+    "group": "miniature_lifting_motor/OK/S0011",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "e0991e3e63008362a700360382c404c82f5deba38c8e8e91e0e73ede3afb3c11",
+    "XYZ_sha256": "bc666f294a8d128af1fd1276edc48c77d471c3105da4b5ccdcd1b73c9c4b047b"
+  },
+  {
+    "training_index": 400,
+    "group": "miniature_lifting_motor/OK/S0012",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "5f5f344a7fbe2c2eb827d819836afa6e6014a7bc050347b29b53cf49b4ae3e95",
+    "XYZ_sha256": "1111bc686af23c3553b707fb5afef2d8fb805668cbc32ca582279b2519842824"
+  },
+  {
+    "training_index": 401,
+    "group": "miniature_lifting_motor/OK/S0015",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "6ad88e4bf7d1d40ad2079d3668ca9e430959b7224d7603f6d93c24fb234e60ef",
+    "XYZ_sha256": "fbaaf9fec112b974831eb4ee5a3fca1acc5e248c2855b814e4a2bc90c9692ce8"
+  },
+  {
+    "training_index": 402,
+    "group": "miniature_lifting_motor/OK/S0016",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "b4bcdbcd67ddee570e51607336053a85194c5aae8f9a6a365f28ca27e61ff3c8",
+    "XYZ_sha256": "3779d107ef6b7f8ae73e04ceba4e6d114f91ba11309e025ba1f6b0695cb5600e"
+  },
+  {
+    "training_index": 403,
+    "group": "miniature_lifting_motor/OK/S0017",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "f285ca2d6bf4a420ecff067d63ee9c7f9c0c11f15b24aa4e22f47ba29bcf5497",
+    "XYZ_sha256": "81f4d11dcc776331164fe940839029983994d45752872a862fd6ff8448e01f75"
+  },
+  {
+    "training_index": 404,
+    "group": "miniature_lifting_motor/OK/S0019",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "bf3d01f51978b4f5f4a634b455b322bd5902b5bb9ba8b2a2bb8b66c69edb29d0",
+    "XYZ_sha256": "383625c918c4af7416f7047a60d4f2ae12530bf491b0ea3af51e07399b986292"
+  },
+  {
+    "training_index": 405,
+    "group": "miniature_lifting_motor/OK/S0021",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "3f877f3e2787815e9e34dde173fe272b80fdb1be60aa95c86cb23cf1a9fd5bb6",
+    "XYZ_sha256": "53630df9252b1bf8340f2486a40061ce5cc6db1ed6391285e21fec1467a5c191"
+  },
+  {
+    "training_index": 406,
+    "group": "miniature_lifting_motor/OK/S0023",
+    "category": "miniature_lifting_motor",
+    "label": 0,
+    "RGB_sha256": "942c6fd7cd82c9d7c1b31adcc12b086cffcee5b7352505db0ab5f6ef91301437",
+    "XYZ_sha256": "e635ecff4bf1e8f3f0639687ad36570162f912e2c0eca52690c7da15927d7c4a"
+  },
+  {
+    "training_index": 407,
+    "group": "power_jack/NG/impact_damage/S0018",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "aaa8e7ad68167677986966070fff6edd7e75df2d6ed4eac0c50ac4fc48b91e09",
+    "XYZ_sha256": "83bddcc21fbf5f5d9d7691dc0b4ed4d92be940e622fecb6fd4ba477c2484ef2d"
+  },
+  {
+    "training_index": 408,
+    "group": "power_jack/NG/impact_damage/S0020",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "536bc93cf89d0fb8e07a0b1b13f258f4ae93cbec9c3d1aa0a2420d525dd43d69",
+    "XYZ_sha256": "752a2fea235b2a1f90c536e427f09574a3fde4be6e2762c078d3b4d2402ed0fc"
+  },
+  {
+    "training_index": 409,
+    "group": "power_jack/NG/impact_damage/S0023",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "0e307925d1f5ff60db857f9d55c83f7ccde4e2a9ceeb4c38e3284eef047922d4",
+    "XYZ_sha256": "a134c09113639b58f580722ea753411a3e0181908c1232f16aa7a875fb46f191"
+  },
+  {
+    "training_index": 410,
+    "group": "power_jack/NG/pit/S0004",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "3df4a05059c214c4c866494b24f5452e2839b506ea2f5dee9774257319fc4a55",
+    "XYZ_sha256": "d4a1aa648a4ba0522814f026f7aeaac9dabb495921599a5bb8fbc18921c12ab8"
+  },
+  {
+    "training_index": 411,
+    "group": "power_jack/NG/pit/S0009",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "26ac767b1da96d2f8939baa288382c8c446bdd83466262108043a4073d91d548",
+    "XYZ_sha256": "aa977a4589c9364e42dd13b3febca16f018406d2fdd9360fb9f88d27ea18e99f"
+  },
+  {
+    "training_index": 412,
+    "group": "power_jack/NG/pit/S0023",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "35968b1e8802f23b94af95282a73b40ceedae32c14ea08713db58f6aa00b9040",
+    "XYZ_sha256": "da65e2a8b2f7ac3c7b947d975dc8f3bf29266bf366418557fafe7bc6c992c4b3"
+  },
+  {
+    "training_index": 413,
+    "group": "power_jack/NG/porosity/S0001",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "7c4fd2e7f5a33e29d2eddfcdcf1772323f941bb337de59c1890e2d4b34b2723e",
+    "XYZ_sha256": "4393c83949fdd06ad8193eeda1fc55b4b5ede7fec67bc1d5500212add76543fd"
+  },
+  {
+    "training_index": 414,
+    "group": "power_jack/NG/porosity/S0005",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "6decd5b0212667275c76f9470653488bdd009e167b669386153155eca108c5f9",
+    "XYZ_sha256": "37d0c12ffc687fc3cef999b8b43cac8e73318328e1b70eac4f867774c4d45b8d"
+  },
+  {
+    "training_index": 415,
+    "group": "power_jack/NG/porosity/S0006",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "fc85e467be91baa0720d695e75475f8753553e7536b753508d1fba8dd99cdf06",
+    "XYZ_sha256": "46662aa99513f68e0e1ed002b3e111541ecaab8a29de2491db5e6931a219d464"
+  },
+  {
+    "training_index": 416,
+    "group": "power_jack/NG/scratch/S0004",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "4e3520a29877ba0a70bb364e96ac44993eccb70b8cba5f506b4a25af7573fe60",
+    "XYZ_sha256": "f45ddbdd3e1f8fa6a70f4b2cf5ad3bd58998beaa8d3042ad83a150b759ee9b20"
+  },
+  {
+    "training_index": 417,
+    "group": "power_jack/NG/scratch/S0016",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "76562c631865ce86bec54d5568c5048e41bb9ec1831d56be787770a72bdaccab",
+    "XYZ_sha256": "d7bd4369449691715f6ab441db8dd62aa771a3a5036d15b5155018571642d898"
+  },
+  {
+    "training_index": 418,
+    "group": "power_jack/NG/scratch/S0020",
+    "category": "power_jack",
+    "label": 1,
+    "RGB_sha256": "6a35dd09281f619965916df19b46f7e1d066ec5795e253765bfc945fc34f75ef",
+    "XYZ_sha256": "1d681ba19fb8ae00d695dcdd52773cc79ed1e723ec469045f4cbd493fd6b4f50"
+  },
+  {
+    "training_index": 419,
+    "group": "power_jack/OK/S0001",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "c30707edfc74a781790c9c8466b7d69cf0effe81d6b8cf49d6a2c3da3bfd78ad",
+    "XYZ_sha256": "209f807710699df94fcab9b505889d642f5acb9f2c11b7ded224b602853f3939"
+  },
+  {
+    "training_index": 420,
+    "group": "power_jack/OK/S0002",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "6ffcf44ee601595a27cebc5652a0c06bff926b653c00b444d51a06ac6a24581d",
+    "XYZ_sha256": "25dec9aea5025e5b1e89cf34e1d997940d89a80f345a486e2d050b19f2de2c81"
+  },
+  {
+    "training_index": 421,
+    "group": "power_jack/OK/S0004",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "a222042dfc205abed24e6127e37bd03cb5867a6655c8b1b5687239fe2b22f7ab",
+    "XYZ_sha256": "30f55b3cdcce5db448f85073f0ed3fc7a4e20bfa7c97b9463e16b8afa8f25927"
+  },
+  {
+    "training_index": 422,
+    "group": "power_jack/OK/S0006",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "28133a37767e56e544da6186ef4b4b4d753f31613332e035124309506e76e32a",
+    "XYZ_sha256": "1bfdc91a0b4efb716a2f8762d8ca3653da619608fb23d1f3be882507dd6dea4e"
+  },
+  {
+    "training_index": 423,
+    "group": "power_jack/OK/S0008",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "e78527721a7fbc071903801895610b765a05a04a177789305e6c04e857c67adc",
+    "XYZ_sha256": "a3eff98ea8d38d50ef1cac63019312676c5f6be4d56da9daeea4637ed14aa966"
+  },
+  {
+    "training_index": 424,
+    "group": "power_jack/OK/S0012",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "15554a761634d73491deb1939cc2100a59c0e0d33f67db41a5046b4369636a05",
+    "XYZ_sha256": "1c0ea1a286506bd3f8e88441deeaf10ca577da672b1365d210e2f3a7e0b6ab0a"
+  },
+  {
+    "training_index": 425,
+    "group": "power_jack/OK/S0014",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "d8581e2687aadc5924db57d1d9435754cda585117f9d423df76ac1e8acf64835",
+    "XYZ_sha256": "cfa9f196b1223a9422d00e190297777024d77c934e4504c05347a2e6a846383e"
+  },
+  {
+    "training_index": 426,
+    "group": "power_jack/OK/S0015",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "8c22fd33c5fe8f3bb1133a0f540f9877340a136da4f720694290139d5536a964",
+    "XYZ_sha256": "26e48789d263303314ddb3b356bb42a1d3b8ba5ba944918a2055ecc0a5b6c2b8"
+  },
+  {
+    "training_index": 427,
+    "group": "power_jack/OK/S0016",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "838484f8feed33f477b906aac8729ddff44a6338ada0745345ef55e906dcc281",
+    "XYZ_sha256": "a8c1441534f63eacdb65ab4f697074b88a2c6bb834922d7de3a3758c695b091c"
+  },
+  {
+    "training_index": 428,
+    "group": "power_jack/OK/S0020",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "7c8e80446d80768f9dbd8e1809b4e8d1035e17153d2004b49dcea75127e03827",
+    "XYZ_sha256": "d5629efaae3981560777140b2e911559aea78e19ad4013c95afb6706c4597d8b"
+  },
+  {
+    "training_index": 429,
+    "group": "power_jack/OK/S0024",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "cda7f4ac0c7ce1514432ffeb917916391ceec9cf471148781e4605b68053ff9f",
+    "XYZ_sha256": "b359567706ff3e5259a22bd3e80a057bd34a82d61f8194ea1c10ebfadea7623c"
+  },
+  {
+    "training_index": 430,
+    "group": "power_jack/OK/S0025",
+    "category": "power_jack",
+    "label": 0,
+    "RGB_sha256": "c2a1ec03f14640eba75076e33cbf91b521ae2647c606d97a7f8372684fa2058c",
+    "XYZ_sha256": "ed19e16667e855e516f72fd2d815512ae96ae7900883c20bbae4b73fde5c7183"
+  },
+  {
+    "training_index": 431,
+    "group": "purple_clay_pot/NG/damage/S0006",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "c4fc6edb2388dafb0dbb099051a7f0fafcdff7ce838d783ec79029f25ec63213",
+    "XYZ_sha256": "4ec78903de61c51ad6161656175288342ec47adddf5acc20d136988792716369"
+  },
+  {
+    "training_index": 432,
+    "group": "purple_clay_pot/NG/damage/S0013",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "11f15b48a7ee84b5dcca6bd9441a6a3aff1f62a2e4e28ef8ef3d86a3a7bc3baa",
+    "XYZ_sha256": "a638a9deccdba02370c3bcda94a10b71684ad011c4976be64f3534ee13dea032"
+  },
+  {
+    "training_index": 433,
+    "group": "purple_clay_pot/NG/damage/S0023",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "86145226f3aa2cdb3e075d3f8ac9058d48561f85127c96bca3ac3faf2f59c883",
+    "XYZ_sha256": "c6a31082f5163b8d3565c318e28d450d03e9d100cf38708f85ee6e05afd1d3a9"
+  },
+  {
+    "training_index": 434,
+    "group": "purple_clay_pot/NG/impact_damage/S0015",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "252054931cd52bfc157c5ad45958ccf35ceee6a08b756b237c6f09d4f30301e8",
+    "XYZ_sha256": "2447d2ae9b897d46f6714bf45cfaaef2fa1f4d89c5431f60edbc914e656d6bf6"
+  },
+  {
+    "training_index": 435,
+    "group": "purple_clay_pot/NG/impact_damage/S0019",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "9123c02ea3219085104b76153dcd125cdda42989377c63b5457eedc1ecdb2540",
+    "XYZ_sha256": "665f342615dfb035444b5913627f1bcef1fc2aff84e2d3638d3e55b9e90b7d3f"
+  },
+  {
+    "training_index": 436,
+    "group": "purple_clay_pot/NG/impact_damage/S0020",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "2859acc54ff995fb15dc3955a24a7d3d6f6cef4f475f1c858fea78139b4f14ea",
+    "XYZ_sha256": "017efba33f84c717ccab3c27e60d344ee5b51c7e433ab6bc2b9c79dfbf5d20ef"
+  },
+  {
+    "training_index": 437,
+    "group": "purple_clay_pot/NG/pit/S0009",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "f04b773b858dbdeb32e21954e2694085deface649762e8009f4e401d1cd41fb4",
+    "XYZ_sha256": "ca0ee7eb232d61240def8ae6c922db9f0d156b3345a1a4d4a31fc099f3946e45"
+  },
+  {
+    "training_index": 438,
+    "group": "purple_clay_pot/NG/pit/S0018",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "8e6a002dcac67d61f823e988371435a0f98bf4d84ab6e448540f0ec8d5926417",
+    "XYZ_sha256": "b6e3b38585cd106fcd5dde89fa7c4a1a11f30f565ce7c10f1ad960cea4580a5e"
+  },
+  {
+    "training_index": 439,
+    "group": "purple_clay_pot/NG/pit/S0024",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "8a45fa51665d9bf1e882ae3e1e3954e2777df6efd525a33572a6315fc0ae2c25",
+    "XYZ_sha256": "0b974283f7c49440962fa299b8a0cc43bb970b64a3bd4a0597ad6b3271fa33c8"
+  },
+  {
+    "training_index": 440,
+    "group": "purple_clay_pot/NG/scratch/S0001",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "c8c9cba812d7a3b7089a751538626e7f0ca875341e99b0e3b9c5edc125838e6f",
+    "XYZ_sha256": "3c9900f20f77188e9a1d147d72c21c4d1c0a0900d1177b63bee6a98c0a2398ff"
+  },
+  {
+    "training_index": 441,
+    "group": "purple_clay_pot/NG/scratch/S0006",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "4e48aeab62af24c303ab64c6626d15948914eff6b1358f15e6eba8cf2a70056e",
+    "XYZ_sha256": "b54f9fd121c0e7bfb43204018a8f3c22df860e219d06df6a6d0463097e563fb9"
+  },
+  {
+    "training_index": 442,
+    "group": "purple_clay_pot/NG/scratch/S0018",
+    "category": "purple_clay_pot",
+    "label": 1,
+    "RGB_sha256": "3404015a864c7b0596fdc5fda0470c61512a15c676d9bbce15ae1f1bb1c031c8",
+    "XYZ_sha256": "ad6c4ec19da525539680ba1ad419c954a74d7ec353d758d7a2e5a68a0e36e869"
+  },
+  {
+    "training_index": 443,
+    "group": "purple_clay_pot/OK/S0002",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "d1d993745ca891c75f0c1444053c3024f4bf7f0d833303d8e218f6bc559ba5d0",
+    "XYZ_sha256": "b42fb8a85428e60f6d3363cb95ff91b04c2a9474eae8bda10779f541b20b30d1"
+  },
+  {
+    "training_index": 444,
+    "group": "purple_clay_pot/OK/S0003",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "b3cff11a0c80c6dcadaeb2a6e0c47af0579e2ab7da6784c4ac93eff2fa6d75a2",
+    "XYZ_sha256": "e2613062cf10271cd48adaed6ee3cca7d8628b52b2d7fd123bb39c7708038496"
+  },
+  {
+    "training_index": 445,
+    "group": "purple_clay_pot/OK/S0004",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "8120907046bb387267899c76ae5db057f1d03631a461e3699fe1c55657f61def",
+    "XYZ_sha256": "b75fb1a415e4a0800d2f485adc7a21caf8fd6335eb3c1b0efc1d48d5fd0a29fd"
+  },
+  {
+    "training_index": 446,
+    "group": "purple_clay_pot/OK/S0005",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "62a1f1096b794b789902c4ffe949c3007e36e70cf62369f3f68e811f570eecf8",
+    "XYZ_sha256": "8e710e41fafd5f21b8cdf78264498b00b786e16a59928dd5abdc62f3839c091c"
+  },
+  {
+    "training_index": 447,
+    "group": "purple_clay_pot/OK/S0006",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "73aa094c2897d4eccee6de30e905e00d1efeff9d42bd703273e49fc39d3d2558",
+    "XYZ_sha256": "23aec0aaf176944abb04f63e557b70f394dc924f8b0e213ff7441813bacc0b5c"
+  },
+  {
+    "training_index": 448,
+    "group": "purple_clay_pot/OK/S0009",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "db43fbb9acd3b13dbdd9e31df433173af1c8c14ed5d81c29d5f1a3e8d1d2d48b",
+    "XYZ_sha256": "41be504af4ecb30ee0fd88f025d61be419d3b82aead64f593a400326f009a235"
+  },
+  {
+    "training_index": 449,
+    "group": "purple_clay_pot/OK/S0010",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "29dce119c020b7983a3f012d743d58e2245b672822c95fbbba0b25ca079fc2b4",
+    "XYZ_sha256": "d3bdc70194b42b565946af7babeb88775e04cb52852fd23fb9cf29a0746f0b01"
+  },
+  {
+    "training_index": 450,
+    "group": "purple_clay_pot/OK/S0011",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "127ca707a91e00478ed794133e5df9bbbc1ec5ac3e8d1a66220342478fd7beac",
+    "XYZ_sha256": "93e2e4c0f27765c01767c79dc34c2a23c03351603d3956b86fee2aa8a48fa170"
+  },
+  {
+    "training_index": 451,
+    "group": "purple_clay_pot/OK/S0013",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "b487f23e7b1d610c8bf1751f71a29605d4d6ce6910975856839c8ee64e10d48b",
+    "XYZ_sha256": "70c8892ba5a9cdc655e0fa7416ca431097e100e11d085bc939c6b61e8e01ae10"
+  },
+  {
+    "training_index": 452,
+    "group": "purple_clay_pot/OK/S0014",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "25be79575be2c01ed14acc0a7b194154f4873d7b8094a6640af77171ab604f43",
+    "XYZ_sha256": "c5ee0cd6ca9032716b88c26db82158f534a19d59ee4934d5369c105c246ca51f"
+  },
+  {
+    "training_index": 453,
+    "group": "purple_clay_pot/OK/S0015",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "a4b85a97bad2163522e1595abc317fcfa14c3e7a513578e7af3b1938e8c4d8d9",
+    "XYZ_sha256": "a9c951d76a8f40da3000fbbf409ddec0f6119de019475dfaa9adb5ebed5990b5"
+  },
+  {
+    "training_index": 454,
+    "group": "purple_clay_pot/OK/S0023",
+    "category": "purple_clay_pot",
+    "label": 0,
+    "RGB_sha256": "614c1ab0ab3a6ca811bdb488f35a465fda41d27b99a97a7745aaf703171396fc",
+    "XYZ_sha256": "6073f8f144e6fdd22ecf926909dc9777098374df26b2d91488edecce716db271"
+  },
+  {
+    "training_index": 455,
+    "group": "telephone_spring_switch/NG/damage/S0005",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "4fb77b23b219c395c6a9839e1797bd2b6bb3fb43819a33df452a6efb379b50bf",
+    "XYZ_sha256": "db6335e4858e0a55056e0d5d798873a5fe1d19147e7f4f652341cce50305bb3f"
+  },
+  {
+    "training_index": 456,
+    "group": "telephone_spring_switch/NG/damage/S0020",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "647597b656fbcac98dc8633b6a89334d9d5acf87fb0dedc67cc516658352ec9c",
+    "XYZ_sha256": "65824f5bff9be884c2a593e2e8dd130813fc590c1e097775eeddef38e9e0a180"
+  },
+  {
+    "training_index": 457,
+    "group": "telephone_spring_switch/NG/damage/S0021",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "edaed764ad5b9e5a411bf445eae128a1da5f1b25c4ec3f86c8e3e38dccc68ef1",
+    "XYZ_sha256": "81df361798337d5d13d8380137c277fd97261d5b0380f80b15ba90fbea668a96"
+  },
+  {
+    "training_index": 458,
+    "group": "telephone_spring_switch/NG/hole/S0013",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "2150a5ba77bff257b9b98ceb0bc6a73498a485c7d313d85ea4146bf565c7809a",
+    "XYZ_sha256": "e655845779b6671cc8d740f36f3d8db3c5f5ce0f752926410cbeb5001b82cd11"
+  },
+  {
+    "training_index": 459,
+    "group": "telephone_spring_switch/NG/hole/S0021",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "c14f95d3f99c652d76938d9c90c51bb91db4eb97cec8066310ae7520e6cce6c3",
+    "XYZ_sha256": "741db7fc48b0bccb24b8280ecf48729ab1392d00d1460c315cd4ad3f062d8e0b"
+  },
+  {
+    "training_index": 460,
+    "group": "telephone_spring_switch/NG/hole/S0024",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "02ca2c2e5aa521efc781fd1beec5942887dd4e731c054304e411d8ea77e12f53",
+    "XYZ_sha256": "16c6c9451d9a65f0637b5aca5e2de85e77f404ab4e8a2758849fc0c66b61dce2"
+  },
+  {
+    "training_index": 461,
+    "group": "telephone_spring_switch/NG/impact_damage/S0008",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "b79766b12f59893b35d6523a8c5aac3f76286c21494b410274e1efd9f5e9b12a",
+    "XYZ_sha256": "13b9aabe7e9b1c51b6a2b686df8c325aa601e87116d704388fc16daebe50a3cf"
+  },
+  {
+    "training_index": 462,
+    "group": "telephone_spring_switch/NG/impact_damage/S0025",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "821ccefa8f33dc33142bde1210a939d60a9bf80887f0e224cc9d0baf842aebce",
+    "XYZ_sha256": "3d399f7f95a3791ec28cb0af9a93c7561ee38013d128aa8435d40f791a58fb5b"
+  },
+  {
+    "training_index": 463,
+    "group": "telephone_spring_switch/NG/pit/S0012",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "1a2e5171b169965bceaeb7a28bb3d93e93ce7e5a82d08e478db2e235b310b609",
+    "XYZ_sha256": "ce839277e0181ef9ad02dfa25a28d0f56fc07ffead958a608d288bfe86288cca"
+  },
+  {
+    "training_index": 464,
+    "group": "telephone_spring_switch/NG/pit/S0015",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "5a294039a944934939526f2909c126df8b688c8dd26b8da704a4d1c4c22ee520",
+    "XYZ_sha256": "d443e2aab9fcbfee858236ba108ce6bb30f986be93dc400bc3ff92564ca98e0f"
+  },
+  {
+    "training_index": 465,
+    "group": "telephone_spring_switch/NG/scratch/S0006",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "4fa88aa07a5e0880da1813892d9bbf5bae8f9d0dd492b57b644835e466402abe",
+    "XYZ_sha256": "6f3134245801193e28d5de93fe469d9fe47ea442e0f12a04050083629e5203cc"
+  },
+  {
+    "training_index": 466,
+    "group": "telephone_spring_switch/NG/scratch/S0016",
+    "category": "telephone_spring_switch",
+    "label": 1,
+    "RGB_sha256": "4cb24e8e8b8dc7a8f1eee91a314e702451de725fee3c364799adcab131de0a27",
+    "XYZ_sha256": "a025fa8381c97bc15121ac135b3bfe6d3ac6fa287e8bbb0f6262555b157878f3"
+  },
+  {
+    "training_index": 467,
+    "group": "telephone_spring_switch/OK/S0002",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "57f1d87810f76c6a51fc811f6c8ebb1eb9bdcef2422bfea637ac2b3f35edbd52",
+    "XYZ_sha256": "efcf261cd163f8b332a6a566f3cf752abc9313d9d2c9780e839b5ce10d7a9a3a"
+  },
+  {
+    "training_index": 468,
+    "group": "telephone_spring_switch/OK/S0003",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "23d11f3cc4b12e320d0f28ad0dfc315995d0ad82504a1473326b4f7e7537fcf0",
+    "XYZ_sha256": "b4f3ebe2f38b300a929b0b16b8563ff68ff68f43a0e36679b2b42c0d93ac38e2"
+  },
+  {
+    "training_index": 469,
+    "group": "telephone_spring_switch/OK/S0005",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "be122c6971707418123ad758bd41d546f7d6bb5e727d71c5a2e5f333cc99d379",
+    "XYZ_sha256": "24f3051a48c075ab000a29d0f32970eb6b2e89916d4e6b481e233ddccd96590e"
+  },
+  {
+    "training_index": 470,
+    "group": "telephone_spring_switch/OK/S0007",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "a29d1d3bed4d5782f48c92e832a8fc4ba45c66f67bf39b1cbfd1a90db1d0f213",
+    "XYZ_sha256": "0e9ec9ae0463cf1b1bf7ebca46fe053dd641e547f7959afdf664fd1cec68aa40"
+  },
+  {
+    "training_index": 471,
+    "group": "telephone_spring_switch/OK/S0009",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "8d2fbad2f8e4cf1a15fa87a430f5cd640bf73f32ef2f9e0b7d86117a7ce14c08",
+    "XYZ_sha256": "0a9797198e555efb4cdb674257759012fca6a34cb6c2ae85c7ebd892f623b49f"
+  },
+  {
+    "training_index": 472,
+    "group": "telephone_spring_switch/OK/S0010",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "b6ed61f8facb7318124e17d18d6a9ee1745bcdaeaa56e8dedd8d7958c9858734",
+    "XYZ_sha256": "73d08c9308e0ecb0d80afd7a3b9712d0979af0039e55de65004148d4ad076507"
+  },
+  {
+    "training_index": 473,
+    "group": "telephone_spring_switch/OK/S0011",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "c3d86233e2f9c2349ec72a6f4b6b4daab1b8639f490979409511f51507cb5562",
+    "XYZ_sha256": "a7c0266e0bdf7b0b34c01a01be34fbf3f1efb0cee390eeff7700ec8bf77430cb"
+  },
+  {
+    "training_index": 474,
+    "group": "telephone_spring_switch/OK/S0013",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "1e9363c3071ec66cf2476e1e31d916c026dccfedc6db9751c0ff9d014344bc40",
+    "XYZ_sha256": "c82a1c0baf033e1fc221c404ed98a57ea131f4b8deab4f6f3ea18c7c239156af"
+  },
+  {
+    "training_index": 475,
+    "group": "telephone_spring_switch/OK/S0014",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "3143a2570ab917446f0ae8f7e659d116ad2fd7c2a033ed9fcc2f7a9fe1e64319",
+    "XYZ_sha256": "cea61f117b504f4c6b39690146df8a0da5ca0bb8d63512096348823223f29ce2"
+  },
+  {
+    "training_index": 476,
+    "group": "telephone_spring_switch/OK/S0018",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "4c3798d4b7b9771f24ab7fc20bee9be118e0b9ccf782dcc36d2af9357fcddc9a",
+    "XYZ_sha256": "bfd38353ef6bfdaeb79baf58f854a0a411409b9ebc5d49f2230254149b14038b"
+  },
+  {
+    "training_index": 477,
+    "group": "telephone_spring_switch/OK/S0021",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "0656a9f94ab835a80aea656de18612523e43a7f864761e1409a6aa9473a56f16",
+    "XYZ_sha256": "a5426c51577c4bb03d326d95b8bfc20c5c89d1bd730bb8e344916955015b2676"
+  },
+  {
+    "training_index": 478,
+    "group": "telephone_spring_switch/OK/S0024",
+    "category": "telephone_spring_switch",
+    "label": 0,
+    "RGB_sha256": "e1aa1899b90ad14c1b75030070e7f18cfae02149d0e903901c9751a1590f02e1",
+    "XYZ_sha256": "98540bf03060758428c41dc2a57839161c2ac4d1d85bf0a1de44e09f4d5be9d7"
+  }
+]
