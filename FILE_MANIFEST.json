@@ -427,8 +427,8 @@
     },
     {
       "file": "research_data/realiad20/README.md",
-      "bytes": 6056,
-      "sha256": "0a1714964604d02afd828221bcaefb9dd24ea92f5305c69f9b87420cb3ae3f20"
+      "bytes": 7402,
+      "sha256": "097c19b6fbc21d73b79a64afdb0620baa172fc73234a7e7a4efcb552be9c3472"
     },
     {
       "file": "research_data/realiad20/regional_AP/annotation_metadata.json",
@@ -444,6 +444,16 @@
       "file": "research_data/realiad20/regional_AP/COMPLETE.json",
       "bytes": 1012,
       "sha256": "b7ebc8cd8c751ca2714e5daecc68f7bf7131c92e928988b82ed29568f37300ea"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/figure_case_metadata.json",
+      "bytes": 957,
+      "sha256": "743d7cef57041f32c879e59c69f34821bd479c900f83870de2f15ad481cb33e8"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/figure_cases.csv",
+      "bytes": 503,
+      "sha256": "0eb0233a0f9279d73b7f1c5126cb0f1df73a45db6f49363a847c975336e84255"
     },
     {
       "file": "research_data/realiad20/regional_AP/FULL_RMS_FUSION_mean_logits56.npz",
@@ -471,9 +481,14 @@
       "sha256": "970e3f89302874c8876bd371b2375d61e99145126d813c72ee001a1c6b59d5f5"
     },
     {
+      "file": "research_data/realiad20/role_identity_counts.csv",
+      "bytes": 156,
+      "sha256": "e2f9dba9a93394e9d51ad22138960f86fb82643b38806d715b81d5065abcb2db"
+    },
+    {
       "file": "research_data/realiad20/SOURCE_RECORDS.json",
-      "bytes": 38751,
-      "sha256": "c6158ae6ef424f52512d7ffe850603efba0b662b0fb2b6471165349c8720045b"
+      "bytes": 42797,
+      "sha256": "2c2885b263d366c48a1088d5efdf5eb71419f6480b53426b089f1ae92ce397a1"
     },
     {
       "file": "research_data/realiad20/thresholds/bootstrap_consensus_triage_counts.csv",
@@ -481,9 +496,39 @@
       "sha256": "b6f99d30694aced400429f5afffd4b59aa090176d6ea35ad728d3c7f2ff05232"
     },
     {
+      "file": "research_data/realiad20/thresholds/C_fixed_operating.json",
+      "bytes": 39841,
+      "sha256": "321452888de034adf8bc6803cc7a46a6cde22dc23b6ef703351de21aded24693"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/C_operating_bootstrap_draws.npz",
+      "bytes": 1265432,
+      "sha256": "764b179bbbff7c8a7b217e4e728ce51214b78373785510c017fea4500862dcd2"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/C_operating_group_predictions.csv",
+      "bytes": 2959202,
+      "sha256": "3419262fa516a58bb3e9df5fceda1c3509240d116e9d6d88d1cded252376152d"
+    },
+    {
       "file": "research_data/realiad20/thresholds/COMPLETE.json",
       "bytes": 56212,
       "sha256": "deb8278a1d645d996b6a696ddd5fa3d3d3f5a581cd8614ab57e2e447a9f9e60d"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_operating_interval_draws.npz",
+      "bytes": 101862,
+      "sha256": "bd1999e03b5c44bc34a67b9e09644b1ff4378b69f9e82f55b17eb06d4a244f09"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_operating_interval_metadata.json",
+      "bytes": 935,
+      "sha256": "917aa98fc06f001dbc1de0db6f3e05edd5fc5a46f148d3d1ba5026be650f8752"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_operating_intervals.csv",
+      "bytes": 1641,
+      "sha256": "3b668aa8ef52e9656bcaef983cd1d8700270b514fc059aa8cc2c108ca3f84f64"
     },
     {
       "file": "research_data/realiad20/thresholds/fixed_rule_operating_counts.csv",

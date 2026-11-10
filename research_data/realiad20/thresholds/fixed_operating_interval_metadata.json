@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-11",
+  "estimator": "Observation-weighted label-conditional TPR/FPR.",
+  "resampling": "Registered-group bootstrap within role/category/label; 5000 percentile draws; fitted models, probability maps and thresholds fixed.",
+  "T_seed": 202611111,
+  "C_source": "OPERATING_COMPLETE.json and operating_bootstrap_draws.npz",
+  "T_source": "frozen_actions.npz",
+  "zero_event_interval": "A zero-event bootstrap interval describes the empirical cohort and does not bound an unobserved population tail.",
+  "scope": "Evaluation-group uncertainty, separate from threshold-refitting sensitivity.",
+  "source_sha256": {
+    "frozen_actions.npz": "b69e97c1647f67f33b3e5c748c8ef32369cbabe6e613b46118af0b409a2be501",
+    "OPERATING_COMPLETE.json": "39f257f67c94225a056870febd9f620a24fd28768b86d36a435d4faf387f60d2",
+    "operating_group_predictions.csv": "41233a37a1ea2efcf773dae4ba0caf4b23fb74f995bb63483ed7e46044157eb8"
+  }
+}

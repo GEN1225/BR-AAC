@@ -28,3 +28,11 @@ For each paired effect, subtract the two arrays using the stated order and take 
 Real-IAD D3: https://huggingface.co/datasets/Real-IAD/Real-IAD_D3 . Source RGB/XYZ files and release masks remain with the provider under its distribution terms. This directory distributes derived predictions, allocations, statistics and core training records. Large source observations, pretrained encoders and model checkpoints are obtained separately; the paper gives their versions and input transformations. The repository root lists every study data source.
 
 `SOURCE_RECORDS.json` maps each distributed record to its input-record hash and applied transformation. The root `FILE_MANIFEST.json` records distributed file hashes and sizes. NPZ files contain numeric or Unicode arrays and load with NumPy using allow_pickle=False.
+
+## Role identities, frozen rates, and illustrated cases
+
+`role_identity_counts.csv` separates observations, registered groups and distinct RGB/XYZ contents in FIT/E/C/V/H/T. FIT and E each retain one repeated paired content across distinct registered groups.
+
+`thresholds/fixed_operating_intervals.csv` reports observation-weighted V TPR, V FPR and H FPR for the eight rules displayed in the paper. Its 95% percentile intervals resample registered groups within category/label while keeping networks, maps and thresholds fixed. C rules reuse the 5,000 archived draws in `C_operating_bootstrap_draws.npz`; T rules use 5,000 shared draws saved in `fixed_operating_interval_draws.npz`. T draws contain resamples only; C arrays include the original point in row zero. The metadata records the T seed and source hashes. A zero-event empirical-bootstrap interval describes the sampled cohort. These intervals differ from the threshold-refitting sensitivity ranges.
+
+`regional_AP/figure_cases.csv` identifies the three displayed observations, common crop coordinates and full-image AP for each head. `figure_case_metadata.json` records the illustrative selection and rendering rules. The DC-connector case shows an AP decrease from RGB, alongside the Crimp improvement and the small Humidity change. Aggregate category metrics use the complete cohort.

@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-11",
+  "selection": "First compatible V anomaly by registered group in each category. Retain the Crimp and Humidity examples; replace Lego by DC connector, the first category in the alphabetical first-case sweep with annular-fusion AP below RGB. This is a post-evaluation illustrative counterexample; aggregate cohorts and metrics are unchanged.",
+  "display": "Full-canvas within-image ranks separately for each matched region head; no hard support clipping. Same GT-defined crop across all methods.",
+  "metric": "Each displayed AP uses raw interpolated logits on the entire 224x224 image. The displayed ROI is shared across heads; heatmaps show within-image percentile ranks.",
+  "aggregate": "Panel D pools pixels within each category, then compares heads. Illustrative case selection does not change any aggregate cohort or metric.",
+  "original_record_sha256": "76812a98ab203a9d232e647d363bbd4c9c367bc5958b29834ce0ce968323590d"
+}

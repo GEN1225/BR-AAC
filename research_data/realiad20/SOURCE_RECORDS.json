@@ -665,6 +665,70 @@
       "source_sha256": "1a12e5bf396a520dc708fb8f884fdcd13db5eb97e02ea2eed4ef1d1b37ae2755",
       "sha256": "c8149d006293d3fe4b154595c89a17a451436ae86184be5800e3490f15f7a37a",
       "transformation": "Observation, annotation hash/name and grid metadata; normal observations use a zero mask; source paths omitted."
+    },
+    {
+      "file": "research_data/realiad20/role_identity_counts.csv",
+      "source_record": "role_identity_counts.csv",
+      "source_sha256": "e2f9dba9a93394e9d51ad22138960f86fb82643b38806d715b81d5065abcb2db",
+      "sha256": "e2f9dba9a93394e9d51ad22138960f86fb82643b38806d715b81d5065abcb2db",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_operating_intervals.csv",
+      "source_record": "fixed_operating_intervals.csv",
+      "source_sha256": "3b668aa8ef52e9656bcaef983cd1d8700270b514fc059aa8cc2c108ca3f84f64",
+      "sha256": "3b668aa8ef52e9656bcaef983cd1d8700270b514fc059aa8cc2c108ca3f84f64",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_operating_interval_draws.npz",
+      "source_record": "fixed_operating_interval_draws.npz",
+      "source_sha256": "bd1999e03b5c44bc34a67b9e09644b1ff4378b69f9e82f55b17eb06d4a244f09",
+      "sha256": "bd1999e03b5c44bc34a67b9e09644b1ff4378b69f9e82f55b17eb06d4a244f09",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_operating_interval_metadata.json",
+      "source_record": "fixed_operating_interval_metadata.json",
+      "source_sha256": "6a6e02cebabca0473baa0666a92d7ecbd6c5859f6db015e8050489e884429c3c",
+      "sha256": "917aa98fc06f001dbc1de0db6f3e05edd5fc5a46f148d3d1ba5026be650f8752",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/C_operating_bootstrap_draws.npz",
+      "source_record": "operating_bootstrap_draws.npz",
+      "source_sha256": "764b179bbbff7c8a7b217e4e728ce51214b78373785510c017fea4500862dcd2",
+      "sha256": "764b179bbbff7c8a7b217e4e728ce51214b78373785510c017fea4500862dcd2",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/C_fixed_operating.json",
+      "source_record": "OPERATING_COMPLETE.json",
+      "source_sha256": "39f257f67c94225a056870febd9f620a24fd28768b86d36a435d4faf387f60d2",
+      "sha256": "321452888de034adf8bc6803cc7a46a6cde22dc23b6ef703351de21aded24693",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/C_operating_group_predictions.csv",
+      "source_record": "operating_group_predictions.csv",
+      "source_sha256": "41233a37a1ea2efcf773dae4ba0caf4b23fb74f995bb63483ed7e46044157eb8",
+      "sha256": "3419262fa516a58bb3e9df5fceda1c3509240d116e9d6d88d1cded252376152d",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/figure_cases.csv",
+      "source_record": "localization_figure_cases.csv",
+      "source_sha256": "0eb0233a0f9279d73b7f1c5126cb0f1df73a45db6f49363a847c975336e84255",
+      "sha256": "0eb0233a0f9279d73b7f1c5126cb0f1df73a45db6f49363a847c975336e84255",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/figure_case_metadata.json",
+      "source_record": "localization_figure_case_metadata.json",
+      "source_sha256": "40d38059027cd4018f61b83b88574c61a0984b22cef76d9962b11eeebf5047d5",
+      "sha256": "743d7cef57041f32c879e59c69f34821bd479c900f83870de2f15ad481cb33e8",
+      "transformation": "Recorded numerical data; text normalized to UTF-8/LF. No implementation code or model weights."
     }
-  ]
+  ],
+  "updated": "2026-11-11"
 }
