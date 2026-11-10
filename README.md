@@ -1,6 +1,6 @@
 # BR-AAC research data
 
-This repository provides data supporting the paper Background-relative surface learning with anchored appearance correction for industrial anomaly detection, together with its core training traces.
+This repository provides data supporting the paper Background-relative surface representation and anchored multimodal calibration for industrial anomaly detection, together with its core training traces.
 
 ## Data sources
 
@@ -15,7 +15,11 @@ This repository provides data supporting the paper Background-relative surface l
 | MulSen-AD | [Project](https://github.com/MapleBoat/MulSen-AD) · [Data](https://huggingface.co/datasets/orgjy314159/MulSen_AD) | RGB, infrared and point clouds for sensor-encoding measurements. |
 | Describable Textures Dataset (DTD) | [Dataset](https://www.robots.ox.ac.uk/~vgg/data/dtd/) | Auxiliary texture images for local synthetic anomaly generation. |
 
-These sources cover the datasets used across the study. The paper and supplement specify the configurations and results reported for each analysis. The repository contains the selected paper data and core training logs; source images, depth maps and point clouds are obtained from their providers under the corresponding distribution terms. DTD is an auxiliary training-texture source. Source456 and Real-IAD350 are evaluation cohorts within Real-IAD D³.
+These sources cover the datasets used across the study. The paper and appendices specify the configurations and results reported for each analysis. The repository contains the selected paper data and core training logs; source images, depth maps and point clouds are obtained from their providers under the corresponding distribution terms. DTD is an auxiliary training-texture source. Source456 and Real-IAD350 are evaluation cohorts within Real-IAD D³.
+
+## Twenty-category results
+
+The [Real-IAD D3 data release](research_data/realiad20/README.md) includes the 2,222-observation object evaluation, matched information and fusion controls, region predictions, frozen operating rules, cost scenarios and corresponding core training records.
 
 ## Contents
 
@@ -25,6 +29,6 @@ These sources cover the datasets used across the study. The paper and supplement
 - results/core_records/ and results/paper_evidence/: source records for the reported tables, controls, effects and example diagnostics.
 - docs/DATA.md: dataset providers and role definitions.
 
-The paper and supplement define supervision, statistical units and metric aggregation. Results include the reported comparisons and their measured effects. NPZ files can be read with NumPy using allow_pickle=False. JSON and CSV files retain recorded precision and identifiers. FILE_MANIFEST.json lists file sizes and SHA-256 hashes.
+The paper and appendices define supervision, statistical units and metric aggregation. Results include the reported comparisons and their measured effects. NPZ files can be read with NumPy using allow_pickle=False. JSON and CSV files retain recorded precision and identifiers. FILE_MANIFEST.json lists file sizes and SHA-256 hashes.
 
 Large source datasets are obtained from their providers. The current branch distributes data and core training logs. Implementation code, model weights and configuration snapshots are retained separately by the authors.

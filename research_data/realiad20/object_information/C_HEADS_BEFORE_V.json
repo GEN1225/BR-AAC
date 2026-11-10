@@ -1,0 +1,1037 @@
+{
+  "created": "2026-11-10T20:00:25.857731+08:00",
+  "heads": {
+    "MASK_ONLY": {
+      "G_ONLY": {
+        "beta": [
+          0.1219250456095879,
+          1.8075911029321459,
+          0.0
+        ],
+        "G": {
+          "audio_jack_socket": {
+            "mean": 1.9667515923224743,
+            "scale": 2.280237898158727
+          },
+          "common_mode_filter": {
+            "mean": -5.926557098116193,
+            "scale": 8.215750043676403
+          },
+          "connector_housing_female": {
+            "mean": -2.2537855122770583,
+            "scale": 3.8830796312561318
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 1.9059497288295195,
+            "scale": 3.8866834579681093
+          },
+          "dc_power_connector": {
+            "mean": 1.6530618976269444,
+            "scale": 4.509209282357209
+          },
+          "ethernet_connector": {
+            "mean": 0.6560667646782735,
+            "scale": 2.2234365521560973
+          },
+          "ferrite_bead": {
+            "mean": 0.8777148319142206,
+            "scale": 3.0919256403084026
+          },
+          "fork_crimp_terminal": {
+            "mean": 0.40824311758790705,
+            "scale": 1.793552919858346
+          },
+          "fuse_holder": {
+            "mean": -0.019032291535820284,
+            "scale": 0.3743509586734421
+          },
+          "headphone_jack_socket": {
+            "mean": 3.1963934621640613,
+            "scale": 4.361618116913421
+          },
+          "humidity_sensor": {
+            "mean": 0.05540100804397044,
+            "scale": 2.319352142965736
+          },
+          "knob_cap": {
+            "mean": 0.2264929812933717,
+            "scale": 0.6937849572944921
+          },
+          "lattice_block_plug": {
+            "mean": 0.8437392855329173,
+            "scale": 2.3826958765406245
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.4807725601962634,
+            "scale": 1.1643892342972284
+          },
+          "lego_propeller": {
+            "mean": -1.5762937750135144,
+            "scale": 12.272510676378634
+          },
+          "limit_switch": {
+            "mean": -0.5943594507740012,
+            "scale": 0.765691847546471
+          },
+          "miniature_lifting_motor": {
+            "mean": 2.8106052471058707,
+            "scale": 5.109387786885898
+          },
+          "power_jack": {
+            "mean": -0.04423623319183072,
+            "scale": 1.8173906218998253
+          },
+          "purple_clay_pot": {
+            "mean": -0.47150458395481104,
+            "scale": 0.25255013425919864
+          },
+          "telephone_spring_switch": {
+            "mean": -0.783044294055019,
+            "scale": 1.2439428120827056
+          }
+        },
+        "A": {
+          "audio_jack_socket": {
+            "mean": -3.9398554244211743,
+            "scale": 11.064025758294436
+          },
+          "common_mode_filter": {
+            "mean": -6.920302318675177,
+            "scale": 11.278891995912389
+          },
+          "connector_housing_female": {
+            "mean": -6.595427368368421,
+            "scale": 12.986472304232915
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -3.0670369012015204,
+            "scale": 14.557475165089539
+          },
+          "dc_power_connector": {
+            "mean": -5.237293056079319,
+            "scale": 10.140678389667121
+          },
+          "ethernet_connector": {
+            "mean": -3.1503184693200246,
+            "scale": 9.42783151340757
+          },
+          "ferrite_bead": {
+            "mean": -3.707755239946501,
+            "scale": 9.578691212436244
+          },
+          "fork_crimp_terminal": {
+            "mean": -5.496872382504598,
+            "scale": 10.839283776861041
+          },
+          "fuse_holder": {
+            "mean": -3.4593251677496086,
+            "scale": 10.274283561596185
+          },
+          "headphone_jack_socket": {
+            "mean": -5.27297167479992,
+            "scale": 8.040196412142263
+          },
+          "humidity_sensor": {
+            "mean": -6.973320260643958,
+            "scale": 9.949825215533167
+          },
+          "knob_cap": {
+            "mean": -4.733120773519788,
+            "scale": 7.1252957182001735
+          },
+          "lattice_block_plug": {
+            "mean": -4.038507019834858,
+            "scale": 7.912524458820324
+          },
+          "lego_pin_connector_plate": {
+            "mean": -3.90540544369391,
+            "scale": 9.637520139035534
+          },
+          "lego_propeller": {
+            "mean": -5.8801366559096735,
+            "scale": 14.637394921722708
+          },
+          "limit_switch": {
+            "mean": -3.613897919654846,
+            "scale": 7.594295388803265
+          },
+          "miniature_lifting_motor": {
+            "mean": -3.9100869947246144,
+            "scale": 5.01691197901788
+          },
+          "power_jack": {
+            "mean": -3.9948690320764264,
+            "scale": 8.26183078104372
+          },
+          "purple_clay_pot": {
+            "mean": -4.948843590915203,
+            "scale": 7.174450392443261
+          },
+          "telephone_spring_switch": {
+            "mean": -6.246928491762705,
+            "scale": 5.467173887963275
+          }
+        }
+      },
+      "FREE": {
+        "beta": [
+          0.6325600336447194,
+          1.1426441907948894,
+          3.473642193436058
+        ],
+        "G": {
+          "audio_jack_socket": {
+            "mean": 1.9667515923224743,
+            "scale": 2.280237898158727
+          },
+          "common_mode_filter": {
+            "mean": -5.926557098116193,
+            "scale": 8.215750043676403
+          },
+          "connector_housing_female": {
+            "mean": -2.2537855122770583,
+            "scale": 3.8830796312561318
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 1.9059497288295195,
+            "scale": 3.8866834579681093
+          },
+          "dc_power_connector": {
+            "mean": 1.6530618976269444,
+            "scale": 4.509209282357209
+          },
+          "ethernet_connector": {
+            "mean": 0.6560667646782735,
+            "scale": 2.2234365521560973
+          },
+          "ferrite_bead": {
+            "mean": 0.8777148319142206,
+            "scale": 3.0919256403084026
+          },
+          "fork_crimp_terminal": {
+            "mean": 0.40824311758790705,
+            "scale": 1.793552919858346
+          },
+          "fuse_holder": {
+            "mean": -0.019032291535820284,
+            "scale": 0.3743509586734421
+          },
+          "headphone_jack_socket": {
+            "mean": 3.1963934621640613,
+            "scale": 4.361618116913421
+          },
+          "humidity_sensor": {
+            "mean": 0.05540100804397044,
+            "scale": 2.319352142965736
+          },
+          "knob_cap": {
+            "mean": 0.2264929812933717,
+            "scale": 0.6937849572944921
+          },
+          "lattice_block_plug": {
+            "mean": 0.8437392855329173,
+            "scale": 2.3826958765406245
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.4807725601962634,
+            "scale": 1.1643892342972284
+          },
+          "lego_propeller": {
+            "mean": -1.5762937750135144,
+            "scale": 12.272510676378634
+          },
+          "limit_switch": {
+            "mean": -0.5943594507740012,
+            "scale": 0.765691847546471
+          },
+          "miniature_lifting_motor": {
+            "mean": 2.8106052471058707,
+            "scale": 5.109387786885898
+          },
+          "power_jack": {
+            "mean": -0.04423623319183072,
+            "scale": 1.8173906218998253
+          },
+          "purple_clay_pot": {
+            "mean": -0.47150458395481104,
+            "scale": 0.25255013425919864
+          },
+          "telephone_spring_switch": {
+            "mean": -0.783044294055019,
+            "scale": 1.2439428120827056
+          }
+        },
+        "A": {
+          "audio_jack_socket": {
+            "mean": -3.9398554244211743,
+            "scale": 11.064025758294436
+          },
+          "common_mode_filter": {
+            "mean": -6.920302318675177,
+            "scale": 11.278891995912389
+          },
+          "connector_housing_female": {
+            "mean": -6.595427368368421,
+            "scale": 12.986472304232915
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -3.0670369012015204,
+            "scale": 14.557475165089539
+          },
+          "dc_power_connector": {
+            "mean": -5.237293056079319,
+            "scale": 10.140678389667121
+          },
+          "ethernet_connector": {
+            "mean": -3.1503184693200246,
+            "scale": 9.42783151340757
+          },
+          "ferrite_bead": {
+            "mean": -3.707755239946501,
+            "scale": 9.578691212436244
+          },
+          "fork_crimp_terminal": {
+            "mean": -5.496872382504598,
+            "scale": 10.839283776861041
+          },
+          "fuse_holder": {
+            "mean": -3.4593251677496086,
+            "scale": 10.274283561596185
+          },
+          "headphone_jack_socket": {
+            "mean": -5.27297167479992,
+            "scale": 8.040196412142263
+          },
+          "humidity_sensor": {
+            "mean": -6.973320260643958,
+            "scale": 9.949825215533167
+          },
+          "knob_cap": {
+            "mean": -4.733120773519788,
+            "scale": 7.1252957182001735
+          },
+          "lattice_block_plug": {
+            "mean": -4.038507019834858,
+            "scale": 7.912524458820324
+          },
+          "lego_pin_connector_plate": {
+            "mean": -3.90540544369391,
+            "scale": 9.637520139035534
+          },
+          "lego_propeller": {
+            "mean": -5.8801366559096735,
+            "scale": 14.637394921722708
+          },
+          "limit_switch": {
+            "mean": -3.613897919654846,
+            "scale": 7.594295388803265
+          },
+          "miniature_lifting_motor": {
+            "mean": -3.9100869947246144,
+            "scale": 5.01691197901788
+          },
+          "power_jack": {
+            "mean": -3.9948690320764264,
+            "scale": 8.26183078104372
+          },
+          "purple_clay_pot": {
+            "mean": -4.948843590915203,
+            "scale": 7.174450392443261
+          },
+          "telephone_spring_switch": {
+            "mean": -6.246928491762705,
+            "scale": 5.467173887963275
+          }
+        }
+      }
+    },
+    "ANNULAR": {
+      "G_ONLY": {
+        "beta": [
+          0.6318668921606565,
+          3.2200316098179735,
+          0.0
+        ],
+        "G": {
+          "audio_jack_socket": {
+            "mean": 6.17507837499891,
+            "scale": 23.460654552592334
+          },
+          "common_mode_filter": {
+            "mean": -17.209358973162512,
+            "scale": 31.458831483860042
+          },
+          "connector_housing_female": {
+            "mean": 2.134249670164926,
+            "scale": 29.273667043843062
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 7.233028190476554,
+            "scale": 21.435610470638657
+          },
+          "dc_power_connector": {
+            "mean": 12.904441731316702,
+            "scale": 26.953249227739036
+          },
+          "ethernet_connector": {
+            "mean": 20.005266734531947,
+            "scale": 28.50742639141936
+          },
+          "ferrite_bead": {
+            "mean": 13.713822977883474,
+            "scale": 24.699214465510437
+          },
+          "fork_crimp_terminal": {
+            "mean": 7.123525128832884,
+            "scale": 15.313866949305654
+          },
+          "fuse_holder": {
+            "mean": 0.5341244680540895,
+            "scale": 12.845652806675604
+          },
+          "headphone_jack_socket": {
+            "mean": 10.739301787955421,
+            "scale": 25.75089111056028
+          },
+          "humidity_sensor": {
+            "mean": 1.5628784469195776,
+            "scale": 16.403126837112282
+          },
+          "knob_cap": {
+            "mean": 0.8405544534325601,
+            "scale": 3.2282928673966027
+          },
+          "lattice_block_plug": {
+            "mean": 4.91563582420349,
+            "scale": 10.2162707813441
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.6241962303008353,
+            "scale": 5.9825009649064285
+          },
+          "lego_propeller": {
+            "mean": 1.8609766278948117,
+            "scale": 45.476438353420995
+          },
+          "limit_switch": {
+            "mean": 6.70215311220714,
+            "scale": 14.596058450270661
+          },
+          "miniature_lifting_motor": {
+            "mean": 9.280905536242896,
+            "scale": 21.385125696406387
+          },
+          "power_jack": {
+            "mean": 7.378957562148571,
+            "scale": 16.889428220978605
+          },
+          "purple_clay_pot": {
+            "mean": -0.22411165013909343,
+            "scale": 0.4754584202285208
+          },
+          "telephone_spring_switch": {
+            "mean": 2.7538943375859937,
+            "scale": 8.445968903885941
+          }
+        },
+        "A": {
+          "audio_jack_socket": {
+            "mean": -3.9398554244211743,
+            "scale": 11.064025758294436
+          },
+          "common_mode_filter": {
+            "mean": -6.920302318675177,
+            "scale": 11.278891995912389
+          },
+          "connector_housing_female": {
+            "mean": -6.595427368368421,
+            "scale": 12.986472304232915
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -3.0670369012015204,
+            "scale": 14.557475165089539
+          },
+          "dc_power_connector": {
+            "mean": -5.237293056079319,
+            "scale": 10.140678389667121
+          },
+          "ethernet_connector": {
+            "mean": -3.1503184693200246,
+            "scale": 9.42783151340757
+          },
+          "ferrite_bead": {
+            "mean": -3.707755239946501,
+            "scale": 9.578691212436244
+          },
+          "fork_crimp_terminal": {
+            "mean": -5.496872382504598,
+            "scale": 10.839283776861041
+          },
+          "fuse_holder": {
+            "mean": -3.4593251677496086,
+            "scale": 10.274283561596185
+          },
+          "headphone_jack_socket": {
+            "mean": -5.27297167479992,
+            "scale": 8.040196412142263
+          },
+          "humidity_sensor": {
+            "mean": -6.973320260643958,
+            "scale": 9.949825215533167
+          },
+          "knob_cap": {
+            "mean": -4.733120773519788,
+            "scale": 7.1252957182001735
+          },
+          "lattice_block_plug": {
+            "mean": -4.038507019834858,
+            "scale": 7.912524458820324
+          },
+          "lego_pin_connector_plate": {
+            "mean": -3.90540544369391,
+            "scale": 9.637520139035534
+          },
+          "lego_propeller": {
+            "mean": -5.8801366559096735,
+            "scale": 14.637394921722708
+          },
+          "limit_switch": {
+            "mean": -3.613897919654846,
+            "scale": 7.594295388803265
+          },
+          "miniature_lifting_motor": {
+            "mean": -3.9100869947246144,
+            "scale": 5.01691197901788
+          },
+          "power_jack": {
+            "mean": -3.9948690320764264,
+            "scale": 8.26183078104372
+          },
+          "purple_clay_pot": {
+            "mean": -4.948843590915203,
+            "scale": 7.174450392443261
+          },
+          "telephone_spring_switch": {
+            "mean": -6.246928491762705,
+            "scale": 5.467173887963275
+          }
+        }
+      },
+      "FREE": {
+        "beta": [
+          0.8046574157246639,
+          2.2078268393744227,
+          3.186145049358286
+        ],
+        "G": {
+          "audio_jack_socket": {
+            "mean": 6.17507837499891,
+            "scale": 23.460654552592334
+          },
+          "common_mode_filter": {
+            "mean": -17.209358973162512,
+            "scale": 31.458831483860042
+          },
+          "connector_housing_female": {
+            "mean": 2.134249670164926,
+            "scale": 29.273667043843062
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 7.233028190476554,
+            "scale": 21.435610470638657
+          },
+          "dc_power_connector": {
+            "mean": 12.904441731316702,
+            "scale": 26.953249227739036
+          },
+          "ethernet_connector": {
+            "mean": 20.005266734531947,
+            "scale": 28.50742639141936
+          },
+          "ferrite_bead": {
+            "mean": 13.713822977883474,
+            "scale": 24.699214465510437
+          },
+          "fork_crimp_terminal": {
+            "mean": 7.123525128832884,
+            "scale": 15.313866949305654
+          },
+          "fuse_holder": {
+            "mean": 0.5341244680540895,
+            "scale": 12.845652806675604
+          },
+          "headphone_jack_socket": {
+            "mean": 10.739301787955421,
+            "scale": 25.75089111056028
+          },
+          "humidity_sensor": {
+            "mean": 1.5628784469195776,
+            "scale": 16.403126837112282
+          },
+          "knob_cap": {
+            "mean": 0.8405544534325601,
+            "scale": 3.2282928673966027
+          },
+          "lattice_block_plug": {
+            "mean": 4.91563582420349,
+            "scale": 10.2162707813441
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.6241962303008353,
+            "scale": 5.9825009649064285
+          },
+          "lego_propeller": {
+            "mean": 1.8609766278948117,
+            "scale": 45.476438353420995
+          },
+          "limit_switch": {
+            "mean": 6.70215311220714,
+            "scale": 14.596058450270661
+          },
+          "miniature_lifting_motor": {
+            "mean": 9.280905536242896,
+            "scale": 21.385125696406387
+          },
+          "power_jack": {
+            "mean": 7.378957562148571,
+            "scale": 16.889428220978605
+          },
+          "purple_clay_pot": {
+            "mean": -0.22411165013909343,
+            "scale": 0.4754584202285208
+          },
+          "telephone_spring_switch": {
+            "mean": 2.7538943375859937,
+            "scale": 8.445968903885941
+          }
+        },
+        "A": {
+          "audio_jack_socket": {
+            "mean": -3.9398554244211743,
+            "scale": 11.064025758294436
+          },
+          "common_mode_filter": {
+            "mean": -6.920302318675177,
+            "scale": 11.278891995912389
+          },
+          "connector_housing_female": {
+            "mean": -6.595427368368421,
+            "scale": 12.986472304232915
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -3.0670369012015204,
+            "scale": 14.557475165089539
+          },
+          "dc_power_connector": {
+            "mean": -5.237293056079319,
+            "scale": 10.140678389667121
+          },
+          "ethernet_connector": {
+            "mean": -3.1503184693200246,
+            "scale": 9.42783151340757
+          },
+          "ferrite_bead": {
+            "mean": -3.707755239946501,
+            "scale": 9.578691212436244
+          },
+          "fork_crimp_terminal": {
+            "mean": -5.496872382504598,
+            "scale": 10.839283776861041
+          },
+          "fuse_holder": {
+            "mean": -3.4593251677496086,
+            "scale": 10.274283561596185
+          },
+          "headphone_jack_socket": {
+            "mean": -5.27297167479992,
+            "scale": 8.040196412142263
+          },
+          "humidity_sensor": {
+            "mean": -6.973320260643958,
+            "scale": 9.949825215533167
+          },
+          "knob_cap": {
+            "mean": -4.733120773519788,
+            "scale": 7.1252957182001735
+          },
+          "lattice_block_plug": {
+            "mean": -4.038507019834858,
+            "scale": 7.912524458820324
+          },
+          "lego_pin_connector_plate": {
+            "mean": -3.90540544369391,
+            "scale": 9.637520139035534
+          },
+          "lego_propeller": {
+            "mean": -5.8801366559096735,
+            "scale": 14.637394921722708
+          },
+          "limit_switch": {
+            "mean": -3.613897919654846,
+            "scale": 7.594295388803265
+          },
+          "miniature_lifting_motor": {
+            "mean": -3.9100869947246144,
+            "scale": 5.01691197901788
+          },
+          "power_jack": {
+            "mean": -3.9948690320764264,
+            "scale": 8.26183078104372
+          },
+          "purple_clay_pot": {
+            "mean": -4.948843590915203,
+            "scale": 7.174450392443261
+          },
+          "telephone_spring_switch": {
+            "mean": -6.246928491762705,
+            "scale": 5.467173887963275
+          }
+        }
+      }
+    },
+    "FULL_RMS": {
+      "G_ONLY": {
+        "beta": [
+          0.4822674996520979,
+          2.9069854856533555,
+          0.0
+        ],
+        "G": {
+          "audio_jack_socket": {
+            "mean": -0.6035921743937903,
+            "scale": 17.109671351716898
+          },
+          "common_mode_filter": {
+            "mean": -20.042271458676886,
+            "scale": 32.17320391536438
+          },
+          "connector_housing_female": {
+            "mean": -6.3651726586478095,
+            "scale": 30.175659100148184
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 3.3880945614406035,
+            "scale": 17.57594904531937
+          },
+          "dc_power_connector": {
+            "mean": 12.152389458247594,
+            "scale": 27.831758866050432
+          },
+          "ethernet_connector": {
+            "mean": 15.745246563638954,
+            "scale": 22.96915518919512
+          },
+          "ferrite_bead": {
+            "mean": 10.875119552016258,
+            "scale": 25.072480174620917
+          },
+          "fork_crimp_terminal": {
+            "mean": 2.951247819832393,
+            "scale": 11.217863498630743
+          },
+          "fuse_holder": {
+            "mean": 2.2046243463243753,
+            "scale": 12.432209934193546
+          },
+          "headphone_jack_socket": {
+            "mean": 6.922440341540745,
+            "scale": 20.07306580006532
+          },
+          "humidity_sensor": {
+            "mean": 7.2295400202274305,
+            "scale": 19.69820174432429
+          },
+          "knob_cap": {
+            "mean": 1.6380515258227075,
+            "scale": 4.369586466334129
+          },
+          "lattice_block_plug": {
+            "mean": 4.428288293736322,
+            "scale": 12.183718419532452
+          },
+          "lego_pin_connector_plate": {
+            "mean": 1.3396671244076324,
+            "scale": 6.133621342456703
+          },
+          "lego_propeller": {
+            "mean": -9.325663021632604,
+            "scale": 41.803788855740244
+          },
+          "limit_switch": {
+            "mean": 9.676931992173193,
+            "scale": 15.176008699918066
+          },
+          "miniature_lifting_motor": {
+            "mean": 7.349234615053448,
+            "scale": 13.389338829486237
+          },
+          "power_jack": {
+            "mean": 7.428165746586663,
+            "scale": 12.454462050383452
+          },
+          "purple_clay_pot": {
+            "mean": 0.1900396248591798,
+            "scale": 1.086493673620789
+          },
+          "telephone_spring_switch": {
+            "mean": 2.4001190534659784,
+            "scale": 6.725782450919098
+          }
+        },
+        "A": {
+          "audio_jack_socket": {
+            "mean": -3.9398554244211743,
+            "scale": 11.064025758294436
+          },
+          "common_mode_filter": {
+            "mean": -6.920302318675177,
+            "scale": 11.278891995912389
+          },
+          "connector_housing_female": {
+            "mean": -6.595427368368421,
+            "scale": 12.986472304232915
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -3.0670369012015204,
+            "scale": 14.557475165089539
+          },
+          "dc_power_connector": {
+            "mean": -5.237293056079319,
+            "scale": 10.140678389667121
+          },
+          "ethernet_connector": {
+            "mean": -3.1503184693200246,
+            "scale": 9.42783151340757
+          },
+          "ferrite_bead": {
+            "mean": -3.707755239946501,
+            "scale": 9.578691212436244
+          },
+          "fork_crimp_terminal": {
+            "mean": -5.496872382504598,
+            "scale": 10.839283776861041
+          },
+          "fuse_holder": {
+            "mean": -3.4593251677496086,
+            "scale": 10.274283561596185
+          },
+          "headphone_jack_socket": {
+            "mean": -5.27297167479992,
+            "scale": 8.040196412142263
+          },
+          "humidity_sensor": {
+            "mean": -6.973320260643958,
+            "scale": 9.949825215533167
+          },
+          "knob_cap": {
+            "mean": -4.733120773519788,
+            "scale": 7.1252957182001735
+          },
+          "lattice_block_plug": {
+            "mean": -4.038507019834858,
+            "scale": 7.912524458820324
+          },
+          "lego_pin_connector_plate": {
+            "mean": -3.90540544369391,
+            "scale": 9.637520139035534
+          },
+          "lego_propeller": {
+            "mean": -5.8801366559096735,
+            "scale": 14.637394921722708
+          },
+          "limit_switch": {
+            "mean": -3.613897919654846,
+            "scale": 7.594295388803265
+          },
+          "miniature_lifting_motor": {
+            "mean": -3.9100869947246144,
+            "scale": 5.01691197901788
+          },
+          "power_jack": {
+            "mean": -3.9948690320764264,
+            "scale": 8.26183078104372
+          },
+          "purple_clay_pot": {
+            "mean": -4.948843590915203,
+            "scale": 7.174450392443261
+          },
+          "telephone_spring_switch": {
+            "mean": -6.246928491762705,
+            "scale": 5.467173887963275
+          }
+        }
+      },
+      "FREE": {
+        "beta": [
+          0.5981033462808696,
+          1.8246982362578519,
+          3.0179727515439128
+        ],
+        "G": {
+          "audio_jack_socket": {
+            "mean": -0.6035921743937903,
+            "scale": 17.109671351716898
+          },
+          "common_mode_filter": {
+            "mean": -20.042271458676886,
+            "scale": 32.17320391536438
+          },
+          "connector_housing_female": {
+            "mean": -6.3651726586478095,
+            "scale": 30.175659100148184
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 3.3880945614406035,
+            "scale": 17.57594904531937
+          },
+          "dc_power_connector": {
+            "mean": 12.152389458247594,
+            "scale": 27.831758866050432
+          },
+          "ethernet_connector": {
+            "mean": 15.745246563638954,
+            "scale": 22.96915518919512
+          },
+          "ferrite_bead": {
+            "mean": 10.875119552016258,
+            "scale": 25.072480174620917
+          },
+          "fork_crimp_terminal": {
+            "mean": 2.951247819832393,
+            "scale": 11.217863498630743
+          },
+          "fuse_holder": {
+            "mean": 2.2046243463243753,
+            "scale": 12.432209934193546
+          },
+          "headphone_jack_socket": {
+            "mean": 6.922440341540745,
+            "scale": 20.07306580006532
+          },
+          "humidity_sensor": {
+            "mean": 7.2295400202274305,
+            "scale": 19.69820174432429
+          },
+          "knob_cap": {
+            "mean": 1.6380515258227075,
+            "scale": 4.369586466334129
+          },
+          "lattice_block_plug": {
+            "mean": 4.428288293736322,
+            "scale": 12.183718419532452
+          },
+          "lego_pin_connector_plate": {
+            "mean": 1.3396671244076324,
+            "scale": 6.133621342456703
+          },
+          "lego_propeller": {
+            "mean": -9.325663021632604,
+            "scale": 41.803788855740244
+          },
+          "limit_switch": {
+            "mean": 9.676931992173193,
+            "scale": 15.176008699918066
+          },
+          "miniature_lifting_motor": {
+            "mean": 7.349234615053448,
+            "scale": 13.389338829486237
+          },
+          "power_jack": {
+            "mean": 7.428165746586663,
+            "scale": 12.454462050383452
+          },
+          "purple_clay_pot": {
+            "mean": 0.1900396248591798,
+            "scale": 1.086493673620789
+          },
+          "telephone_spring_switch": {
+            "mean": 2.4001190534659784,
+            "scale": 6.725782450919098
+          }
+        },
+        "A": {
+          "audio_jack_socket": {
+            "mean": -3.9398554244211743,
+            "scale": 11.064025758294436
+          },
+          "common_mode_filter": {
+            "mean": -6.920302318675177,
+            "scale": 11.278891995912389
+          },
+          "connector_housing_female": {
+            "mean": -6.595427368368421,
+            "scale": 12.986472304232915
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -3.0670369012015204,
+            "scale": 14.557475165089539
+          },
+          "dc_power_connector": {
+            "mean": -5.237293056079319,
+            "scale": 10.140678389667121
+          },
+          "ethernet_connector": {
+            "mean": -3.1503184693200246,
+            "scale": 9.42783151340757
+          },
+          "ferrite_bead": {
+            "mean": -3.707755239946501,
+            "scale": 9.578691212436244
+          },
+          "fork_crimp_terminal": {
+            "mean": -5.496872382504598,
+            "scale": 10.839283776861041
+          },
+          "fuse_holder": {
+            "mean": -3.4593251677496086,
+            "scale": 10.274283561596185
+          },
+          "headphone_jack_socket": {
+            "mean": -5.27297167479992,
+            "scale": 8.040196412142263
+          },
+          "humidity_sensor": {
+            "mean": -6.973320260643958,
+            "scale": 9.949825215533167
+          },
+          "knob_cap": {
+            "mean": -4.733120773519788,
+            "scale": 7.1252957182001735
+          },
+          "lattice_block_plug": {
+            "mean": -4.038507019834858,
+            "scale": 7.912524458820324
+          },
+          "lego_pin_connector_plate": {
+            "mean": -3.90540544369391,
+            "scale": 9.637520139035534
+          },
+          "lego_propeller": {
+            "mean": -5.8801366559096735,
+            "scale": 14.637394921722708
+          },
+          "limit_switch": {
+            "mean": -3.613897919654846,
+            "scale": 7.594295388803265
+          },
+          "miniature_lifting_motor": {
+            "mean": -3.9100869947246144,
+            "scale": 5.01691197901788
+          },
+          "power_jack": {
+            "mean": -3.9948690320764264,
+            "scale": 8.26183078104372
+          },
+          "purple_clay_pot": {
+            "mean": -4.948843590915203,
+            "scale": 7.174450392443261
+          },
+          "telephone_spring_switch": {
+            "mean": -6.246928491762705,
+            "scale": 5.467173887963275
+          }
+        }
+      }
+    }
+  }
+}

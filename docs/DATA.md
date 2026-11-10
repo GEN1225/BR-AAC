@@ -23,3 +23,8 @@ reproducibility/role_sample_manifest.csv identifies the main allocations. Eye500
 These sources cover the datasets used across the study. The paper and supplement specify the configurations and results reported for each analysis. The repository contains the selected paper data and core training logs; source images, depth maps and point clouds are obtained from their providers under the corresponding distribution terms. DTD is an auxiliary training-texture source. Source456 and Real-IAD350 are evaluation cohorts within Real-IAD D³.
 
 Provider distribution terms apply. Source records identify the reported method configurations and preserve their numerical outputs. Main and supplementary table blocks are in research_data/paper_tables.json.
+
+
+## Twenty-category derived records
+
+The [twenty-category data description](../research_data/realiad20/README.md) gives observation roles, supervision permissions, weighting definitions and numerical reconstruction details for the current PR manuscript. Main object AUROC/AP/Brier is 0.961912/0.984073/0.078437. The full-window/free control is 0.962126/0.984862/0.082076. Region-supervised annular/full-window/RGB pixel AP is 0.385726/0.383532/0.362951. These object and region outputs have different training labels and heads.

@@ -17,8 +17,8 @@
     },
     {
       "file": "docs/DATA.md",
-      "bytes": 2841,
-      "sha256": "a556dc40abc4566ce4ecd4e71b88648f499ecccf6f93835f46a6e91bef9c8f4d"
+      "bytes": 3345,
+      "sha256": "352bacdefa53f15f2a5b35daf78b8d88dc5783df60f40dfd834ec379a1485edb"
     },
     {
       "file": "docs/PAPER_ASSET_COVERAGE.md",
@@ -27,8 +27,8 @@
     },
     {
       "file": "README.md",
-      "bytes": 3407,
-      "sha256": "951be7379c81e1da169f22b5f9d6489b384f3f9cc02594bf817e9ff4926a6bbd"
+      "bytes": 3669,
+      "sha256": "e488439d651b7389eb0bd5c09e0b98f06b4b6271912437c2ccce20cae56e9486"
     },
     {
       "file": "reproducibility/external_effect_records.json",
@@ -164,6 +164,336 @@
       "file": "research_data/README.md",
       "bytes": 3400,
       "sha256": "6ba08a9fd1815308b67f69e858651c484501c7a636b0833ce545596caf20f186"
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/all_pair_margins.npz",
+      "bytes": 1685925,
+      "sha256": "63aa48c0c6ed7bb5d6b1bf3884c054ff95822bf037386e48063c2efc7c292fd1"
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/category_factorial_endpoints.csv",
+      "bytes": 10234,
+      "sha256": "8536bdfc398ff2efd1c7b1377c57843f88f732f61947df0558915d8b5fb1b245"
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/category_pair_margin_attribution.csv",
+      "bytes": 3598,
+      "sha256": "eeb47cbff8f383497208d1f03343ba753937bce68a560ca1c757dfae18b65e23"
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/COMPLETE.json",
+      "bytes": 5832,
+      "sha256": "76a98f053ccda54644c5207f71a8251fa7e9f57536038d19f2b18db51304eab2"
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/factorial_bootstrap_draws.npz",
+      "bytes": 658955,
+      "sha256": "52b16f66de255baad32a6b0cd87dabcb88e64905b31e05cd72e5df5d21bfd9ae"
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/LEAVE_CATEGORY_OUT_INTERACTION.json",
+      "bytes": 913,
+      "sha256": "7383aba0dda9946eaa83a38a5211d3605d98095148820da1980e7be1fcec0687"
+    },
+    {
+      "file": "research_data/realiad20/baselines/G2SF_C_HEADS_FROZEN_BEFORE_V.json",
+      "bytes": 61379,
+      "sha256": "c9d768f97bfe4b28397982c21cc01b9337a70214d54345d33a769cb886396e46"
+    },
+    {
+      "file": "research_data/realiad20/baselines/G2SF_object_metrics.json",
+      "bytes": 6342,
+      "sha256": "55566cf81a26ab363e793aaec0fe73ab9f1f2077f8fe95aab9007ffa1b8caff9"
+    },
+    {
+      "file": "research_data/realiad20/baselines/G2SF_V_predictions.csv",
+      "bytes": 529404,
+      "sha256": "68aa21e811412899a690441c02f02faacb73ee744560be24c35f4bcb9b4dfa20"
+    },
+    {
+      "file": "research_data/realiad20/baselines/M3DM_C_HEADS_FROZEN_BEFORE_V.json",
+      "bytes": 78187,
+      "sha256": "8aefd0c2ac129549b678c048928264b1d854bb82c50bc7b3f4f1967c7b61d435"
+    },
+    {
+      "file": "research_data/realiad20/baselines/M3DM_object_metrics.json",
+      "bytes": 27968,
+      "sha256": "85a7dea893212bb5c62c58ec1e92ffe17d444655dd1a88ef10053aaf446381a0"
+    },
+    {
+      "file": "research_data/realiad20/baselines/M3DM_V_predictions.csv",
+      "bytes": 2132607,
+      "sha256": "efe4c5211f6dee0f63e2d9e84ca761908b6dd7922db6481135a9f5160487dc1f"
+    },
+    {
+      "file": "research_data/realiad20/calibration_refits/COMPLETE.json",
+      "bytes": 1798,
+      "sha256": "bf1e49852730a035a1b114174eba97888fb2b72fe4262c1bbbc798a5347ad57d"
+    },
+    {
+      "file": "research_data/realiad20/calibration_refits/draw_results.json",
+      "bytes": 5219644,
+      "sha256": "12b9be8dc9244d5b34b7fa26b1ec3e55c57cb076d3b4e126159e98e159461ca6"
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/coordinate_and_support_standardized_Brier_draws.npz",
+      "bytes": 220254,
+      "sha256": "558b82eb5318fab0c5232db3f31d559ed99c516ea1842c736b9241b97d1a65e1"
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/disjoint_threshold_fold_results.csv",
+      "bytes": 17111,
+      "sha256": "7ddff5bd11970f208386f0269ca35eb984e2fe033ae157d6e46f86adce73db52"
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/input_cluster_counts.csv",
+      "bytes": 471,
+      "sha256": "9c3f860e44aa2b8405cfc455b7b5c013d28680c2472079cc686bb88eb324a8e5"
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/same_subset_estimand_comparison.csv",
+      "bytes": 83173,
+      "sha256": "00947110d2c065048d61d73beb0372422268e5002308684bd77d2e9df0a9fe0e"
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/COMPLETE.json",
+      "bytes": 15316,
+      "sha256": "f1b5e070de7377ab358094e32530be38a8662d8b1ff77c877f52d1408cf850eb"
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/frozen_actions.npz",
+      "bytes": 30412,
+      "sha256": "b69e97c1647f67f33b3e5c748c8ef32369cbabe6e613b46118af0b409a2be501"
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/per_group_actions.csv",
+      "bytes": 8982372,
+      "sha256": "42115ab8520c419f2b267835455332c1f2fa4a8cee8450aa807d5609193c077e"
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/primary_scenario.csv",
+      "bytes": 2484,
+      "sha256": "b7384d57d1b790fa85b80884ffc508d9f326d094918ef6a0b98d20b43549adfe"
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/scenario_costs.csv",
+      "bytes": 268795,
+      "sha256": "9599681fe5f63e71cd982f92b9257d26aeb4cad9e1e82fea3ff2ed34cee8bed8"
+    },
+    {
+      "file": "research_data/realiad20/object/C_raw_branch_scores.npz",
+      "bytes": 17975,
+      "sha256": "d4d0553f23e37705fb1750a0cc6d38c18d07b9d37223d60996db0a2c45b3c38a"
+    },
+    {
+      "file": "research_data/realiad20/object/CALIBRATION_FOLDS.json",
+      "bytes": 55866,
+      "sha256": "cf7701068e8a9e6c090bbef06a86866c893185ddbda9b27699732146692ebd32"
+    },
+    {
+      "file": "research_data/realiad20/object/evaluation_logits.npz",
+      "bytes": 1057688,
+      "sha256": "a8991b4c6133bb92b234ab54e2e370387404a3e0c1b1b862facbfc5ef3c8a6d2"
+    },
+    {
+      "file": "research_data/realiad20/object/HEADS_FROZEN_BEFORE_V.json",
+      "bytes": 373313,
+      "sha256": "653b25e20f799dc5fffc0c882840c080e38deeef43c8570b15337995b7316d8c"
+    },
+    {
+      "file": "research_data/realiad20/object/HOLD_raw_branch_scores.npz",
+      "bytes": 28141,
+      "sha256": "86ea08d1b6a60a771c67c1fdc21a8de8ce1c17d6d5a6a4ea024d965fb472d9c0"
+    },
+    {
+      "file": "research_data/realiad20/object/object_metrics.json",
+      "bytes": 210223,
+      "sha256": "b006a293553d083d7170869d411921b0d81319556fdcbcf112d50cdd59913118"
+    },
+    {
+      "file": "research_data/realiad20/object/paired_effects.json",
+      "bytes": 649,
+      "sha256": "f673d8ab21bda13736801975bb35d4bfa3808182951bdc66ceea2c16f5246fe2"
+    },
+    {
+      "file": "research_data/realiad20/object/per_category_summary.csv",
+      "bytes": 114796,
+      "sha256": "f871aaf2c00ea8f64bfda7b463ecffff107f74698219a443d13dd8d1f5c85e8d"
+    },
+    {
+      "file": "research_data/realiad20/object/V_raw_branch_scores.npz",
+      "bytes": 78598,
+      "sha256": "0f4bdeb0b38c635d865676a4743b6782c7ea7c1bfafaf33d2a1e4198741aac50"
+    },
+    {
+      "file": "research_data/realiad20/object_information/C_HEADS_BEFORE_V.json",
+      "bytes": 31446,
+      "sha256": "ebc73eb9b0974324b20256132f773ee742df06095152d68e29792861105c31a9"
+    },
+    {
+      "file": "research_data/realiad20/object_information/C_raw_scores.npz",
+      "bytes": 13879,
+      "sha256": "b445b4c3a62960c1d156b3052687dc55cee2b850f3f4321e33c733dda25e338e"
+    },
+    {
+      "file": "research_data/realiad20/object_information/calibrated_bootstrap_draws.npz",
+      "bytes": 659459,
+      "sha256": "782f954305fc4bf9054547cd8e060f284dbd9840caefc40d140e1d3b59f5489f"
+    },
+    {
+      "file": "research_data/realiad20/object_information/CALIBRATED_EFFECTS.json",
+      "bytes": 6227,
+      "sha256": "7fc73f9bcd3fb0750194548b91fcd9a96080b1fbb66f1b0180ba429f90e1c488"
+    },
+    {
+      "file": "research_data/realiad20/object_information/HOLD_raw_scores.npz",
+      "bytes": 22859,
+      "sha256": "4ba0a58726880c6dc08416d56881f64dfbe5a0a076d2397c6774755b4756cf32"
+    },
+    {
+      "file": "research_data/realiad20/object_information/V_raw_predictions.csv",
+      "bytes": 551028,
+      "sha256": "7d94931fb751feaf0eaaaf6a93da155945925b82b19622bdd93bbd9656efc950"
+    },
+    {
+      "file": "research_data/realiad20/object_information/V_raw_scores.npz",
+      "bytes": 59917,
+      "sha256": "7fedfac134d56a8149b6a256ca2a27e479fd5979ca8c48069709a54cbfffb2c0"
+    },
+    {
+      "file": "research_data/realiad20/observations.csv",
+      "bytes": 1863363,
+      "sha256": "888302fc1b8e25c0dc3f4a3075b227670ed014702f84dae9f2ad2b7fa37cbb5b"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/group_metadata.csv",
+      "bytes": 652520,
+      "sha256": "34612f70a4ac53e8300f881a526cab77fe6f2485e33c54dc620edc246442de32"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/OPERATING_COMPLETE.json",
+      "bytes": 39841,
+      "sha256": "321452888de034adf8bc6803cc7a46a6cde22dc23b6ef703351de21aded24693"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/paired_bootstrap_draws.npz",
+      "bytes": 988330,
+      "sha256": "435f704e5b19dad33db30727625c07af22f0fca102f2afd44e1982b2a1774e98"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/PAIRED_COMPLETE.json",
+      "bytes": 7048,
+      "sha256": "ef4faa6bf082552068ee7ad9f375650fb33323d418daa7ac65a1be06b115a186"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/support_category_coverage.csv",
+      "bytes": 5441,
+      "sha256": "a817e8969720c3b550dbb5234462b14a944d9a9e30e74a86cae94d65014c66c8"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/SUPPORT_COMPLETE.json",
+      "bytes": 637962,
+      "sha256": "5de66d60b12f6af0a90bedd23f4fe1814029120cc009c2f9836d2a0e3f1d77e8"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/support_role_group_counts.csv",
+      "bytes": 17798,
+      "sha256": "7b4c9aaf4ba635030cc362aa1cf635276665798a459a7db0fc63b907e7a2782a"
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/support_stratum_counts.csv",
+      "bytes": 9696,
+      "sha256": "94ff83ffbb7996817c44637ef0581e4c8e49679e207ce78cf38b73e8bd4fc7d7"
+    },
+    {
+      "file": "research_data/realiad20/probability_quantiles/COMPLETE.json",
+      "bytes": 12974,
+      "sha256": "5361c9dbf4a1b9b59c2eed2710429ef18df355d3f82d6860d128768563d7cac8"
+    },
+    {
+      "file": "research_data/realiad20/probability_quantiles/probability_threshold_draws.npz",
+      "bytes": 60340,
+      "sha256": "8eaa503e7e0b6acb2afcdb2cd84b1282e00863e8b3cc07c3f1663e985aa4456a"
+    },
+    {
+      "file": "research_data/realiad20/README.md",
+      "bytes": 5814,
+      "sha256": "f357221a272cc3908cc5ff9ca7b09cd5ff316a514051807ec9c66fe1dcab6c14"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/ANNULAR_FUSION_mean_logits56.npz",
+      "bytes": 10964474,
+      "sha256": "0005d615b44fcac5369cc4b40a97a31ea622846124e85132acd792c06ee5d399"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/COMPLETE.json",
+      "bytes": 1012,
+      "sha256": "b7ebc8cd8c751ca2714e5daecc68f7bf7131c92e928988b82ed29568f37300ea"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/FULL_RMS_FUSION_mean_logits56.npz",
+      "bytes": 11030092,
+      "sha256": "0533968a3a0b57947675a3d9cad89d3b49bdf61409121647e9b7c9d97f4c7f42"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/macro_AP_draws.npz",
+      "bytes": 43891,
+      "sha256": "bbe79d42bf9afc927daff66389e5dc9f0a04070fbfa11da1b50627f16ced519d"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/RGB_mean_logits56.npz",
+      "bytes": 10735622,
+      "sha256": "bc16ce1a9d47b2ca37dad37d96930c001c74d781a540c9a8958057aabc6974f8"
+    },
+    {
+      "file": "research_data/realiad20/regional_inputs/COMPLETE.json",
+      "bytes": 653,
+      "sha256": "d26d6b436b8997a3b9dfa3fdc7932f5c4c79e4ade9fb60809a8caa55e80e2b82"
+    },
+    {
+      "file": "research_data/realiad20/regional_scales/COMPLETE.json",
+      "bytes": 1069,
+      "sha256": "970e3f89302874c8876bd371b2375d61e99145126d813c72ee001a1c6b59d5f5"
+    },
+    {
+      "file": "research_data/realiad20/SOURCE_RECORDS.json",
+      "bytes": 37504,
+      "sha256": "1b8e28d08e0b70220e84d06c08137aa04e18c158c8e4d88b27d753671e331855"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/bootstrap_consensus_triage_counts.csv",
+      "bytes": 934,
+      "sha256": "b6f99d30694aced400429f5afffd4b59aa090176d6ea35ad728d3c7f2ff05232"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/COMPLETE.json",
+      "bytes": 56212,
+      "sha256": "deb8278a1d645d996b6a696ddd5fa3d3d3f5a581cd8614ab57e2e447a9f9e60d"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_rule_operating_counts.csv",
+      "bytes": 6144,
+      "sha256": "bc7781dadc81faef2e114be66011899547f63d065aa84ed922247073053835f1"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/resampling_indices.npz",
+      "bytes": 219866,
+      "sha256": "0423bec8259e363ddb07dd3b8acd276cf0a0413103b687b2eacd46dd8e6d1864"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/role_thresholds.json",
+      "bytes": 14796,
+      "sha256": "7a81440d15d9ede0b0dae3df2c4d3e28f1f33c0626e6ffb55346563b466dc888"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/T_raw_branch_scores.npz",
+      "bytes": 4158,
+      "sha256": "74cfe21b2d7bc82973a1901bd13af8a550565542ed5d5ee325027a3511034075"
+    },
+    {
+      "file": "research_data/realiad20/thresholds/threshold_draws.npz",
+      "bytes": 140301,
+      "sha256": "99d405947f6cee270cc90643d39026693ac55962e81e30f719d698c9bcb0002b"
     },
     {
       "file": "research_data/score_correlation_samples.csv",
@@ -421,6 +751,146 @@
       "sha256": "b6aa099951b2cf75ba15c728620f721f45733def0715aa7ab74b0bc65d5946ea"
     },
     {
+      "file": "results/training_records/realiad20/appearance_20261017_continuation_trace.jsonl",
+      "bytes": 229099,
+      "sha256": "1e580a093efc035df9ab1fde52417ab981a6ee5c8cc26ec36148182d778666fa"
+    },
+    {
+      "file": "results/training_records/realiad20/appearance_20261017_initial_trace.jsonl",
+      "bytes": 1568063,
+      "sha256": "04aa445a8f3409d8de461682dab71dd8278072ed594377b33bec5f3dd6972be2"
+    },
+    {
+      "file": "results/training_records/realiad20/appearance_20261018_continuation_trace.jsonl",
+      "bytes": 229528,
+      "sha256": "d612dfcc0f76b9e4a015d648da460c5f162812ab9c260cee03db6ec8ccc7a52d"
+    },
+    {
+      "file": "results/training_records/realiad20/appearance_20261018_initial_trace.jsonl",
+      "bytes": 1568297,
+      "sha256": "fee5e2318998a05fd5425d822e8df96aff4ecc6a3d484d1ca1942d9c12e4a488"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_audio_jack_socket.json",
+      "bytes": 5704,
+      "sha256": "c096b77a074c6b2e9ddd59ff94cef4d02acabc4f8d301a8d28972a80f147aeb3"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_common_mode_filter.json",
+      "bytes": 5713,
+      "sha256": "9f258abe49e4fec7a6500ae7529ed2efb5bc40b1e2f8220cfdaa87df1e4fa7fa"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_connector_housing_female.json",
+      "bytes": 5730,
+      "sha256": "01e39fdf833bdcef25047185d93301116056ec9956f29458882d926c9066257e"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_crimp_st_cable_mount_box.json",
+      "bytes": 5724,
+      "sha256": "3887e3b1af244669ccde85567f4527c5cd65d1cd42a3a2bd518ae2697f0ff9bc"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_dc_power_connector.json",
+      "bytes": 5705,
+      "sha256": "3abb13229ed70a8f1a3a5f8ffb5e1ea7b0d955337a45da13fbff8d6c40b28382"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_ethernet_connector.json",
+      "bytes": 5743,
+      "sha256": "c47ab654085fb120dcf1ad66a47436988f668a607560cfdffb03acbdeed2fd8b"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_ferrite_bead.json",
+      "bytes": 5700,
+      "sha256": "caab411d15fb3a1f8ddb7815addc1d1cfbd5ba67caff5fa1d223d6a7447ca51f"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_fork_crimp_terminal.json",
+      "bytes": 5731,
+      "sha256": "d97d2464ce35dc0aad90a5e5b246a8d186b3d48b1b80745bdbfa2d8becea4277"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_fuse_holder.json",
+      "bytes": 5724,
+      "sha256": "248862e4035f12b965f0f8f4012d6e5dc6935ed92468282c23242a1417d4ff02"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_headphone_jack_socket.json",
+      "bytes": 5705,
+      "sha256": "ac5885452761ffd5b7c9cfe952a07d992453150e179b08e4f631e15d167f00fc"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_humidity_sensor.json",
+      "bytes": 5687,
+      "sha256": "6cf2fc950213052ab1f9d85ae0650536e65420720bd51bc4bbfaf35e1acf4897"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_knob_cap.json",
+      "bytes": 5734,
+      "sha256": "7fdee370ffdd411a6bc3142afe93501de831ebf1ee4b89b034ca7d7d565e0117"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_lattice_block_plug.json",
+      "bytes": 5726,
+      "sha256": "7e4c1f46fe17d6464b06fae5e25988839021fd280b397d2da93e0774323a0e6d"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_lego_pin_connector_plate.json",
+      "bytes": 5682,
+      "sha256": "e59a42161e0f7c5901176d1ec490b5a638d0574dca10332b9c7e8d05455624ab"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_lego_propeller.json",
+      "bytes": 5732,
+      "sha256": "cd84587a9067a3fe01941c3925ac956260fa261a542c7912272ddadbb716ca8d"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_limit_switch.json",
+      "bytes": 5714,
+      "sha256": "dc5d435d5c61637c3d1a3cbf426513bcfc22eec67885913236eebdb640162083"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_miniature_lifting_motor.json",
+      "bytes": 5688,
+      "sha256": "2e05bc02ea5b98dd6541d436012d24971d54d0495a21623ad7798cc67350b6b6"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_power_jack.json",
+      "bytes": 5744,
+      "sha256": "0b9919d2e81fbd36299e0e44cdc247556307cae5196885e6718830f599f695b2"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_purple_clay_pot.json",
+      "bytes": 5739,
+      "sha256": "187e8f73becd0de9e6f6ab57e8b779dc773fd5b25f520be9a4c2b8a2647a1ef2"
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_telephone_spring_switch.json",
+      "bytes": 5718,
+      "sha256": "342b4e8c856b8552346f9d68e638073007e2fe8aa2e6b07847f356498093dbf4"
+    },
+    {
+      "file": "results/training_records/realiad20/object_information_20261017.jsonl",
+      "bytes": 2643563,
+      "sha256": "e8e5940311903b044274afcf1b14a99da31f710176f9a793f97c66c5f6e7f756"
+    },
+    {
+      "file": "results/training_records/realiad20/object_information_20261018.jsonl",
+      "bytes": 2644528,
+      "sha256": "15abfa5f17e19e62fdfba5821bd90abf387655a923751a3ece724cf9dd884ebe"
+    },
+    {
+      "file": "results/training_records/realiad20/surface_20261017_training_trace.jsonl",
+      "bytes": 4976791,
+      "sha256": "9ebd29a6620fcb3a7965f0729736b776455f4044237322bec3d5f168a8981ba9"
+    },
+    {
+      "file": "results/training_records/realiad20/surface_20261018_training_trace.jsonl",
+      "bytes": 4972482,
+      "sha256": "2517437fb6a8dbe99aced5cb3a1e1932262a53d02f5e00c5ac39d66dc7f3e797"
+    },
+    {
       "file": "results/training_records/surface_TRAINING_TRACE_20261017.json",
       "bytes": 949522,
       "sha256": "12269056da1a8e92e3ee2e9f4fd65ed4f5cefc6017af0ebd478ff7b074ad8ed1"
@@ -430,7 +900,5 @@
       "bytes": 949127,
       "sha256": "99efdf411754693735e253c2f52159b601c1894416b7c4652bdaededccf8fed9"
     }
-  ],
-  "total_files": 86,
-  "total_bytes": 19392418
+  ]
 }

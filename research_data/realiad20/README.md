@@ -1,0 +1,30 @@
+# Twenty-category paired surface and appearance data
+
+These records support the twenty-category Real-IAD D3 evaluation in *Background-relative surface representation and anchored multimodal calibration for industrial anomaly detection*.
+
+## Observation and score definitions
+
+`observations.csv` gives category, registered acquisition group, role, label, defect type and paired input-file SHA-256 hashes. Roles are FIT (3,200 normal-fitting observations), E (480 object-supervision observations), C (419 calibration observations), V (2,222 evaluation observations), HOLD (798 reference normals), and T (120 reserved normals used for the separate threshold analysis). The evaluation contains 500 normals and 1,722 anomalies. E has 479 unique paired contents; FIT has 3,199. Registered groups and exact assets are checked across roles. Counts refer to observations and registered groups. Input hashes identify the asset files used in these runs; sampled coordinate ranges are recorded in the same table. The baseline raster adaptation supplies dimensionless lateral u/v coordinates alongside the canonical axial field.
+
+All enlarged-cohort results are development evaluations on the stated allocation. Network seeds are 20261017 and 20261018. Object ensembles average raw branch scores before fitting category-standardized probability maps. Macro AUROC and AP average within-category values. Balanced Brier averages squared probability error equally over labels and then categories. The normal-reference MSE averages squared probability over categories. Object score arrays retain raw logits before sigmoid saturation.
+
+## Files and numerical reconstruction
+
+- `object/`: raw C/V/H branch scores, per-seed and ensemble logits, fitted probability coefficients and category statistics, calibration folds, main metrics and paired effects.
+- `paired_controls/` and `conditional_error/`: same-score fusion comparisons, stratum counts and coverage, raw support metadata, paired resamples, conditional error estimates and fixed-C operating outcomes. Conditional ranking, retained-cohort Brier and common-mixture Brier have different weighting definitions.
+- `object_information/`: raw scores and C-fitted maps for the equal-CNN mask/annular/full-window object-only training assay. These are separate predictors from the two-phase main model. `CALIBRATED_EFFECTS.json` contains the corresponding Brier effects; unfitted raw-score sigmoids are not calibrated probabilities.
+- `base_attribution/` and `calibration_refits/`: all within-category pair margins, frozen coefficient swaps, four-cell reference/fusion contrasts, and 200 shared calibration-subset refits.
+- `thresholds/` and `probability_quantiles/`: fixed 1%/5% rules, separate T scores, 1,000 shared resampling draws, decision counts, sensitivity summaries and review-interval outcomes. Strict score exceedance determines an alarm.
+- `cost_scenarios/`: all 36 original-map automatic/review policies and 1,632 prevalence/cost scenarios. Actions are 0=pass, 1=review, 2=reject. Costs use one false-positive cost as a unit. Reviewer error, prevalence and costs are explicit assumptions. Review budgets apply to the prevalence-weighted workload. Intervals resample observations with rules fixed and are distinct from threshold-refitting sensitivity.
+- `baselines/`: adapted M3DM and G2SF frozen object predictions, fitted maps and metrics on the same members. They use a dimensionless pixel-center u/v and canonical-height raster for geometry. Their normal/synthetic and real-label permissions are described in the paper; these are common-observation adaptations.
+- `regional_AP/`: paired AP resamples and float32 two-seed mean 56x56 logits for RGB, full-window fusion and annular fusion. Maps preserve evaluation-group order. Bilinear interpolation with align_corners=False yields 224x224 predictions. Released masks use nearest-neighbor resizing on the paired annotation grid; evaluate the full canvas, including normal images. AP pools pixels within each category before averaging the twenty categories. Source masks and images are obtained from the provider below.
+- `regional_inputs/` and `regional_scales/`: matched real-region-supervision metric endpoints. Their labels and heads differ from those of the object-only predictor.
+- `../../results/training_records/realiad20/`: primary surface/appearance traces, the matched object-information traces and complete G2SF epoch-level synthetic-validation traces. No model weights or implementation scripts are included in this update.
+
+For each paired effect, subtract the two arrays using the stated order and take percentile limits over shared bootstrap rows. Some object arrays include the full-sample point in row zero, followed by 5,000 draws; regional macro AP arrays contain only 2,000 resamples. The original and follow-up object analyses retain their own recorded random draws. Calibration-subset ranges and threshold-data sensitivity ranges describe different experiments. All comparisons condition on the stated categories and fitted predictors.
+
+## Data provider and access
+
+Real-IAD D3: https://huggingface.co/datasets/Real-IAD/Real-IAD_D3 . Source RGB/XYZ files and release masks remain with the provider under its distribution terms. This directory distributes derived predictions, allocations, statistics and core training records. Large source observations, pretrained encoders and model checkpoints are obtained separately; the paper gives their versions and input transformations. The repository root lists every study data source.
+
+`SOURCE_RECORDS.json` maps each distributed record to its input-record hash and applied transformation. The root `FILE_MANIFEST.json` records distributed file hashes and sizes. NPZ files contain numeric or Unicode arrays and load with NumPy using allow_pickle=False.

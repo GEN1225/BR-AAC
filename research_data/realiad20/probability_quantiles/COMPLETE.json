@@ -1,0 +1,505 @@
+{
+  "status": "COMPLETE",
+  "created": "2026-11-10T19:56:24.519138+08:00",
+  "fixed": [
+    {
+      "role": "V",
+      "method": "Forward",
+      "target": 0.05,
+      "probability_threshold": 0.766804064342052,
+      "FPR": 0.06,
+      "FPR_macro": 0.06000000000000001,
+      "false_positives": 30,
+      "TPR": 0.8222996515679443,
+      "TPR_macro": 0.8234356582388841,
+      "true_positives": 1416
+    },
+    {
+      "role": "V",
+      "method": "Forward",
+      "target": 0.01,
+      "probability_threshold": 0.989716580543166,
+      "FPR": 0.012,
+      "FPR_macro": 0.012,
+      "false_positives": 6,
+      "TPR": 0.578397212543554,
+      "TPR_macro": 0.5764976169718106,
+      "true_positives": 996
+    },
+    {
+      "role": "V",
+      "method": "Free",
+      "target": 0.05,
+      "probability_threshold": 0.820365058510071,
+      "FPR": 0.048,
+      "FPR_macro": 0.048,
+      "false_positives": 24,
+      "TPR": 0.8205574912891986,
+      "TPR_macro": 0.8204288288288287,
+      "true_positives": 1413
+    },
+    {
+      "role": "V",
+      "method": "Free",
+      "target": 0.01,
+      "probability_threshold": 0.9877098237240407,
+      "FPR": 0.008,
+      "FPR_macro": 0.008,
+      "false_positives": 4,
+      "TPR": 0.5522648083623694,
+      "TPR_macro": 0.5498848590526011,
+      "true_positives": 951
+    },
+    {
+      "role": "V",
+      "method": "Centered",
+      "target": 0.05,
+      "probability_threshold": 0.8215828879137062,
+      "FPR": 0.05,
+      "FPR_macro": 0.05,
+      "false_positives": 25,
+      "TPR": 0.8240418118466899,
+      "TPR_macro": 0.8240954954954954,
+      "true_positives": 1419
+    },
+    {
+      "role": "V",
+      "method": "Centered",
+      "target": 0.01,
+      "probability_threshold": 0.9887137594269473,
+      "FPR": 0.008,
+      "FPR_macro": 0.008,
+      "false_positives": 4,
+      "TPR": 0.5464576074332171,
+      "TPR_macro": 0.5447181923859344,
+      "true_positives": 941
+    },
+    {
+      "role": "V",
+      "method": "RGB",
+      "target": 0.05,
+      "probability_threshold": 0.8126652840844842,
+      "FPR": 0.06,
+      "FPR_macro": 0.06000000000000001,
+      "false_positives": 30,
+      "TPR": 0.8072009291521487,
+      "TPR_macro": 0.8055135135135135,
+      "true_positives": 1390
+    },
+    {
+      "role": "V",
+      "method": "RGB",
+      "target": 0.01,
+      "probability_threshold": 0.9875381197274953,
+      "FPR": 0.014,
+      "FPR_macro": 0.014000000000000002,
+      "false_positives": 7,
+      "TPR": 0.4529616724738676,
+      "TPR_macro": 0.4417311246730602,
+      "true_positives": 780
+    },
+    {
+      "role": "HOLD",
+      "method": "Forward",
+      "target": 0.05,
+      "probability_threshold": 0.766804064342052,
+      "FPR": 0.03508771929824561,
+      "FPR_macro": 0.03503205128205128,
+      "false_positives": 28
+    },
+    {
+      "role": "HOLD",
+      "method": "Forward",
+      "target": 0.01,
+      "probability_threshold": 0.989716580543166,
+      "FPR": 0.005012531328320802,
+      "FPR_macro": 0.005,
+      "false_positives": 4
+    },
+    {
+      "role": "HOLD",
+      "method": "Free",
+      "target": 0.05,
+      "probability_threshold": 0.820365058510071,
+      "FPR": 0.03884711779448621,
+      "FPR_macro": 0.038814102564102566,
+      "false_positives": 31
+    },
+    {
+      "role": "HOLD",
+      "method": "Free",
+      "target": 0.01,
+      "probability_threshold": 0.9877098237240407,
+      "FPR": 0.005012531328320802,
+      "FPR_macro": 0.005,
+      "false_positives": 4
+    },
+    {
+      "role": "HOLD",
+      "method": "Centered",
+      "target": 0.05,
+      "probability_threshold": 0.8215828879137062,
+      "FPR": 0.03884711779448621,
+      "FPR_macro": 0.038814102564102566,
+      "false_positives": 31
+    },
+    {
+      "role": "HOLD",
+      "method": "Centered",
+      "target": 0.01,
+      "probability_threshold": 0.9887137594269473,
+      "FPR": 0.005012531328320802,
+      "FPR_macro": 0.005,
+      "false_positives": 4
+    },
+    {
+      "role": "HOLD",
+      "method": "RGB",
+      "target": 0.05,
+      "probability_threshold": 0.8126652840844842,
+      "FPR": 0.09273182957393483,
+      "FPR_macro": 0.09272435897435896,
+      "false_positives": 74
+    },
+    {
+      "role": "HOLD",
+      "method": "RGB",
+      "target": 0.01,
+      "probability_threshold": 0.9875381197274953,
+      "FPR": 0.010025062656641603,
+      "FPR_macro": 0.01,
+      "false_positives": 8
+    }
+  ],
+  "sensitivity": [
+    {
+      "role": "V",
+      "method": "Forward",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.4276517639388211,
+        0.7625754736507336,
+        0.9282227494542977
+      ],
+      "FPR_q025_q50_q975": [
+        0.02595,
+        0.062,
+        0.134
+      ],
+      "FPR_width95": 0.10805000000000001,
+      "FPR_resample_disagreement": 0.029932972,
+      "TPR_q025_q50_q975": [
+        0.7264808362369338,
+        0.8228803716608595,
+        0.921602787456446
+      ],
+      "TPR_width95": 0.19512195121951215,
+      "TPR_resample_disagreement": 0.05959601161440187
+    },
+    {
+      "role": "V",
+      "method": "Forward",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.8925056058823636,
+        0.985483323114335,
+        0.9991876671833273
+      ],
+      "FPR_q025_q50_q975": [
+        0.006,
+        0.012,
+        0.038
+      ],
+      "FPR_width95": 0.032,
+      "FPR_resample_disagreement": 0.006294064,
+      "TPR_q025_q50_q975": [
+        0.37279326364692217,
+        0.6065621370499419,
+        0.7584204413472706
+      ],
+      "TPR_width95": 0.38562717770034843,
+      "TPR_resample_disagreement": 0.11536402787456446
+    },
+    {
+      "role": "V",
+      "method": "Free",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.5804608552851191,
+        0.8144382581549758,
+        0.9485153464348531
+      ],
+      "FPR_q025_q50_q975": [
+        0.022,
+        0.05,
+        0.11604999999999996
+      ],
+      "FPR_width95": 0.09404999999999997,
+      "FPR_resample_disagreement": 0.025156484,
+      "TPR_q025_q50_q975": [
+        0.7032520325203252,
+        0.8263646922183507,
+        0.9083188153310103
+      ],
+      "TPR_width95": 0.20506678281068513,
+      "TPR_resample_disagreement": 0.06349551103368177
+    },
+    {
+      "role": "V",
+      "method": "Free",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.9259802065251183,
+        0.9845139098620748,
+        0.9943066217568329
+      ],
+      "FPR_q025_q50_q975": [
+        0.006,
+        0.008,
+        0.028
+      ],
+      "FPR_width95": 0.022,
+      "FPR_resample_disagreement": 0.005466356,
+      "TPR_q025_q50_q975": [
+        0.44715447154471544,
+        0.573170731707317,
+        0.7375145180023229
+      ],
+      "TPR_width95": 0.2903600464576075,
+      "TPR_resample_disagreement": 0.08632266782810685
+    },
+    {
+      "role": "V",
+      "method": "Centered",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.5804860767773832,
+        0.8160655020869698,
+        0.9487724483478855
+      ],
+      "FPR_q025_q50_q975": [
+        0.02195,
+        0.05,
+        0.12
+      ],
+      "FPR_width95": 0.09805,
+      "FPR_resample_disagreement": 0.025300404000000002,
+      "TPR_q025_q50_q975": [
+        0.7043844367015099,
+        0.8263646922183507,
+        0.9106271777003483
+      ],
+      "TPR_width95": 0.20624274099883844,
+      "TPR_resample_disagreement": 0.0632895168408827
+    },
+    {
+      "role": "V",
+      "method": "Centered",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.9284876483175184,
+        0.9855618289318067,
+        0.9954079329434979
+      ],
+      "FPR_q025_q50_q975": [
+        0.006,
+        0.008,
+        0.028
+      ],
+      "FPR_width95": 0.022,
+      "FPR_resample_disagreement": 0.0054034239999999996,
+      "TPR_q025_q50_q975": [
+        0.42680023228803715,
+        0.570267131242741,
+        0.7364547038327525
+      ],
+      "TPR_width95": 0.3096544715447153,
+      "TPR_resample_disagreement": 0.092539475029036
+    },
+    {
+      "role": "V",
+      "method": "RGB",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.610275229086139,
+        0.8104764249695171,
+        0.9325635829753678
+      ],
+      "FPR_q025_q50_q975": [
+        0.036,
+        0.06,
+        0.13
+      ],
+      "FPR_width95": 0.094,
+      "FPR_resample_disagreement": 0.028377048000000002,
+      "TPR_q025_q50_q975": [
+        0.7246951219512195,
+        0.8072009291521487,
+        0.8815331010452961
+      ],
+      "TPR_width95": 0.1568379790940766,
+      "TPR_resample_disagreement": 0.04411391637630663
+    },
+    {
+      "role": "V",
+      "method": "RGB",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.9152774697173749,
+        0.9859862368994383,
+        0.9950100740889639
+      ],
+      "FPR_q025_q50_q975": [
+        0.006,
+        0.014,
+        0.04
+      ],
+      "FPR_width95": 0.034,
+      "FPR_resample_disagreement": 0.008033296,
+      "TPR_q025_q50_q975": [
+        0.31765389082462253,
+        0.47851335656213706,
+        0.7485481997677119
+      ],
+      "TPR_width95": 0.4308943089430894,
+      "TPR_resample_disagreement": 0.13428117653890825
+    },
+    {
+      "role": "HOLD",
+      "method": "Forward",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.4276517639388211,
+        0.7625754736507336,
+        0.9282227494542977
+      ],
+      "FPR_q025_q50_q975": [
+        0.010025062656641603,
+        0.03759398496240601,
+        0.12781954887218044
+      ],
+      "FPR_width95": 0.11779448621553884,
+      "FPR_resample_disagreement": 0.031705829573934835
+    },
+    {
+      "role": "HOLD",
+      "method": "Forward",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.8925056058823636,
+        0.985483323114335,
+        0.9991876671833273
+      ],
+      "FPR_q025_q50_q975": [
+        0.002506265664160401,
+        0.005012531328320802,
+        0.013784461152882205
+      ],
+      "FPR_width95": 0.011278195488721804,
+      "FPR_resample_disagreement": 0.0026003634085213037
+    },
+    {
+      "role": "HOLD",
+      "method": "Free",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.5804608552851191,
+        0.8144382581549758,
+        0.9485153464348531
+      ],
+      "FPR_q025_q50_q975": [
+        0.010025062656641603,
+        0.03884711779448621,
+        0.13793859649122797
+      ],
+      "FPR_width95": 0.12791353383458637,
+      "FPR_resample_disagreement": 0.03394942355889725
+    },
+    {
+      "role": "HOLD",
+      "method": "Free",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.9259802065251183,
+        0.9845139098620748,
+        0.9943066217568329
+      ],
+      "FPR_q025_q50_q975": [
+        0.005012531328320802,
+        0.005012531328320802,
+        0.015037593984962405
+      ],
+      "FPR_width95": 0.010025062656641603,
+      "FPR_resample_disagreement": 0.002536912280701754
+    },
+    {
+      "role": "HOLD",
+      "method": "Centered",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.5804860767773832,
+        0.8160655020869698,
+        0.9487724483478855
+      ],
+      "FPR_q025_q50_q975": [
+        0.010025062656641603,
+        0.03884711779448621,
+        0.137907268170426
+      ],
+      "FPR_width95": 0.1278822055137844,
+      "FPR_resample_disagreement": 0.033815671679197995
+    },
+    {
+      "role": "HOLD",
+      "method": "Centered",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.9284876483175184,
+        0.9855618289318067,
+        0.9954079329434979
+      ],
+      "FPR_q025_q50_q975": [
+        0.005012531328320802,
+        0.005012531328320802,
+        0.015037593984962405
+      ],
+      "FPR_width95": 0.010025062656641603,
+      "FPR_resample_disagreement": 0.0024637969924812026
+    },
+    {
+      "role": "HOLD",
+      "method": "RGB",
+      "target": 0.05,
+      "probability_threshold_q025_q50_q975": [
+        0.610275229086139,
+        0.8104764249695171,
+        0.9325635829753678
+      ],
+      "FPR_q025_q50_q975": [
+        0.03881578947368421,
+        0.09523809523809523,
+        0.20927318295739347
+      ],
+      "FPR_width95": 0.17045739348370925,
+      "FPR_resample_disagreement": 0.05439442857142857
+    },
+    {
+      "role": "HOLD",
+      "method": "RGB",
+      "target": 0.01,
+      "probability_threshold_q025_q50_q975": [
+        0.9152774697173749,
+        0.9859862368994383,
+        0.9950100740889639
+      ],
+      "FPR_q025_q50_q975": [
+        0.006265664160401002,
+        0.011278195488721804,
+        0.047619047619047616
+      ],
+      "FPR_width95": 0.041353383458646614,
+      "FPR_resample_disagreement": 0.009736115288220552
+    }
+  ],
+  "caveat": "Probability smoothing does not change model AUROC/AP/Brier, and a narrow threshold band in probability units can still imply substantial decision variation."
+}

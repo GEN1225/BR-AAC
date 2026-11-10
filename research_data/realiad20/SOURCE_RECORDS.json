@@ -1,0 +1,649 @@
+{
+  "created": "2026-11-10T21:01:51.532214+08:00",
+  "files": [
+    {
+      "file": "research_data/realiad20/observations.csv",
+      "source_record": "sample_manifest.json",
+      "source_sha256": "e4b88afaa0ea4f8f8465390eef4c9f01e4bcc99cdcca3f00ad9aea86d1d635fe",
+      "sha256": "888302fc1b8e25c0dc3f4a3075b227670ed014702f84dae9f2ad2b7fa37cbb5b",
+      "transformation": "Role/input identity fields only; T membership from frozen threshold identities."
+    },
+    {
+      "file": "research_data/realiad20/object/C_raw_branch_scores.npz",
+      "source_record": "C_raw_branch_scores.npz",
+      "source_sha256": "d4d0553f23e37705fb1750a0cc6d38c18d07b9d37223d60996db0a2c45b3c38a",
+      "sha256": "d4d0553f23e37705fb1750a0cc6d38c18d07b9d37223d60996db0a2c45b3c38a",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/V_raw_branch_scores.npz",
+      "source_record": "V_raw_branch_scores.npz",
+      "source_sha256": "0f4bdeb0b38c635d865676a4743b6782c7ea7c1bfafaf33d2a1e4198741aac50",
+      "sha256": "0f4bdeb0b38c635d865676a4743b6782c7ea7c1bfafaf33d2a1e4198741aac50",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/HOLD_raw_branch_scores.npz",
+      "source_record": "HOLD_raw_branch_scores.npz",
+      "source_sha256": "86ea08d1b6a60a771c67c1fdc21a8de8ce1c17d6d5a6a4ea024d965fb472d9c0",
+      "sha256": "86ea08d1b6a60a771c67c1fdc21a8de8ce1c17d6d5a6a4ea024d965fb472d9c0",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/evaluation_logits.npz",
+      "source_record": "evaluation_logits.npz",
+      "source_sha256": "a8991b4c6133bb92b234ab54e2e370387404a3e0c1b1b862facbfc5ef3c8a6d2",
+      "sha256": "a8991b4c6133bb92b234ab54e2e370387404a3e0c1b1b862facbfc5ef3c8a6d2",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/HEADS_FROZEN_BEFORE_V.json",
+      "source_record": "HEADS_FROZEN_BEFORE_V.json",
+      "source_sha256": "47b4b774bcf6ec66413b84d7869931bced8c0e97249e59d7c59aa36f85776c46",
+      "sha256": "653b25e20f799dc5fffc0c882840c080e38deeef43c8570b15337995b7316d8c",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/CALIBRATION_FOLDS.json",
+      "source_record": "CALIBRATION_FOLDS.json",
+      "source_sha256": "f162c489e041b5ca5fb6cf800ee4579b2b9212c7f4a97ea9697590e8d7bbbb2b",
+      "sha256": "cf7701068e8a9e6c090bbef06a86866c893185ddbda9b27699732146692ebd32",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/object_metrics.json",
+      "source_record": "object_metrics.json",
+      "source_sha256": "2043dde534eaf3d77f83c4e603eec9d740b60422b328a634ebf87c256fe8b329",
+      "sha256": "b006a293553d083d7170869d411921b0d81319556fdcbcf112d50cdd59913118",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/paired_effects.json",
+      "source_record": "paired_effects.json",
+      "source_sha256": "54c702120966d06117afac216a42136577a9835b99efa1999552e9c5724d28c1",
+      "sha256": "f673d8ab21bda13736801975bb35d4bfa3808182951bdc66ceea2c16f5246fe2",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object/per_category_summary.csv",
+      "source_record": "per_category_summary.csv",
+      "source_sha256": "e970140a07051897692eb7227b04972ff5242f727ff36d5758e26383b99b29fe",
+      "sha256": "f871aaf2c00ea8f64bfda7b463ecffff107f74698219a443d13dd8d1f5c85e8d",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/PAIRED_COMPLETE.json",
+      "source_record": "PAIRED_COMPLETE.json",
+      "source_sha256": "be4e8ba2a106ecb2518f6aa256c382fee05ff852482404c1b19e2dffa70238a2",
+      "sha256": "ef4faa6bf082552068ee7ad9f375650fb33323d418daa7ac65a1be06b115a186",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/SUPPORT_COMPLETE.json",
+      "source_record": "SUPPORT_COMPLETE.json",
+      "source_sha256": "ada9d2f392e8a2ea77f37ed25f5e859419b2c86e60b519f377995d7d49d41071",
+      "sha256": "5de66d60b12f6af0a90bedd23f4fe1814029120cc009c2f9836d2a0e3f1d77e8",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/OPERATING_COMPLETE.json",
+      "source_record": "OPERATING_COMPLETE.json",
+      "source_sha256": "39f257f67c94225a056870febd9f620a24fd28768b86d36a435d4faf387f60d2",
+      "sha256": "321452888de034adf8bc6803cc7a46a6cde22dc23b6ef703351de21aded24693",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/paired_bootstrap_draws.npz",
+      "source_record": "paired_bootstrap_draws.npz",
+      "source_sha256": "435f704e5b19dad33db30727625c07af22f0fca102f2afd44e1982b2a1774e98",
+      "sha256": "435f704e5b19dad33db30727625c07af22f0fca102f2afd44e1982b2a1774e98",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/group_metadata.csv",
+      "source_record": "group_metadata.csv",
+      "source_sha256": "b5915d6ac85536b4a00c49fb6c326f32d15449fc9424290a6c33a1b638ceb80e",
+      "sha256": "34612f70a4ac53e8300f881a526cab77fe6f2485e33c54dc620edc246442de32",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/support_role_group_counts.csv",
+      "source_record": "support_role_group_counts.csv",
+      "source_sha256": "dfeaa28e802d2999b127491d2404731974bb7561e1a8dfb10d32a1bfc4fd12ab",
+      "sha256": "7b4c9aaf4ba635030cc362aa1cf635276665798a459a7db0fc63b907e7a2782a",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/support_stratum_counts.csv",
+      "source_record": "support_stratum_counts.csv",
+      "source_sha256": "6b24901a92fd947133ab9101b09ece08798ff999b6ee2d6626e4a1517e164a61",
+      "sha256": "94ff83ffbb7996817c44637ef0581e4c8e49679e207ce78cf38b73e8bd4fc7d7",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/paired_controls/support_category_coverage.csv",
+      "source_record": "support_category_coverage.csv",
+      "source_sha256": "4f0823613f07f81db36320802ee34163c510fd463bbf4241386fa4feb6323a86",
+      "sha256": "a817e8969720c3b550dbb5234462b14a944d9a9e30e74a86cae94d65014c66c8",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/same_subset_estimand_comparison.csv",
+      "source_record": "same_subset_estimand_comparison.csv",
+      "source_sha256": "c413d6c4c916ab1952163d37c375147353ffdb94aeb070a5b13e93ce5bb00978",
+      "sha256": "00947110d2c065048d61d73beb0372422268e5002308684bd77d2e9df0a9fe0e",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/coordinate_and_support_standardized_Brier_draws.npz",
+      "source_record": "coordinate_and_support_standardized_Brier_draws.npz",
+      "source_sha256": "558b82eb5318fab0c5232db3f31d559ed99c516ea1842c736b9241b97d1a65e1",
+      "sha256": "558b82eb5318fab0c5232db3f31d559ed99c516ea1842c736b9241b97d1a65e1",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/disjoint_threshold_fold_results.csv",
+      "source_record": "disjoint_threshold_fold_results.csv",
+      "source_sha256": "43b7bc085fca01cddad70a5e8d6af5495c95aeef39447747edcd66e42efb1993",
+      "sha256": "7ddff5bd11970f208386f0269ca35eb984e2fe033ae157d6e46f86adce73db52",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/conditional_error/input_cluster_counts.csv",
+      "source_record": "input_cluster_counts.csv",
+      "source_sha256": "406268188391fd8f3b8bbd846412afb9ef5a885c2ad20da95f487ed8e636eb51",
+      "sha256": "9c3f860e44aa2b8405cfc455b7b5c013d28680c2472079cc686bb88eb324a8e5",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object_information/C_raw_scores.npz",
+      "source_record": "C_raw_scores.npz",
+      "source_sha256": "b445b4c3a62960c1d156b3052687dc55cee2b850f3f4321e33c733dda25e338e",
+      "sha256": "b445b4c3a62960c1d156b3052687dc55cee2b850f3f4321e33c733dda25e338e",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object_information/V_raw_scores.npz",
+      "source_record": "V_raw_scores.npz",
+      "source_sha256": "7fedfac134d56a8149b6a256ca2a27e479fd5979ca8c48069709a54cbfffb2c0",
+      "sha256": "7fedfac134d56a8149b6a256ca2a27e479fd5979ca8c48069709a54cbfffb2c0",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object_information/HOLD_raw_scores.npz",
+      "source_record": "HOLD_raw_scores.npz",
+      "source_sha256": "4ba0a58726880c6dc08416d56881f64dfbe5a0a076d2397c6774755b4756cf32",
+      "sha256": "4ba0a58726880c6dc08416d56881f64dfbe5a0a076d2397c6774755b4756cf32",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object_information/C_HEADS_BEFORE_V.json",
+      "source_record": "C_HEADS_BEFORE_V.json",
+      "source_sha256": "6e4a36a029ede7cbb3cbeed099b91f2dd9846c4e975a3d75a36d506da0ec5086",
+      "sha256": "ebc73eb9b0974324b20256132f773ee742df06095152d68e29792861105c31a9",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object_information/CALIBRATED_EFFECTS.json",
+      "source_record": "CALIBRATED_EFFECTS.json",
+      "source_sha256": "a8805560662c6c2dd885c24591826f60712166d568d64b3dedcca3454de81680",
+      "sha256": "7fc73f9bcd3fb0750194548b91fcd9a96080b1fbb66f1b0180ba429f90e1c488",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object_information/calibrated_bootstrap_draws.npz",
+      "source_record": "calibrated_bootstrap_draws.npz",
+      "source_sha256": "782f954305fc4bf9054547cd8e060f284dbd9840caefc40d140e1d3b59f5489f",
+      "sha256": "782f954305fc4bf9054547cd8e060f284dbd9840caefc40d140e1d3b59f5489f",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/object_information/V_raw_predictions.csv",
+      "source_record": "V_raw_predictions.csv",
+      "source_sha256": "378ee2bf955af2c2af55ac445529b152c10acc79109eb6baa1cdbae4b352a997",
+      "sha256": "7d94931fb751feaf0eaaaf6a93da155945925b82b19622bdd93bbd9656efc950",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "1f111dc9e07cfc439e9767f8aac12025553597a836cba66f19fb7b2572b6c107",
+      "sha256": "76a98f053ccda54644c5207f71a8251fa7e9f57536038d19f2b18db51304eab2",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/all_pair_margins.npz",
+      "source_record": "all_pair_margins.npz",
+      "source_sha256": "63aa48c0c6ed7bb5d6b1bf3884c054ff95822bf037386e48063c2efc7c292fd1",
+      "sha256": "63aa48c0c6ed7bb5d6b1bf3884c054ff95822bf037386e48063c2efc7c292fd1",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/category_factorial_endpoints.csv",
+      "source_record": "category_factorial_endpoints.csv",
+      "source_sha256": "a8bb52c94e688a64ae2f03ab60f3b85dcb9c63b288bb4de32c9850a0f3db0e1b",
+      "sha256": "8536bdfc398ff2efd1c7b1377c57843f88f732f61947df0558915d8b5fb1b245",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/category_pair_margin_attribution.csv",
+      "source_record": "category_pair_margin_attribution.csv",
+      "source_sha256": "5696e657abeba6804373dafc2edafbdc29f3144a43feab6eecd15d758f86af6d",
+      "sha256": "eeb47cbff8f383497208d1f03343ba753937bce68a560ca1c757dfae18b65e23",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/factorial_bootstrap_draws.npz",
+      "source_record": "factorial_bootstrap_draws.npz",
+      "source_sha256": "52b16f66de255baad32a6b0cd87dabcb88e64905b31e05cd72e5df5d21bfd9ae",
+      "sha256": "52b16f66de255baad32a6b0cd87dabcb88e64905b31e05cd72e5df5d21bfd9ae",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/base_attribution/LEAVE_CATEGORY_OUT_INTERACTION.json",
+      "source_record": "LEAVE_CATEGORY_OUT_INTERACTION.json",
+      "source_sha256": "779782d1d28dd298d9b7b3e3c5e2ed189f62e8a564e72ff35dd4d3b4d2bb2fa0",
+      "sha256": "7383aba0dda9946eaa83a38a5211d3605d98095148820da1980e7be1fcec0687",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/calibration_refits/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "2044e29f6652ca8f66e9aa0fd7fbcec75469f85776d88c2089630b35c26f43c5",
+      "sha256": "bf1e49852730a035a1b114174eba97888fb2b72fe4262c1bbbc798a5347ad57d",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/calibration_refits/draw_results.json",
+      "source_record": "draw_results.json",
+      "source_sha256": "4b8682db574d19420ee45db28bbd239a1c63329a4fc37717eaec7816f77ed6d2",
+      "sha256": "12b9be8dc9244d5b34b7fa26b1ec3e55c57cb076d3b4e126159e98e159461ca6",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "22fd24853b4f2f852925658b0dfe41c60ac5f801436e0ce7c698d58a62ea758f",
+      "sha256": "deb8278a1d645d996b6a696ddd5fa3d3d3f5a581cd8614ab57e2e447a9f9e60d",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/fixed_rule_operating_counts.csv",
+      "source_record": "fixed_rule_operating_counts.csv",
+      "source_sha256": "a8378d1f1f331736ef4805d8a5a7d8e4a2c98bdc6a46723ff4991dc5d2f96062",
+      "sha256": "bc7781dadc81faef2e114be66011899547f63d065aa84ed922247073053835f1",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/bootstrap_consensus_triage_counts.csv",
+      "source_record": "bootstrap_consensus_triage_counts.csv",
+      "source_sha256": "4343bfcf97dd0cfa882f5b766228ffa35fd8aee4e414d69fb2c1c5ca4233b1c2",
+      "sha256": "b6f99d30694aced400429f5afffd4b59aa090176d6ea35ad728d3c7f2ff05232",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/resampling_indices.npz",
+      "source_record": "resampling_indices.npz",
+      "source_sha256": "0423bec8259e363ddb07dd3b8acd276cf0a0413103b687b2eacd46dd8e6d1864",
+      "sha256": "0423bec8259e363ddb07dd3b8acd276cf0a0413103b687b2eacd46dd8e6d1864",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/threshold_draws.npz",
+      "source_record": "threshold_draws.npz",
+      "source_sha256": "99d405947f6cee270cc90643d39026693ac55962e81e30f719d698c9bcb0002b",
+      "sha256": "99d405947f6cee270cc90643d39026693ac55962e81e30f719d698c9bcb0002b",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/probability_quantiles/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "1561ab22d1cf12d7880e9ca7bf443fa2a8f73038090c57689a71a090777f64b9",
+      "sha256": "5361c9dbf4a1b9b59c2eed2710429ef18df355d3f82d6860d128768563d7cac8",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/probability_quantiles/probability_threshold_draws.npz",
+      "source_record": "probability_threshold_draws.npz",
+      "source_sha256": "8eaa503e7e0b6acb2afcdb2cd84b1282e00863e8b3cc07c3f1663e985aa4456a",
+      "sha256": "8eaa503e7e0b6acb2afcdb2cd84b1282e00863e8b3cc07c3f1663e985aa4456a",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "bea8bfdf740161fc54a41a1eeb4685dc5837d116981fc1517035e515cad181fc",
+      "sha256": "f1b5e070de7377ab358094e32530be38a8662d8b1ff77c877f52d1408cf850eb",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/scenario_costs.csv",
+      "source_record": "scenario_costs.csv",
+      "source_sha256": "7886afa64b03e25e11ccbafe7a932ce43a0e46719e6a5e0668c72091e1aa9dd6",
+      "sha256": "9599681fe5f63e71cd982f92b9257d26aeb4cad9e1e82fea3ff2ed34cee8bed8",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/primary_scenario.csv",
+      "source_record": "primary_scenario.csv",
+      "source_sha256": "acf0e98d69821fa7a2bda87c819f4100f3a892f0cff65afad6c400902cf87b7b",
+      "sha256": "b7384d57d1b790fa85b80884ffc508d9f326d094918ef6a0b98d20b43549adfe",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/per_group_actions.csv",
+      "source_record": "per_group_actions.csv",
+      "source_sha256": "268819749b8ea7c291808ca2dc5ded3bf860784cce9fc3a713eae97adb62e422",
+      "sha256": "42115ab8520c419f2b267835455332c1f2fa4a8cee8450aa807d5609193c077e",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/cost_scenarios/frozen_actions.npz",
+      "source_record": "frozen_actions.npz",
+      "source_sha256": "b69e97c1647f67f33b3e5c748c8ef32369cbabe6e613b46118af0b409a2be501",
+      "sha256": "b69e97c1647f67f33b3e5c748c8ef32369cbabe6e613b46118af0b409a2be501",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "92ddcaf9affea86f1fa3f9e8a95f99b564dd2fbb266ceb8f4f1d01f9a52c8c86",
+      "sha256": "b7ebc8cd8c751ca2714e5daecc68f7bf7131c92e928988b82ed29568f37300ea",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/macro_AP_draws.npz",
+      "source_record": "macro_AP_draws.npz",
+      "source_sha256": "bbe79d42bf9afc927daff66389e5dc9f0a04070fbfa11da1b50627f16ced519d",
+      "sha256": "bbe79d42bf9afc927daff66389e5dc9f0a04070fbfa11da1b50627f16ced519d",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/regional_inputs/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "b0864bf672045770ee3fd57e822ae16e0913dd750db3bb3845ea290e385523a4",
+      "sha256": "d26d6b436b8997a3b9dfa3fdc7932f5c4c79e4ade9fb60809a8caa55e80e2b82",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/regional_scales/COMPLETE.json",
+      "source_record": "COMPLETE.json",
+      "source_sha256": "bc3ef008764b4e4f892d4ec0aa64eb7e07d377970d013ee58fdbcc10a616ce69",
+      "sha256": "970e3f89302874c8876bd371b2375d61e99145126d813c72ee001a1c6b59d5f5",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/T_raw_branch_scores.npz",
+      "source_record": "T_raw_branch_scores.npz",
+      "source_sha256": "74cfe21b2d7bc82973a1901bd13af8a550565542ed5d5ee325027a3511034075",
+      "sha256": "74cfe21b2d7bc82973a1901bd13af8a550565542ed5d5ee325027a3511034075",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/thresholds/role_thresholds.json",
+      "source_record": "THRESHOLDS_BEFORE_FOLLOWUP_V_H.json",
+      "source_sha256": "97cad3cdbcde5bca12cc4786e68b7a201f5998348b6f6f7363fb2c02a8b2a319",
+      "sha256": "7a81440d15d9ede0b0dae3df2c4d3e28f1f33c0626e6ffb55346563b466dc888",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/baselines/G2SF_object_metrics.json",
+      "source_record": "object_metrics.json",
+      "source_sha256": "d3a75f994405a63796087f933b4d9023f0f00ff69f5f9a10ca2f9bcf05c8efb6",
+      "sha256": "55566cf81a26ab363e793aaec0fe73ab9f1f2077f8fe95aab9007ffa1b8caff9",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/baselines/G2SF_V_predictions.csv",
+      "source_record": "V_predictions.csv",
+      "source_sha256": "04453703afcd53f3935e4666f3452c8b67cefaff09060bfa94a32ab7bebee29e",
+      "sha256": "68aa21e811412899a690441c02f02faacb73ee744560be24c35f4bcb9b4dfa20",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/baselines/G2SF_C_HEADS_FROZEN_BEFORE_V.json",
+      "source_record": "C_HEADS_FROZEN_BEFORE_V.json",
+      "source_sha256": "306530bef5d91c65707392ac6f7bf00f7e5eae76de35fc147df39b84a5f68960",
+      "sha256": "c9d768f97bfe4b28397982c21cc01b9337a70214d54345d33a769cb886396e46",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/baselines/M3DM_object_metrics.json",
+      "source_record": "object_metrics.json",
+      "source_sha256": "c842fbe85ef0a96a051d7111d1aa3af30a2563e6396669a2b9455eb8ff3545b3",
+      "sha256": "85a7dea893212bb5c62c58ec1e92ffe17d444655dd1a88ef10053aaf446381a0",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/baselines/M3DM_V_predictions.csv",
+      "source_record": "V_predictions.csv",
+      "source_sha256": "10e30bd31af013200a22009a742df32564c7d2c52912ddaea4810f4985bc454a",
+      "sha256": "efe4c5211f6dee0f63e2d9e84ca761908b6dd7922db6481135a9f5160487dc1f",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/baselines/M3DM_C_HEADS_FROZEN_BEFORE_V.json",
+      "source_record": "C_HEADS_FROZEN_BEFORE_V.json",
+      "source_sha256": "a73f3193e234d065be08ebf567a215c89ebb54ce9aacd6b4394d3dc0a2e511eb",
+      "sha256": "8aefd0c2ac129549b678c048928264b1d854bb82c50bc7b3f4f1967c7b61d435",
+      "transformation": "Exact numeric data; local path metadata omitted where present."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/ANNULAR_FUSION_mean_logits56.npz",
+      "source_record": "ANNULAR_FUSION_maps.npy",
+      "source_sha256": "57eb844ceae368b2fd22df76d800f112a8b34ffce6cd3801941c50ba1cbb19a0",
+      "sha256": "0005d615b44fcac5369cc4b40a97a31ea622846124e85132acd792c06ee5d399",
+      "transformation": "Float32 mean of two saved seed-specific 56-grid raw maps; no upsampling or quantization."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/FULL_RMS_FUSION_mean_logits56.npz",
+      "source_record": "FULL_RMS_FUSION_maps.npy",
+      "source_sha256": "fde65757357479e7453ef454e076afff8f22729c28f4a5bfb596e035dd0ea44c",
+      "sha256": "0533968a3a0b57947675a3d9cad89d3b49bdf61409121647e9b7c9d97f4c7f42",
+      "transformation": "Float32 mean of two saved seed-specific 56-grid raw maps; no upsampling or quantization."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/RGB_mean_logits56.npz",
+      "source_record": "RGB_maps.npy",
+      "source_sha256": "5e498128d63dc68ba4bbb66689898e2d7e78a0631f41b3d2280eb5d199db2683",
+      "sha256": "bc16ce1a9d47b2ca37dad37d96930c001c74d781a540c9a8958057aabc6974f8",
+      "transformation": "Float32 mean of two saved seed-specific 56-grid raw maps; no upsampling or quantization."
+    },
+    {
+      "file": "results/training_records/realiad20/surface_20261017_training_trace.jsonl",
+      "source_record": "training_trace.jsonl",
+      "source_sha256": "6143ba4615765da6eb9baaa98f269bb30e336123bfd2042d3851dc164cef8c02",
+      "sha256": "9ebd29a6620fcb3a7965f0729736b776455f4044237322bec3d5f168a8981ba9",
+      "transformation": "Core training trace; appearance continuation retains the paper configuration."
+    },
+    {
+      "file": "results/training_records/realiad20/appearance_20261017_initial_trace.jsonl",
+      "source_record": "initial_trace.jsonl",
+      "source_sha256": "1bdf9e581b42b6b4acabd8e8573ccbb3e58c200a782fbb0f3c2d907c90bc14f0",
+      "sha256": "04aa445a8f3409d8de461682dab71dd8278072ed594377b33bec5f3dd6972be2",
+      "transformation": "Core training trace; appearance continuation retains the paper configuration."
+    },
+    {
+      "file": "results/training_records/realiad20/appearance_20261017_continuation_trace.jsonl",
+      "source_record": "continuation_trace.jsonl",
+      "source_sha256": "aaf8d479cc82a6fba2dfb5298682ecf2f16c78d418e3852d899453f7a816e05a",
+      "sha256": "1e580a093efc035df9ab1fde52417ab981a6ee5c8cc26ec36148182d778666fa",
+      "transformation": "Core training trace; appearance continuation retains the paper configuration."
+    },
+    {
+      "file": "results/training_records/realiad20/object_information_20261017.jsonl",
+      "source_record": "training_trace.jsonl",
+      "source_sha256": "c923b691e71cba2b99f4544c58d2f87c4a7f6c1cf2f3834fc5cfc1876417e692",
+      "sha256": "e8e5940311903b044274afcf1b14a99da31f710176f9a793f97c66c5f6e7f756",
+      "transformation": "Three matched information-control arms; numeric trace only."
+    },
+    {
+      "file": "results/training_records/realiad20/surface_20261018_training_trace.jsonl",
+      "source_record": "training_trace.jsonl",
+      "source_sha256": "2c624fb4341c48e0252a2a63343221bba8c43c145935ae5a4742ee0757b4051a",
+      "sha256": "2517437fb6a8dbe99aced5cb3a1e1932262a53d02f5e00c5ac39d66dc7f3e797",
+      "transformation": "Core training trace; appearance continuation retains the paper configuration."
+    },
+    {
+      "file": "results/training_records/realiad20/appearance_20261018_initial_trace.jsonl",
+      "source_record": "initial_trace.jsonl",
+      "source_sha256": "a9530ad1aaa444179e69643830b7ccf8bc8eb5d350bfd170848ac9a972ae1d8f",
+      "sha256": "fee5e2318998a05fd5425d822e8df96aff4ecc6a3d484d1ca1942d9c12e4a488",
+      "transformation": "Core training trace; appearance continuation retains the paper configuration."
+    },
+    {
+      "file": "results/training_records/realiad20/appearance_20261018_continuation_trace.jsonl",
+      "source_record": "continuation_trace.jsonl",
+      "source_sha256": "eb723189884f1ddf5b972d479c9ba74f93ca4aabab5bbb62266743983767b1c9",
+      "sha256": "d612dfcc0f76b9e4a015d648da460c5f162812ab9c260cee03db6ec8ccc7a52d",
+      "transformation": "Core training trace; appearance continuation retains the paper configuration."
+    },
+    {
+      "file": "results/training_records/realiad20/object_information_20261018.jsonl",
+      "source_record": "training_trace.jsonl",
+      "source_sha256": "8f20e14c4e6375bee1bf0ed18c4f0eec3a8877e173b49bc34bccbf10cfa5c5d9",
+      "sha256": "15abfa5f17e19e62fdfba5821bd90abf387655a923751a3ece724cf9dd884ebe",
+      "transformation": "Three matched information-control arms; numeric trace only."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_audio_jack_socket.json",
+      "source_record": "training_log.json",
+      "source_sha256": "131f99e4679a118d2d41722b2d8640786a52219e0b200cd0119304a049c083c1",
+      "sha256": "c096b77a074c6b2e9ddd59ff94cef4d02acabc4f8d301a8d28972a80f147aeb3",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_common_mode_filter.json",
+      "source_record": "training_log.json",
+      "source_sha256": "ceff83134e1c7b3d2f087e3a94240fae50d3b6013fc0681db0e29f63e5155847",
+      "sha256": "9f258abe49e4fec7a6500ae7529ed2efb5bc40b1e2f8220cfdaa87df1e4fa7fa",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_connector_housing_female.json",
+      "source_record": "training_log.json",
+      "source_sha256": "4bca47fd71cdf72dd3ab963769e00825c0e73aa723de7cbd3960c6d9d1e04bf8",
+      "sha256": "01e39fdf833bdcef25047185d93301116056ec9956f29458882d926c9066257e",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_crimp_st_cable_mount_box.json",
+      "source_record": "training_log.json",
+      "source_sha256": "0e13002db9ba6726d192557ee41f54a7cc51e227e169f1e22ffeaf38b46a42c8",
+      "sha256": "3887e3b1af244669ccde85567f4527c5cd65d1cd42a3a2bd518ae2697f0ff9bc",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_dc_power_connector.json",
+      "source_record": "training_log.json",
+      "source_sha256": "c64cf0da1d1ab090340137e96741fff5361b37bf776d081ee234de5626fe9d5f",
+      "sha256": "3abb13229ed70a8f1a3a5f8ffb5e1ea7b0d955337a45da13fbff8d6c40b28382",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_ethernet_connector.json",
+      "source_record": "training_log.json",
+      "source_sha256": "7c3ffb6c4ab57a24f56d49acfb87fab345de85d58f6dc3c503f21c50cc4c5cf4",
+      "sha256": "c47ab654085fb120dcf1ad66a47436988f668a607560cfdffb03acbdeed2fd8b",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_ferrite_bead.json",
+      "source_record": "training_log.json",
+      "source_sha256": "5d203bb27f7f1a281e9df891e8d4d665dfe40825cb73c4e8b5f97f01264b8ca7",
+      "sha256": "caab411d15fb3a1f8ddb7815addc1d1cfbd5ba67caff5fa1d223d6a7447ca51f",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_fork_crimp_terminal.json",
+      "source_record": "training_log.json",
+      "source_sha256": "9381702828c12dc2bee2110e89b89c9343d8dcfd21a81a87fa55f3272340f3b7",
+      "sha256": "d97d2464ce35dc0aad90a5e5b246a8d186b3d48b1b80745bdbfa2d8becea4277",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_fuse_holder.json",
+      "source_record": "training_log.json",
+      "source_sha256": "7521efabfe986309e87c74099d829a4f775f12325820f26a1db67fafb1a7efc4",
+      "sha256": "248862e4035f12b965f0f8f4012d6e5dc6935ed92468282c23242a1417d4ff02",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_headphone_jack_socket.json",
+      "source_record": "training_log.json",
+      "source_sha256": "b0a196d3f8d1df121006003a479a6b36c011b3055bcdfeb47ecf719493a93dd7",
+      "sha256": "ac5885452761ffd5b7c9cfe952a07d992453150e179b08e4f631e15d167f00fc",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_humidity_sensor.json",
+      "source_record": "training_log.json",
+      "source_sha256": "c73b62e922f901faf2b8f8b89e3d2ff742bb6aceb96f70b6688140fde2d15fa5",
+      "sha256": "6cf2fc950213052ab1f9d85ae0650536e65420720bd51bc4bbfaf35e1acf4897",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_knob_cap.json",
+      "source_record": "training_log.json",
+      "source_sha256": "920c0b03b5b92305dc3c152e77594b68a891caef22a9d689f35df1aeb689863c",
+      "sha256": "7fdee370ffdd411a6bc3142afe93501de831ebf1ee4b89b034ca7d7d565e0117",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_lattice_block_plug.json",
+      "source_record": "training_log.json",
+      "source_sha256": "a3b372df8104fc5b6a4adf454d346524ec6e50910e32a3ef280ced03292b39af",
+      "sha256": "7e4c1f46fe17d6464b06fae5e25988839021fd280b397d2da93e0774323a0e6d",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_lego_pin_connector_plate.json",
+      "source_record": "training_log.json",
+      "source_sha256": "4642381760a5333a6771648a293bbc1c53e54dbb161f7d2de85b453461fe2dfb",
+      "sha256": "e59a42161e0f7c5901176d1ec490b5a638d0574dca10332b9c7e8d05455624ab",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_lego_propeller.json",
+      "source_record": "training_log.json",
+      "source_sha256": "ec35f628402d2a07b5acd26026b9b63e96fd9a1fe588e12ff633ee11f1513641",
+      "sha256": "cd84587a9067a3fe01941c3925ac956260fa261a542c7912272ddadbb716ca8d",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_limit_switch.json",
+      "source_record": "training_log.json",
+      "source_sha256": "a157cc2e5c05e9a67583400f67c8595c46a6c2d1ee2dc1d4b5535e080542fd19",
+      "sha256": "dc5d435d5c61637c3d1a3cbf426513bcfc22eec67885913236eebdb640162083",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_miniature_lifting_motor.json",
+      "source_record": "training_log.json",
+      "source_sha256": "38ab9f4ba3c81b2b8d65c34ccc83e87b5429673c0cfbacfb6fe1d6957baa5f2b",
+      "sha256": "2e05bc02ea5b98dd6541d436012d24971d54d0495a21623ad7798cc67350b6b6",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_power_jack.json",
+      "source_record": "training_log.json",
+      "source_sha256": "5cdbf39293076263a2c52d142a4e516e0a8fed1c617ad0a90f21d0aa919d5f63",
+      "sha256": "0b9919d2e81fbd36299e0e44cdc247556307cae5196885e6718830f599f695b2",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_purple_clay_pot.json",
+      "source_record": "training_log.json",
+      "source_sha256": "d08d47b51d882df16e98a56080ebf6551f9c19fda2109b56659db53f12fcb29d",
+      "sha256": "187e8f73becd0de9e6f6ab57e8b779dc773fd5b25f520be9a4c2b8a2647a1ef2",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "results/training_records/realiad20/G2SF_telephone_spring_switch.json",
+      "source_record": "training_log.json",
+      "source_sha256": "27edd6d19235e06c9c84e8676187b05cf6e99624bdbbbc0080a9bd58598e73f1",
+      "sha256": "342b4e8c856b8552346f9d68e638073007e2fe8aa2e6b07847f356498093dbf4",
+      "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    }
+  ]
+}

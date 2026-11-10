@@ -1,0 +1,520 @@
+{
+  "status": "COMPLETE",
+  "created": "2026-11-10T20:45:13.326620+08:00",
+  "policies": {
+    "Forward__EMPIRICAL__0.05": {
+      "method": "Forward",
+      "rule": "EMPIRICAL",
+      "target": 0.05,
+      "threshold": 1.539843902826724,
+      "domain": "logit"
+    },
+    "Forward__FINITE_RANK__0.05": {
+      "method": "Forward",
+      "rule": "FINITE_RANK",
+      "target": 0.05,
+      "threshold": 1.9739796856130778,
+      "domain": "logit"
+    },
+    "Forward__HARRELL_DAVIS__0.05": {
+      "method": "Forward",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.05,
+      "threshold": 1.5768978335212835,
+      "domain": "logit"
+    },
+    "Forward__EMPIRICAL__0.01": {
+      "method": "Forward",
+      "rule": "EMPIRICAL",
+      "target": 0.01,
+      "threshold": 8.469653142720357,
+      "domain": "logit"
+    },
+    "Forward__FINITE_RANK__0.01": {
+      "method": "Forward",
+      "rule": "FINITE_RANK",
+      "target": 0.01,
+      "threshold": 12.4262791060949,
+      "domain": "logit"
+    },
+    "Forward__HARRELL_DAVIS__0.01": {
+      "method": "Forward",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.01,
+      "threshold": 9.648463002892631,
+      "domain": "logit"
+    },
+    "Free__EMPIRICAL__0.05": {
+      "method": "Free",
+      "rule": "EMPIRICAL",
+      "target": 0.05,
+      "threshold": 1.1812592625483758,
+      "domain": "logit"
+    },
+    "Free__FINITE_RANK__0.05": {
+      "method": "Free",
+      "rule": "FINITE_RANK",
+      "target": 0.05,
+      "threshold": 2.2175978746513394,
+      "domain": "logit"
+    },
+    "Free__HARRELL_DAVIS__0.05": {
+      "method": "Free",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.05,
+      "threshold": 1.9115165674254433,
+      "domain": "logit"
+    },
+    "Free__EMPIRICAL__0.01": {
+      "method": "Free",
+      "rule": "EMPIRICAL",
+      "target": 0.01,
+      "threshold": 4.282490959603519,
+      "domain": "logit"
+    },
+    "Free__FINITE_RANK__0.01": {
+      "method": "Free",
+      "rule": "FINITE_RANK",
+      "target": 0.01,
+      "threshold": 5.3644895063304725,
+      "domain": "logit"
+    },
+    "Free__HARRELL_DAVIS__0.01": {
+      "method": "Free",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.01,
+      "threshold": 4.764856191582082,
+      "domain": "logit"
+    },
+    "Centered__EMPIRICAL__0.05": {
+      "method": "Centered",
+      "rule": "EMPIRICAL",
+      "target": 0.05,
+      "threshold": 1.1703386268541391,
+      "domain": "logit"
+    },
+    "Centered__FINITE_RANK__0.05": {
+      "method": "Centered",
+      "rule": "FINITE_RANK",
+      "target": 0.05,
+      "threshold": 2.2343474710544102,
+      "domain": "logit"
+    },
+    "Centered__HARRELL_DAVIS__0.05": {
+      "method": "Centered",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.05,
+      "threshold": 1.9257513898136185,
+      "domain": "logit"
+    },
+    "Centered__EMPIRICAL__0.01": {
+      "method": "Centered",
+      "rule": "EMPIRICAL",
+      "target": 0.01,
+      "threshold": 4.343221445987808,
+      "domain": "logit"
+    },
+    "Centered__FINITE_RANK__0.01": {
+      "method": "Centered",
+      "rule": "FINITE_RANK",
+      "target": 0.01,
+      "threshold": 5.635678047421192,
+      "domain": "logit"
+    },
+    "Centered__HARRELL_DAVIS__0.01": {
+      "method": "Centered",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.01,
+      "threshold": 4.942394823822351,
+      "domain": "logit"
+    },
+    "RGB__EMPIRICAL__0.05": {
+      "method": "RGB",
+      "rule": "EMPIRICAL",
+      "target": 0.05,
+      "threshold": 1.1748885464872107,
+      "domain": "logit"
+    },
+    "RGB__FINITE_RANK__0.05": {
+      "method": "RGB",
+      "rule": "FINITE_RANK",
+      "target": 0.05,
+      "threshold": 1.9073137785305114,
+      "domain": "logit"
+    },
+    "RGB__HARRELL_DAVIS__0.05": {
+      "method": "RGB",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.05,
+      "threshold": 1.749942349089204,
+      "domain": "logit"
+    },
+    "RGB__EMPIRICAL__0.01": {
+      "method": "RGB",
+      "rule": "EMPIRICAL",
+      "target": 0.01,
+      "threshold": 5.292427161191505,
+      "domain": "logit"
+    },
+    "RGB__FINITE_RANK__0.01": {
+      "method": "RGB",
+      "rule": "FINITE_RANK",
+      "target": 0.01,
+      "threshold": 5.49680682473547,
+      "domain": "logit"
+    },
+    "RGB__HARRELL_DAVIS__0.01": {
+      "method": "RGB",
+      "rule": "HARRELL_DAVIS",
+      "target": 0.01,
+      "threshold": 5.017947228419983,
+      "domain": "logit"
+    },
+    "Forward__PROBABILITY_HD__0.05": {
+      "method": "Forward",
+      "rule": "PROBABILITY_HD",
+      "target": 0.05,
+      "threshold": 0.766804064342052,
+      "domain": "probability"
+    },
+    "Forward__PROBABILITY_HD__0.01": {
+      "method": "Forward",
+      "rule": "PROBABILITY_HD",
+      "target": 0.01,
+      "threshold": 0.989716580543166,
+      "domain": "probability"
+    },
+    "Free__PROBABILITY_HD__0.05": {
+      "method": "Free",
+      "rule": "PROBABILITY_HD",
+      "target": 0.05,
+      "threshold": 0.820365058510071,
+      "domain": "probability"
+    },
+    "Free__PROBABILITY_HD__0.01": {
+      "method": "Free",
+      "rule": "PROBABILITY_HD",
+      "target": 0.01,
+      "threshold": 0.9877098237240407,
+      "domain": "probability"
+    },
+    "Centered__PROBABILITY_HD__0.05": {
+      "method": "Centered",
+      "rule": "PROBABILITY_HD",
+      "target": 0.05,
+      "threshold": 0.8215828879137062,
+      "domain": "probability"
+    },
+    "Centered__PROBABILITY_HD__0.01": {
+      "method": "Centered",
+      "rule": "PROBABILITY_HD",
+      "target": 0.01,
+      "threshold": 0.9887137594269473,
+      "domain": "probability"
+    },
+    "RGB__PROBABILITY_HD__0.05": {
+      "method": "RGB",
+      "rule": "PROBABILITY_HD",
+      "target": 0.05,
+      "threshold": 0.8126652840844842,
+      "domain": "probability"
+    },
+    "RGB__PROBABILITY_HD__0.01": {
+      "method": "RGB",
+      "rule": "PROBABILITY_HD",
+      "target": 0.01,
+      "threshold": 0.9875381197274953,
+      "domain": "probability"
+    },
+    "Forward__REVIEW": {
+      "method": "Forward",
+      "rule": "REVIEW",
+      "target": 0.05,
+      "lower": -0.4286336819938661,
+      "upper": 2.240884786063245,
+      "domain": "logit"
+    },
+    "Free__REVIEW": {
+      "method": "Free",
+      "rule": "REVIEW",
+      "target": 0.05,
+      "lower": 0.3232085209732335,
+      "upper": 3.4150776594124617,
+      "domain": "logit"
+    },
+    "Centered__REVIEW": {
+      "method": "Centered",
+      "rule": "REVIEW",
+      "target": 0.05,
+      "lower": 0.33911002017355074,
+      "upper": 3.400725733033952,
+      "domain": "logit"
+    },
+    "RGB__REVIEW": {
+      "method": "RGB",
+      "rule": "REVIEW",
+      "target": 0.05,
+      "lower": 0.42026667705792564,
+      "upper": 2.675901946599535,
+      "domain": "logit"
+    }
+  },
+  "scenarios": 1632,
+  "count_checks": 144,
+  "primary": [
+    {
+      "policy": "Forward__EMPIRICAL__0.05",
+      "normal_source": "V",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.06970905923344949,
+      "cost_CI_low": 0.05264954703832753,
+      "cost_CI_high": 0.08939436701509872,
+      "FPR": 0.05,
+      "FNR": 0.20209059233449478,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Forward__EMPIRICAL__0.05",
+      "normal_source": "HOLD",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.03881808178984046,
+      "cost_CI_low": 0.03021012898098906,
+      "cost_CI_high": 0.048083539641787396,
+      "FPR": 0.018796992481203006,
+      "FNR": 0.20209059233449478,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Forward__FINITE_RANK__0.05",
+      "normal_source": "V",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.06294494773519164,
+      "cost_CI_low": 0.048093368176538906,
+      "cost_CI_high": 0.08239928048780487,
+      "FPR": 0.04,
+      "FNR": 0.23344947735191637,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Forward__FINITE_RANK__0.05",
+      "normal_source": "HOLD",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.03947276728406382,
+      "cost_CI_low": 0.0315416437435051,
+      "cost_CI_high": 0.04825255975304114,
+      "FPR": 0.016290726817042606,
+      "FNR": 0.23344947735191637,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Free__EMPIRICAL__0.05",
+      "normal_source": "V",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.07193800232288038,
+      "cost_CI_low": 0.05382764227642277,
+      "cost_CI_high": 0.09202981416957026,
+      "FPR": 0.058,
+      "FNR": 0.14518002322880372,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Free__EMPIRICAL__0.05",
+      "normal_source": "HOLD",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.0728262729995721,
+      "cost_CI_low": 0.05845932667033437,
+      "cost_CI_high": 0.088979934592579,
+      "FPR": 0.05889724310776942,
+      "FNR": 0.14518002322880372,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "RGB__EMPIRICAL__0.05",
+      "normal_source": "V",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.08852738675958188,
+      "cost_CI_low": 0.06802616724738676,
+      "cost_CI_high": 0.11024931475029037,
+      "FPR": 0.072,
+      "FNR": 0.17247386759581881,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "RGB__EMPIRICAL__0.05",
+      "normal_source": "HOLD",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.14254813863928112,
+      "cost_CI_low": 0.12477268628889296,
+      "cost_CI_high": 0.16272320282413347,
+      "FPR": 0.12656641604010024,
+      "FNR": 0.17247386759581881,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Forward__PROBABILITY_HD__0.05",
+      "normal_source": "V",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.07717003484320557,
+      "cost_CI_low": 0.059232439024390245,
+      "cost_CI_high": 0.09878307781649244,
+      "FPR": 0.06,
+      "FNR": 0.17770034843205576,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Forward__PROBABILITY_HD__0.05",
+      "normal_source": "HOLD",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.05250687694846873,
+      "cost_CI_low": 0.04151475487499236,
+      "cost_CI_high": 0.06471956568249894,
+      "FPR": 0.03508771929824561,
+      "FNR": 0.17770034843205576,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Free__PROBABILITY_HD__0.05",
+      "normal_source": "V",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.06546425087108014,
+      "cost_CI_low": 0.049447131242741,
+      "cost_CI_high": 0.0835804181184669,
+      "FPR": 0.048,
+      "FNR": 0.1794425087108014,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Free__PROBABILITY_HD__0.05",
+      "normal_source": "HOLD",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0,
+      "reviewer_error": 0,
+      "expected_cost": 0.05640289748762149,
+      "cost_CI_low": 0.044167270309921146,
+      "cost_CI_high": 0.06910217617213767,
+      "FPR": 0.03884711779448621,
+      "FNR": 0.1794425087108014,
+      "review_fraction": 0.0,
+      "within_review_budget_0.01": true,
+      "within_review_budget_0.05": true,
+      "within_review_budget_0.1": true,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Forward__REVIEW",
+      "normal_source": "V",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0.25,
+      "reviewer_error": 0.05,
+      "expected_cost": 0.07385425319396051,
+      "cost_CI_low": 0.059011825029036,
+      "cost_CI_high": 0.09065336742160279,
+      "FPR": 0.0393,
+      "FNR": 0.08266550522648083,
+      "review_fraction": 0.1067228106852497,
+      "within_review_budget_0.01": false,
+      "within_review_budget_0.05": false,
+      "within_review_budget_0.1": false,
+      "within_review_budget_0.2": true
+    },
+    {
+      "policy": "Forward__REVIEW",
+      "normal_source": "HOLD",
+      "prevalence": 0.01,
+      "FN_FP_cost_ratio": 10,
+      "review_FP_cost_ratio": 0.25,
+      "reviewer_error": 0.05,
+      "expected_cost": 0.06007315544959961,
+      "cost_CI_low": 0.05211891963139556,
+      "cost_CI_high": 0.06915463009658292,
+      "FPR": 0.018045112781954885,
+      "FNR": 0.08266550522648083,
+      "review_fraction": 0.13576777309126475,
+      "within_review_budget_0.01": false,
+      "within_review_budget_0.05": false,
+      "within_review_budget_0.1": false,
+      "within_review_budget_0.2": true
+    }
+  ],
+  "uncertainty": "Fixed-rule group-bootstrap intervals; conditional case mix, no threshold-refitting uncertainty.",
+  "scope": "Hypothetical costs and prevalence; reviewer errors assumed, not measured. Budget feasibility uses the scenario-weighted review fraction. No cost-minimizing policy was fitted."
+}

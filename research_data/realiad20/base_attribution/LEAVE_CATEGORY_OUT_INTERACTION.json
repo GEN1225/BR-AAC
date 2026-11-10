@@ -1,0 +1,22 @@
+{
+  "audio_jack_socket": 0.005479724070420165,
+  "common_mode_filter": 0.0052060398598938505,
+  "connector_housing_female": 0.004651653894981573,
+  "crimp_st_cable_mount_box": 0.0006603784089692352,
+  "dc_power_connector": 0.004848145123051744,
+  "ethernet_connector": 0.005269197754630692,
+  "ferrite_bead": 0.005227092491472796,
+  "fork_crimp_terminal": 0.005411445265299253,
+  "fuse_holder": 0.005381478456385083,
+  "headphone_jack_socket": 0.0051163963963963945,
+  "humidity_sensor": 0.005269197754630692,
+  "knob_cap": 0.005549899509016655,
+  "lattice_block_plug": 0.005290250386209637,
+  "lego_pin_connector_plate": 0.0069534082809464765,
+  "lego_propeller": 0.005269197754630692,
+  "limit_switch": 0.005290250386209637,
+  "miniature_lifting_motor": 0.0035849872283149065,
+  "power_jack": 0.004595513544104374,
+  "purple_clay_pot": 0.0057744609125254314,
+  "telephone_spring_switch": 0.005286039859893854
+}

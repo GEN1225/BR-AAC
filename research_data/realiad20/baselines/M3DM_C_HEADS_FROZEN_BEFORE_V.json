@@ -1,0 +1,2026 @@
+{
+  "created": "2026-11-09T23:01:08.456535+08:00",
+  "heads": {
+    "UNIFORM10": {
+      "fixed": {
+        "theta": [
+          0.0025586076346269635,
+          0.5018288906420343
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": 51.44082371393839,
+            "scale": 12.963788981917213
+          },
+          "common_mode_filter": {
+            "mean": 39.580707686288015,
+            "scale": 6.378210322337076
+          },
+          "connector_housing_female": {
+            "mean": 51.06366852351597,
+            "scale": 7.067572572525862
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 56.03291566031319,
+            "scale": 8.547773133242764
+          },
+          "dc_power_connector": {
+            "mean": 45.50796413421631,
+            "scale": 10.52875082501689
+          },
+          "ethernet_connector": {
+            "mean": 38.65039593832833,
+            "scale": 11.513078553011887
+          },
+          "ferrite_bead": {
+            "mean": 35.0887257031032,
+            "scale": 11.648506437206715
+          },
+          "fork_crimp_terminal": {
+            "mean": 47.018146378653384,
+            "scale": 11.906891420378651
+          },
+          "fuse_holder": {
+            "mean": 53.97829348700387,
+            "scale": 9.193531045496465
+          },
+          "headphone_jack_socket": {
+            "mean": 40.4834976196289,
+            "scale": 28.13095293902605
+          },
+          "humidity_sensor": {
+            "mean": 35.37971898487636,
+            "scale": 12.528175452753525
+          },
+          "knob_cap": {
+            "mean": 36.579541546957834,
+            "scale": 8.663539954341639
+          },
+          "lattice_block_plug": {
+            "mean": 34.983183656420024,
+            "scale": 5.029000612146822
+          },
+          "lego_pin_connector_plate": {
+            "mean": 30.616946833474294,
+            "scale": 4.73846264372402
+          },
+          "lego_propeller": {
+            "mean": 47.33986112049647,
+            "scale": 17.658861154608744
+          },
+          "limit_switch": {
+            "mean": 35.30330337796892,
+            "scale": 8.462453169380884
+          },
+          "miniature_lifting_motor": {
+            "mean": 51.808727400643484,
+            "scale": 7.0098190287825
+          },
+          "power_jack": {
+            "mean": 65.50998946598598,
+            "scale": 5.7958652735639635
+          },
+          "purple_clay_pot": {
+            "mean": 28.334376471383234,
+            "scale": 10.278108642774638
+          },
+          "telephone_spring_switch": {
+            "mean": 32.98307064601353,
+            "scale": 13.000977333400634
+          }
+        }
+      },
+      "selected": {
+        "theta": [
+          0.0017307977818989222,
+          0.45132484266119866
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": 51.44082371393839,
+            "scale": 12.963788981917213
+          },
+          "common_mode_filter": {
+            "mean": 39.580707686288015,
+            "scale": 6.378210322337076
+          },
+          "connector_housing_female": {
+            "mean": 51.06366852351597,
+            "scale": 7.067572572525862
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 56.03291566031319,
+            "scale": 8.547773133242764
+          },
+          "dc_power_connector": {
+            "mean": 45.50796413421631,
+            "scale": 10.52875082501689
+          },
+          "ethernet_connector": {
+            "mean": 38.65039593832833,
+            "scale": 11.513078553011887
+          },
+          "ferrite_bead": {
+            "mean": 35.0887257031032,
+            "scale": 11.648506437206715
+          },
+          "fork_crimp_terminal": {
+            "mean": 47.018146378653384,
+            "scale": 11.906891420378651
+          },
+          "fuse_holder": {
+            "mean": 53.97829348700387,
+            "scale": 9.193531045496465
+          },
+          "headphone_jack_socket": {
+            "mean": 40.4834976196289,
+            "scale": 28.13095293902605
+          },
+          "humidity_sensor": {
+            "mean": 35.37971898487636,
+            "scale": 12.528175452753525
+          },
+          "knob_cap": {
+            "mean": 36.579541546957834,
+            "scale": 8.663539954341639
+          },
+          "lattice_block_plug": {
+            "mean": 34.983183656420024,
+            "scale": 5.029000612146822
+          },
+          "lego_pin_connector_plate": {
+            "mean": 30.616946833474294,
+            "scale": 4.73846264372402
+          },
+          "lego_propeller": {
+            "mean": 47.33986112049647,
+            "scale": 17.658861154608744
+          },
+          "limit_switch": {
+            "mean": 35.30330337796892,
+            "scale": 8.462453169380884
+          },
+          "miniature_lifting_motor": {
+            "mean": 51.808727400643484,
+            "scale": 7.0098190287825
+          },
+          "power_jack": {
+            "mean": 65.50998946598598,
+            "scale": 5.7958652735639635
+          },
+          "purple_clay_pot": {
+            "mean": 28.334376471383234,
+            "scale": 10.278108642774638
+          },
+          "telephone_spring_switch": {
+            "mean": 32.98307064601353,
+            "scale": 13.000977333400634
+          }
+        }
+      },
+      "selected_factor": 10.0,
+      "OOF": {
+        "0.01": 0.2397240761722795,
+        "0.1": 0.23971624062103367,
+        "1.0": 0.23964188752860743,
+        "10.0": 0.2392080916639098,
+        "100.0": 0.24147747213531412
+      }
+    },
+    "RELEASED_COUNTS": {
+      "fixed": {
+        "theta": [
+          0.002758614727800872,
+          0.5213897475918453
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": 32.60655768712362,
+            "scale": 7.324367411606861
+          },
+          "common_mode_filter": {
+            "mean": 26.72839716502599,
+            "scale": 4.017262034535727
+          },
+          "connector_housing_female": {
+            "mean": 33.58678422655378,
+            "scale": 4.528795993365101
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 34.882352692740305,
+            "scale": 6.59463539074947
+          },
+          "dc_power_connector": {
+            "mean": 28.494394574846538,
+            "scale": 5.066704316543262
+          },
+          "ethernet_connector": {
+            "mean": 22.13357700620379,
+            "scale": 5.467879990406998
+          },
+          "ferrite_bead": {
+            "mean": 22.47402667999267,
+            "scale": 6.262516306660618
+          },
+          "fork_crimp_terminal": {
+            "mean": 29.006189482552664,
+            "scale": 7.410948247561519
+          },
+          "fuse_holder": {
+            "mean": 28.941540445600236,
+            "scale": 4.288921894371748
+          },
+          "headphone_jack_socket": {
+            "mean": 27.850638185228622,
+            "scale": 17.61913360047136
+          },
+          "humidity_sensor": {
+            "mean": 21.547355515616278,
+            "scale": 7.289887525661674
+          },
+          "knob_cap": {
+            "mean": 25.05734722954886,
+            "scale": 4.854592281025684
+          },
+          "lattice_block_plug": {
+            "mean": 24.587945869990758,
+            "scale": 3.523587606739303
+          },
+          "lego_pin_connector_plate": {
+            "mean": 19.23455262184143,
+            "scale": 2.783907028187619
+          },
+          "lego_propeller": {
+            "mean": 29.269108227321077,
+            "scale": 10.633307900453286
+          },
+          "limit_switch": {
+            "mean": 19.878095865249634,
+            "scale": 4.614940145636941
+          },
+          "miniature_lifting_motor": {
+            "mean": 32.57312127522059,
+            "scale": 4.4984715613438455
+          },
+          "power_jack": {
+            "mean": 39.42677239009312,
+            "scale": 3.981888530043648
+          },
+          "purple_clay_pot": {
+            "mean": 18.88499845777239,
+            "scale": 6.507498254905415
+          },
+          "telephone_spring_switch": {
+            "mean": 22.221550260271343,
+            "scale": 7.326036921469067
+          }
+        }
+      },
+      "selected": {
+        "theta": [
+          0.0018563728626944979,
+          0.46851240017986434
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": 32.60655768712362,
+            "scale": 7.324367411606861
+          },
+          "common_mode_filter": {
+            "mean": 26.72839716502599,
+            "scale": 4.017262034535727
+          },
+          "connector_housing_female": {
+            "mean": 33.58678422655378,
+            "scale": 4.528795993365101
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": 34.882352692740305,
+            "scale": 6.59463539074947
+          },
+          "dc_power_connector": {
+            "mean": 28.494394574846538,
+            "scale": 5.066704316543262
+          },
+          "ethernet_connector": {
+            "mean": 22.13357700620379,
+            "scale": 5.467879990406998
+          },
+          "ferrite_bead": {
+            "mean": 22.47402667999267,
+            "scale": 6.262516306660618
+          },
+          "fork_crimp_terminal": {
+            "mean": 29.006189482552664,
+            "scale": 7.410948247561519
+          },
+          "fuse_holder": {
+            "mean": 28.941540445600236,
+            "scale": 4.288921894371748
+          },
+          "headphone_jack_socket": {
+            "mean": 27.850638185228622,
+            "scale": 17.61913360047136
+          },
+          "humidity_sensor": {
+            "mean": 21.547355515616278,
+            "scale": 7.289887525661674
+          },
+          "knob_cap": {
+            "mean": 25.05734722954886,
+            "scale": 4.854592281025684
+          },
+          "lattice_block_plug": {
+            "mean": 24.587945869990758,
+            "scale": 3.523587606739303
+          },
+          "lego_pin_connector_plate": {
+            "mean": 19.23455262184143,
+            "scale": 2.783907028187619
+          },
+          "lego_propeller": {
+            "mean": 29.269108227321077,
+            "scale": 10.633307900453286
+          },
+          "limit_switch": {
+            "mean": 19.878095865249634,
+            "scale": 4.614940145636941
+          },
+          "miniature_lifting_motor": {
+            "mean": 32.57312127522059,
+            "scale": 4.4984715613438455
+          },
+          "power_jack": {
+            "mean": 39.42677239009312,
+            "scale": 3.981888530043648
+          },
+          "purple_clay_pot": {
+            "mean": 18.88499845777239,
+            "scale": 6.507498254905415
+          },
+          "telephone_spring_switch": {
+            "mean": 22.221550260271343,
+            "scale": 7.326036921469067
+          }
+        }
+      },
+      "selected_factor": 10.0,
+      "OOF": {
+        "0.01": 0.23909060891384484,
+        "0.1": 0.2390825197211969,
+        "1.0": 0.23900575528797638,
+        "10.0": 0.23855792809969656,
+        "100.0": 0.24096551994022847
+      }
+    },
+    "UNIFORM10__E_ASSISTED": {
+      "fixed": {
+        "theta": [
+          0.05436248732811678,
+          1.757650915020102
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": -0.28771914609494376,
+            "scale": 1.4339662093720884
+          },
+          "common_mode_filter": {
+            "mean": -1.3242831301258118,
+            "scale": 2.314874223037765
+          },
+          "connector_housing_female": {
+            "mean": 0.09075045982628913,
+            "scale": 1.3697494934714456
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -0.18771374767469015,
+            "scale": 1.3652947749594182
+          },
+          "dc_power_connector": {
+            "mean": 0.6793318516799908,
+            "scale": 2.2828565815515285
+          },
+          "ethernet_connector": {
+            "mean": 0.027596930970878758,
+            "scale": 1.9833365789692807
+          },
+          "ferrite_bead": {
+            "mean": 0.11197381086029926,
+            "scale": 1.7110201247128147
+          },
+          "fork_crimp_terminal": {
+            "mean": 0.3971663274400683,
+            "scale": 1.8988766939853903
+          },
+          "fuse_holder": {
+            "mean": 0.5757092189119559,
+            "scale": 1.4973072586090714
+          },
+          "headphone_jack_socket": {
+            "mean": 0.17697612142890787,
+            "scale": 1.6543699481404632
+          },
+          "humidity_sensor": {
+            "mean": -0.1648594457909411,
+            "scale": 2.156453992080483
+          },
+          "knob_cap": {
+            "mean": 0.31113967354725314,
+            "scale": 1.5017239449371844
+          },
+          "lattice_block_plug": {
+            "mean": 0.2610448779755491,
+            "scale": 1.4559981765853482
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.6347277386750382,
+            "scale": 1.504842195447329
+          },
+          "lego_propeller": {
+            "mean": -0.09416040745979118,
+            "scale": 0.8281805604108362
+          },
+          "limit_switch": {
+            "mean": -0.49866038471468643,
+            "scale": 2.3704017408463582
+          },
+          "miniature_lifting_motor": {
+            "mean": -0.15847647384878263,
+            "scale": 1.9793576542798395
+          },
+          "power_jack": {
+            "mean": -0.3497480393969201,
+            "scale": 1.797472304952052
+          },
+          "purple_clay_pot": {
+            "mean": 0.49618103078033726,
+            "scale": 1.9125607742168844
+          },
+          "telephone_spring_switch": {
+            "mean": -0.3449546736682417,
+            "scale": 1.5859264090681242
+          }
+        }
+      },
+      "selected": {
+        "theta": [
+          0.05023909306408107,
+          1.712970001320076
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": -0.28771914609494376,
+            "scale": 1.4339662093720884
+          },
+          "common_mode_filter": {
+            "mean": -1.3242831301258118,
+            "scale": 2.314874223037765
+          },
+          "connector_housing_female": {
+            "mean": 0.09075045982628913,
+            "scale": 1.3697494934714456
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -0.18771374767469015,
+            "scale": 1.3652947749594182
+          },
+          "dc_power_connector": {
+            "mean": 0.6793318516799908,
+            "scale": 2.2828565815515285
+          },
+          "ethernet_connector": {
+            "mean": 0.027596930970878758,
+            "scale": 1.9833365789692807
+          },
+          "ferrite_bead": {
+            "mean": 0.11197381086029926,
+            "scale": 1.7110201247128147
+          },
+          "fork_crimp_terminal": {
+            "mean": 0.3971663274400683,
+            "scale": 1.8988766939853903
+          },
+          "fuse_holder": {
+            "mean": 0.5757092189119559,
+            "scale": 1.4973072586090714
+          },
+          "headphone_jack_socket": {
+            "mean": 0.17697612142890787,
+            "scale": 1.6543699481404632
+          },
+          "humidity_sensor": {
+            "mean": -0.1648594457909411,
+            "scale": 2.156453992080483
+          },
+          "knob_cap": {
+            "mean": 0.31113967354725314,
+            "scale": 1.5017239449371844
+          },
+          "lattice_block_plug": {
+            "mean": 0.2610448779755491,
+            "scale": 1.4559981765853482
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.6347277386750382,
+            "scale": 1.504842195447329
+          },
+          "lego_propeller": {
+            "mean": -0.09416040745979118,
+            "scale": 0.8281805604108362
+          },
+          "limit_switch": {
+            "mean": -0.49866038471468643,
+            "scale": 2.3704017408463582
+          },
+          "miniature_lifting_motor": {
+            "mean": -0.15847647384878263,
+            "scale": 1.9793576542798395
+          },
+          "power_jack": {
+            "mean": -0.3497480393969201,
+            "scale": 1.797472304952052
+          },
+          "purple_clay_pot": {
+            "mean": 0.49618103078033726,
+            "scale": 1.9125607742168844
+          },
+          "telephone_spring_switch": {
+            "mean": -0.3449546736682417,
+            "scale": 1.5859264090681242
+          }
+        }
+      },
+      "selected_factor": 1.0,
+      "OOF": {
+        "0.01": 0.15552930309515328,
+        "0.1": 0.15551575658951117,
+        "1.0": 0.1554303587983344,
+        "10.0": 0.15712984327168858,
+        "100.0": 0.18826104718585301
+      }
+    },
+    "RELEASED_COUNTS__E_ASSISTED": {
+      "fixed": {
+        "theta": [
+          0.05616438997471642,
+          1.7675124029421616
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": -0.1873810815144105,
+            "scale": 1.5438361332890962
+          },
+          "common_mode_filter": {
+            "mean": -1.0046035698005205,
+            "scale": 2.2216677125315756
+          },
+          "connector_housing_female": {
+            "mean": 0.07576749160065989,
+            "scale": 1.2232178816483088
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -0.12181332206552059,
+            "scale": 1.2570867192216046
+          },
+          "dc_power_connector": {
+            "mean": 0.8603572524625986,
+            "scale": 2.740367566981028
+          },
+          "ethernet_connector": {
+            "mean": -0.0336306044119451,
+            "scale": 1.981619240668659
+          },
+          "ferrite_bead": {
+            "mean": 0.27821369842081795,
+            "scale": 1.800390775372175
+          },
+          "fork_crimp_terminal": {
+            "mean": 0.4144370474586604,
+            "scale": 1.940255695207506
+          },
+          "fuse_holder": {
+            "mean": 0.7161794543774894,
+            "scale": 1.742669999746424
+          },
+          "headphone_jack_socket": {
+            "mean": 0.22054011019528202,
+            "scale": 1.5576853388177438
+          },
+          "humidity_sensor": {
+            "mean": -0.034780459460895974,
+            "scale": 2.0998616500925844
+          },
+          "knob_cap": {
+            "mean": 0.3740317884303792,
+            "scale": 1.2911663572707015
+          },
+          "lattice_block_plug": {
+            "mean": 0.21404912282303085,
+            "scale": 1.482645798292036
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.5927794090681046,
+            "scale": 1.587088682601471
+          },
+          "lego_propeller": {
+            "mean": -0.0691153480767509,
+            "scale": 1.0117650487835317
+          },
+          "limit_switch": {
+            "mean": -0.2511873174425821,
+            "scale": 2.4686474278180204
+          },
+          "miniature_lifting_motor": {
+            "mean": -0.6526191074950458,
+            "scale": 1.4633360832165656
+          },
+          "power_jack": {
+            "mean": -0.8425307044869672,
+            "scale": 1.9030955416746047
+          },
+          "purple_clay_pot": {
+            "mean": 0.42821695641750696,
+            "scale": 1.8583377153486524
+          },
+          "telephone_spring_switch": {
+            "mean": -0.4488089325493608,
+            "scale": 1.5234706841963706
+          }
+        }
+      },
+      "selected": {
+        "theta": [
+          0.05574113296313949,
+          1.7631421371172957
+        ],
+        "stats": {
+          "audio_jack_socket": {
+            "mean": -0.1873810815144105,
+            "scale": 1.5438361332890962
+          },
+          "common_mode_filter": {
+            "mean": -1.0046035698005205,
+            "scale": 2.2216677125315756
+          },
+          "connector_housing_female": {
+            "mean": 0.07576749160065989,
+            "scale": 1.2232178816483088
+          },
+          "crimp_st_cable_mount_box": {
+            "mean": -0.12181332206552059,
+            "scale": 1.2570867192216046
+          },
+          "dc_power_connector": {
+            "mean": 0.8603572524625986,
+            "scale": 2.740367566981028
+          },
+          "ethernet_connector": {
+            "mean": -0.0336306044119451,
+            "scale": 1.981619240668659
+          },
+          "ferrite_bead": {
+            "mean": 0.27821369842081795,
+            "scale": 1.800390775372175
+          },
+          "fork_crimp_terminal": {
+            "mean": 0.4144370474586604,
+            "scale": 1.940255695207506
+          },
+          "fuse_holder": {
+            "mean": 0.7161794543774894,
+            "scale": 1.742669999746424
+          },
+          "headphone_jack_socket": {
+            "mean": 0.22054011019528202,
+            "scale": 1.5576853388177438
+          },
+          "humidity_sensor": {
+            "mean": -0.034780459460895974,
+            "scale": 2.0998616500925844
+          },
+          "knob_cap": {
+            "mean": 0.3740317884303792,
+            "scale": 1.2911663572707015
+          },
+          "lattice_block_plug": {
+            "mean": 0.21404912282303085,
+            "scale": 1.482645798292036
+          },
+          "lego_pin_connector_plate": {
+            "mean": 0.5927794090681046,
+            "scale": 1.587088682601471
+          },
+          "lego_propeller": {
+            "mean": -0.0691153480767509,
+            "scale": 1.0117650487835317
+          },
+          "limit_switch": {
+            "mean": -0.2511873174425821,
+            "scale": 2.4686474278180204
+          },
+          "miniature_lifting_motor": {
+            "mean": -0.6526191074950458,
+            "scale": 1.4633360832165656
+          },
+          "power_jack": {
+            "mean": -0.8425307044869672,
+            "scale": 1.9030955416746047
+          },
+          "purple_clay_pot": {
+            "mean": 0.42821695641750696,
+            "scale": 1.8583377153486524
+          },
+          "telephone_spring_switch": {
+            "mean": -0.4488089325493608,
+            "scale": 1.5234706841963706
+          }
+        }
+      },
+      "selected_factor": 0.1,
+      "OOF": {
+        "0.01": 0.15372483740956328,
+        "0.1": 0.15372418726601872,
+        "1.0": 0.15376110708929597,
+        "10.0": 0.15625842022190348,
+        "100.0": 0.18839481250552173
+      }
+    }
+  },
+  "folds": [
+    {
+      "train": [
+        "audio_jack_socket/NG/hole/S0007",
+        "audio_jack_socket/NG/hole/S0012",
+        "audio_jack_socket/NG/impact_damage/S0009",
+        "audio_jack_socket/NG/impact_damage/S0025",
+        "audio_jack_socket/NG/pit/S0009",
+        "audio_jack_socket/NG/porosity/S0001",
+        "audio_jack_socket/NG/porosity/S0014",
+        "audio_jack_socket/NG/porosity/S0019",
+        "audio_jack_socket/NG/scratch/S0009",
+        "audio_jack_socket/OK/S0003",
+        "audio_jack_socket/OK/S0013",
+        "audio_jack_socket/OK/S0018",
+        "audio_jack_socket/OK/S0022",
+        "common_mode_filter/NG/deformation/S0001",
+        "common_mode_filter/NG/deformation/S0013",
+        "common_mode_filter/NG/deformation/S0016",
+        "common_mode_filter/NG/exposed_surface/S0011",
+        "common_mode_filter/NG/exposed_surface/S0022",
+        "common_mode_filter/NG/pit/S0012",
+        "common_mode_filter/NG/pit/S0014",
+        "common_mode_filter/NG/scratch/S0013",
+        "common_mode_filter/NG/scratch/S0020",
+        "common_mode_filter/OK/S0001",
+        "common_mode_filter/OK/S0003",
+        "common_mode_filter/OK/S0019",
+        "common_mode_filter/OK/S0021",
+        "common_mode_filter/OK/S0025",
+        "connector_housing_female/NG/deformation/S0007",
+        "connector_housing_female/NG/hole/S0002",
+        "connector_housing_female/NG/hole/S0012",
+        "connector_housing_female/NG/hole/S0020",
+        "connector_housing_female/NG/impact_damage/S0002",
+        "connector_housing_female/NG/impact_damage/S0005",
+        "connector_housing_female/NG/pit/S0001",
+        "connector_housing_female/NG/pit/S0003",
+        "connector_housing_female/NG/scratch/S0010",
+        "connector_housing_female/OK/S0002",
+        "connector_housing_female/OK/S0011",
+        "connector_housing_female/OK/S0017",
+        "connector_housing_female/OK/S0021",
+        "connector_housing_female/OK/S0024",
+        "connector_housing_female/OK/S0025",
+        "crimp_st_cable_mount_box/NG/damage/S0003",
+        "crimp_st_cable_mount_box/NG/damage/S0019",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0010",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0012",
+        "crimp_st_cable_mount_box/NG/pit/S0008",
+        "crimp_st_cable_mount_box/NG/pit/S0009",
+        "crimp_st_cable_mount_box/NG/scratch/S0015",
+        "crimp_st_cable_mount_box/NG/scratch/S0018",
+        "crimp_st_cable_mount_box/OK/S0011",
+        "crimp_st_cable_mount_box/OK/S0012",
+        "crimp_st_cable_mount_box/OK/S0016",
+        "crimp_st_cable_mount_box/OK/S0020",
+        "crimp_st_cable_mount_box/OK/S0022",
+        "dc_power_connector/NG/hole/S0008",
+        "dc_power_connector/NG/hole/S0023",
+        "dc_power_connector/NG/hole/S0025",
+        "dc_power_connector/NG/impact_damage/S0018",
+        "dc_power_connector/NG/impact_damage/S0020",
+        "dc_power_connector/NG/pit/S0003",
+        "dc_power_connector/NG/pit/S0019",
+        "dc_power_connector/NG/scratch/S0006",
+        "dc_power_connector/NG/scratch/S0012",
+        "dc_power_connector/OK/S0003",
+        "dc_power_connector/OK/S0004",
+        "dc_power_connector/OK/S0005",
+        "dc_power_connector/OK/S0016",
+        "dc_power_connector/OK/S0021",
+        "ethernet_connector/NG/impact_damage/S0007",
+        "ethernet_connector/NG/impact_damage/S0008",
+        "ethernet_connector/NG/impact_damage/S0018",
+        "ethernet_connector/NG/impact_damage/S0024",
+        "ethernet_connector/NG/pit/S0017",
+        "ethernet_connector/NG/pit/S0018",
+        "ethernet_connector/NG/pit/S0023",
+        "ethernet_connector/NG/scratch/S0014",
+        "ethernet_connector/NG/scratch/S0021",
+        "ethernet_connector/OK/S0001",
+        "ethernet_connector/OK/S0012",
+        "ethernet_connector/OK/S0016",
+        "ethernet_connector/OK/S0018",
+        "ethernet_connector/OK/S0020",
+        "ferrite_bead/NG/hole/S0005",
+        "ferrite_bead/NG/hole/S0009",
+        "ferrite_bead/NG/hole/S0021",
+        "ferrite_bead/NG/pit/S0002",
+        "ferrite_bead/NG/pit/S0005",
+        "ferrite_bead/NG/pit/S0011",
+        "ferrite_bead/NG/pit/S0012",
+        "ferrite_bead/NG/scratch/S0004",
+        "ferrite_bead/NG/scratch/S0010",
+        "ferrite_bead/NG/scratch/S0020",
+        "ferrite_bead/OK/S0011",
+        "ferrite_bead/OK/S0015",
+        "ferrite_bead/OK/S0019",
+        "ferrite_bead/OK/S0021",
+        "ferrite_bead/OK/S0024",
+        "fork_crimp_terminal/NG/deformation/S0003",
+        "fork_crimp_terminal/NG/deformation/S0024",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0016",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0021",
+        "fork_crimp_terminal/NG/pit/S0023",
+        "fork_crimp_terminal/NG/scratch/S0016",
+        "fork_crimp_terminal/NG/scratch/S0017",
+        "fork_crimp_terminal/NG/scratch/S0025",
+        "fork_crimp_terminal/OK/S0004",
+        "fork_crimp_terminal/OK/S0009",
+        "fork_crimp_terminal/OK/S0013",
+        "fork_crimp_terminal/OK/S0017",
+        "fork_crimp_terminal/OK/S0024",
+        "fuse_holder/NG/impact_damage/S0006",
+        "fuse_holder/NG/impact_damage/S0018",
+        "fuse_holder/NG/impact_damage/S0020",
+        "fuse_holder/NG/pit/S0001",
+        "fuse_holder/NG/pit/S0007",
+        "fuse_holder/NG/pit/S0023",
+        "fuse_holder/NG/scratch/S0009",
+        "fuse_holder/NG/scratch/S0012",
+        "fuse_holder/NG/scratch/S0018",
+        "fuse_holder/NG/scratch/S0024",
+        "fuse_holder/OK/S0022",
+        "fuse_holder/OK/S0023",
+        "fuse_holder/OK/S0024",
+        "fuse_holder/OK/S0025",
+        "headphone_jack_socket/NG/deformation/S0012",
+        "headphone_jack_socket/NG/deformation/S0023",
+        "headphone_jack_socket/NG/impact_damage/S0003",
+        "headphone_jack_socket/NG/impact_damage/S0013",
+        "headphone_jack_socket/NG/impact_damage/S0015",
+        "headphone_jack_socket/NG/pit/S0004",
+        "headphone_jack_socket/NG/porosity/S0012",
+        "headphone_jack_socket/NG/porosity/S0014",
+        "headphone_jack_socket/NG/scratch/S0007",
+        "headphone_jack_socket/OK/S0010",
+        "headphone_jack_socket/OK/S0011",
+        "headphone_jack_socket/OK/S0012",
+        "headphone_jack_socket/OK/S0017",
+        "headphone_jack_socket/OK/S0022",
+        "headphone_jack_socket/OK/S0023",
+        "humidity_sensor/NG/impact_damage/S0019",
+        "humidity_sensor/NG/impact_damage/S0020",
+        "humidity_sensor/NG/oil_stain/S0008",
+        "humidity_sensor/NG/oil_stain/S0014",
+        "humidity_sensor/NG/pit/S0012",
+        "humidity_sensor/NG/pit/S0014",
+        "humidity_sensor/NG/scratch/S0010",
+        "humidity_sensor/NG/scratch/S0022",
+        "humidity_sensor/OK/S0008",
+        "humidity_sensor/OK/S0009",
+        "humidity_sensor/OK/S0017",
+        "humidity_sensor/OK/S0018",
+        "humidity_sensor/OK/S0024",
+        "knob_cap/NG/damage/S0015",
+        "knob_cap/NG/damage/S0016",
+        "knob_cap/NG/damage/S0021",
+        "knob_cap/NG/impact_damage/S0003",
+        "knob_cap/NG/impact_damage/S0004",
+        "knob_cap/NG/impact_damage/S0014",
+        "knob_cap/NG/impact_damage/S0018",
+        "knob_cap/NG/scratch/S0011",
+        "knob_cap/NG/scratch/S0018",
+        "knob_cap/OK/S0005",
+        "knob_cap/OK/S0006",
+        "knob_cap/OK/S0011",
+        "knob_cap/OK/S0023",
+        "knob_cap/OK/S0024",
+        "lattice_block_plug/NG/hole/S0014",
+        "lattice_block_plug/NG/hole/S0019",
+        "lattice_block_plug/NG/hole/S0023",
+        "lattice_block_plug/NG/impact_damage/S0003",
+        "lattice_block_plug/NG/impact_damage/S0007",
+        "lattice_block_plug/NG/impact_damage/S0025",
+        "lattice_block_plug/NG/pit/S0012",
+        "lattice_block_plug/NG/pit/S0021",
+        "lattice_block_plug/NG/scratch/S0003",
+        "lattice_block_plug/OK/S0007",
+        "lattice_block_plug/OK/S0012",
+        "lattice_block_plug/OK/S0014",
+        "lattice_block_plug/OK/S0017",
+        "lattice_block_plug/OK/S0020",
+        "lego_pin_connector_plate/NG/impact_damage/S0008",
+        "lego_pin_connector_plate/NG/impact_damage/S0012",
+        "lego_pin_connector_plate/NG/impact_damage/S0023",
+        "lego_pin_connector_plate/NG/oil_stain/S0014",
+        "lego_pin_connector_plate/NG/oil_stain/S0016",
+        "lego_pin_connector_plate/NG/pit/S0014",
+        "lego_pin_connector_plate/NG/pit/S0016",
+        "lego_pin_connector_plate/NG/pit/S0018",
+        "lego_pin_connector_plate/NG/scratch/S0003",
+        "lego_pin_connector_plate/NG/scratch/S0004",
+        "lego_pin_connector_plate/OK/S0008",
+        "lego_pin_connector_plate/OK/S0012",
+        "lego_pin_connector_plate/OK/S0018",
+        "lego_pin_connector_plate/OK/S0019",
+        "lego_propeller/NG/impact_damage/S0004",
+        "lego_propeller/NG/impact_damage/S0016",
+        "lego_propeller/NG/impact_damage/S0022",
+        "lego_propeller/NG/pit/S0001",
+        "lego_propeller/NG/pit/S0007",
+        "lego_propeller/NG/pit/S0012",
+        "lego_propeller/NG/scratch/S0016",
+        "lego_propeller/NG/scratch/S0017",
+        "lego_propeller/NG/scratch/S0018",
+        "lego_propeller/OK/S0001",
+        "lego_propeller/OK/S0002",
+        "lego_propeller/OK/S0013",
+        "lego_propeller/OK/S0016",
+        "lego_propeller/OK/S0025",
+        "limit_switch/NG/deformation/S0004",
+        "limit_switch/NG/deformation/S0016",
+        "limit_switch/NG/deformation/S0025",
+        "limit_switch/NG/impact_damage/S0004",
+        "limit_switch/NG/impact_damage/S0018",
+        "limit_switch/NG/pit/S0015",
+        "limit_switch/NG/pit/S0017",
+        "limit_switch/NG/scratch/S0014",
+        "limit_switch/NG/scratch/S0020",
+        "limit_switch/OK/S0004",
+        "limit_switch/OK/S0006",
+        "limit_switch/OK/S0013",
+        "limit_switch/OK/S0019",
+        "limit_switch/OK/S0022",
+        "miniature_lifting_motor/NG/deformation/S0002",
+        "miniature_lifting_motor/NG/deformation/S0003",
+        "miniature_lifting_motor/NG/deformation/S0008",
+        "miniature_lifting_motor/NG/deformation/S0016",
+        "miniature_lifting_motor/NG/deformation/S0025",
+        "miniature_lifting_motor/NG/scratch/S0006",
+        "miniature_lifting_motor/NG/scratch/S0007",
+        "miniature_lifting_motor/NG/scratch/S0008",
+        "miniature_lifting_motor/NG/scratch/S0012",
+        "miniature_lifting_motor/OK/S0001",
+        "miniature_lifting_motor/OK/S0006",
+        "miniature_lifting_motor/OK/S0009",
+        "miniature_lifting_motor/OK/S0010",
+        "miniature_lifting_motor/OK/S0024",
+        "power_jack/NG/impact_damage/S0003",
+        "power_jack/NG/impact_damage/S0014",
+        "power_jack/NG/impact_damage/S0025",
+        "power_jack/NG/pit/S0014",
+        "power_jack/NG/pit/S0016",
+        "power_jack/NG/porosity/S0013",
+        "power_jack/NG/porosity/S0025",
+        "power_jack/NG/scratch/S0010",
+        "power_jack/NG/scratch/S0025",
+        "power_jack/OK/S0003",
+        "power_jack/OK/S0007",
+        "power_jack/OK/S0011",
+        "power_jack/OK/S0017",
+        "power_jack/OK/S0023",
+        "purple_clay_pot/NG/damage/S0012",
+        "purple_clay_pot/NG/damage/S0022",
+        "purple_clay_pot/NG/impact_damage/S0010",
+        "purple_clay_pot/NG/impact_damage/S0011",
+        "purple_clay_pot/NG/impact_damage/S0023",
+        "purple_clay_pot/NG/impact_damage/S0025",
+        "purple_clay_pot/NG/pit/S0006",
+        "purple_clay_pot/NG/scratch/S0009",
+        "purple_clay_pot/NG/scratch/S0024",
+        "purple_clay_pot/OK/S0001",
+        "purple_clay_pot/OK/S0007",
+        "purple_clay_pot/OK/S0017",
+        "purple_clay_pot/OK/S0019",
+        "purple_clay_pot/OK/S0021",
+        "telephone_spring_switch/NG/damage/S0009",
+        "telephone_spring_switch/NG/damage/S0014",
+        "telephone_spring_switch/NG/hole/S0002",
+        "telephone_spring_switch/NG/hole/S0015",
+        "telephone_spring_switch/NG/impact_damage/S0013",
+        "telephone_spring_switch/NG/impact_damage/S0022",
+        "telephone_spring_switch/NG/pit/S0016",
+        "telephone_spring_switch/NG/scratch/S0012",
+        "telephone_spring_switch/NG/scratch/S0019",
+        "telephone_spring_switch/OK/S0004",
+        "telephone_spring_switch/OK/S0006",
+        "telephone_spring_switch/OK/S0015",
+        "telephone_spring_switch/OK/S0019",
+        "telephone_spring_switch/OK/S0025"
+      ],
+      "validation": [
+        "audio_jack_socket/NG/hole/S0003",
+        "audio_jack_socket/NG/impact_damage/S0007",
+        "audio_jack_socket/NG/pit/S0003",
+        "audio_jack_socket/NG/pit/S0014",
+        "audio_jack_socket/NG/scratch/S0007",
+        "audio_jack_socket/OK/S0011",
+        "audio_jack_socket/OK/S0019",
+        "common_mode_filter/NG/deformation/S0002",
+        "common_mode_filter/NG/exposed_surface/S0021",
+        "common_mode_filter/NG/exposed_surface/S0023",
+        "common_mode_filter/NG/pit/S0023",
+        "common_mode_filter/NG/scratch/S0022",
+        "common_mode_filter/OK/S0008",
+        "common_mode_filter/OK/S0022",
+        "connector_housing_female/NG/deformation/S0001",
+        "connector_housing_female/NG/deformation/S0009",
+        "connector_housing_female/NG/impact_damage/S0019",
+        "connector_housing_female/NG/pit/S0011",
+        "connector_housing_female/NG/scratch/S0009",
+        "connector_housing_female/OK/S0016",
+        "crimp_st_cable_mount_box/NG/damage/S0005",
+        "crimp_st_cable_mount_box/NG/damage/S0006",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0005",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0014",
+        "crimp_st_cable_mount_box/NG/pit/S0020",
+        "crimp_st_cable_mount_box/NG/scratch/S0024",
+        "crimp_st_cable_mount_box/OK/S0015",
+        "crimp_st_cable_mount_box/OK/S0025",
+        "dc_power_connector/NG/hole/S0004",
+        "dc_power_connector/NG/impact_damage/S0003",
+        "dc_power_connector/NG/impact_damage/S0023",
+        "dc_power_connector/NG/pit/S0016",
+        "dc_power_connector/NG/scratch/S0023",
+        "dc_power_connector/OK/S0008",
+        "dc_power_connector/OK/S0010",
+        "ethernet_connector/NG/impact_damage/S0017",
+        "ethernet_connector/NG/pit/S0014",
+        "ethernet_connector/NG/pit/S0024",
+        "ethernet_connector/NG/scratch/S0013",
+        "ethernet_connector/NG/scratch/S0016",
+        "ethernet_connector/OK/S0003",
+        "ethernet_connector/OK/S0017",
+        "ferrite_bead/NG/hole/S0015",
+        "ferrite_bead/NG/hole/S0023",
+        "ferrite_bead/NG/pit/S0010",
+        "ferrite_bead/NG/scratch/S0002",
+        "ferrite_bead/OK/S0010",
+        "ferrite_bead/OK/S0018",
+        "fork_crimp_terminal/NG/deformation/S0008",
+        "fork_crimp_terminal/NG/deformation/S0022",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0009",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0019",
+        "fork_crimp_terminal/NG/pit/S0001",
+        "fork_crimp_terminal/NG/pit/S0016",
+        "fork_crimp_terminal/OK/S0007",
+        "fork_crimp_terminal/OK/S0014",
+        "fuse_holder/NG/impact_damage/S0012",
+        "fuse_holder/NG/impact_damage/S0025",
+        "fuse_holder/NG/pit/S0009",
+        "fuse_holder/NG/pit/S0018",
+        "fuse_holder/OK/S0013",
+        "fuse_holder/OK/S0016",
+        "fuse_holder/OK/S0017",
+        "headphone_jack_socket/NG/deformation/S0002",
+        "headphone_jack_socket/NG/pit/S0002",
+        "headphone_jack_socket/NG/pit/S0003",
+        "headphone_jack_socket/NG/porosity/S0013",
+        "headphone_jack_socket/NG/scratch/S0025",
+        "headphone_jack_socket/OK/S0013",
+        "humidity_sensor/NG/impact_damage/S0003",
+        "humidity_sensor/NG/impact_damage/S0006",
+        "humidity_sensor/NG/oil_stain/S0012",
+        "humidity_sensor/NG/oil_stain/S0013",
+        "humidity_sensor/NG/pit/S0023",
+        "humidity_sensor/NG/scratch/S0005",
+        "humidity_sensor/OK/S0005",
+        "humidity_sensor/OK/S0023",
+        "knob_cap/NG/damage/S0004",
+        "knob_cap/NG/damage/S0025",
+        "knob_cap/NG/impact_damage/S0012",
+        "knob_cap/NG/scratch/S0006",
+        "knob_cap/NG/scratch/S0022",
+        "knob_cap/OK/S0003",
+        "knob_cap/OK/S0013",
+        "lattice_block_plug/NG/hole/S0006",
+        "lattice_block_plug/NG/impact_damage/S0006",
+        "lattice_block_plug/NG/pit/S0023",
+        "lattice_block_plug/NG/scratch/S0012",
+        "lattice_block_plug/NG/scratch/S0023",
+        "lattice_block_plug/OK/S0011",
+        "lattice_block_plug/OK/S0018",
+        "lego_pin_connector_plate/NG/impact_damage/S0020",
+        "lego_pin_connector_plate/NG/oil_stain/S0010",
+        "lego_pin_connector_plate/NG/oil_stain/S0024",
+        "lego_pin_connector_plate/NG/scratch/S0016",
+        "lego_pin_connector_plate/OK/S0001",
+        "lego_pin_connector_plate/OK/S0011",
+        "lego_pin_connector_plate/OK/S0014",
+        "lego_propeller/NG/impact_damage/S0002",
+        "lego_propeller/NG/impact_damage/S0008",
+        "lego_propeller/NG/pit/S0009",
+        "lego_propeller/NG/pit/S0015",
+        "lego_propeller/NG/scratch/S0008",
+        "lego_propeller/OK/S0005",
+        "lego_propeller/OK/S0022",
+        "limit_switch/NG/deformation/S0021",
+        "limit_switch/NG/impact_damage/S0006",
+        "limit_switch/NG/impact_damage/S0025",
+        "limit_switch/NG/pit/S0021",
+        "limit_switch/NG/scratch/S0002",
+        "limit_switch/OK/S0010",
+        "limit_switch/OK/S0025",
+        "miniature_lifting_motor/NG/deformation/S0009",
+        "miniature_lifting_motor/NG/deformation/S0011",
+        "miniature_lifting_motor/NG/scratch/S0002",
+        "miniature_lifting_motor/NG/scratch/S0003",
+        "miniature_lifting_motor/NG/scratch/S0022",
+        "miniature_lifting_motor/OK/S0005",
+        "miniature_lifting_motor/OK/S0022",
+        "power_jack/NG/impact_damage/S0008",
+        "power_jack/NG/pit/S0003",
+        "power_jack/NG/pit/S0010",
+        "power_jack/NG/porosity/S0014",
+        "power_jack/NG/scratch/S0008",
+        "power_jack/OK/S0010",
+        "power_jack/OK/S0022",
+        "purple_clay_pot/NG/damage/S0005",
+        "purple_clay_pot/NG/damage/S0021",
+        "purple_clay_pot/NG/pit/S0003",
+        "purple_clay_pot/NG/pit/S0008",
+        "purple_clay_pot/NG/scratch/S0015",
+        "purple_clay_pot/OK/S0008",
+        "purple_clay_pot/OK/S0020",
+        "telephone_spring_switch/NG/damage/S0010",
+        "telephone_spring_switch/NG/hole/S0014",
+        "telephone_spring_switch/NG/impact_damage/S0019",
+        "telephone_spring_switch/NG/pit/S0019",
+        "telephone_spring_switch/NG/pit/S0024",
+        "telephone_spring_switch/OK/S0017",
+        "telephone_spring_switch/OK/S0020"
+      ]
+    },
+    {
+      "train": [
+        "audio_jack_socket/NG/hole/S0003",
+        "audio_jack_socket/NG/hole/S0012",
+        "audio_jack_socket/NG/impact_damage/S0007",
+        "audio_jack_socket/NG/impact_damage/S0025",
+        "audio_jack_socket/NG/pit/S0003",
+        "audio_jack_socket/NG/pit/S0014",
+        "audio_jack_socket/NG/porosity/S0001",
+        "audio_jack_socket/NG/porosity/S0019",
+        "audio_jack_socket/NG/scratch/S0007",
+        "audio_jack_socket/OK/S0003",
+        "audio_jack_socket/OK/S0011",
+        "audio_jack_socket/OK/S0018",
+        "audio_jack_socket/OK/S0019",
+        "audio_jack_socket/OK/S0022",
+        "common_mode_filter/NG/deformation/S0002",
+        "common_mode_filter/NG/deformation/S0016",
+        "common_mode_filter/NG/exposed_surface/S0011",
+        "common_mode_filter/NG/exposed_surface/S0021",
+        "common_mode_filter/NG/exposed_surface/S0023",
+        "common_mode_filter/NG/pit/S0014",
+        "common_mode_filter/NG/pit/S0023",
+        "common_mode_filter/NG/scratch/S0020",
+        "common_mode_filter/NG/scratch/S0022",
+        "common_mode_filter/OK/S0003",
+        "common_mode_filter/OK/S0008",
+        "common_mode_filter/OK/S0021",
+        "common_mode_filter/OK/S0022",
+        "common_mode_filter/OK/S0025",
+        "connector_housing_female/NG/deformation/S0001",
+        "connector_housing_female/NG/deformation/S0009",
+        "connector_housing_female/NG/hole/S0012",
+        "connector_housing_female/NG/hole/S0020",
+        "connector_housing_female/NG/impact_damage/S0019",
+        "connector_housing_female/NG/pit/S0001",
+        "connector_housing_female/NG/pit/S0003",
+        "connector_housing_female/NG/pit/S0011",
+        "connector_housing_female/NG/scratch/S0009",
+        "connector_housing_female/OK/S0011",
+        "connector_housing_female/OK/S0016",
+        "connector_housing_female/OK/S0021",
+        "connector_housing_female/OK/S0024",
+        "connector_housing_female/OK/S0025",
+        "crimp_st_cable_mount_box/NG/damage/S0003",
+        "crimp_st_cable_mount_box/NG/damage/S0005",
+        "crimp_st_cable_mount_box/NG/damage/S0006",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0005",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0014",
+        "crimp_st_cable_mount_box/NG/pit/S0009",
+        "crimp_st_cable_mount_box/NG/pit/S0020",
+        "crimp_st_cable_mount_box/NG/scratch/S0015",
+        "crimp_st_cable_mount_box/NG/scratch/S0024",
+        "crimp_st_cable_mount_box/OK/S0012",
+        "crimp_st_cable_mount_box/OK/S0015",
+        "crimp_st_cable_mount_box/OK/S0020",
+        "crimp_st_cable_mount_box/OK/S0025",
+        "dc_power_connector/NG/hole/S0004",
+        "dc_power_connector/NG/hole/S0008",
+        "dc_power_connector/NG/hole/S0023",
+        "dc_power_connector/NG/impact_damage/S0003",
+        "dc_power_connector/NG/impact_damage/S0020",
+        "dc_power_connector/NG/impact_damage/S0023",
+        "dc_power_connector/NG/pit/S0016",
+        "dc_power_connector/NG/pit/S0019",
+        "dc_power_connector/NG/scratch/S0012",
+        "dc_power_connector/NG/scratch/S0023",
+        "dc_power_connector/OK/S0003",
+        "dc_power_connector/OK/S0004",
+        "dc_power_connector/OK/S0008",
+        "dc_power_connector/OK/S0010",
+        "ethernet_connector/NG/impact_damage/S0007",
+        "ethernet_connector/NG/impact_damage/S0017",
+        "ethernet_connector/NG/impact_damage/S0018",
+        "ethernet_connector/NG/impact_damage/S0024",
+        "ethernet_connector/NG/pit/S0014",
+        "ethernet_connector/NG/pit/S0023",
+        "ethernet_connector/NG/pit/S0024",
+        "ethernet_connector/NG/scratch/S0013",
+        "ethernet_connector/NG/scratch/S0016",
+        "ethernet_connector/NG/scratch/S0021",
+        "ethernet_connector/OK/S0001",
+        "ethernet_connector/OK/S0003",
+        "ethernet_connector/OK/S0012",
+        "ethernet_connector/OK/S0017",
+        "ferrite_bead/NG/hole/S0005",
+        "ferrite_bead/NG/hole/S0015",
+        "ferrite_bead/NG/hole/S0021",
+        "ferrite_bead/NG/hole/S0023",
+        "ferrite_bead/NG/pit/S0005",
+        "ferrite_bead/NG/pit/S0010",
+        "ferrite_bead/NG/pit/S0012",
+        "ferrite_bead/NG/scratch/S0002",
+        "ferrite_bead/NG/scratch/S0010",
+        "ferrite_bead/NG/scratch/S0020",
+        "ferrite_bead/OK/S0010",
+        "ferrite_bead/OK/S0018",
+        "ferrite_bead/OK/S0019",
+        "ferrite_bead/OK/S0024",
+        "fork_crimp_terminal/NG/deformation/S0008",
+        "fork_crimp_terminal/NG/deformation/S0022",
+        "fork_crimp_terminal/NG/deformation/S0024",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0009",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0016",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0019",
+        "fork_crimp_terminal/NG/pit/S0001",
+        "fork_crimp_terminal/NG/pit/S0016",
+        "fork_crimp_terminal/NG/scratch/S0016",
+        "fork_crimp_terminal/NG/scratch/S0017",
+        "fork_crimp_terminal/OK/S0007",
+        "fork_crimp_terminal/OK/S0014",
+        "fork_crimp_terminal/OK/S0017",
+        "fork_crimp_terminal/OK/S0024",
+        "fuse_holder/NG/impact_damage/S0006",
+        "fuse_holder/NG/impact_damage/S0012",
+        "fuse_holder/NG/impact_damage/S0020",
+        "fuse_holder/NG/impact_damage/S0025",
+        "fuse_holder/NG/pit/S0007",
+        "fuse_holder/NG/pit/S0009",
+        "fuse_holder/NG/pit/S0018",
+        "fuse_holder/NG/scratch/S0009",
+        "fuse_holder/NG/scratch/S0018",
+        "fuse_holder/OK/S0013",
+        "fuse_holder/OK/S0016",
+        "fuse_holder/OK/S0017",
+        "fuse_holder/OK/S0022",
+        "fuse_holder/OK/S0023",
+        "headphone_jack_socket/NG/deformation/S0002",
+        "headphone_jack_socket/NG/deformation/S0012",
+        "headphone_jack_socket/NG/deformation/S0023",
+        "headphone_jack_socket/NG/impact_damage/S0013",
+        "headphone_jack_socket/NG/pit/S0002",
+        "headphone_jack_socket/NG/pit/S0003",
+        "headphone_jack_socket/NG/porosity/S0012",
+        "headphone_jack_socket/NG/porosity/S0013",
+        "headphone_jack_socket/NG/scratch/S0007",
+        "headphone_jack_socket/NG/scratch/S0025",
+        "headphone_jack_socket/OK/S0012",
+        "headphone_jack_socket/OK/S0013",
+        "headphone_jack_socket/OK/S0017",
+        "headphone_jack_socket/OK/S0023",
+        "humidity_sensor/NG/impact_damage/S0003",
+        "humidity_sensor/NG/impact_damage/S0006",
+        "humidity_sensor/NG/impact_damage/S0020",
+        "humidity_sensor/NG/oil_stain/S0012",
+        "humidity_sensor/NG/oil_stain/S0013",
+        "humidity_sensor/NG/oil_stain/S0014",
+        "humidity_sensor/NG/pit/S0023",
+        "humidity_sensor/NG/scratch/S0005",
+        "humidity_sensor/NG/scratch/S0010",
+        "humidity_sensor/NG/scratch/S0022",
+        "humidity_sensor/OK/S0005",
+        "humidity_sensor/OK/S0008",
+        "humidity_sensor/OK/S0018",
+        "humidity_sensor/OK/S0023",
+        "knob_cap/NG/damage/S0004",
+        "knob_cap/NG/damage/S0015",
+        "knob_cap/NG/damage/S0016",
+        "knob_cap/NG/damage/S0025",
+        "knob_cap/NG/impact_damage/S0004",
+        "knob_cap/NG/impact_damage/S0012",
+        "knob_cap/NG/impact_damage/S0014",
+        "knob_cap/NG/scratch/S0006",
+        "knob_cap/NG/scratch/S0011",
+        "knob_cap/NG/scratch/S0022",
+        "knob_cap/OK/S0003",
+        "knob_cap/OK/S0006",
+        "knob_cap/OK/S0013",
+        "knob_cap/OK/S0023",
+        "knob_cap/OK/S0024",
+        "lattice_block_plug/NG/hole/S0006",
+        "lattice_block_plug/NG/hole/S0019",
+        "lattice_block_plug/NG/impact_damage/S0003",
+        "lattice_block_plug/NG/impact_damage/S0006",
+        "lattice_block_plug/NG/impact_damage/S0007",
+        "lattice_block_plug/NG/pit/S0023",
+        "lattice_block_plug/NG/scratch/S0003",
+        "lattice_block_plug/NG/scratch/S0012",
+        "lattice_block_plug/NG/scratch/S0023",
+        "lattice_block_plug/OK/S0011",
+        "lattice_block_plug/OK/S0012",
+        "lattice_block_plug/OK/S0014",
+        "lattice_block_plug/OK/S0018",
+        "lego_pin_connector_plate/NG/impact_damage/S0012",
+        "lego_pin_connector_plate/NG/impact_damage/S0020",
+        "lego_pin_connector_plate/NG/impact_damage/S0023",
+        "lego_pin_connector_plate/NG/oil_stain/S0010",
+        "lego_pin_connector_plate/NG/oil_stain/S0014",
+        "lego_pin_connector_plate/NG/oil_stain/S0024",
+        "lego_pin_connector_plate/NG/pit/S0016",
+        "lego_pin_connector_plate/NG/scratch/S0003",
+        "lego_pin_connector_plate/NG/scratch/S0004",
+        "lego_pin_connector_plate/NG/scratch/S0016",
+        "lego_pin_connector_plate/OK/S0001",
+        "lego_pin_connector_plate/OK/S0011",
+        "lego_pin_connector_plate/OK/S0014",
+        "lego_pin_connector_plate/OK/S0018",
+        "lego_propeller/NG/impact_damage/S0002",
+        "lego_propeller/NG/impact_damage/S0004",
+        "lego_propeller/NG/impact_damage/S0008",
+        "lego_propeller/NG/impact_damage/S0016",
+        "lego_propeller/NG/pit/S0001",
+        "lego_propeller/NG/pit/S0009",
+        "lego_propeller/NG/pit/S0015",
+        "lego_propeller/NG/scratch/S0008",
+        "lego_propeller/NG/scratch/S0017",
+        "lego_propeller/NG/scratch/S0018",
+        "lego_propeller/OK/S0002",
+        "lego_propeller/OK/S0005",
+        "lego_propeller/OK/S0013",
+        "lego_propeller/OK/S0022",
+        "limit_switch/NG/deformation/S0004",
+        "limit_switch/NG/deformation/S0021",
+        "limit_switch/NG/deformation/S0025",
+        "limit_switch/NG/impact_damage/S0004",
+        "limit_switch/NG/impact_damage/S0006",
+        "limit_switch/NG/impact_damage/S0025",
+        "limit_switch/NG/pit/S0017",
+        "limit_switch/NG/pit/S0021",
+        "limit_switch/NG/scratch/S0002",
+        "limit_switch/NG/scratch/S0020",
+        "limit_switch/OK/S0004",
+        "limit_switch/OK/S0010",
+        "limit_switch/OK/S0013",
+        "limit_switch/OK/S0025",
+        "miniature_lifting_motor/NG/deformation/S0002",
+        "miniature_lifting_motor/NG/deformation/S0003",
+        "miniature_lifting_motor/NG/deformation/S0009",
+        "miniature_lifting_motor/NG/deformation/S0011",
+        "miniature_lifting_motor/NG/deformation/S0025",
+        "miniature_lifting_motor/NG/scratch/S0002",
+        "miniature_lifting_motor/NG/scratch/S0003",
+        "miniature_lifting_motor/NG/scratch/S0007",
+        "miniature_lifting_motor/NG/scratch/S0012",
+        "miniature_lifting_motor/NG/scratch/S0022",
+        "miniature_lifting_motor/OK/S0005",
+        "miniature_lifting_motor/OK/S0006",
+        "miniature_lifting_motor/OK/S0009",
+        "miniature_lifting_motor/OK/S0022",
+        "power_jack/NG/impact_damage/S0003",
+        "power_jack/NG/impact_damage/S0008",
+        "power_jack/NG/impact_damage/S0014",
+        "power_jack/NG/pit/S0003",
+        "power_jack/NG/pit/S0010",
+        "power_jack/NG/pit/S0014",
+        "power_jack/NG/porosity/S0014",
+        "power_jack/NG/porosity/S0025",
+        "power_jack/NG/scratch/S0008",
+        "power_jack/OK/S0007",
+        "power_jack/OK/S0010",
+        "power_jack/OK/S0011",
+        "power_jack/OK/S0017",
+        "power_jack/OK/S0022",
+        "purple_clay_pot/NG/damage/S0005",
+        "purple_clay_pot/NG/damage/S0012",
+        "purple_clay_pot/NG/damage/S0021",
+        "purple_clay_pot/NG/impact_damage/S0010",
+        "purple_clay_pot/NG/impact_damage/S0023",
+        "purple_clay_pot/NG/pit/S0003",
+        "purple_clay_pot/NG/pit/S0006",
+        "purple_clay_pot/NG/pit/S0008",
+        "purple_clay_pot/NG/scratch/S0015",
+        "purple_clay_pot/NG/scratch/S0024",
+        "purple_clay_pot/OK/S0007",
+        "purple_clay_pot/OK/S0008",
+        "purple_clay_pot/OK/S0019",
+        "purple_clay_pot/OK/S0020",
+        "telephone_spring_switch/NG/damage/S0009",
+        "telephone_spring_switch/NG/damage/S0010",
+        "telephone_spring_switch/NG/hole/S0002",
+        "telephone_spring_switch/NG/hole/S0014",
+        "telephone_spring_switch/NG/impact_damage/S0013",
+        "telephone_spring_switch/NG/impact_damage/S0019",
+        "telephone_spring_switch/NG/impact_damage/S0022",
+        "telephone_spring_switch/NG/pit/S0019",
+        "telephone_spring_switch/NG/pit/S0024",
+        "telephone_spring_switch/NG/scratch/S0019",
+        "telephone_spring_switch/OK/S0006",
+        "telephone_spring_switch/OK/S0017",
+        "telephone_spring_switch/OK/S0019",
+        "telephone_spring_switch/OK/S0020"
+      ],
+      "validation": [
+        "audio_jack_socket/NG/hole/S0007",
+        "audio_jack_socket/NG/impact_damage/S0009",
+        "audio_jack_socket/NG/pit/S0009",
+        "audio_jack_socket/NG/porosity/S0014",
+        "audio_jack_socket/NG/scratch/S0009",
+        "audio_jack_socket/OK/S0013",
+        "common_mode_filter/NG/deformation/S0001",
+        "common_mode_filter/NG/deformation/S0013",
+        "common_mode_filter/NG/exposed_surface/S0022",
+        "common_mode_filter/NG/pit/S0012",
+        "common_mode_filter/NG/scratch/S0013",
+        "common_mode_filter/OK/S0001",
+        "common_mode_filter/OK/S0019",
+        "connector_housing_female/NG/deformation/S0007",
+        "connector_housing_female/NG/hole/S0002",
+        "connector_housing_female/NG/impact_damage/S0002",
+        "connector_housing_female/NG/impact_damage/S0005",
+        "connector_housing_female/NG/scratch/S0010",
+        "connector_housing_female/OK/S0002",
+        "connector_housing_female/OK/S0017",
+        "crimp_st_cable_mount_box/NG/damage/S0019",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0010",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0012",
+        "crimp_st_cable_mount_box/NG/pit/S0008",
+        "crimp_st_cable_mount_box/NG/scratch/S0018",
+        "crimp_st_cable_mount_box/OK/S0011",
+        "crimp_st_cable_mount_box/OK/S0016",
+        "crimp_st_cable_mount_box/OK/S0022",
+        "dc_power_connector/NG/hole/S0025",
+        "dc_power_connector/NG/impact_damage/S0018",
+        "dc_power_connector/NG/pit/S0003",
+        "dc_power_connector/NG/scratch/S0006",
+        "dc_power_connector/OK/S0005",
+        "dc_power_connector/OK/S0016",
+        "dc_power_connector/OK/S0021",
+        "ethernet_connector/NG/impact_damage/S0008",
+        "ethernet_connector/NG/pit/S0017",
+        "ethernet_connector/NG/pit/S0018",
+        "ethernet_connector/NG/scratch/S0014",
+        "ethernet_connector/OK/S0016",
+        "ethernet_connector/OK/S0018",
+        "ethernet_connector/OK/S0020",
+        "ferrite_bead/NG/hole/S0009",
+        "ferrite_bead/NG/pit/S0002",
+        "ferrite_bead/NG/pit/S0011",
+        "ferrite_bead/NG/scratch/S0004",
+        "ferrite_bead/OK/S0011",
+        "ferrite_bead/OK/S0015",
+        "ferrite_bead/OK/S0021",
+        "fork_crimp_terminal/NG/deformation/S0003",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0021",
+        "fork_crimp_terminal/NG/pit/S0023",
+        "fork_crimp_terminal/NG/scratch/S0025",
+        "fork_crimp_terminal/OK/S0004",
+        "fork_crimp_terminal/OK/S0009",
+        "fork_crimp_terminal/OK/S0013",
+        "fuse_holder/NG/impact_damage/S0018",
+        "fuse_holder/NG/pit/S0001",
+        "fuse_holder/NG/pit/S0023",
+        "fuse_holder/NG/scratch/S0012",
+        "fuse_holder/NG/scratch/S0024",
+        "fuse_holder/OK/S0024",
+        "fuse_holder/OK/S0025",
+        "headphone_jack_socket/NG/impact_damage/S0003",
+        "headphone_jack_socket/NG/impact_damage/S0015",
+        "headphone_jack_socket/NG/pit/S0004",
+        "headphone_jack_socket/NG/porosity/S0014",
+        "headphone_jack_socket/OK/S0010",
+        "headphone_jack_socket/OK/S0011",
+        "headphone_jack_socket/OK/S0022",
+        "humidity_sensor/NG/impact_damage/S0019",
+        "humidity_sensor/NG/oil_stain/S0008",
+        "humidity_sensor/NG/pit/S0012",
+        "humidity_sensor/NG/pit/S0014",
+        "humidity_sensor/OK/S0009",
+        "humidity_sensor/OK/S0017",
+        "humidity_sensor/OK/S0024",
+        "knob_cap/NG/damage/S0021",
+        "knob_cap/NG/impact_damage/S0003",
+        "knob_cap/NG/impact_damage/S0018",
+        "knob_cap/NG/scratch/S0018",
+        "knob_cap/OK/S0005",
+        "knob_cap/OK/S0011",
+        "lattice_block_plug/NG/hole/S0014",
+        "lattice_block_plug/NG/hole/S0023",
+        "lattice_block_plug/NG/impact_damage/S0025",
+        "lattice_block_plug/NG/pit/S0012",
+        "lattice_block_plug/NG/pit/S0021",
+        "lattice_block_plug/OK/S0007",
+        "lattice_block_plug/OK/S0017",
+        "lattice_block_plug/OK/S0020",
+        "lego_pin_connector_plate/NG/impact_damage/S0008",
+        "lego_pin_connector_plate/NG/oil_stain/S0016",
+        "lego_pin_connector_plate/NG/pit/S0014",
+        "lego_pin_connector_plate/NG/pit/S0018",
+        "lego_pin_connector_plate/OK/S0008",
+        "lego_pin_connector_plate/OK/S0012",
+        "lego_pin_connector_plate/OK/S0019",
+        "lego_propeller/NG/impact_damage/S0022",
+        "lego_propeller/NG/pit/S0007",
+        "lego_propeller/NG/pit/S0012",
+        "lego_propeller/NG/scratch/S0016",
+        "lego_propeller/OK/S0001",
+        "lego_propeller/OK/S0016",
+        "lego_propeller/OK/S0025",
+        "limit_switch/NG/deformation/S0016",
+        "limit_switch/NG/impact_damage/S0018",
+        "limit_switch/NG/pit/S0015",
+        "limit_switch/NG/scratch/S0014",
+        "limit_switch/OK/S0006",
+        "limit_switch/OK/S0019",
+        "limit_switch/OK/S0022",
+        "miniature_lifting_motor/NG/deformation/S0008",
+        "miniature_lifting_motor/NG/deformation/S0016",
+        "miniature_lifting_motor/NG/scratch/S0006",
+        "miniature_lifting_motor/NG/scratch/S0008",
+        "miniature_lifting_motor/OK/S0001",
+        "miniature_lifting_motor/OK/S0010",
+        "miniature_lifting_motor/OK/S0024",
+        "power_jack/NG/impact_damage/S0025",
+        "power_jack/NG/pit/S0016",
+        "power_jack/NG/porosity/S0013",
+        "power_jack/NG/scratch/S0010",
+        "power_jack/NG/scratch/S0025",
+        "power_jack/OK/S0003",
+        "power_jack/OK/S0023",
+        "purple_clay_pot/NG/damage/S0022",
+        "purple_clay_pot/NG/impact_damage/S0011",
+        "purple_clay_pot/NG/impact_damage/S0025",
+        "purple_clay_pot/NG/scratch/S0009",
+        "purple_clay_pot/OK/S0001",
+        "purple_clay_pot/OK/S0017",
+        "purple_clay_pot/OK/S0021",
+        "telephone_spring_switch/NG/damage/S0014",
+        "telephone_spring_switch/NG/hole/S0015",
+        "telephone_spring_switch/NG/pit/S0016",
+        "telephone_spring_switch/NG/scratch/S0012",
+        "telephone_spring_switch/OK/S0004",
+        "telephone_spring_switch/OK/S0015",
+        "telephone_spring_switch/OK/S0025"
+      ]
+    },
+    {
+      "train": [
+        "audio_jack_socket/NG/hole/S0003",
+        "audio_jack_socket/NG/hole/S0007",
+        "audio_jack_socket/NG/impact_damage/S0007",
+        "audio_jack_socket/NG/impact_damage/S0009",
+        "audio_jack_socket/NG/pit/S0003",
+        "audio_jack_socket/NG/pit/S0009",
+        "audio_jack_socket/NG/pit/S0014",
+        "audio_jack_socket/NG/porosity/S0014",
+        "audio_jack_socket/NG/scratch/S0007",
+        "audio_jack_socket/NG/scratch/S0009",
+        "audio_jack_socket/OK/S0011",
+        "audio_jack_socket/OK/S0013",
+        "audio_jack_socket/OK/S0019",
+        "common_mode_filter/NG/deformation/S0001",
+        "common_mode_filter/NG/deformation/S0002",
+        "common_mode_filter/NG/deformation/S0013",
+        "common_mode_filter/NG/exposed_surface/S0021",
+        "common_mode_filter/NG/exposed_surface/S0022",
+        "common_mode_filter/NG/exposed_surface/S0023",
+        "common_mode_filter/NG/pit/S0012",
+        "common_mode_filter/NG/pit/S0023",
+        "common_mode_filter/NG/scratch/S0013",
+        "common_mode_filter/NG/scratch/S0022",
+        "common_mode_filter/OK/S0001",
+        "common_mode_filter/OK/S0008",
+        "common_mode_filter/OK/S0019",
+        "common_mode_filter/OK/S0022",
+        "connector_housing_female/NG/deformation/S0001",
+        "connector_housing_female/NG/deformation/S0007",
+        "connector_housing_female/NG/deformation/S0009",
+        "connector_housing_female/NG/hole/S0002",
+        "connector_housing_female/NG/impact_damage/S0002",
+        "connector_housing_female/NG/impact_damage/S0005",
+        "connector_housing_female/NG/impact_damage/S0019",
+        "connector_housing_female/NG/pit/S0011",
+        "connector_housing_female/NG/scratch/S0009",
+        "connector_housing_female/NG/scratch/S0010",
+        "connector_housing_female/OK/S0002",
+        "connector_housing_female/OK/S0016",
+        "connector_housing_female/OK/S0017",
+        "crimp_st_cable_mount_box/NG/damage/S0005",
+        "crimp_st_cable_mount_box/NG/damage/S0006",
+        "crimp_st_cable_mount_box/NG/damage/S0019",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0005",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0010",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0012",
+        "crimp_st_cable_mount_box/NG/impact_damage/S0014",
+        "crimp_st_cable_mount_box/NG/pit/S0008",
+        "crimp_st_cable_mount_box/NG/pit/S0020",
+        "crimp_st_cable_mount_box/NG/scratch/S0018",
+        "crimp_st_cable_mount_box/NG/scratch/S0024",
+        "crimp_st_cable_mount_box/OK/S0011",
+        "crimp_st_cable_mount_box/OK/S0015",
+        "crimp_st_cable_mount_box/OK/S0016",
+        "crimp_st_cable_mount_box/OK/S0022",
+        "crimp_st_cable_mount_box/OK/S0025",
+        "dc_power_connector/NG/hole/S0004",
+        "dc_power_connector/NG/hole/S0025",
+        "dc_power_connector/NG/impact_damage/S0003",
+        "dc_power_connector/NG/impact_damage/S0018",
+        "dc_power_connector/NG/impact_damage/S0023",
+        "dc_power_connector/NG/pit/S0003",
+        "dc_power_connector/NG/pit/S0016",
+        "dc_power_connector/NG/scratch/S0006",
+        "dc_power_connector/NG/scratch/S0023",
+        "dc_power_connector/OK/S0005",
+        "dc_power_connector/OK/S0008",
+        "dc_power_connector/OK/S0010",
+        "dc_power_connector/OK/S0016",
+        "dc_power_connector/OK/S0021",
+        "ethernet_connector/NG/impact_damage/S0008",
+        "ethernet_connector/NG/impact_damage/S0017",
+        "ethernet_connector/NG/pit/S0014",
+        "ethernet_connector/NG/pit/S0017",
+        "ethernet_connector/NG/pit/S0018",
+        "ethernet_connector/NG/pit/S0024",
+        "ethernet_connector/NG/scratch/S0013",
+        "ethernet_connector/NG/scratch/S0014",
+        "ethernet_connector/NG/scratch/S0016",
+        "ethernet_connector/OK/S0003",
+        "ethernet_connector/OK/S0016",
+        "ethernet_connector/OK/S0017",
+        "ethernet_connector/OK/S0018",
+        "ethernet_connector/OK/S0020",
+        "ferrite_bead/NG/hole/S0009",
+        "ferrite_bead/NG/hole/S0015",
+        "ferrite_bead/NG/hole/S0023",
+        "ferrite_bead/NG/pit/S0002",
+        "ferrite_bead/NG/pit/S0010",
+        "ferrite_bead/NG/pit/S0011",
+        "ferrite_bead/NG/scratch/S0002",
+        "ferrite_bead/NG/scratch/S0004",
+        "ferrite_bead/OK/S0010",
+        "ferrite_bead/OK/S0011",
+        "ferrite_bead/OK/S0015",
+        "ferrite_bead/OK/S0018",
+        "ferrite_bead/OK/S0021",
+        "fork_crimp_terminal/NG/deformation/S0003",
+        "fork_crimp_terminal/NG/deformation/S0008",
+        "fork_crimp_terminal/NG/deformation/S0022",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0009",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0019",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0021",
+        "fork_crimp_terminal/NG/pit/S0001",
+        "fork_crimp_terminal/NG/pit/S0016",
+        "fork_crimp_terminal/NG/pit/S0023",
+        "fork_crimp_terminal/NG/scratch/S0025",
+        "fork_crimp_terminal/OK/S0004",
+        "fork_crimp_terminal/OK/S0007",
+        "fork_crimp_terminal/OK/S0009",
+        "fork_crimp_terminal/OK/S0013",
+        "fork_crimp_terminal/OK/S0014",
+        "fuse_holder/NG/impact_damage/S0012",
+        "fuse_holder/NG/impact_damage/S0018",
+        "fuse_holder/NG/impact_damage/S0025",
+        "fuse_holder/NG/pit/S0001",
+        "fuse_holder/NG/pit/S0009",
+        "fuse_holder/NG/pit/S0018",
+        "fuse_holder/NG/pit/S0023",
+        "fuse_holder/NG/scratch/S0012",
+        "fuse_holder/NG/scratch/S0024",
+        "fuse_holder/OK/S0013",
+        "fuse_holder/OK/S0016",
+        "fuse_holder/OK/S0017",
+        "fuse_holder/OK/S0024",
+        "fuse_holder/OK/S0025",
+        "headphone_jack_socket/NG/deformation/S0002",
+        "headphone_jack_socket/NG/impact_damage/S0003",
+        "headphone_jack_socket/NG/impact_damage/S0015",
+        "headphone_jack_socket/NG/pit/S0002",
+        "headphone_jack_socket/NG/pit/S0003",
+        "headphone_jack_socket/NG/pit/S0004",
+        "headphone_jack_socket/NG/porosity/S0013",
+        "headphone_jack_socket/NG/porosity/S0014",
+        "headphone_jack_socket/NG/scratch/S0025",
+        "headphone_jack_socket/OK/S0010",
+        "headphone_jack_socket/OK/S0011",
+        "headphone_jack_socket/OK/S0013",
+        "headphone_jack_socket/OK/S0022",
+        "humidity_sensor/NG/impact_damage/S0003",
+        "humidity_sensor/NG/impact_damage/S0006",
+        "humidity_sensor/NG/impact_damage/S0019",
+        "humidity_sensor/NG/oil_stain/S0008",
+        "humidity_sensor/NG/oil_stain/S0012",
+        "humidity_sensor/NG/oil_stain/S0013",
+        "humidity_sensor/NG/pit/S0012",
+        "humidity_sensor/NG/pit/S0014",
+        "humidity_sensor/NG/pit/S0023",
+        "humidity_sensor/NG/scratch/S0005",
+        "humidity_sensor/OK/S0005",
+        "humidity_sensor/OK/S0009",
+        "humidity_sensor/OK/S0017",
+        "humidity_sensor/OK/S0023",
+        "humidity_sensor/OK/S0024",
+        "knob_cap/NG/damage/S0004",
+        "knob_cap/NG/damage/S0021",
+        "knob_cap/NG/damage/S0025",
+        "knob_cap/NG/impact_damage/S0003",
+        "knob_cap/NG/impact_damage/S0012",
+        "knob_cap/NG/impact_damage/S0018",
+        "knob_cap/NG/scratch/S0006",
+        "knob_cap/NG/scratch/S0018",
+        "knob_cap/NG/scratch/S0022",
+        "knob_cap/OK/S0003",
+        "knob_cap/OK/S0005",
+        "knob_cap/OK/S0011",
+        "knob_cap/OK/S0013",
+        "lattice_block_plug/NG/hole/S0006",
+        "lattice_block_plug/NG/hole/S0014",
+        "lattice_block_plug/NG/hole/S0023",
+        "lattice_block_plug/NG/impact_damage/S0006",
+        "lattice_block_plug/NG/impact_damage/S0025",
+        "lattice_block_plug/NG/pit/S0012",
+        "lattice_block_plug/NG/pit/S0021",
+        "lattice_block_plug/NG/pit/S0023",
+        "lattice_block_plug/NG/scratch/S0012",
+        "lattice_block_plug/NG/scratch/S0023",
+        "lattice_block_plug/OK/S0007",
+        "lattice_block_plug/OK/S0011",
+        "lattice_block_plug/OK/S0017",
+        "lattice_block_plug/OK/S0018",
+        "lattice_block_plug/OK/S0020",
+        "lego_pin_connector_plate/NG/impact_damage/S0008",
+        "lego_pin_connector_plate/NG/impact_damage/S0020",
+        "lego_pin_connector_plate/NG/oil_stain/S0010",
+        "lego_pin_connector_plate/NG/oil_stain/S0016",
+        "lego_pin_connector_plate/NG/oil_stain/S0024",
+        "lego_pin_connector_plate/NG/pit/S0014",
+        "lego_pin_connector_plate/NG/pit/S0018",
+        "lego_pin_connector_plate/NG/scratch/S0016",
+        "lego_pin_connector_plate/OK/S0001",
+        "lego_pin_connector_plate/OK/S0008",
+        "lego_pin_connector_plate/OK/S0011",
+        "lego_pin_connector_plate/OK/S0012",
+        "lego_pin_connector_plate/OK/S0014",
+        "lego_pin_connector_plate/OK/S0019",
+        "lego_propeller/NG/impact_damage/S0002",
+        "lego_propeller/NG/impact_damage/S0008",
+        "lego_propeller/NG/impact_damage/S0022",
+        "lego_propeller/NG/pit/S0007",
+        "lego_propeller/NG/pit/S0009",
+        "lego_propeller/NG/pit/S0012",
+        "lego_propeller/NG/pit/S0015",
+        "lego_propeller/NG/scratch/S0008",
+        "lego_propeller/NG/scratch/S0016",
+        "lego_propeller/OK/S0001",
+        "lego_propeller/OK/S0005",
+        "lego_propeller/OK/S0016",
+        "lego_propeller/OK/S0022",
+        "lego_propeller/OK/S0025",
+        "limit_switch/NG/deformation/S0016",
+        "limit_switch/NG/deformation/S0021",
+        "limit_switch/NG/impact_damage/S0006",
+        "limit_switch/NG/impact_damage/S0018",
+        "limit_switch/NG/impact_damage/S0025",
+        "limit_switch/NG/pit/S0015",
+        "limit_switch/NG/pit/S0021",
+        "limit_switch/NG/scratch/S0002",
+        "limit_switch/NG/scratch/S0014",
+        "limit_switch/OK/S0006",
+        "limit_switch/OK/S0010",
+        "limit_switch/OK/S0019",
+        "limit_switch/OK/S0022",
+        "limit_switch/OK/S0025",
+        "miniature_lifting_motor/NG/deformation/S0008",
+        "miniature_lifting_motor/NG/deformation/S0009",
+        "miniature_lifting_motor/NG/deformation/S0011",
+        "miniature_lifting_motor/NG/deformation/S0016",
+        "miniature_lifting_motor/NG/scratch/S0002",
+        "miniature_lifting_motor/NG/scratch/S0003",
+        "miniature_lifting_motor/NG/scratch/S0006",
+        "miniature_lifting_motor/NG/scratch/S0008",
+        "miniature_lifting_motor/NG/scratch/S0022",
+        "miniature_lifting_motor/OK/S0001",
+        "miniature_lifting_motor/OK/S0005",
+        "miniature_lifting_motor/OK/S0010",
+        "miniature_lifting_motor/OK/S0022",
+        "miniature_lifting_motor/OK/S0024",
+        "power_jack/NG/impact_damage/S0008",
+        "power_jack/NG/impact_damage/S0025",
+        "power_jack/NG/pit/S0003",
+        "power_jack/NG/pit/S0010",
+        "power_jack/NG/pit/S0016",
+        "power_jack/NG/porosity/S0013",
+        "power_jack/NG/porosity/S0014",
+        "power_jack/NG/scratch/S0008",
+        "power_jack/NG/scratch/S0010",
+        "power_jack/NG/scratch/S0025",
+        "power_jack/OK/S0003",
+        "power_jack/OK/S0010",
+        "power_jack/OK/S0022",
+        "power_jack/OK/S0023",
+        "purple_clay_pot/NG/damage/S0005",
+        "purple_clay_pot/NG/damage/S0021",
+        "purple_clay_pot/NG/damage/S0022",
+        "purple_clay_pot/NG/impact_damage/S0011",
+        "purple_clay_pot/NG/impact_damage/S0025",
+        "purple_clay_pot/NG/pit/S0003",
+        "purple_clay_pot/NG/pit/S0008",
+        "purple_clay_pot/NG/scratch/S0009",
+        "purple_clay_pot/NG/scratch/S0015",
+        "purple_clay_pot/OK/S0001",
+        "purple_clay_pot/OK/S0008",
+        "purple_clay_pot/OK/S0017",
+        "purple_clay_pot/OK/S0020",
+        "purple_clay_pot/OK/S0021",
+        "telephone_spring_switch/NG/damage/S0010",
+        "telephone_spring_switch/NG/damage/S0014",
+        "telephone_spring_switch/NG/hole/S0014",
+        "telephone_spring_switch/NG/hole/S0015",
+        "telephone_spring_switch/NG/impact_damage/S0019",
+        "telephone_spring_switch/NG/pit/S0016",
+        "telephone_spring_switch/NG/pit/S0019",
+        "telephone_spring_switch/NG/pit/S0024",
+        "telephone_spring_switch/NG/scratch/S0012",
+        "telephone_spring_switch/OK/S0004",
+        "telephone_spring_switch/OK/S0015",
+        "telephone_spring_switch/OK/S0017",
+        "telephone_spring_switch/OK/S0020",
+        "telephone_spring_switch/OK/S0025"
+      ],
+      "validation": [
+        "audio_jack_socket/NG/hole/S0012",
+        "audio_jack_socket/NG/impact_damage/S0025",
+        "audio_jack_socket/NG/porosity/S0001",
+        "audio_jack_socket/NG/porosity/S0019",
+        "audio_jack_socket/OK/S0003",
+        "audio_jack_socket/OK/S0018",
+        "audio_jack_socket/OK/S0022",
+        "common_mode_filter/NG/deformation/S0016",
+        "common_mode_filter/NG/exposed_surface/S0011",
+        "common_mode_filter/NG/pit/S0014",
+        "common_mode_filter/NG/scratch/S0020",
+        "common_mode_filter/OK/S0003",
+        "common_mode_filter/OK/S0021",
+        "common_mode_filter/OK/S0025",
+        "connector_housing_female/NG/hole/S0012",
+        "connector_housing_female/NG/hole/S0020",
+        "connector_housing_female/NG/pit/S0001",
+        "connector_housing_female/NG/pit/S0003",
+        "connector_housing_female/OK/S0011",
+        "connector_housing_female/OK/S0021",
+        "connector_housing_female/OK/S0024",
+        "connector_housing_female/OK/S0025",
+        "crimp_st_cable_mount_box/NG/damage/S0003",
+        "crimp_st_cable_mount_box/NG/pit/S0009",
+        "crimp_st_cable_mount_box/NG/scratch/S0015",
+        "crimp_st_cable_mount_box/OK/S0012",
+        "crimp_st_cable_mount_box/OK/S0020",
+        "dc_power_connector/NG/hole/S0008",
+        "dc_power_connector/NG/hole/S0023",
+        "dc_power_connector/NG/impact_damage/S0020",
+        "dc_power_connector/NG/pit/S0019",
+        "dc_power_connector/NG/scratch/S0012",
+        "dc_power_connector/OK/S0003",
+        "dc_power_connector/OK/S0004",
+        "ethernet_connector/NG/impact_damage/S0007",
+        "ethernet_connector/NG/impact_damage/S0018",
+        "ethernet_connector/NG/impact_damage/S0024",
+        "ethernet_connector/NG/pit/S0023",
+        "ethernet_connector/NG/scratch/S0021",
+        "ethernet_connector/OK/S0001",
+        "ethernet_connector/OK/S0012",
+        "ferrite_bead/NG/hole/S0005",
+        "ferrite_bead/NG/hole/S0021",
+        "ferrite_bead/NG/pit/S0005",
+        "ferrite_bead/NG/pit/S0012",
+        "ferrite_bead/NG/scratch/S0010",
+        "ferrite_bead/NG/scratch/S0020",
+        "ferrite_bead/OK/S0019",
+        "ferrite_bead/OK/S0024",
+        "fork_crimp_terminal/NG/deformation/S0024",
+        "fork_crimp_terminal/NG/metallic_contaminant/S0016",
+        "fork_crimp_terminal/NG/scratch/S0016",
+        "fork_crimp_terminal/NG/scratch/S0017",
+        "fork_crimp_terminal/OK/S0017",
+        "fork_crimp_terminal/OK/S0024",
+        "fuse_holder/NG/impact_damage/S0006",
+        "fuse_holder/NG/impact_damage/S0020",
+        "fuse_holder/NG/pit/S0007",
+        "fuse_holder/NG/scratch/S0009",
+        "fuse_holder/NG/scratch/S0018",
+        "fuse_holder/OK/S0022",
+        "fuse_holder/OK/S0023",
+        "headphone_jack_socket/NG/deformation/S0012",
+        "headphone_jack_socket/NG/deformation/S0023",
+        "headphone_jack_socket/NG/impact_damage/S0013",
+        "headphone_jack_socket/NG/porosity/S0012",
+        "headphone_jack_socket/NG/scratch/S0007",
+        "headphone_jack_socket/OK/S0012",
+        "headphone_jack_socket/OK/S0017",
+        "headphone_jack_socket/OK/S0023",
+        "humidity_sensor/NG/impact_damage/S0020",
+        "humidity_sensor/NG/oil_stain/S0014",
+        "humidity_sensor/NG/scratch/S0010",
+        "humidity_sensor/NG/scratch/S0022",
+        "humidity_sensor/OK/S0008",
+        "humidity_sensor/OK/S0018",
+        "knob_cap/NG/damage/S0015",
+        "knob_cap/NG/damage/S0016",
+        "knob_cap/NG/impact_damage/S0004",
+        "knob_cap/NG/impact_damage/S0014",
+        "knob_cap/NG/scratch/S0011",
+        "knob_cap/OK/S0006",
+        "knob_cap/OK/S0023",
+        "knob_cap/OK/S0024",
+        "lattice_block_plug/NG/hole/S0019",
+        "lattice_block_plug/NG/impact_damage/S0003",
+        "lattice_block_plug/NG/impact_damage/S0007",
+        "lattice_block_plug/NG/scratch/S0003",
+        "lattice_block_plug/OK/S0012",
+        "lattice_block_plug/OK/S0014",
+        "lego_pin_connector_plate/NG/impact_damage/S0012",
+        "lego_pin_connector_plate/NG/impact_damage/S0023",
+        "lego_pin_connector_plate/NG/oil_stain/S0014",
+        "lego_pin_connector_plate/NG/pit/S0016",
+        "lego_pin_connector_plate/NG/scratch/S0003",
+        "lego_pin_connector_plate/NG/scratch/S0004",
+        "lego_pin_connector_plate/OK/S0018",
+        "lego_propeller/NG/impact_damage/S0004",
+        "lego_propeller/NG/impact_damage/S0016",
+        "lego_propeller/NG/pit/S0001",
+        "lego_propeller/NG/scratch/S0017",
+        "lego_propeller/NG/scratch/S0018",
+        "lego_propeller/OK/S0002",
+        "lego_propeller/OK/S0013",
+        "limit_switch/NG/deformation/S0004",
+        "limit_switch/NG/deformation/S0025",
+        "limit_switch/NG/impact_damage/S0004",
+        "limit_switch/NG/pit/S0017",
+        "limit_switch/NG/scratch/S0020",
+        "limit_switch/OK/S0004",
+        "limit_switch/OK/S0013",
+        "miniature_lifting_motor/NG/deformation/S0002",
+        "miniature_lifting_motor/NG/deformation/S0003",
+        "miniature_lifting_motor/NG/deformation/S0025",
+        "miniature_lifting_motor/NG/scratch/S0007",
+        "miniature_lifting_motor/NG/scratch/S0012",
+        "miniature_lifting_motor/OK/S0006",
+        "miniature_lifting_motor/OK/S0009",
+        "power_jack/NG/impact_damage/S0003",
+        "power_jack/NG/impact_damage/S0014",
+        "power_jack/NG/pit/S0014",
+        "power_jack/NG/porosity/S0025",
+        "power_jack/OK/S0007",
+        "power_jack/OK/S0011",
+        "power_jack/OK/S0017",
+        "purple_clay_pot/NG/damage/S0012",
+        "purple_clay_pot/NG/impact_damage/S0010",
+        "purple_clay_pot/NG/impact_damage/S0023",
+        "purple_clay_pot/NG/pit/S0006",
+        "purple_clay_pot/NG/scratch/S0024",
+        "purple_clay_pot/OK/S0007",
+        "purple_clay_pot/OK/S0019",
+        "telephone_spring_switch/NG/damage/S0009",
+        "telephone_spring_switch/NG/hole/S0002",
+        "telephone_spring_switch/NG/impact_damage/S0013",
+        "telephone_spring_switch/NG/impact_damage/S0022",
+        "telephone_spring_switch/NG/scratch/S0019",
+        "telephone_spring_switch/OK/S0006",
+        "telephone_spring_switch/OK/S0019"
+      ]
+    }
+  ]
+}
