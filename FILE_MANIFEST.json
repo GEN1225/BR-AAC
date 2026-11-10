@@ -296,6 +296,11 @@
       "sha256": "a8991b4c6133bb92b234ab54e2e370387404a3e0c1b1b862facbfc5ef3c8a6d2"
     },
     {
+      "file": "research_data/realiad20/object/FIT_ONLY_STATISTICS.json",
+      "bytes": 439,
+      "sha256": "54647533d0ee2220645f99c0426cafbe50d0c6a49bf86ded8e0968ce7a990e95"
+    },
+    {
       "file": "research_data/realiad20/object/HEADS_FROZEN_BEFORE_V.json",
       "bytes": 373313,
       "sha256": "653b25e20f799dc5fffc0c882840c080e38deeef43c8570b15337995b7316d8c"
@@ -344,6 +349,11 @@
       "file": "research_data/realiad20/object_information/CALIBRATED_EFFECTS.json",
       "bytes": 6227,
       "sha256": "7fc73f9bcd3fb0750194548b91fcd9a96080b1fbb66f1b0180ba429f90e1c488"
+    },
+    {
+      "file": "research_data/realiad20/object_information/E_training_index.json",
+      "bytes": 147320,
+      "sha256": "775bf88495ebe9d511f577551674e53c38de56ffd5a28c80447eff5f7b3f3113"
     },
     {
       "file": "research_data/realiad20/object_information/HOLD_raw_scores.npz",
@@ -417,8 +427,13 @@
     },
     {
       "file": "research_data/realiad20/README.md",
-      "bytes": 5814,
-      "sha256": "f357221a272cc3908cc5ff9ca7b09cd5ff316a514051807ec9c66fe1dcab6c14"
+      "bytes": 6056,
+      "sha256": "0a1714964604d02afd828221bcaefb9dd24ea92f5305c69f9b87420cb3ae3f20"
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/annotation_metadata.json",
+      "bytes": 2672374,
+      "sha256": "c8149d006293d3fe4b154595c89a17a451436ae86184be5800e3490f15f7a37a"
     },
     {
       "file": "research_data/realiad20/regional_AP/ANNULAR_FUSION_mean_logits56.npz",
@@ -457,8 +472,8 @@
     },
     {
       "file": "research_data/realiad20/SOURCE_RECORDS.json",
-      "bytes": 37504,
-      "sha256": "1b8e28d08e0b70220e84d06c08137aa04e18c158c8e4d88b27d753671e331855"
+      "bytes": 38751,
+      "sha256": "c6158ae6ef424f52512d7ffe850603efba0b662b0fb2b6471165349c8720045b"
     },
     {
       "file": "research_data/realiad20/thresholds/bootstrap_consensus_triage_counts.csv",

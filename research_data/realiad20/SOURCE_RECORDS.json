@@ -644,6 +644,27 @@
       "source_sha256": "27edd6d19235e06c9c84e8676187b05cf6e99624bdbbbc0080a9bd58598e73f1",
       "sha256": "342b4e8c856b8552346f9d68e638073007e2fe8aa2e6b07847f356498093dbf4",
       "transformation": "Complete epoch-level best synthetic-validation loss trace."
+    },
+    {
+      "file": "research_data/realiad20/object_information/E_training_index.json",
+      "source_record": "E_unique_members.json",
+      "source_sha256": "9e042114982911ae7b3295c10767a06e927f1ab2e502e24d48058bbbe81537c3",
+      "sha256": "775bf88495ebe9d511f577551674e53c38de56ffd5a28c80447eff5f7b3f3113",
+      "transformation": "Unique-asset training-index membership; source paths omitted."
+    },
+    {
+      "file": "research_data/realiad20/object/FIT_ONLY_STATISTICS.json",
+      "source_record": "FIT_ONLY_STATISTICS.json",
+      "source_sha256": "85fc57c191b10e4cc92a1ae8c82f1190a40c1adc64b46b6840e4900916b8b430",
+      "sha256": "54647533d0ee2220645f99c0426cafbe50d0c6a49bf86ded8e0968ce7a990e95",
+      "transformation": "Numerical FIT statistics; local path metadata omitted."
+    },
+    {
+      "file": "research_data/realiad20/regional_AP/annotation_metadata.json",
+      "source_record": "observations.json",
+      "source_sha256": "1a12e5bf396a520dc708fb8f884fdcd13db5eb97e02ea2eed4ef1d1b37ae2755",
+      "sha256": "c8149d006293d3fe4b154595c89a17a451436ae86184be5800e3490f15f7a37a",
+      "transformation": "Observation, annotation hash/name and grid metadata; normal observations use a zero mask; source paths omitted."
     }
   ]
 }
